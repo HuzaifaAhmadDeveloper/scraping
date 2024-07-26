@@ -7,13 +7,13 @@ const fs = require('fs');
     const page = await browser.newPage();
     
     // Navigate to the Engineering & Development category page
-    const url = 'https://www.producthunt.com/categories/engineering-development';
+    const url = 'https://www.producthunt.com/categories/a-b-testing';
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
     // Scrape the heading, paragraph content, and all product cards from the page
     const scrapedData = await page.evaluate(() => {
       // Selecting the heading and paragraph based on the provided structure
-      const headingElement = document.querySelector('a[href="/categories/engineering-development"]');
+      const headingElement = document.querySelector('a[href="/categories/a-b-testing"]');
       const paragraphElement = document.querySelector('p.font-light.text-light-gray');
 
       // Extracting the text content
@@ -63,9 +63,9 @@ ${scrapedData.productCards.map(card => `
     `;
 
     // Save the formatted data to a text file
-    fs.writeFileSync('index.txt', formattedData.trim());
+    fs.writeFileSync('ab_testing.txt', formattedData.trim());
 
-    console.log('Data saved to indexData.txt');
+    console.log('Data saved to ab_testing.txt');
 
     await browser.close();
   } catch (error) {

@@ -1,0 +1,64 @@
+Heading: No-code platforms
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: Framer — Design and ship your dream site with zero code
+  Description: A no-code platform to create responsive webpages with text, links, media, and incredible animations.
+  Image URL: https://ph-files.imgix.net/22023c3a-52cf-4320-b181-0b5894fc03ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 2
+  Title: Webflow — Create custom, responsive websites, visually
+  Description: Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers.
+  Image URL: https://ph-files.imgix.net/f6dcab85-5195-4a2b-ae33-7fee00608298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: Bubble — Build web apps without code, entirely visually
+  Description: Design, develop, and launch production-grade applications without code
+  Image URL: https://ph-files.imgix.net/9e0ee9b4-d147-4c63-9061-79061baa28f9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: Expo — An open-source platform for building native apps
+  Description: Build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase.
+  Image URL: https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: Zapier — Connect your apps and automate workflows
+  Description: Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.
+  Image URL: https://ph-files.imgix.net/9acdbce2-d993-489b-b6e3-afb817d04d0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: Cycle — Your feedback hub, on autopilot
+  Description: Cycle is the fastest way for your team to capture product feedback and share customer insights - without the busywork 👉 https://www.cycle.app
+  Image URL: https://ph-files.imgix.net/e58c5131-a65f-4287-aa49-b2fb3d105870.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 7
+  Title: FlutterFlow — Build cross-platform mobile apps visually
+  Description: Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.
+  Image URL: https://ph-files.imgix.net/9ee3d8b4-2c11-42d8-8020-1295e23ce929.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Xano — The fastest way to build and deploy a scalable backend
+  Description: Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.
+  Image URL: https://ph-files.imgix.net/a3b86949-5fa9-466e-9f8a-dd09be37762e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 9
+  Title: AWS Amplify — JavaScript library for app development using cloud services
+  Description: AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.
+  Image URL: https://ph-files.imgix.net/d9b33649-d11f-4464-aa5d-3f2e43bc7e24.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 10
+  Title: Retool — Build internal tools, remarkably fast
+  Description: An application development platform that enables developers to combine the benefits of traditional software development with a drag-and-drop UI editor and AI to build internal tools radically faster. Deploy it anywhere, connect to any internal service, import your libraries, debug with your toolchain, and share it securely to users to ensure good and well-governed software by default.
+  Image URL: https://ph-files.imgix.net/c6155af3-d909-4a4c-8226-894275d1bb7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop

@@ -1,0 +1,10 @@
+Heading: Standup bots
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: Standuply: Poll & Survey Scrum Bot — Project Management Assistant for Slack and MS Teams
+  Description: Standuply is the #1 Standup Bot. It runs asynchronous stand-up & retrospective meetings, Slack polls, and tracks team performance to automate your Agile processes.
+  Image URL: https://ph-files.imgix.net/d2e024f8-11f8-4993-8932-a2b5c3cca9e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop

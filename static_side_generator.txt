@@ -1,0 +1,64 @@
+Heading: Static site generators
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: ShipFast — Ship your startup in days, not weeks
+  Description: The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes.
+  Image URL: https://ph-files.imgix.net/7d6535a4-c2fe-4f75-a71e-e5bd5156b0c9.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 2
+  Title: Vite — Next Generation Frontend Tooling
+  Description: Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.
+  Image URL: https://ph-files.imgix.net/53213ebd-6c42-4ec4-839a-8d40a4206354.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: Nuxt — The Vue framework for web architects
+  Description: An open source framework to create performant and production-grade full-stack web apps and websites with confidence.
+  Image URL: https://ph-files.imgix.net/cf32e935-a497-4745-8430-8644aaf27107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: Cloudflare Pages — Build Fast Sites. In Record Time.
+  Description: Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+  Image URL: https://ph-files.imgix.net/7e4a4980-2139-420d-b490-62c9fe9a9270.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: Astro — The web framework that scales with you.
+  Description: Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.
+  Image URL: https://ph-files.imgix.net/6bad3f69-e994-422a-b532-569cbb4ee076.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: Cloudflare Workers — Your site. Our network.
+  Description: Build blazing fast websites by seamlessly deploying static assets alongside your APIs and application code.
+  Image URL: https://ph-files.imgix.net/976e559c-bfdc-4f4d-8b4a-a934e7aa81ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 7
+  Title: Shipixen — Create a blog & landing page in minutes
+  Description: Create a production-ready landing page & blog with your branding, theme & pages. You get the code & an SEO-optimized website so you can focus on building, not setting up.
+  Image URL: https://ph-files.imgix.net/fe2a44bd-b833-4212-bd7c-7c5e9b6f01b8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Eleventy — A simpler static site generator.
+  Description: A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML. Works with HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, and Pug.
+  Image URL: https://ph-files.imgix.net/d4ffdc41-1157-4e2f-a02e-c9cfda4acfb6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 9
+  Title: BoilerBay — Launch your dream project 10x faster
+  Description: The NextJS Starter Kit with everything you need to ship your product in days, not weeks. From idea to production 10x Faster.
+  Image URL: null
+
+
+  Rank: 10
+  Title: Startup Idea Tester — Test your idea in days not months
+  Description: Startup Idea Tester is here to revolutionize the way you validate your business ideas. Designed for founders with a lot of ideas, this powerful boilerplate allows you to focus on the marketing aspects and starting getting quickly emails with a waitlist system.
+  Image URL: https://ph-files.imgix.net/069dd336-4c9b-4450-bdc9-304e7c5681b2.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop

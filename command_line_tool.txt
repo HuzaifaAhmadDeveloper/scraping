@@ -1,0 +1,64 @@
+Heading: Command line tools
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: Vite — Next Generation Frontend Tooling
+  Description: Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.
+  Image URL: https://ph-files.imgix.net/53213ebd-6c42-4ec4-839a-8d40a4206354.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 2
+  Title: Rust — A high-level, safe and concurrent alternative to C++
+  Description: A blazingly fast and memory-efficient programming language with no runtime or garbage collector. It can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+  Image URL: https://ph-files.imgix.net/73e8b4ab-4112-4c4e-b475-e1c5923d01e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: Convex — A better type of backend
+  Description: Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.
+  Image URL: https://ph-files.imgix.net/6c17a03d-52c6-4c6a-b521-bf84de68591b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: Electron — platform desktop apps with JavaScript, HTML, and CSS
+  Description: 
+  Image URL: https://ph-files.imgix.net/d5a12d33-9700-47e4-90b9-24b07edbd05d.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: Astro — The web framework that scales with you.
+  Description: Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.
+  Image URL: https://ph-files.imgix.net/6bad3f69-e994-422a-b532-569cbb4ee076.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: Python Awesome — A nice collection of often useful awesome Python libraries.
+  Description: A nice collection of often useful awesome Python frameworks, libraries and software.
+  Image URL: https://ph-files.imgix.net/34177e7f-0f0d-4a4f-a872-65cbd506bae7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 7
+  Title: Go Language — Go is an open source programming language
+  Description: 
+  Image URL: https://ph-files.imgix.net/1c3afe83-3ee9-4725-b586-f38f9deb8e2b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Warp — The terminal for the 21st century
+  Description: Warp is a fast Rust-based terminal that’s easy to use and built for teams. 1) Commands and outputs are grouped like a data notebook 2) Input is a modern code-editor preconfigured with useful completions 3) Share outputs via links 4) Save and run team commands
+  Image URL: https://ph-files.imgix.net/02a2dbcc-3c93-40eb-85d9-2b5b77411b8c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 9
+  Title: T3 Stack, Next and React File Generator — Next.js with T3 Stack in VSCode: Effortless file generation.
+  Description: 🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.
+  Image URL: https://ph-files.imgix.net/326ef23f-183c-40fa-a8d9-67718e1386eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 10
+  Title: snap2txt — Convert your project into prompt
+  Description: snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.
+  Image URL: https://ph-files.imgix.net/5b8f843b-51e2-4482-8f9f-a0535151462a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop

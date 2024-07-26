@@ -1,0 +1,64 @@
+Heading: Website analytics
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: PostHog — The open source product OS
+  Description: Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products.
+  Image URL: https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 2
+  Title: Mixpanel — Event analytics everyone can use
+  Description: An event analytics platform that allows anyone to get answers from their customer and revenue data in seconds. It offers powerful real-time charts and visualizations of how people interact with your digital products and company.
+  Image URL: https://ph-files.imgix.net/6859e0cb-5118-4c0f-82d4-3c54bd4d7621.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: Plausible Analytics — Simple analytics for your website
+  Description: A privacy focused, open source alternative to Google Analytics that lets you measure your traffic and gives you 100% data ownership.
+  Image URL: https://ph-files.imgix.net/84db18d0-6f62-4d19-8afa-968ee4bc6751.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: June — The Simple Product Analytics App
+  Description: June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users
+  Image URL: https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: FullStory — Craft a more perfect digital experience
+  Description: FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.
+  Image URL: https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: UptimeRobot — Downtime Happens. Get Notified!
+  Description: An uptime monitoring service that helps users to get acknowledged of the downtimes of their websites/servers and also track the performance of them. It is actively used by 600,000+ users with much more number of monitors being checked regularly.
+  Image URL: https://ph-files.imgix.net/6536ab0a-00d3-4a66-af88-9438a4315831.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 7
+  Title: umami — A self-hosted alternative to Google Analytics
+  Description: Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions.
+  Image URL: https://ph-files.imgix.net/98e776ed-70e6-4294-bb2b-ef1dcf4f2896.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Metricool — Analyze, manage and measure your digital content
+  Description: All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. The ultimate tool for analysing, managing and measuring the success of all your digital content and campaigns. Free of charge. Complete. Intuitive.
+  Image URL: https://ph-files.imgix.net/b4426700-71f2-459e-87f3-206f3b9f6471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 9
+  Title: Ugly Duckling — Consistency on 𝕏 made easier.
+  Description: Ugly Duckling is a simple and affordable analytics tool that helps you stay consistent and grow on X. The first version of Ugly Duckling, a Chrome extension, received a warm reception from the community and garnered over 100 daily active users now makes a comeback as a web application with new sharing features, beautiful charts and community leaderboard.
+  Image URL: https://ph-files.imgix.net/f026c8ee-75a2-44de-afa4-684be5c68bdc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 10
+  Title: Hotjar — For digital experiences people love
+  Description: Hotjar’s visual insights, user feedback, and live interviews show you what site visitors do, and why they do it. Access all the insights you need in one place and join 1.1 million websites in 180+ countries who already use Hotjar to turn their clicks into conversions. Install a single script and get started for free.
+  Image URL: https://ph-files.imgix.net/37e6cecb-760f-45e6-95e0-b1a5dbd1f1d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop

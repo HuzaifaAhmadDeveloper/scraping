@@ -1,0 +1,64 @@
+Heading: Engineering & Development
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: Supabase — The open source Firebase alternative
+  Description: Supabase is an open-source backend-as-a-service that provides real-time databases, authentication, and API services. It enables developers to build and scale applications quickly without managing server infrastructure.
+  Image URL: https://ph-files.imgix.net/b9c546be-a73d-49be-84ac-92a774a5edfc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 2
+  Title: Vercel — Seamless hosting for frontend developers
+  Description: Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.
+  Image URL: https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: GitHub — How people build software
+  Description: GitHub is a development platform inspired by the way you work.
+  Image URL: https://ph-files.imgix.net/c17453f9-e544-4e6a-86b0-4027cf710cf5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: Firebase — An app development platform backed by Google
+  Description: An app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
+  Image URL: https://ph-files.imgix.net/cd6a3077-007d-4d68-a516-c8414b11bec8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: Framer — Design and ship your dream site with zero code
+  Description: A no-code platform to create responsive webpages with text, links, media, and incredible animations.
+  Image URL: https://ph-files.imgix.net/22023c3a-52cf-4320-b181-0b5894fc03ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: Next.js — Create web applications with the power of React components
+  Description: The React framework for production. Next.js provides zero-configuration automatic code splitting, filesystem based routing, hot code reloading and universal rendering.
+  Image URL: https://ph-files.imgix.net/76710619-0e0c-4456-918d-f5f2cb58e1cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 7
+  Title: Render — Build, deploy, and scale your apps with unparalleled ease
+  Description: A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
+  Image URL: https://ph-files.imgix.net/dad82f7b-d369-4e42-8e08-8759a5c35d7c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Google Cloud Platform — A suite of cloud computing services by Google
+  Description: Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.
+  Image URL: https://ph-files.imgix.net/2df0eb38-7b7e-48a7-80d9-05c57b48d3d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 9
+  Title: PostHog — The open source product OS
+  Description: Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products.
+  Image URL: https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 10
+  Title: Linear — Manage software development and track bugs
+  Description: Manage software development and track bugs. Linear's streamlined design is built for speed and efficiency to help high performing teams accomplish great things.
+  Image URL: https://ph-files.imgix.net/e2a98636-71d2-4989-abf6-acefe8584e17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
