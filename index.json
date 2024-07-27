@@ -40,7 +40,7 @@
     },
     {
       "rank": "7",
-      "imageUrl": "https://ph-files.imgix.net/dad82f7b-d369-4e42-8e08-8759a5c35d7c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "imageUrl": "https://ph-files.imgix.net/c5755a02-777d-4baf-a7d0-c5654511ef36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
       "title": "Render — Build, deploy, and scale your apps with unparalleled ease",
       "description": "A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git."
     },
@@ -58,9 +58,549 @@
     },
     {
       "rank": "10",
+      "imageUrl": "https://ph-files.imgix.net/88bee7a4-63c1-433f-b2e8-a104fd862e20.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Flutter — Build apps on iOS, Android, and web from a single codebase",
+      "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase."
+    },
+    {
+      "rank": "11",
       "imageUrl": "https://ph-files.imgix.net/e2a98636-71d2-4989-abf6-acefe8584e17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
       "title": "Linear — Manage software development and track bugs",
       "description": "Manage software development and track bugs. Linear's streamlined design is built for speed and efficiency to help high performing teams accomplish great things."
+    },
+    {
+      "rank": "12",
+      "imageUrl": "https://ph-files.imgix.net/f6dcab85-5195-4a2b-ae33-7fee00608298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Webflow — Create custom, responsive websites, visually",
+      "description": "Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers."
+    },
+    {
+      "rank": "13",
+      "imageUrl": "https://ph-files.imgix.net/829bdf09-bf73-4976-ae80-8eb1ec6b455d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Tailwind CSS — A utility-first CSS framework for rapid UI development",
+      "description": "A highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override."
+    },
+    {
+      "rank": "14",
+      "imageUrl": "https://ph-files.imgix.net/6859e0cb-5118-4c0f-82d4-3c54bd4d7621.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Mixpanel — Event analytics everyone can use",
+      "description": "An event analytics platform that allows anyone to get answers from their customer and revenue data in seconds. It offers powerful real-time charts and visualizations of how people interact with your digital products and company."
+    },
+    {
+      "rank": "15",
+      "imageUrl": "https://ph-files.imgix.net/e166b73e-887d-4ab8-ac43-483c0a0f14ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "PostgreSQL — A powerful, open source object-relational database system",
+      "description": "An open source, object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance."
+    },
+    {
+      "rank": "16",
+      "imageUrl": "https://ph-files.imgix.net/a95ffb3c-476e-4eea-9349-c39ec9e1744c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "OpenAI Assistants API — Designed to help developers build powerful AI assistants",
+      "description": "The Assistants API is designed to help developers build powerful AI assistants capable of performing a variety of tasks."
+    },
+    {
+      "rank": "17",
+      "imageUrl": "https://ph-files.imgix.net/7d6535a4-c2fe-4f75-a71e-e5bd5156b0c9.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "ShipFast — Ship your startup in days, not weeks",
+      "description": "The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes."
+    },
+    {
+      "rank": "18",
+      "imageUrl": "https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Tinybird — Turn raw data into realtime API at scale",
+      "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it."
+    },
+    {
+      "rank": "19",
+      "imageUrl": "https://ph-files.imgix.net/7a01a00b-d41d-4367-b44e-e1d0a672819b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Stripe — Financial infrastructure for the internet",
+      "description": "Accept payments, send payouts, automate financial processes, and ultimately grow revenue."
+    },
+    {
+      "rank": "20",
+      "imageUrl": "https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Upstash — Serverless data platform for Redis and Kafka",
+      "description": "Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions."
+    },
+    {
+      "rank": "21",
+      "imageUrl": "https://ph-files.imgix.net/dcd7544f-1c99-42be-be2b-e0cc80c463b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Ruby on Rails — A full-stack framework to build amazing web apps",
+      "description": "Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more."
+    },
+    {
+      "rank": "22",
+      "imageUrl": "https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Expo — An open-source platform for building native apps",
+      "description": "Build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
+    },
+    {
+      "rank": "23",
+      "imageUrl": "https://ph-files.imgix.net/db4ba1a3-da45-4435-b285-ca59047141e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "DigitalOcean — A cloud platform to deploy, manage & scale apps of any size",
+      "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before."
+    },
+    {
+      "rank": "24",
+      "imageUrl": "https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Clerk — An authentication and user management platform",
+      "description": "A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users."
+    },
+    {
+      "rank": "25",
+      "imageUrl": "https://ph-files.imgix.net/78fdfd18-f459-47df-870a-e3e17b6bdd40.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "React — The library for web and native user interfaces",
+      "description": "A free and open-source front-end JavaScript library for building user interfaces based on components."
+    },
+    {
+      "rank": "26",
+      "imageUrl": "https://ph-files.imgix.net/04da03de-e75f-4453-acf2-39ba73b7c2d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Prisma — Turn your database into a GraphQL API",
+      "description": "Prisma is a realtime GraphQL database layer. Connect directly from the frontend or build your own GraphQL server. - Compatible with existing tooling - Powerful GraphQL API - Runs everywhere"
+    },
+    {
+      "rank": "27",
+      "imageUrl": "https://ph-files.imgix.net/a3b86949-5fa9-466e-9f8a-dd09be37762e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "Xano — The fastest way to build and deploy a scalable backend",
+      "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere."
+    },
+    {
+      "rank": "28",
+      "imageUrl": "https://ph-files.imgix.net/f01f527e-e5f9-4822-8f11-bfac2ed71eb8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Remotion — Create videos programmatically",
+      "description": "Make real MP4 videos written in React using CSS, SVG, and WebGL to make interesting motion graphics. Use programming to dynamically make different variants of videos and automate it using server-side rendering."
+    },
+    {
+      "rank": "29",
+      "imageUrl": "https://ph-files.imgix.net/a34b17cd-6269-42b7-bd6f-8474f59fd6e7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "PlanetScale — The ultimate MySQL database platform",
+      "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience."
+    },
+    {
+      "rank": "30",
+      "imageUrl": "https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "June — The Simple Product Analytics App",
+      "description": "June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users"
+    },
+    {
+      "rank": "31",
+      "imageUrl": "https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cloudflare — The web performance & security company",
+      "description": "Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence."
+    },
+    {
+      "rank": "32",
+      "imageUrl": "https://ph-files.imgix.net/6a207629-0ead-4a58-a19f-08202364b249.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Tiptap — Developer toolkit for building collaborative apps",
+      "description": "A suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs."
+    },
+    {
+      "rank": "33",
+      "imageUrl": "https://ph-files.imgix.net/8fd47ed2-7e09-42c0-8a09-9e66744ab17d.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Laravel Framework — The PHP Framework for Web Artisans",
+      "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things."
+    },
+    {
+      "rank": "34",
+      "imageUrl": "https://ph-files.imgix.net/9e0ee9b4-d147-4c63-9061-79061baa28f9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Bubble — Build web apps without code, entirely visually",
+      "description": "Design, develop, and launch production-grade applications without code"
+    },
+    {
+      "rank": "35",
+      "imageUrl": "https://ph-files.imgix.net/c07d85e1-8ac0-4793-8cc5-3b413644371d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Xcode — Develop, test, and distribute apps for all Apple platforms",
+      "description": "Code and design your apps faster with enhanced code completion, interactive previews, and live animations. Use Git staging to craft your next commit without leaving your code. Explore and diagnose your test results with redesigned test reports with video recording. And start deploying seamlessly to TestFlight and the App Store from Xcode Cloud. Creating amazing apps has never been easier."
+    },
+    {
+      "rank": "36",
+      "imageUrl": "https://ph-files.imgix.net/a87b4a30-b9bf-4b17-bbec-79d55ef82670.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Resend — Email for developers",
+      "description": "Build, test, and send transactional emails at scale. Resend provides the best developer experience helping you reach users instead of spam folders."
+    },
+    {
+      "rank": "37",
+      "imageUrl": "https://ph-files.imgix.net/a91a21ee-1d99-4713-87a9-7466c778feb9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "JetBrains — A suite of intelligent development tools",
+      "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration."
+    },
+    {
+      "rank": "38",
+      "imageUrl": "https://ph-files.imgix.net/893eb4e0-61dd-4ee2-9f06-7db129d7582a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "replicate — source machine learning models with a cloud API",
+      "description": ""
+    },
+    {
+      "rank": "39",
+      "imageUrl": "https://ph-files.imgix.net/ea1c7b5e-0f17-46b4-aff7-64a9bbf538f1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Appwrite — 100% open source alternative for Firebase",
+      "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities."
+    },
+    {
+      "rank": "40",
+      "imageUrl": "https://ph-files.imgix.net/2244b16a-9d2e-4330-b432-3653fb1eb467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Amazon Web Services — Virtual private server and web hosting-Amazon Lightsail",
+      "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices."
+    },
+    {
+      "rank": "41",
+      "imageUrl": "https://ph-files.imgix.net/a32a6a01-1bfe-49df-b196-b9cc342c5175.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "VS Code — Microsoft Visual Studio Code lets you build and debug apps",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications."
+    },
+    {
+      "rank": "42",
+      "imageUrl": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Netlify — The composable platform for modern sites, stores, and apps.",
+      "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt."
+    },
+    {
+      "rank": "43",
+      "imageUrl": "https://ph-files.imgix.net/cf32e935-a497-4745-8430-8644aaf27107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Nuxt — The Vue framework for web architects",
+      "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence."
+    },
+    {
+      "rank": "44",
+      "imageUrl": "https://ph-files.imgix.net/f2fe3365-9ba8-498a-b1fe-e74bbd5b425e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Trigger.dev — The open source background jobs framework",
+      "description": "Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays."
+    },
+    {
+      "rank": "45",
+      "imageUrl": "https://ph-files.imgix.net/73e8b4ab-4112-4c4e-b475-e1c5923d01e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Rust — A high-level, safe and concurrent alternative to C++",
+      "description": "A blazingly fast and memory-efficient programming language with no runtime or garbage collector. It can power performance-critical services, run on embedded devices, and easily integrate with other languages."
+    },
+    {
+      "rank": "46",
+      "imageUrl": "https://ph-files.imgix.net/7e4a4980-2139-420d-b490-62c9fe9a9270.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cloudflare Pages — Build Fast Sites. In Record Time.",
+      "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites."
+    },
+    {
+      "rank": "47",
+      "imageUrl": "https://ph-files.imgix.net/84db18d0-6f62-4d19-8afa-968ee4bc6751.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Plausible Analytics — Simple analytics for your website",
+      "description": "A privacy focused, open source alternative to Google Analytics that lets you measure your traffic and gives you 100% data ownership."
+    },
+    {
+      "rank": "48",
+      "imageUrl": "https://ph-files.imgix.net/2b68d04c-43ea-4ab2-9e67-3186b149bd8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Remix — Next gen full stack web framework",
+      "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience."
+    },
+    {
+      "rank": "49",
+      "imageUrl": "https://ph-files.imgix.net/abd04bbd-8c76-464e-bdc3-77b5e80e0649.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "Hasura — Instant GraphQL on all your data",
+      "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs."
+    },
+    {
+      "rank": "50",
+      "imageUrl": "https://ph-files.imgix.net/c60d78df-e572-4765-803b-d0a08c7ed6fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Swift — An open-source programming language by Apple",
+      "description": "A general-purpose programming language that’s approachable for newcomers and powerful for experts. It is fast, modern, safe, and a joy to write."
+    },
+    {
+      "rank": "51",
+      "imageUrl": "https://ph-files.imgix.net/6c17a03d-52c6-4c6a-b521-bf84de68591b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Convex — A better type of backend",
+      "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search."
+    },
+    {
+      "rank": "52",
+      "imageUrl": "https://ph-files.imgix.net/294de8fd-676b-423a-b8d3-b957fd521e68.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "JIRA — How teams do great",
+      "description": "Create and track feedback for Atlassian products."
+    },
+    {
+      "rank": "53",
+      "imageUrl": "https://ph-files.imgix.net/9acdbce2-d993-489b-b6e3-afb817d04d0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Zapier — Connect your apps and automate workflows",
+      "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster."
+    },
+    {
+      "rank": "54",
+      "imageUrl": "https://ph-files.imgix.net/e0c7c876-e044-409e-81ff-6fc008a70415.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "MongoDB — The database for modern applications.",
+      "description": "MongoDB Inc. is an American software company that develops and provides commercial support for the open source database MongoDB, a NoSQL database that stores data in JSON-like documents with flexible schemas."
+    },
+    {
+      "rank": "55",
+      "imageUrl": "https://ph-files.imgix.net/cdb23f26-b385-4854-a005-3862be50f79e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "GitHub Copilot Chat — AI chat features powered by Copilot",
+      "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code."
+    },
+    {
+      "rank": "56",
+      "imageUrl": "https://ph-files.imgix.net/24a944d4-ad23-4fcc-93a6-018fad330b9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Dokin — Sync live data from apps in Sheets, Slides, and Docs",
+      "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code."
+    },
+    {
+      "rank": "57",
+      "imageUrl": "https://ph-files.imgix.net/d4cef792-1de7-4e96-a26a-3eb34b08d2ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "ClickHouse — An open-source database built for speed and scale",
+      "description": "An open-source column-oriented database management system that allows generating analytical data reports in real-time."
+    },
+    {
+      "rank": "58",
+      "imageUrl": "https://ph-files.imgix.net/53213ebd-6c42-4ec4-839a-8d40a4206354.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Vite — Next Generation Frontend Tooling",
+      "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets."
+    },
+    {
+      "rank": "59",
+      "imageUrl": "https://ph-files.imgix.net/9daaf207-c6d7-49b5-a55f-706a5d5abffd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "FastAPI — A modern, fast web framework for building APIs with Python",
+      "description": "A high performance, easy to learn, fast to code, and ready for production framework"
+    },
+    {
+      "rank": "60",
+      "imageUrl": "https://ph-files.imgix.net/71819a7f-095c-4668-b288-1b433984bf35.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Flatfile — Extensible API + event based platform for data-file import",
+      "description": "The Flatfile Data Exchange Platform provides developers an easy, fast, and secure way to build your ideal solution for importing CSV, Excel, or other data-files, without compromising on flexibility. With our API-first, event-driven architecture developers can build fully customizable, powerful workflows that address any file-based import use case, combined with a highly intuitive experience designed for end-users. See the magic of Flatfile for yourself and get started today, it’s free!"
+    },
+    {
+      "rank": "61",
+      "imageUrl": "https://ph-files.imgix.net/e7891aa5-d7bc-4241-82d5-60bffa53d148.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "Svix — Webhooks as a service",
+      "description": "Build a secure, reliable, and scalable webhook sending platform"
+    },
+    {
+      "rank": "62",
+      "imageUrl": "https://ph-files.imgix.net/6c80b7b1-050d-45b3-afad-2b94cdddbf01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Pinecone — Long-term memory for AI",
+      "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles."
+    },
+    {
+      "rank": "63",
+      "imageUrl": "https://ph-files.imgix.net/0643ccd3-579d-4a56-bdbb-17e68793ab86.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "vscode.dev — Bringing VS Code to the browser",
+      "description": "Now when you go to https://vscode.dev, you'll be presented with a lightweight version of VS Code running fully in the browser. Open a folder on your local machine and start coding. No install required."
+    },
+    {
+      "rank": "64",
+      "imageUrl": "https://ph-files.imgix.net/ffb82f9d-697d-4b9f-8c05-5a5c34b39af5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Telegram 4.7 — Cloud-based, secure messaging app",
+      "description": "Telegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service."
+    },
+    {
+      "rank": "65",
+      "imageUrl": "https://ph-files.imgix.net/8e6f4db6-6438-4413-b6d5-e3b9a560c438.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Modal — The serverless platform for AI, ML & data teams.",
+      "description": "Run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure."
+    },
+    {
+      "rank": "66",
+      "imageUrl": "https://ph-files.imgix.net/2ac7c08f-c516-447a-9439-759ffb4fe184.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Infisical — Helping dev teams sync environment variables",
+      "description": "A simple, end-to-end encrypted platform that enables Node.js teams to sync and manage their environment variables. Developers can modify start/dev scripts to pull and inject environment variables into local environments with 1 line of code."
+    },
+    {
+      "rank": "67",
+      "imageUrl": "https://ph-files.imgix.net/ac301ed1-8308-469d-841b-2eb5765021eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "DataBricks — Simplify big data and AI",
+      "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products."
+    },
+    {
+      "rank": "68",
+      "imageUrl": "https://ph-files.imgix.net/6bad3f69-e994-422a-b532-569cbb4ee076.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Astro — The web framework that scales with you.",
+      "description": "Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between."
+    },
+    {
+      "rank": "69",
+      "imageUrl": "https://ph-files.imgix.net/32c58a09-b2a0-4669-ab9e-d31ce9e44ff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Docker — Accelerate how you build, share, and run applications",
+      "description": "Build, share, run, and verify applications anywhere without tedious environment configuration or management."
+    },
+    {
+      "rank": "70",
+      "imageUrl": "https://ph-files.imgix.net/a46e2608-8f72-4a89-82e0-abbe70f10f83.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "AWS Lambda — An event-driven, serverless computing platform",
+      "description": "A compute service that runs your code in response to events and automatically manages the compute resources, making it the fastest way to turn an idea into a modern, production, serverless applications."
+    },
+    {
+      "rank": "71",
+      "imageUrl": "https://ph-files.imgix.net/3558a5ca-e9a0-4ff2-a48c-e88adf779f1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "React Native — A framework for building native apps using React",
+      "description": "Create native apps for Android, iOS, and more using React."
+    },
+    {
+      "rank": "72",
+      "imageUrl": "https://ph-files.imgix.net/eab801a9-fe40-4f01-a30d-37472d9bc2e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Neon — Serverless Postgres: Now Generally Available",
+      "description": "Neon reimagines Postgres with a serverless architecture. With a generous free tier, scale-to-zero, and true database branching. Copy data and schema in a second and scale resources automatically. Ideal for developers prioritizing scalability and performance."
+    },
+    {
+      "rank": "73",
+      "imageUrl": "https://ph-files.imgix.net/2ab7f7fe-5ec4-440a-9d39-d1541d7719c3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Svelte — Cybernetically enhanced web apps",
+      "description": "A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM."
+    },
+    {
+      "rank": "74",
+      "imageUrl": "https://ph-files.imgix.net/2e9f665f-0ebf-48ff-a480-fbc6f2fde304.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Airbyte — Open-source data integration",
+      "description": "An open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases."
+    },
+    {
+      "rank": "75",
+      "imageUrl": "https://ph-files.imgix.net/fcde694f-6982-4d00-864c-a3c180203ab6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Memberstack — Authentication & Payments for Webflow. Total design freedom.",
+      "description": "Memberstack empowers you to build anything - from gated blogs, to social media platforms - all using Memberstack & Webflow (or, whatever else you use to build sites & apps). Over 3,000 companies like Slack, Reddit, and American Airlines use Memberstack to build scalable, custom membership experiences. You can build everything you need without coding - but, you can also incorporate your own code into your projects and scale with Memberstack to a full-blown react application."
+    },
+    {
+      "rank": "76",
+      "imageUrl": "https://ph-files.imgix.net/cebcb818-90c0-494a-965f-c0a08c4511ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Weaviate — The AI-native database for a new generation of software",
+      "description": "The AI-native database for a new generation of software. Store and retrieve data objects and vector embeddings. Seamlessly connect to your favorite ML models. And build intuitive, reliable AI applications that scale."
+    },
+    {
+      "rank": "77",
+      "imageUrl": "https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "FullStory — Craft a more perfect digital experience",
+      "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more."
+    },
+    {
+      "rank": "78",
+      "imageUrl": "https://ph-files.imgix.net/d9b33649-d11f-4464-aa5d-3f2e43bc7e24.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "AWS Amplify — JavaScript library for app development using cloud services",
+      "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library."
+    },
+    {
+      "rank": "79",
+      "imageUrl": "https://ph-files.imgix.net/b19e5b73-e135-4923-b36c-1f97a13642fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Radix UI — Open-source UI components for building accessible web apps",
+      "description": "A suite of open-source projects for building high-quality, accessible web apps and design systems."
+    },
+    {
+      "rank": "80",
+      "imageUrl": "https://ph-files.imgix.net/03b893f5-886d-43ec-977e-5e05e0f6f104.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Gitea — Painless self-hosted all-in-one software development service",
+      "description": "Git hosting, code review, team collaboration, package registry, and CI/CD."
+    },
+    {
+      "rank": "81",
+      "imageUrl": "https://ph-files.imgix.net/72dfe2ac-646f-44a8-9a6d-5d8097ccc835.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "Albato — A no-code platform for all automations",
+      "description": "Integrate your applications into automated workflows using a no code builder."
+    },
+    {
+      "rank": "82",
+      "imageUrl": "https://ph-files.imgix.net/197f2704-229a-4a91-b9d7-10364042b31e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Sentry — Application monitoring and error tracking software",
+      "description": "Self-hosted and cloud-based application monitoring that helps software teams see clearer, solve quicker, & learn continuously."
+    },
+    {
+      "rank": "83",
+      "imageUrl": "https://ph-files.imgix.net/37abd321-bdbe-4e17-bb77-e97b9ed20842.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "NestJS — Building efficient, reliable and server-side applications.",
+      "description": "NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Pr..."
+    },
+    {
+      "rank": "84",
+      "imageUrl": "https://ph-files.imgix.net/34177e7f-0f0d-4a4f-a872-65cbd506bae7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Python Awesome — A nice collection of often useful awesome Python libraries.",
+      "description": "A nice collection of often useful awesome Python frameworks, libraries and software."
+    },
+    {
+      "rank": "85",
+      "imageUrl": "https://ph-files.imgix.net/1c3afe83-3ee9-4725-b586-f38f9deb8e2b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Go Language — Go is an open source programming language",
+      "description": ""
+    },
+    {
+      "rank": "86",
+      "imageUrl": "https://ph-files.imgix.net/33bbc115-24f5-4c27-adb2-ef011c50b576.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Make — Design, build and automate your work",
+      "description": "A visual platform for anyone to design, build, and automate anything—from tasks and workflows to apps and systems—without coding."
+    },
+    {
+      "rank": "87",
+      "imageUrl": "https://ph-files.imgix.net/afa0d0ae-7cbb-46ec-869b-892d991b120a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "WorkOS — Your app, Enterprise Ready",
+      "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today."
+    },
+    {
+      "rank": "88",
+      "imageUrl": "https://ph-files.imgix.net/67d208df-3f6c-4f9f-85cd-228ed4b45c8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "AWS — AWS offers reliable, scalable, and inexpensive cloud.",
+      "description": ""
+    },
+    {
+      "rank": "89",
+      "imageUrl": "https://ph-files.imgix.net/976e559c-bfdc-4f4d-8b4a-a934e7aa81ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cloudflare Workers — Your site. Our network.",
+      "description": "Build blazing fast websites by seamlessly deploying static assets alongside your APIs and application code."
+    },
+    {
+      "rank": "90",
+      "imageUrl": "https://ph-files.imgix.net/3f03bdd9-7d1c-49a6-850a-4ec844fdc9ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "ToDesktop — Convert your web app to a desktop app in 2 minutes",
+      "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality."
+    },
+    {
+      "rank": "91",
+      "imageUrl": "https://ph-files.imgix.net/93fde99f-43bd-4474-8f05-affec4292d47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Buf — A new way of working with Protocol Buffers",
+      "description": "Your organization should not have to reinvent the wheel to use Protobuf efficiently and effectively. Stop worrying about your Protobuf management strategy getting out of control. We'll handle that for you, so you can worry about what matters."
+    },
+    {
+      "rank": "92",
+      "imageUrl": "https://ph-files.imgix.net/437602fd-635f-4367-b497-ce5ebdcd7471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Stytch — User infrastructure for modern applications",
+      "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless."
+    },
+    {
+      "rank": "93",
+      "imageUrl": "https://ph-files.imgix.net/78eabb8b-7ef3-4bbb-98f0-e6cadb155b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Relay.app — The new standard for automation",
+      "description": "Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features."
+    },
+    {
+      "rank": "94",
+      "imageUrl": "https://ph-files.imgix.net/96034044-b256-4eff-9a6e-551b78203862.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Tailwind UI — Beautiful UI components, by the creators of Tailwind CSS",
+      "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS."
+    },
+    {
+      "rank": "95",
+      "imageUrl": "https://ph-files.imgix.net/927733c0-76ff-402b-af77-e09cbd88f1cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cursor Copilot++ — Autocomplete redesigned to predict your next edit",
+      "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making."
+    },
+    {
+      "rank": "96",
+      "imageUrl": "https://ph-files.imgix.net/99901859-6f81-4d81-b7a0-40dce2644641.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "Circle — The all-in-one community platform for creators",
+      "description": "Bring together your discussions, memberships, and content. Integrate a thriving community wherever your audience is, all under your own brand."
+    },
+    {
+      "rank": "97",
+      "imageUrl": "https://ph-files.imgix.net/c9931fda-0158-439a-b48f-bbc9ed1a5ddc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cloudflare Vectorize · Vectorize v1 — Fast, efficient vector database on the edge.",
+      "description": ""
+    },
+    {
+      "rank": "98",
+      "imageUrl": "https://ph-files.imgix.net/e58c5131-a65f-4287-aa49-b2fb3d105870.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cycle — Your feedback hub, on autopilot",
+      "description": "Cycle is the fastest way for your team to capture product feedback and share customer insights - without the busywork 👉 https://www.cycle.app"
+    },
+    {
+      "rank": "99",
+      "imageUrl": "https://ph-files.imgix.net/67782944-2d34-4058-b46d-d64dd92c1f24.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "QuickNode — The Blockchain development platform",
+      "description": "A Web3 infrastructure platform helping developers & businesses build, launch, and scale blockchain-powered applications."
+    },
+    {
+      "rank": "100",
+      "imageUrl": "https://ph-files.imgix.net/9ee3d8b4-2c11-42d8-8020-1295e23ce929.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "FlutterFlow — Build cross-platform mobile apps visually",
+      "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code."
     }
   ]
 }
