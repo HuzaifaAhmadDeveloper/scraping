@@ -1,4 +1,8 @@
 const puppeteer = require('puppeteer');
+const fs = require('fs');
+const path = require('path');
+const axios = require('axios');
+require('dotenv').config({ path: './.env.local' });
 
 (async () => {
   try {
@@ -22,9 +26,31 @@ const puppeteer = require('puppeteer');
 
     // Scrape subcategory URLs
     const subcategories = await scrapeSubcategoryUrls();
-
-    // Display the subcategory URLs
     console.log('Subcategory URLs:', subcategories);
+
+    if (subcategories.length === 0) {
+      console.error('No subcategories found. Please check the selector and the HTML structure.');
+    }
+
+    // Load product data from JSON file
+    const productData = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'index.json'), 'utf8'));
+    const subcategoriesData = JSON.parse(fs.readFileSync(path.join(__dirname, 'data', 'subcategories.json'), 'utf8'));
+
+    // Function to insert data into the database using the API endpoint
+    const insertData = async (data, type) => {
+      try {
+        const response = await axios.post(`http://localhost:3000/api/insertData`, { data, type });
+        console.log(`Data inserted successfully (${type}):`, response.data);
+      } catch (error) {
+        console.error('Error inserting data:', error.response ? error.response.data : error.message);
+      }
+    };
+
+    // Insert product data
+    await insertData(productData, 'products');
+
+    // Insert subcategories data
+    await insertData(subcategoriesData, 'subcategories');
 
     await browser.close();
   } catch (error) {
