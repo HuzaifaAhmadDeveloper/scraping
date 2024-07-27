@@ -1,0 +1,66 @@
+{
+  "heading": "Code editors",
+  "paragraph": "Tried, tested, and reviewed by the community",
+  "productCards": [
+    {
+      "rank": "1",
+      "imageUrl": "https://ph-files.imgix.net/c07d85e1-8ac0-4793-8cc5-3b413644371d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Xcode — Develop, test, and distribute apps for all Apple platforms",
+      "description": "Code and design your apps faster with enhanced code completion, interactive previews, and live animations. Use Git staging to craft your next commit without leaving your code. Explore and diagnose your test results with redesigned test reports with video recording. And start deploying seamlessly to TestFlight and the App Store from Xcode Cloud. Creating amazing apps has never been easier."
+    },
+    {
+      "rank": "2",
+      "imageUrl": "https://ph-files.imgix.net/8fd47ed2-7e09-42c0-8a09-9e66744ab17d.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Laravel Framework — The PHP Framework for Web Artisans",
+      "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things."
+    },
+    {
+      "rank": "3",
+      "imageUrl": "https://ph-files.imgix.net/a91a21ee-1d99-4713-87a9-7466c778feb9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "JetBrains — A suite of intelligent development tools",
+      "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration."
+    },
+    {
+      "rank": "4",
+      "imageUrl": "https://ph-files.imgix.net/cdb23f26-b385-4854-a005-3862be50f79e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "GitHub Copilot Chat — AI chat features powered by Copilot",
+      "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code."
+    },
+    {
+      "rank": "5",
+      "imageUrl": "https://ph-files.imgix.net/a32a6a01-1bfe-49df-b196-b9cc342c5175.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "VS Code — Microsoft Visual Studio Code lets you build and debug apps",
+      "description": "Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications."
+    },
+    {
+      "rank": "6",
+      "imageUrl": "https://ph-files.imgix.net/73e8b4ab-4112-4c4e-b475-e1c5923d01e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Rust — A high-level, safe and concurrent alternative to C++",
+      "description": "A blazingly fast and memory-efficient programming language with no runtime or garbage collector. It can power performance-critical services, run on embedded devices, and easily integrate with other languages."
+    },
+    {
+      "rank": "7",
+      "imageUrl": "https://ph-files.imgix.net/0643ccd3-579d-4a56-bdbb-17e68793ab86.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "vscode.dev — Bringing VS Code to the browser",
+      "description": "Now when you go to https://vscode.dev, you'll be presented with a lightweight version of VS Code running fully in the browser. Open a folder on your local machine and start coding. No install required."
+    },
+    {
+      "rank": "8",
+      "imageUrl": "https://ph-files.imgix.net/34177e7f-0f0d-4a4f-a872-65cbd506bae7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Python Awesome — A nice collection of often useful awesome Python libraries.",
+      "description": "A nice collection of often useful awesome Python frameworks, libraries and software."
+    },
+    {
+      "rank": "9",
+      "imageUrl": "https://ph-files.imgix.net/1c3afe83-3ee9-4725-b586-f38f9deb8e2b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Go Language — Go is an open source programming language",
+      "description": ""
+    },
+    {
+      "rank": "10",
+      "imageUrl": "https://ph-files.imgix.net/5e384dcc-8e07-4d0a-93b6-720c0bb005b6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Zed — Code at the speed of thought",
+      "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter."
+    }
+  ]
+}

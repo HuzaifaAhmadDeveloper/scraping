@@ -1,0 +1,66 @@
+{
+  "heading": "AI coding assistants",
+  "paragraph": "Tried, tested, and reviewed by the community",
+  "productCards": [
+    {
+      "rank": "1",
+      "imageUrl": "https://ph-files.imgix.net/a91a21ee-1d99-4713-87a9-7466c778feb9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "JetBrains — A suite of intelligent development tools",
+      "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration."
+    },
+    {
+      "rank": "2",
+      "imageUrl": "https://ph-files.imgix.net/cdb23f26-b385-4854-a005-3862be50f79e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "GitHub Copilot Chat — AI chat features powered by Copilot",
+      "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code."
+    },
+    {
+      "rank": "3",
+      "imageUrl": "https://ph-files.imgix.net/043ab050-9dff-4bb2-bff0-f6645ba07a58.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Groq Chat — An LPU inference engine",
+      "description": "A new type of end-to-end processing unit system that provides the fastest inference for computationally intensive applications with a sequential component to them, such as AI language applications (LLMs)"
+    },
+    {
+      "rank": "4",
+      "imageUrl": "https://ph-files.imgix.net/96ea26ff-b99f-442d-aad9-49c3a4a6d433.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "ggml — ML tensor library to enable LLMs on consumer hardware",
+      "description": ""
+    },
+    {
+      "rank": "5",
+      "imageUrl": "https://ph-files.imgix.net/927733c0-76ff-402b-af77-e09cbd88f1cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Cursor Copilot++ — Autocomplete redesigned to predict your next edit",
+      "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making."
+    },
+    {
+      "rank": "6",
+      "imageUrl": "https://ph-files.imgix.net/1f84350b-c1ce-4670-ba12-642be36da364.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Dify.AI — Open-source platform for LLMOps,Define your AI-native Apps",
+      "description": "Dify.AI is an open-source platform for LLMOpsIt offers visual management of prompts, operations, and datasets. Create an AI app in minutes or integrate LLM into your app for continuous improvement."
+    },
+    {
+      "rank": "7",
+      "imageUrl": "https://ph-files.imgix.net/4351458f-922c-4c5c-acb3-2a0e2dfc9edf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Continue — Continue enables you to create your own AI code assistant",
+      "description": "Continue enables you to create your own AI code assistant inside your IDE. Keep your developers in flow with open-source VS Code and JetBrains extensions that can be connected to any model, any context, and anything else you need"
+    },
+    {
+      "rank": "8",
+      "imageUrl": "https://ph-files.imgix.net/9a61a5f2-5dd2-492c-ae2a-5fdafe0d9c82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Langfuse — Open Source LLM Engineering Platform",
+      "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse"
+    },
+    {
+      "rank": "9",
+      "imageUrl": "https://ph-files.imgix.net/1f885b01-0d52-48b7-a8af-74b4dac2b6b4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "LocalizeBot — Translate iOS app In 1 click",
+      "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata."
+    },
+    {
+      "rank": "10",
+      "imageUrl": "https://ph-files.imgix.net/004c521d-0849-482c-bdbf-92e6615e19eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Journalist — Instantly generate hundreds of high-quality articles.",
+      "description": "Journalist is an AI Article Generator that generates high-quality articles for your business. With a few clicks, you're able to automate your content with well-structured, unique and optimised articles for your niche."
+    }
+  ]
+}

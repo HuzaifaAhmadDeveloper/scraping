@@ -6,7 +6,7 @@ const fs = require('fs');
     const browser = await puppeteer.launch({ headless: true });
     const page = await browser.newPage();
     
-    // Navigate to the Engineering & Development category page
+    // Navigate to the Website Builders category page
     const url = 'https://www.producthunt.com/categories/website-builders';
     await page.goto(url, { waitUntil: 'networkidle2', timeout: 60000 });
 
@@ -47,25 +47,10 @@ const fs = require('fs');
       };
     });
 
-    // Format the scraped data for readability
-    const formattedData = `
-Heading: ${scrapedData.heading}
+    // Save the scraped data to a JSON file
+    fs.writeFileSync('website_builders.json', JSON.stringify(scrapedData, null, 2));
 
-Paragraph: ${scrapedData.paragraph}
-
-Products:
-${scrapedData.productCards.map(card => `
-  Rank: ${card.rank}
-  Title: ${card.title}
-  Description: ${card.description}
-  Image URL: ${card.imageUrl}
-`).join('\n')}
-    `;
-
-    // Save the formatted data to a text file
-    fs.writeFileSync('website_builders.txt', formattedData.trim());
-
-    console.log('Data saved to website_builders.txt');
+    console.log('Data saved to website_builders.json');
 
     await browser.close();
   } catch (error) {

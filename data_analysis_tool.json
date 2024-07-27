@@ -1,0 +1,66 @@
+{
+  "heading": "Data analysis tools",
+  "paragraph": null,
+  "productCards": [
+    {
+      "rank": "1",
+      "imageUrl": "https://ph-files.imgix.net/2df0eb38-7b7e-48a7-80d9-05c57b48d3d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Google Cloud Platform — A suite of cloud computing services by Google",
+      "description": "Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security."
+    },
+    {
+      "rank": "2",
+      "imageUrl": "https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+      "title": "PostHog — The open source product OS",
+      "description": "Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products."
+    },
+    {
+      "rank": "3",
+      "imageUrl": "https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "June — The Simple Product Analytics App",
+      "description": "June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users"
+    },
+    {
+      "rank": "4",
+      "imageUrl": "https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Tinybird — Turn raw data into realtime API at scale",
+      "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it."
+    },
+    {
+      "rank": "5",
+      "imageUrl": "https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Upstash — Serverless data platform for Redis and Kafka",
+      "description": "Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions."
+    },
+    {
+      "rank": "6",
+      "imageUrl": "https://ph-files.imgix.net/71819a7f-095c-4668-b288-1b433984bf35.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Flatfile — Extensible API + event based platform for data-file import",
+      "description": "The Flatfile Data Exchange Platform provides developers an easy, fast, and secure way to build your ideal solution for importing CSV, Excel, or other data-files, without compromising on flexibility. With our API-first, event-driven architecture developers can build fully customizable, powerful workflows that address any file-based import use case, combined with a highly intuitive experience designed for end-users. See the magic of Flatfile for yourself and get started today, it’s free!"
+    },
+    {
+      "rank": "7",
+      "imageUrl": "https://ph-files.imgix.net/da9e292c-e22c-46e7-bd6b-4a08bdb92d27.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Amplitude — Get data and insights to take action and drive growth",
+      "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products."
+    },
+    {
+      "rank": "8",
+      "imageUrl": "https://ph-files.imgix.net/e7c84912-d91c-475a-91dc-d566f2908a82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Typesense — Fast, typo-tolerant open source search engine",
+      "description": "Open source search engine that delivers instant relevant results out-of-the-box. OSS alternative to Algolia & an easier-to-use alternative to ElasticSearch."
+    },
+    {
+      "rank": "9",
+      "imageUrl": "https://ph-files.imgix.net/ac301ed1-8308-469d-841b-2eb5765021eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "DataBricks — Simplify big data and AI",
+      "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products."
+    },
+    {
+      "rank": "10",
+      "imageUrl": "https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "FullStory — Craft a more perfect digital experience",
+      "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more."
+    }
+  ]
+}

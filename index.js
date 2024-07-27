@@ -47,25 +47,10 @@ const fs = require('fs');
       };
     });
 
-    // Format the scraped data for readability
-    const formattedData = `
-Heading: ${scrapedData.heading}
+    // Save the scraped data to a JSON file
+    fs.writeFileSync('index.json', JSON.stringify(scrapedData, null, 2));
 
-Paragraph: ${scrapedData.paragraph}
-
-Products:
-${scrapedData.productCards.map(card => `
-  Rank: ${card.rank}
-  Title: ${card.title}
-  Description: ${card.description}
-  Image URL: ${card.imageUrl}
-`).join('\n')}
-    `;
-
-    // Save the formatted data to a text file
-    fs.writeFileSync('index.txt', formattedData.trim());
-
-    console.log('Data saved to indexData.txt');
+    console.log('Data saved to index.json');
 
     await browser.close();
   } catch (error) {

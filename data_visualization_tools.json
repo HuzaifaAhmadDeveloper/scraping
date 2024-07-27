@@ -1,0 +1,66 @@
+{
+  "heading": "Data visualization tools",
+  "paragraph": "Tried, tested, and reviewed by the community",
+  "productCards": [
+    {
+      "rank": "1",
+      "imageUrl": "https://ph-files.imgix.net/e166b73e-887d-4ab8-ac43-483c0a0f14ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "PostgreSQL — A powerful, open source object-relational database system",
+      "description": "An open source, object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance."
+    },
+    {
+      "rank": "2",
+      "imageUrl": "https://ph-files.imgix.net/6859e0cb-5118-4c0f-82d4-3c54bd4d7621.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Mixpanel — Event analytics everyone can use",
+      "description": "An event analytics platform that allows anyone to get answers from their customer and revenue data in seconds. It offers powerful real-time charts and visualizations of how people interact with your digital products and company."
+    },
+    {
+      "rank": "3",
+      "imageUrl": "https://ph-files.imgix.net/24a944d4-ad23-4fcc-93a6-018fad330b9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Dokin — Sync live data from apps in Sheets, Slides, and Docs",
+      "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code."
+    },
+    {
+      "rank": "4",
+      "imageUrl": "https://ph-files.imgix.net/0adbbeb6-a0bb-4e39-801d-950b3130e0c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "AnimStats — Transform Your Stats into Captivating Animated GIFs",
+      "description": "Transform your stats into captivating animated GIFs. Boost engagement, grab attention, and turn your tweets into irresistible eye candy with AnimStats. Elevate your data visuals like never before. Unleash the power of scroll-stopping GIFs!"
+    },
+    {
+      "rank": "5",
+      "imageUrl": "https://ph-files.imgix.net/f605d90f-1d8c-4677-a740-bae76b1a9e8b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Wolfram Mathematica — The world's definitive system for modern technical computing",
+      "description": "Wolfram Mathematica is a modern technical computing system spanning most areas of technical computing - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields."
+    },
+    {
+      "rank": "6",
+      "imageUrl": "https://ph-files.imgix.net/aa769f35-40fa-4c8f-bbd9-7e18a15c3b3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "City Roads — Open source, visualization of all roads within any city.",
+      "description": "Search for your city. The data is fetched from OpenStreetMap using overpass API."
+    },
+    {
+      "rank": "7",
+      "imageUrl": "https://ph-files.imgix.net/5fd2a535-a102-4627-b3d5-790ea06ffd6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "MotherDuck — The ducking simple data warehouse for analytics",
+      "description": "The cloud SQL analytics platform that helps you do more with your data. A unique architecture enables dual query execution across local machines and the cloud, letting you experience smooth workflows and ultra-efficient performance that won’t break the bank."
+    },
+    {
+      "rank": "8",
+      "imageUrl": "https://ph-files.imgix.net/e91c28c7-3c90-4df7-a4eb-0c23c78ac1a5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "nivo — nivo provides a rich set of dataviz components",
+      "description": ""
+    },
+    {
+      "rank": "9",
+      "imageUrl": "https://ph-files.imgix.net/5143f8ed-4a8c-4175-81c4-f250ecf35bed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "Visual Capitalist — Visual content focused on emerging trends in business.",
+      "description": ""
+    },
+    {
+      "rank": "10",
+      "imageUrl": "https://ph-files.imgix.net/39ffa06f-5cdc-4061-8c0f-f4dbff2f60aa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+      "title": "MapTiler — A software platform for building digital maps",
+      "description": "Easy to use maps, documentation, code samples, and developer tools for web & mobile. MapTiler is a software platform for building digital maps used by 300 million people a month. Companies and institutions integrate our street and satellite maps of the entire world with their products. Maps are personalized, smart, and without ads or customer data leaks."
+    }
+  ]
+}
