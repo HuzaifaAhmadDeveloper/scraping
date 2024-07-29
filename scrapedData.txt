@@ -1,0 +1,604 @@
+Heading: Engineering & Development
+
+Paragraph: Tried, tested, and reviewed by the community
+
+Products:
+
+  Rank: 1
+  Title: Supabase — The open source Firebase alternative
+  Description: Supabase is an open-source backend-as-a-service that provides real-time databases, authentication, and API services. It enables developers to build and scale applications quickly without managing server infrastructure.
+  Image URL: https://ph-files.imgix.net/b9c546be-a73d-49be-84ac-92a774a5edfc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 2
+  Title: Vercel — Seamless hosting for frontend developers
+  Description: Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.
+  Image URL: https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 3
+  Title: GitHub — How people build software
+  Description: GitHub is a development platform inspired by the way you work.
+  Image URL: https://ph-files.imgix.net/c17453f9-e544-4e6a-86b0-4027cf710cf5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 4
+  Title: Firebase — An app development platform backed by Google
+  Description: An app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.
+  Image URL: https://ph-files.imgix.net/cd6a3077-007d-4d68-a516-c8414b11bec8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 5
+  Title: Next.js — Create web applications with the power of React components
+  Description: The React framework for production. Next.js provides zero-configuration automatic code splitting, filesystem based routing, hot code reloading and universal rendering.
+  Image URL: https://ph-files.imgix.net/76710619-0e0c-4456-918d-f5f2cb58e1cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 6
+  Title: Framer — Design and ship your dream site with zero code
+  Description: A no-code platform to create responsive webpages with text, links, media, and incredible animations.
+  Image URL: https://ph-files.imgix.net/22023c3a-52cf-4320-b181-0b5894fc03ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 7
+  Title: Render — Build, deploy, and scale your apps with unparalleled ease
+  Description: A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.
+  Image URL: https://ph-files.imgix.net/c5755a02-777d-4baf-a7d0-c5654511ef36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 8
+  Title: Google Cloud Platform — A suite of cloud computing services by Google
+  Description: Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.
+  Image URL: https://ph-files.imgix.net/2df0eb38-7b7e-48a7-80d9-05c57b48d3d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 9
+  Title: PostHog — The open source product OS
+  Description: Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products.
+  Image URL: https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 10
+  Title: Flutter — Build apps on iOS, Android, and web from a single codebase
+  Description: Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
+  Image URL: https://ph-files.imgix.net/88bee7a4-63c1-433f-b2e8-a104fd862e20.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 11
+  Title: Linear — Manage software development and track bugs
+  Description: Manage software development and track bugs. Linear's streamlined design is built for speed and efficiency to help high performing teams accomplish great things.
+  Image URL: https://ph-files.imgix.net/e2a98636-71d2-4989-abf6-acefe8584e17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 12
+  Title: Webflow — Create custom, responsive websites, visually
+  Description: Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers.
+  Image URL: https://ph-files.imgix.net/f6dcab85-5195-4a2b-ae33-7fee00608298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 13
+  Title: Tailwind CSS — A utility-first CSS framework for rapid UI development
+  Description: A highly customizable, low-level CSS framework that gives you all of the building blocks you need to build bespoke designs without any annoying opinionated styles you have to fight to override.
+  Image URL: https://ph-files.imgix.net/829bdf09-bf73-4976-ae80-8eb1ec6b455d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 14
+  Title: PostgreSQL — A powerful, open source object-relational database system
+  Description: An open source, object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.
+  Image URL: https://ph-files.imgix.net/e166b73e-887d-4ab8-ac43-483c0a0f14ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 15
+  Title: OpenAI Assistants API — Designed to help developers build powerful AI assistants
+  Description: The Assistants API is designed to help developers build powerful AI assistants capable of performing a variety of tasks.
+  Image URL: https://ph-files.imgix.net/a95ffb3c-476e-4eea-9349-c39ec9e1744c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 16
+  Title: Mixpanel — Event analytics everyone can use
+  Description: An event analytics platform that allows anyone to get answers from their customer and revenue data in seconds. It offers powerful real-time charts and visualizations of how people interact with your digital products and company.
+  Image URL: https://ph-files.imgix.net/6859e0cb-5118-4c0f-82d4-3c54bd4d7621.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 17
+  Title: Stripe — Financial infrastructure for the internet
+  Description: Accept payments, send payouts, automate financial processes, and ultimately grow revenue.
+  Image URL: https://ph-files.imgix.net/7a01a00b-d41d-4367-b44e-e1d0a672819b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 18
+  Title: ShipFast — Ship your startup in days, not weeks
+  Description: The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes.
+  Image URL: https://ph-files.imgix.net/7d6535a4-c2fe-4f75-a71e-e5bd5156b0c9.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 19
+  Title: Tinybird — Turn raw data into realtime API at scale
+  Description: Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.
+  Image URL: https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 20
+  Title: Upstash — Serverless data platform for Redis and Kafka
+  Description: Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions.
+  Image URL: https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 21
+  Title: Ruby on Rails — A full-stack framework to build amazing web apps
+  Description: Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more.
+  Image URL: https://ph-files.imgix.net/dcd7544f-1c99-42be-be2b-e0cc80c463b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 22
+  Title: Expo — An open-source platform for building native apps
+  Description: Build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase.
+  Image URL: https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 23
+  Title: DigitalOcean — A cloud platform to deploy, manage & scale apps of any size
+  Description: Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.
+  Image URL: https://ph-files.imgix.net/db4ba1a3-da45-4435-b285-ca59047141e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 24
+  Title: React — The library for web and native user interfaces
+  Description: A free and open-source front-end JavaScript library for building user interfaces based on components.
+  Image URL: https://ph-files.imgix.net/78fdfd18-f459-47df-870a-e3e17b6bdd40.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 25
+  Title: Clerk — An authentication and user management platform
+  Description: A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.
+  Image URL: https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 26
+  Title: VS Code — Microsoft Visual Studio Code lets you build and debug apps
+  Description: Visual Studio Code is a code editor redefined and optimized for building and debugging modern web and cloud applications.
+  Image URL: https://ph-files.imgix.net/a32a6a01-1bfe-49df-b196-b9cc342c5175.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 27
+  Title: Prisma — Turn your database into a GraphQL API
+  Description: Prisma is a realtime GraphQL database layer. Connect directly from the frontend or build your own GraphQL server. - Compatible with existing tooling - Powerful GraphQL API - Runs everywhere
+  Image URL: https://ph-files.imgix.net/04da03de-e75f-4453-acf2-39ba73b7c2d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 28
+  Title: Cloudflare — The web performance & security company
+  Description: Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence.
+  Image URL: https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 29
+  Title: Xano — The fastest way to build and deploy a scalable backend
+  Description: Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.
+  Image URL: https://ph-files.imgix.net/a3b86949-5fa9-466e-9f8a-dd09be37762e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 30
+  Title: Xcode — Develop, test, and distribute apps for all Apple platforms
+  Description: Code and design your apps faster with enhanced code completion, interactive previews, and live animations. Use Git staging to craft your next commit without leaving your code. Explore and diagnose your test results with redesigned test reports with video recording. And start deploying seamlessly to TestFlight and the App Store from Xcode Cloud. Creating amazing apps has never been easier.
+  Image URL: https://ph-files.imgix.net/c07d85e1-8ac0-4793-8cc5-3b413644371d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 31
+  Title: Laravel Framework — The PHP Framework for Web Artisans
+  Description: Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.
+  Image URL: https://ph-files.imgix.net/8fd47ed2-7e09-42c0-8a09-9e66744ab17d.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 32
+  Title: June — The Simple Product Analytics App
+  Description: June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users
+  Image URL: https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 33
+  Title: Remotion — Create videos programmatically
+  Description: Make real MP4 videos written in React using CSS, SVG, and WebGL to make interesting motion graphics. Use programming to dynamically make different variants of videos and automate it using server-side rendering.
+  Image URL: https://ph-files.imgix.net/f01f527e-e5f9-4822-8f11-bfac2ed71eb8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 34
+  Title: PlanetScale — The ultimate MySQL database platform
+  Description: A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.
+  Image URL: https://ph-files.imgix.net/a34b17cd-6269-42b7-bd6f-8474f59fd6e7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 35
+  Title: Bubble — Build web apps without code, entirely visually
+  Description: Design, develop, and launch production-grade applications without code
+  Image URL: https://ph-files.imgix.net/9e0ee9b4-d147-4c63-9061-79061baa28f9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 36
+  Title: Resend — Email for developers
+  Description: Build, test, and send transactional emails at scale. Resend provides the best developer experience helping you reach users instead of spam folders.
+  Image URL: https://ph-files.imgix.net/a87b4a30-b9bf-4b17-bbec-79d55ef82670.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 37
+  Title: replicate — source machine learning models with a cloud API
+  Description: 
+  Image URL: https://ph-files.imgix.net/893eb4e0-61dd-4ee2-9f06-7db129d7582a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 38
+  Title: Appwrite — 100% open source alternative for Firebase
+  Description: A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.
+  Image URL: https://ph-files.imgix.net/ea1c7b5e-0f17-46b4-aff7-64a9bbf538f1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 39
+  Title: JetBrains — A suite of intelligent development tools
+  Description: Powerful IDEs for most programming languages and technologies along with products for team collaboration.
+  Image URL: https://ph-files.imgix.net/a91a21ee-1d99-4713-87a9-7466c778feb9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 40
+  Title: Tiptap — Developer toolkit for building collaborative apps
+  Description: A suite of open source content editing and real-time collaboration tools for developers building apps like Notion or Google Docs.
+  Image URL: https://ph-files.imgix.net/6a207629-0ead-4a58-a19f-08202364b249.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 41
+  Title: Amazon Web Services — Virtual private server and web hosting-Amazon Lightsail
+  Description: Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.
+  Image URL: https://ph-files.imgix.net/2244b16a-9d2e-4330-b432-3653fb1eb467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 42
+  Title: Nuxt — The Vue framework for web architects
+  Description: An open source framework to create performant and production-grade full-stack web apps and websites with confidence.
+  Image URL: https://ph-files.imgix.net/cf32e935-a497-4745-8430-8644aaf27107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 43
+  Title: Netlify — The composable platform for modern sites, stores, and apps.
+  Description: Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.
+  Image URL: https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 44
+  Title: Cloudflare Pages — Build Fast Sites. In Record Time.
+  Description: Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.
+  Image URL: https://ph-files.imgix.net/7e4a4980-2139-420d-b490-62c9fe9a9270.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 45
+  Title: Trigger.dev — The open source background jobs framework
+  Description: Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays.
+  Image URL: https://ph-files.imgix.net/f2fe3365-9ba8-498a-b1fe-e74bbd5b425e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 46
+  Title: Rust — A high-level, safe and concurrent alternative to C++
+  Description: A blazingly fast and memory-efficient programming language with no runtime or garbage collector. It can power performance-critical services, run on embedded devices, and easily integrate with other languages.
+  Image URL: https://ph-files.imgix.net/73e8b4ab-4112-4c4e-b475-e1c5923d01e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 47
+  Title: Plausible Analytics — Simple analytics for your website
+  Description: A privacy focused, open source alternative to Google Analytics that lets you measure your traffic and gives you 100% data ownership.
+  Image URL: https://ph-files.imgix.net/84db18d0-6f62-4d19-8afa-968ee4bc6751.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 48
+  Title: Swift — An open-source programming language by Apple
+  Description: A general-purpose programming language that’s approachable for newcomers and powerful for experts. It is fast, modern, safe, and a joy to write.
+  Image URL: https://ph-files.imgix.net/c60d78df-e572-4765-803b-d0a08c7ed6fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 49
+  Title: Hasura — Instant GraphQL on all your data
+  Description: Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.
+  Image URL: https://ph-files.imgix.net/abd04bbd-8c76-464e-bdc3-77b5e80e0649.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 50
+  Title: Remix — Next gen full stack web framework
+  Description: A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.
+  Image URL: https://ph-files.imgix.net/2b68d04c-43ea-4ab2-9e67-3186b149bd8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 51
+  Title: JIRA — How teams do great
+  Description: Create and track feedback for Atlassian products.
+  Image URL: https://ph-files.imgix.net/294de8fd-676b-423a-b8d3-b957fd521e68.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 52
+  Title: Convex — A better type of backend
+  Description: Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.
+  Image URL: https://ph-files.imgix.net/6c17a03d-52c6-4c6a-b521-bf84de68591b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 53
+  Title: Vite — Next Generation Frontend Tooling
+  Description: Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.
+  Image URL: https://ph-files.imgix.net/53213ebd-6c42-4ec4-839a-8d40a4206354.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 54
+  Title: GitHub Copilot Chat — AI chat features powered by Copilot
+  Description: GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code.
+  Image URL: https://ph-files.imgix.net/cdb23f26-b385-4854-a005-3862be50f79e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 55
+  Title: Zapier — Connect your apps and automate workflows
+  Description: Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.
+  Image URL: https://ph-files.imgix.net/9acdbce2-d993-489b-b6e3-afb817d04d0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 56
+  Title: MongoDB — The database for modern applications.
+  Description: MongoDB Inc. is an American software company that develops and provides commercial support for the open source database MongoDB, a NoSQL database that stores data in JSON-like documents with flexible schemas.
+  Image URL: https://ph-files.imgix.net/e0c7c876-e044-409e-81ff-6fc008a70415.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 57
+  Title: Dokin — Sync live data from apps in Sheets, Slides, and Docs
+  Description: Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.
+  Image URL: https://ph-files.imgix.net/24a944d4-ad23-4fcc-93a6-018fad330b9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 58
+  Title: ClickHouse — An open-source database built for speed and scale
+  Description: An open-source column-oriented database management system that allows generating analytical data reports in real-time.
+  Image URL: https://ph-files.imgix.net/d4cef792-1de7-4e96-a26a-3eb34b08d2ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 59
+  Title: Flatfile — Extensible API + event based platform for data-file import
+  Description: The Flatfile Data Exchange Platform provides developers an easy, fast, and secure way to build your ideal solution for importing CSV, Excel, or other data-files, without compromising on flexibility. With our API-first, event-driven architecture developers can build fully customizable, powerful workflows that address any file-based import use case, combined with a highly intuitive experience designed for end-users. See the magic of Flatfile for yourself and get started today, it’s free!
+  Image URL: https://ph-files.imgix.net/71819a7f-095c-4668-b288-1b433984bf35.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 60
+  Title: FastAPI — A modern, fast web framework for building APIs with Python
+  Description: A high performance, easy to learn, fast to code, and ready for production framework
+  Image URL: https://ph-files.imgix.net/9daaf207-c6d7-49b5-a55f-706a5d5abffd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 61
+  Title: Svix — Webhooks as a service
+  Description: Build a secure, reliable, and scalable webhook sending platform
+  Image URL: https://ph-files.imgix.net/e7891aa5-d7bc-4241-82d5-60bffa53d148.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 62
+  Title: Pinecone — Long-term memory for AI
+  Description: A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.
+  Image URL: https://ph-files.imgix.net/6c80b7b1-050d-45b3-afad-2b94cdddbf01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 63
+  Title: Telegram 4.7 — Cloud-based, secure messaging app
+  Description: Telegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service.
+  Image URL: https://ph-files.imgix.net/ffb82f9d-697d-4b9f-8c05-5a5c34b39af5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 64
+  Title: vscode.dev — Bringing VS Code to the browser
+  Description: Now when you go to https://vscode.dev, you'll be presented with a lightweight version of VS Code running fully in the browser. Open a folder on your local machine and start coding. No install required.
+  Image URL: https://ph-files.imgix.net/0643ccd3-579d-4a56-bdbb-17e68793ab86.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 65
+  Title: Modal — The serverless platform for AI, ML & data teams.
+  Description: Run or deploy machine learning models, massively parallel compute jobs, task queues, web apps, and much more, without your own infrastructure.
+  Image URL: https://ph-files.imgix.net/8e6f4db6-6438-4413-b6d5-e3b9a560c438.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 66
+  Title: Infisical — Helping dev teams sync environment variables
+  Description: A simple, end-to-end encrypted platform that enables Node.js teams to sync and manage their environment variables. Developers can modify start/dev scripts to pull and inject environment variables into local environments with 1 line of code.
+  Image URL: https://ph-files.imgix.net/2ac7c08f-c516-447a-9439-759ffb4fe184.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 67
+  Title: DataBricks — Simplify big data and AI
+  Description: Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products.
+  Image URL: https://ph-files.imgix.net/ac301ed1-8308-469d-841b-2eb5765021eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 68
+  Title: Astro — The web framework that scales with you.
+  Description: Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.
+  Image URL: https://ph-files.imgix.net/6bad3f69-e994-422a-b532-569cbb4ee076.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 69
+  Title: Docker — Accelerate how you build, share, and run applications
+  Description: Build, share, run, and verify applications anywhere without tedious environment configuration or management.
+  Image URL: https://ph-files.imgix.net/32c58a09-b2a0-4669-ab9e-d31ce9e44ff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 70
+  Title: AWS Lambda — An event-driven, serverless computing platform
+  Description: A compute service that runs your code in response to events and automatically manages the compute resources, making it the fastest way to turn an idea into a modern, production, serverless applications.
+  Image URL: https://ph-files.imgix.net/a46e2608-8f72-4a89-82e0-abbe70f10f83.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 71
+  Title: Neon — Serverless Postgres: Now Generally Available
+  Description: Neon reimagines Postgres with a serverless architecture. With a generous free tier, scale-to-zero, and true database branching. Copy data and schema in a second and scale resources automatically. Ideal for developers prioritizing scalability and performance.
+  Image URL: https://ph-files.imgix.net/eab801a9-fe40-4f01-a30d-37472d9bc2e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 72
+  Title: React Native — A framework for building native apps using React
+  Description: Create native apps for Android, iOS, and more using React.
+  Image URL: https://ph-files.imgix.net/3558a5ca-e9a0-4ff2-a48c-e88adf779f1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 73
+  Title: Svelte — Cybernetically enhanced web apps
+  Description: A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.
+  Image URL: https://ph-files.imgix.net/2ab7f7fe-5ec4-440a-9d39-d1541d7719c3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 74
+  Title: Airbyte — Open-source data integration
+  Description: An open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases.
+  Image URL: https://ph-files.imgix.net/2e9f665f-0ebf-48ff-a480-fbc6f2fde304.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 75
+  Title: Memberstack — Authentication & Payments for Webflow. Total design freedom.
+  Description: Memberstack empowers you to build anything - from gated blogs, to social media platforms - all using Memberstack & Webflow (or, whatever else you use to build sites & apps). Over 3,000 companies like Slack, Reddit, and American Airlines use Memberstack to build scalable, custom membership experiences. You can build everything you need without coding - but, you can also incorporate your own code into your projects and scale with Memberstack to a full-blown react application.
+  Image URL: https://ph-files.imgix.net/fcde694f-6982-4d00-864c-a3c180203ab6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 76
+  Title: Weaviate — The AI-native database for a new generation of software
+  Description: The AI-native database for a new generation of software. Store and retrieve data objects and vector embeddings. Seamlessly connect to your favorite ML models. And build intuitive, reliable AI applications that scale.
+  Image URL: https://ph-files.imgix.net/cebcb818-90c0-494a-965f-c0a08c4511ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 77
+  Title: FullStory — Craft a more perfect digital experience
+  Description: FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.
+  Image URL: https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 78
+  Title: Shipixen — Create a blog & landing page in minutes
+  Description: Create a production-ready landing page & blog with your branding, theme & pages. You get the code & an SEO-optimized website so you can focus on building, not setting up.
+  Image URL: https://ph-files.imgix.net/7773976d-e914-4046-91b1-154f91680d94.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 79
+  Title: Radix UI — Open-source UI components for building accessible web apps
+  Description: A suite of open-source projects for building high-quality, accessible web apps and design systems.
+  Image URL: https://ph-files.imgix.net/b19e5b73-e135-4923-b36c-1f97a13642fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 80
+  Title: AWS Amplify — JavaScript library for app development using cloud services
+  Description: AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.
+  Image URL: https://ph-files.imgix.net/d9b33649-d11f-4464-aa5d-3f2e43bc7e24.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 81
+  Title: Cloudflare Workers — Your site. Our network.
+  Description: Build blazing fast websites by seamlessly deploying static assets alongside your APIs and application code.
+  Image URL: https://ph-files.imgix.net/976e559c-bfdc-4f4d-8b4a-a934e7aa81ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 82
+  Title: Gitea — Painless self-hosted all-in-one software development service
+  Description: Git hosting, code review, team collaboration, package registry, and CI/CD.
+  Image URL: https://ph-files.imgix.net/03b893f5-886d-43ec-977e-5e05e0f6f104.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 83
+  Title: Albato — A no-code platform for all automations
+  Description: Integrate your applications into automated workflows using a no code builder.
+  Image URL: https://ph-files.imgix.net/72dfe2ac-646f-44a8-9a6d-5d8097ccc835.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 84
+  Title: AWS — AWS offers reliable, scalable, and inexpensive cloud.
+  Description: 
+  Image URL: https://ph-files.imgix.net/67d208df-3f6c-4f9f-85cd-228ed4b45c8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 85
+  Title: Sentry — Application monitoring and error tracking software
+  Description: Self-hosted and cloud-based application monitoring that helps software teams see clearer, solve quicker, & learn continuously.
+  Image URL: https://ph-files.imgix.net/197f2704-229a-4a91-b9d7-10364042b31e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 86
+  Title: Go Language — Go is an open source programming language
+  Description: 
+  Image URL: https://ph-files.imgix.net/1c3afe83-3ee9-4725-b586-f38f9deb8e2b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 87
+  Title: NestJS — Building efficient, reliable and server-side applications.
+  Description: NestJS is a framework for building efficient, scalable Node.js web applications. It uses modern JavaScript, is built with TypeScript and combines elements of OOP (Object Oriented Progamming), FP (Functional Programming), and FRP (Functional Reactive Pr...
+  Image URL: https://ph-files.imgix.net/37abd321-bdbe-4e17-bb77-e97b9ed20842.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 88
+  Title: Python Awesome — A nice collection of often useful awesome Python libraries.
+  Description: A nice collection of often useful awesome Python frameworks, libraries and software.
+  Image URL: https://ph-files.imgix.net/34177e7f-0f0d-4a4f-a872-65cbd506bae7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 89
+  Title: Make — Design, build and automate your work
+  Description: A visual platform for anyone to design, build, and automate anything—from tasks and workflows to apps and systems—without coding.
+  Image URL: https://ph-files.imgix.net/33bbc115-24f5-4c27-adb2-ef011c50b576.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 90
+  Title: WorkOS — Your app, Enterprise Ready
+  Description: WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.
+  Image URL: https://ph-files.imgix.net/afa0d0ae-7cbb-46ec-869b-892d991b120a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 91
+  Title: StackBlitz — StackBlitz is an instant fullstack web IDE for the JavaScript ecosystem.
+  Description: StackBlitz is an instant fullstack web IDE for the JavaScript ecosystem. It's powered by WebContainers, the first WebAssembly-based operating system which boots Node.js environment in milliseconds, securely within your browser tab.
+  Image URL: https://ph-files.imgix.net/5d5f3851-a353-4bce-abb1-1bf326ef5c74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 92
+  Title: ToDesktop — Convert your web app to a desktop app in 2 minutes
+  Description: Take your web app codebase and transform it into a cross platform desktop app with native functionality.
+  Image URL: https://ph-files.imgix.net/3f03bdd9-7d1c-49a6-850a-4ec844fdc9ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 93
+  Title: Stytch — User infrastructure for modern applications
+  Description: Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.
+  Image URL: https://ph-files.imgix.net/437602fd-635f-4367-b497-ce5ebdcd7471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 94
+  Title: Buf — A new way of working with Protocol Buffers
+  Description: Your organization should not have to reinvent the wheel to use Protobuf efficiently and effectively. Stop worrying about your Protobuf management strategy getting out of control. We'll handle that for you, so you can worry about what matters.
+  Image URL: https://ph-files.imgix.net/93fde99f-43bd-4474-8f05-affec4292d47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 95
+  Title: Cloudflare Vectorize · Vectorize v1 — Fast, efficient vector database on the edge.
+  Description: 
+  Image URL: https://ph-files.imgix.net/c9931fda-0158-439a-b48f-bbc9ed1a5ddc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 96
+  Title: Tailwind UI — Beautiful UI components, by the creators of Tailwind CSS
+  Description: Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.
+  Image URL: https://ph-files.imgix.net/96034044-b256-4eff-9a6e-551b78203862.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 97
+  Title: Relay.app — The new standard for automation
+  Description: Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features.
+  Image URL: https://ph-files.imgix.net/78eabb8b-7ef3-4bbb-98f0-e6cadb155b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 98
+  Title: Cursor Copilot++ — Autocomplete redesigned to predict your next edit
+  Description: A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.
+  Image URL: https://ph-files.imgix.net/927733c0-76ff-402b-af77-e09cbd88f1cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
+
+
+  Rank: 99
+  Title: Circle — The all-in-one community platform for creators
+  Description: Bring together your discussions, memberships, and content. Integrate a thriving community wherever your audience is, all under your own brand.
+  Image URL: https://ph-files.imgix.net/99901859-6f81-4d81-b7a0-40dce2644641.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop
+
+
+  Rank: 100
+  Title: Cycle — Your feedback hub, on autopilot
+  Description: Cycle is the fastest way for your team to capture product feedback and share customer insights - without the busywork 👉 https://www.cycle.app
+  Image URL: https://ph-files.imgix.net/e58c5131-a65f-4287-aa49-b2fb3d105870.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop
