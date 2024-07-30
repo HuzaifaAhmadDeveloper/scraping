@@ -2,33 +2,9 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 const urls = [
-  'https://www.producthunt.com/categories/a-b-testing',
-  'https://www.producthunt.com/categories/ai-coding',
-  'https://www.producthunt.com/categories/authentication-identity',
-  'https://www.producthunt.com/categories/automation',
-  'https://www.producthunt.com/categories/cloud-computing-platforms',
-  'https://www.producthunt.com/categories/cms',
-  'https://www.producthunt.com/categories/code-editors',
-  'https://www.producthunt.com/categories/code-review-tools',
-  'https://www.producthunt.com/categories/command-line-tools',
-  'https://www.producthunt.com/categories/data-analysis',
-  'https://www.producthunt.com/categories/data-visualization',
-  'https://www.producthunt.com/categories/databases-and-backend',
-  'https://www.producthunt.com/categories/git-clients',
-  'https://www.producthunt.com/categories/headless-cms',
-  'https://www.producthunt.com/categories/issue-tracking-software',
-  'https://www.producthunt.com/categories/membership',
-  'https://www.producthunt.com/categories/no-code-platforms',
-  'https://www.producthunt.com/categories/security-compliance',
-  'https://www.producthunt.com/categories/standup-bots',
+
   'https://www.producthunt.com/categories/static-site-generators',
   'https://www.producthunt.com/categories/testing-and-qa',
-  'https://www.producthunt.com/categories/unified-api',
-  'https://www.producthunt.com/categories/video-hosting',
-  'https://www.producthunt.com/categories/vpn-client',
-  'https://www.producthunt.com/categories/web-hosting',
-  'https://www.producthunt.com/categories/website-analytics',
-  'https://www.producthunt.com/categories/website-builders'
 ];
 
 (async () => {
