@@ -1,0 +1,19 @@
+[
+  {
+    "url": "https://www.producthunt.com/categories/shopping-1",
+    "productCards": [
+      {
+        "rank": "1",
+        "imageUrl": "https://ph-files.imgix.net/68e0a5eb-be7f-4b52-bbcf-0f78226cef91.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "Whatnot — The safest place to buy & sell collectibles",
+        "description": "Whatnot is building a marketplace to buy & sell authentic collectibles. We review every product to ensure it’s authentic. Today, you can use Whatnot to purchase Funko Pops -- one of the most popular collectibles on the market."
+      },
+      {
+        "rank": "2",
+        "imageUrl": "https://ph-files.imgix.net/86f6aa96-eb12-4196-a016-a56404eaa5ff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "Safari — The best way to see the sites.",
+        "description": "We built Safari to be the best browser for your Mac, iPhone, and iPad. Built-in privacy features keep your browsing your business. You can stream and search smarter with handy tools that help you save, find, and share your favorite sites. Apple Pay in Safari lets you shop safely and simply. Safari for Mac is faster and more energy efficient than other browsers."
+      }
+    ]
+  }
+]

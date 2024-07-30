@@ -25,7 +25,7 @@ const urls = [
     "https://www.producthunt.com/categories/file-storage",
     "https://www.producthunt.com/categories/team-collaboration",
     "https://www.producthunt.com/categories/time-tracking",
-    "https://www.producthunt.com/categories/video-conferencing"]
+    "https://www.producthunt.com/categories/video-conferencing"];
 
 (async () => {
   const browser = await puppeteer.launch({ headless: true });
