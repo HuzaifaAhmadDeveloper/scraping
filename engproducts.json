@@ -447,17 +447,29 @@
       },
       {
         "rank": "3",
+<<<<<<< HEAD
         "imageUrl": "https://ph-files.imgix.net/326ef23f-183c-40fa-a8d9-67718e1386eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "T3 Stack, Next and React File Generator — Next.js with T3 Stack in VSCode: Effortless file generation.",
         "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks."
       },
       {
         "rank": "4",
+=======
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
         "imageUrl": "https://ph-files.imgix.net/5aef40ff-3d74-405b-a375-993e1fdb26f7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "GitHub Actions — Automate your workflow from idea to production",
         "description": "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want."
       },
       {
+<<<<<<< HEAD
+=======
+        "rank": "4",
+        "imageUrl": "https://ph-files.imgix.net/326ef23f-183c-40fa-a8d9-67718e1386eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "T3 Stack, Next and React File Generator — Next.js with T3 Stack in VSCode: Effortless file generation.",
+        "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks."
+      },
+      {
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
         "rank": "5",
         "imageUrl": "https://ph-files.imgix.net/d837c665-999b-48c6-90be-38cdd03e5dac.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Wallaby — JS test runner in your code editor",
@@ -902,21 +914,37 @@
       },
       {
         "rank": "8",
+<<<<<<< HEAD
         "imageUrl": "https://ph-files.imgix.net/67ae6904-b04d-4376-a55c-e12d55afa71b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "LogRocket — Stop guessing why bugs happen",
         "description": "LogRocket helps product teams build better experiences for their users. By recording videos of user sessions along with logs and network data, LogRocket surfaces UX problems and reveals the root cause of every bug."
       },
       {
         "rank": "9",
+=======
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
         "imageUrl": "https://ph-files.imgix.net/e75faa98-9e40-4f1d-a6af-f689771343fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "GitLab — Complete DevOps platform, delivered as a single application.",
         "description": "GitLab is a web-based DevOps lifecycle tool that provides a Git-repository manager providing wiki, issue-tracking and CI/CD pipeline features, using an open-source license, developed by GitLab Inc."
       },
       {
+<<<<<<< HEAD
         "rank": "10",
         "imageUrl": "https://ph-files.imgix.net/5aef40ff-3d74-405b-a375-993e1fdb26f7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "GitHub Actions — Automate your workflow from idea to production",
         "description": "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want."
+=======
+        "rank": "9",
+        "imageUrl": "https://ph-files.imgix.net/5aef40ff-3d74-405b-a375-993e1fdb26f7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "GitHub Actions — Automate your workflow from idea to production",
+        "description": "GitHub Actions makes it easy to automate all your software workflows, now with world-class CI/CD. Build, test, and deploy your code right from GitHub. Make code reviews, branch management, and issue triaging work the way you want."
+      },
+      {
+        "rank": "10",
+        "imageUrl": "https://ph-files.imgix.net/67ae6904-b04d-4376-a55c-e12d55afa71b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "LogRocket — Stop guessing why bugs happen",
+        "description": "LogRocket helps product teams build better experiences for their users. By recording videos of user sessions along with logs and network data, LogRocket surfaces UX problems and reveals the root cause of every bug."
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
       }
     ]
   },
@@ -1461,9 +1489,15 @@
       },
       {
         "rank": "10",
+<<<<<<< HEAD
         "imageUrl": "https://ph-files.imgix.net/37e6cecb-760f-45e6-95e0-b1a5dbd1f1d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Hotjar — For digital experiences people love",
         "description": "Hotjar’s visual insights, user feedback, and live interviews show you what site visitors do, and why they do it. Access all the insights you need in one place and join 1.1 million websites in 180+ countries who already use Hotjar to turn their clicks into conversions. Install a single script and get started for free."
+=======
+        "imageUrl": "https://ph-files.imgix.net/2456a1eb-af9b-4032-9c28-45e7724cd2c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "Google Analytics — Get essential customer insights.",
+        "description": "Google Analytics is a comprehensive web analytics tool offered by Google that provides valuable insights into the performance and behavior of websites, mobile apps, and other digital platforms. It allows businesses and website owners to track and analyze a wide range of data, enabling them to make informed decisions and optimize their online presence."
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
       }
     ]
   },

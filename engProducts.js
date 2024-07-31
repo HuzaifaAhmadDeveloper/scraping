@@ -3,6 +3,7 @@ const fs = require('fs');
 
 const urls = [
   'https://www.producthunt.com/categories/a-b-testing',
+<<<<<<< HEAD
   'https://www.producthunt.com/categories/ai-coding',
   'https://www.producthunt.com/categories/authentication-identity',
   'https://www.producthunt.com/categories/automation',
@@ -29,6 +30,8 @@ const urls = [
   'https://www.producthunt.com/categories/web-hosting',
   'https://www.producthunt.com/categories/website-analytics',
   'https://www.producthunt.com/categories/website-builders'
+=======
+>>>>>>> 701bd87bdc77713a4a7c229fee0b899a8c27d1e9
 
 ];
 
