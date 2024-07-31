@@ -11,12 +11,12 @@ const client = new Client({
 
 const data ={
     "category": {
-      "cat_name": "Engineering and Development",
-      "cat_heading": "The best engineering & development in 2024",
+      "cat_name": "Finance",
+      "cat_heading": "The best Finance in 2024",
       "sub_categories": [
         {
-          "sub_cat_name": "A/B Testing",
-          "sub_cat_heading": "The best a/b testing in 2024",
+          "sub_cat_name": "Acounting Software",
+          "sub_cat_heading": "The best Acounting Software in 2024",
           "products": [
             {
               "rank": "1",
@@ -57,8 +57,8 @@ const data ={
           ]
         },
         {
-          "sub_cat_name": "AI Coding Assistants",
-          "sub_cat_heading": "The best AI coding assistants in 2024",
+          "sub_cat_name": "Budgeting apps",
+          "sub_cat_heading": "The best Budgeting apps in 2024",
           "products": [
             {
               "rank": "1",
@@ -123,8 +123,8 @@ const data ={
           ]
         },
         {
-            "sub_cat_name": "Authentication and Identity",
-            "sub_cat_heading": "The best Authentication and Identity in 2024",
+            "sub_cat_name": "Credit score tools",
+            "sub_cat_heading": "The best Credit score tools in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -189,8 +189,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Automation Tools",
-            "sub_cat_heading": "The best Automation Tools in 2024",
+            "sub_cat_name": "Financial Planning",
+            "sub_cat_heading": "The best Financial Planning in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -255,8 +255,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Cloud Computing Platforms",
-            "sub_cat_heading": "The best Cloud Computing Platforms in 2024",
+            "sub_cat_name": "Fundraising Resources",
+            "sub_cat_heading": "The best Fundraising Resources in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -321,8 +321,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "CMS",
-            "sub_cat_heading": "The best CMS in 2024",
+            "sub_cat_name": "Investing",
+            "sub_cat_heading": "The best Investing in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -387,8 +387,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Code Editor",
-            "sub_cat_heading": "The best Code Editor in 2024",
+            "sub_cat_name": "Invoicing tools",
+            "sub_cat_heading": "The best Invoicing tools in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -453,8 +453,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Code Review Tools",
-            "sub_cat_heading": "The best Code Review Tools in 2024",
+            "sub_cat_name": "Money Transfer",
+            "sub_cat_heading": "The best Money Transfer in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -507,8 +507,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Command Line Tools",
-            "sub_cat_heading": "The best Command Line Tools in 2024",
+            "sub_cat_name": "Neobanks",
+            "sub_cat_heading": "The best Neobanks in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -573,8 +573,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Data Analysis Tools",
-            "sub_cat_heading": "The best Data Analysis Tools in 2024",
+            "sub_cat_name": "Online banking",
+            "sub_cat_heading": "The best Online banking in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -639,8 +639,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Databases and Backend",
-            "sub_cat_heading": "The best Databases and Backend in 2024",
+            "sub_cat_name": "Payroll software",
+            "sub_cat_heading": "The best Payroll software in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -705,8 +705,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Data Visualization Tools",
-            "sub_cat_heading": "The best Data Visualization Tools in 2024",
+            "sub_cat_name": "Remote workforce tool",
+            "sub_cat_heading": "The best Remote workforce tool in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -771,8 +771,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Git Clients",
-            "sub_cat_heading": "The best Git Clients in 2024",
+            "sub_cat_name": "Retirement planning",
+            "sub_cat_heading": "The best Retirement planning in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -837,8 +837,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Headless CMS Software",
-            "sub_cat_heading": "The best Headless CMS Software in 2024",
+            "sub_cat_name": "Saving apps",
+            "sub_cat_heading": "The best Saving apps in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -885,8 +885,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "AI Coding Assistants",
-            "sub_cat_heading": "The best AI coding assistants in 2024",
+            "sub_cat_name": "Startup financial planning",
+            "sub_cat_heading": "The best Startup financial planning in 2024",
             "products": [
               {
                 "rank": "1",
@@ -951,8 +951,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Issue Tracking Software",
-            "sub_cat_heading": "The best Issue Tracking Software in 2024",
+            "sub_cat_name": "Stock trading platforms",
+            "sub_cat_heading": "The best Stock trading platforms in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -1017,8 +1017,8 @@ const data ={
             ]
           },
           {
-            "sub_cat_name": "Membership Software",
-            "sub_cat_heading": "The best Membership Software in 2024",
+            "sub_cat_name": "Tax preparation ",
+            "sub_cat_heading": "The best Tax preparation in 2024",
             "products": [
                 {
                     "rank": "1",
@@ -1049,581 +1049,6 @@ const data ={
                     "imageUrl": "https://ph-files.imgix.net/42ce2324-17d8-4dea-a428-8f950f7196e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
                     "title": "Ko-fi.com — Fund Your Passions.",
                     "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "No-Code Platforms",
-            "sub_cat_heading": "The best No-Code Platforms in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/22023c3a-52cf-4320-b181-0b5894fc03ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Framer — Design and ship your dream site with zero code",
-                    "description": "A no-code platform to create responsive webpages with text, links, media, and incredible animations."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/f6dcab85-5195-4a2b-ae33-7fee00608298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Webflow — Create custom, responsive websites, visually",
-                    "description": "Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/9e0ee9b4-d147-4c63-9061-79061baa28f9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Bubble — Build web apps without code, entirely visually",
-                    "description": "Design, develop, and launch production-grade applications without code"
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Expo — An open-source platform for building native apps",
-                    "description": "Build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/9acdbce2-d993-489b-b6e3-afb817d04d0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Zapier — Connect your apps and automate workflows",
-                    "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/e58c5131-a65f-4287-aa49-b2fb3d105870.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Cycle — Your feedback hub, on autopilot",
-                    "description": "Cycle is the fastest way for your team to capture product feedback and share customer insights - without the busywork 👉 https://www.cycle.app"
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/9ee3d8b4-2c11-42d8-8020-1295e23ce929.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "FlutterFlow — Build cross-platform mobile apps visually",
-                    "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/a3b86949-5fa9-466e-9f8a-dd09be37762e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "Xano — The fastest way to build and deploy a scalable backend",
-                    "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/d9b33649-d11f-4464-aa5d-3f2e43bc7e24.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "AWS Amplify — JavaScript library for app development using cloud services",
-                    "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/c6155af3-d909-4a4c-8226-894275d1bb7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Retool — Build internal tools, remarkably fast",
-                    "description": "An application development platform that enables developers to combine the benefits of traditional software development with a drag-and-drop UI editor and AI to build internal tools radically faster. Deploy it anywhere, connect to any internal service, import your libraries, debug with your toolchain, and share it securely to users to ensure good and well-governed software by default."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Security ans Compliance",
-            "sub_cat_heading": "The best Security ans Compliance in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/dcd7544f-1c99-42be-be2b-e0cc80c463b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Ruby on Rails — A full-stack framework to build amazing web apps",
-                    "description": "Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Cloudflare — The web performance & security company",
-                    "description": "Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Clerk — An authentication and user management platform",
-                    "description": "A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/ffb82f9d-697d-4b9f-8c05-5a5c34b39af5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Telegram 4.7 — Cloud-based, secure messaging app",
-                    "description": "Telegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/2ac7c08f-c516-447a-9439-759ffb4fe184.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Infisical — Helping dev teams sync environment variables",
-                    "description": "A simple, end-to-end encrypted platform that enables Node.js teams to sync and manage their environment variables. Developers can modify start/dev scripts to pull and inject environment variables into local environments with 1 line of code."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/362dde8b-376b-41ba-b569-cb7970627b26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "Persona — Identity verification for any use case, starting at $0",
-                    "description": "Persona offers a suite of fully-automated identity verification components with worldwide coverage that can be configured and branded to create custom-tailored flows for any use case. Sign up for the Starter plan and start for free in <10 minutes."
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/afa0d0ae-7cbb-46ec-869b-892d991b120a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "WorkOS — Your app, Enterprise Ready",
-                    "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/437602fd-635f-4367-b497-ce5ebdcd7471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Stytch — User infrastructure for modern applications",
-                    "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/520f10cf-db80-4319-9ecc-c693e1558c87.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Sardine — A fraud and financial crime protection platform",
-                    "description": "Protect every customer interaction from financial crime. Used by banks, retailers, and fintechs to detect fraud patterns, prevent money laundering, and stop sophisticated scams."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/6819516b-a862-4aa0-908e-72f4a9a1ffa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Middesk — A business identity platform",
-                    "description": "A suite of identity products to help companies across the US verify their commercial customers."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Standup Bots",
-            "sub_cat_heading": "The best Standup Bots in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/d2e024f8-11f8-4993-8932-a2b5c3cca9e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Standuply: Poll & Survey Scrum Bot — Project Management Assistant for Slack and MS Teams",
-                    "description": "Standuply is the #1 Standup Bot. It runs asynchronous stand-up & retrospective meetings, Slack polls, and tracks team performance to automate your Agile processes."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Static Site Generators",
-            "sub_cat_heading": "The best Static Site Generators in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/7d6535a4-c2fe-4f75-a71e-e5bd5156b0c9.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "ShipFast — Ship your startup in days, not weeks",
-                    "description": "The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/53213ebd-6c42-4ec4-839a-8d40a4206354.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Vite — Next Generation Frontend Tooling",
-                    "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/cf32e935-a497-4745-8430-8644aaf27107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Nuxt — The Vue framework for web architects",
-                    "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/7e4a4980-2139-420d-b490-62c9fe9a9270.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Cloudflare Pages — Build Fast Sites. In Record Time.",
-                    "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/7773976d-e914-4046-91b1-154f91680d94.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Shipixen — Create a blog & landing page in minutes",
-                    "description": "Create a production-ready landing page & blog with your branding, theme & pages. You get the code & an SEO-optimized website so you can focus on building, not setting up."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/976e559c-bfdc-4f4d-8b4a-a934e7aa81ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Cloudflare Workers — Your site. Our network.",
-                    "description": "Build blazing fast websites by seamlessly deploying static assets alongside your APIs and application code."
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/6bad3f69-e994-422a-b532-569cbb4ee076.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Astro — The web framework that scales with you.",
-                    "description": "Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/d4ffdc41-1157-4e2f-a02e-c9cfda4acfb6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Eleventy — A simpler static site generator.",
-                    "description": "A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML. Works with HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, and Pug."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/069dd336-4c9b-4450-bdc9-304e7c5681b2.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Startup Idea Tester — Test your idea in days not months",
-                    "description": "Startup Idea Tester is here to revolutionize the way you validate your business ideas. Designed for founders with a lot of ideas, this powerful boilerplate allows you to focus on the marketing aspects and starting getting quickly emails with a waitlist system."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Testing and QA",
-            "sub_cat_heading": "The best Testing and QA in 2024",
-            "products": [
-                  {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/3d81a8a3-7984-4a99-9050-f54e574bcb0f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "Octomind — Find bugs before your users do with AI",
-                    "description": "AI-powered testing tool for web apps that finds bugs before your users do. We only need your website’s URL. Our AI agent knows what to test, writes the tests and keeps them relevant. Run the tests from our app or plug them into your CI/CD pipeline."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/d837c665-999b-48c6-90be-38cdd03e5dac.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Wallaby — JS test runner in your code editor",
-                    "description": ""
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/97cd3103-6eb7-4618-98e3-87ec1c9e4b30.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "MailSlurp — Modern Email APIs for Developers and QA teams.",
-                    "description": "Create real, private email addresses on demand. Send and receive emails and attachments in application code and integration tests. Intuitive REST APIs and SDK Libraries. Free for personal use."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/045e1776-1aef-441d-901a-d5870829fee8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "OpenAI Tools — Super App For Fine-tuning Datasets, Jobs, Metrics & Models",
-                    "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Unified API",
-            "sub_cat_heading": "The best Unified API in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/a95ffb3c-476e-4eea-9349-c39ec9e1744c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "OpenAI Assistants API — Designed to help developers build powerful AI assistants",
-                    "description": "The Assistants API is designed to help developers build powerful AI assistants capable of performing a variety of tasks."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/9daaf207-c6d7-49b5-a55f-706a5d5abffd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "FastAPI — A modern, fast web framework for building APIs with Python",
-                    "description": "A high performance, easy to learn, fast to code, and ready for production framework"
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/893eb4e0-61dd-4ee2-9f06-7db129d7582a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "replicate — source machine learning models with a cloud API",
-                    "description": ""
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Tinybird — Turn raw data into realtime API at scale",
-                    "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Upstash — Serverless data platform for Redis and Kafka",
-                    "description": "Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/04da03de-e75f-4453-acf2-39ba73b7c2d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Prisma — Turn your database into a GraphQL API",
-                    "description": "Prisma is a realtime GraphQL database layer. Connect directly from the frontend or build your own GraphQL server. - Compatible with existing tooling - Powerful GraphQL API - Runs everywhere"
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Clerk — An authentication and user management platform",
-                    "description": "A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/71819a7f-095c-4668-b288-1b433984bf35.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Flatfile — Extensible API + event based platform for data-file import",
-                    "description": "The Flatfile Data Exchange Platform provides developers an easy, fast, and secure way to build your ideal solution for importing CSV, Excel, or other data-files, without compromising on flexibility. With our API-first, event-driven architecture developers can build fully customizable, powerful workflows that address any file-based import use case, combined with a highly intuitive experience designed for end-users. See the magic of Flatfile for yourself and get started today, it’s free!"
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/f2fe3365-9ba8-498a-b1fe-e74bbd5b425e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Trigger.dev — The open source background jobs framework",
-                    "description": "Create long-running jobs directly in your codebase with features like API integrations, webhooks, scheduling and delays."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/2584f116-12d2-4fc5-bae0-092a5a0b44d5.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Recall.ai — The universal API for meeting bots",
-                    "description": "The universal API for meeting bots. Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Video Hosting",
-            "sub_cat_heading": "The best Video Hosting in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/f01f527e-e5f9-4822-8f11-bfac2ed71eb8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Remotion — Create videos programmatically",
-                    "description": "Make real MP4 videos written in React using CSS, SVG, and WebGL to make interesting motion graphics. Use programming to dynamically make different variants of videos and automate it using server-side rendering."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/226cb944-ade1-4740-bb4d-233bd30d682f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Twitch — Livestream multiplayer games & esports",
-                    "description": "Twitch is a video live streaming service operated by Twitch Interactive, a subsidiary of Amazon. Twitch is the world's leading live streaming platform for gamers and the things we love. Watch and chat now with millions of other fans from around the world."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/404c3af4-a51d-4e86-967e-5dd1d7cc686b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Mux — How developers build online video",
-                    "description": "Mux Video is an API that enables developers to build unique live and on-demand video experiences."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/fb8482c5-7250-467d-9b06-e5aeaa8cfcdd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "Pexels — The best free stock photos & videos shared by creators",
-                    "description": "Free stock photos & videos you can use everywhere. Browse millions of high-quality royalty free stock images & copyright free pictures."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/1d1f2d58-8844-463b-883a-342e8d7d733f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Netflix — Watch TV shows and movies online.",
-                    "description": "Netflix is a streaming service that offers a wide variety of award-winning TV shows, movies, anime, documentaries, and more on thousands of internet-connected devices. You can watch as much as you want, whenever you want without a single commercial – all for one low monthly price. There's always something new to discover and new TV shows and movies are added every week!"
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/135e55ee-a739-450c-9cc0-d9ee1c468110.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "StreamYard — The easiest way to create professional live streams",
-                    "description": "StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms."
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/b4c48188-ee68-410d-96b0-da6db37a0666.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "CompressX — Ultra video compression",
-                    "description": "Stop uploading your video to online website for compressing. CompressX helps you to compress your video up to 90% file size reduction without significant loss of quality while working totally offline."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/e65c2fca-dcd4-4b68-b6ff-2fa9b7b0e19e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Rewatch — Collaborative video workspace designed to help teams know more and move fast",
-                    "description": "Rewatch lets you securely save, manage, and search all your video content so teams collaborate faster and work just gets better."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/b5076082-e97c-40ca-9820-d82b6c55602a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Sieve — Process and search 24 hours of video in less than 10 mins",
-                    "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/4fdeb678-09de-42ca-989f-b1ae183eaead.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "YouTube Music — A music app from YouTube",
-                    "description": "Explore our music streaming app, ad-free! New users get 1-month free trial. Terms apply. Get all your favorite albums, live performances, and remixes on our app! Explore now. A new web player. A reimagined mobile app. Watch or listen. Albums, videos & more. It's all here."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "VPN Client",
-            "sub_cat_heading": "The best VPN Client in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/4fa58cb2-14fb-4c54-abca-009642d4b26c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "MacPaw — We help machines help you",
-                    "description": "MacPaw is a software development company that develops and distributes software for macOS and iOS. MacPaw is the maker behind CleanMyMac X, Setapp, ClearVPN, SpyBuster and other products. In 2017, MacPaw acquired The Unarchiver and has been actively supporting the product since. Today, MacPaw products have more than 30 million users worldwide. Every fifth Mac on Earth has at least one app by MacPaw. The company was founded in 2008 in Kyiv, Ukraine."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Web Hosting Services",
-            "sub_cat_heading": "The best Web Hosting Services in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/593ff5e2-9d11-491c-ab63-9e929e894214.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Vercel — Seamless hosting for frontend developers",
-                    "description": "Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/db4ba1a3-da45-4435-b285-ca59047141e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "DigitalOcean — A cloud platform to deploy, manage & scale apps of any size",
-                    "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/c5755a02-777d-4baf-a7d0-c5654511ef36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Render — Build, deploy, and scale your apps with unparalleled ease",
-                    "description": "A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/dcd7544f-1c99-42be-be2b-e0cc80c463b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Ruby on Rails — A full-stack framework to build amazing web apps",
-                    "description": "Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/2244b16a-9d2e-4330-b432-3653fb1eb467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Amazon Web Services — Virtual private server and web hosting-Amazon Lightsail",
-                    "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Cloudflare — The web performance & security company",
-                    "description": "Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence."
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/8fd47ed2-7e09-42c0-8a09-9e66744ab17d.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Laravel Framework — The PHP Framework for Web Artisans",
-                    "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/2b68d04c-43ea-4ab2-9e67-3186b149bd8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Remix — Next gen full stack web framework",
-                    "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/6c17a03d-52c6-4c6a-b521-bf84de68591b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Convex — A better type of backend",
-                    "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/c5eeb80f-4c15-4fc8-833b-c9702a18a595.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Postmark — Email for web applications",
-                    "description": "Trusted by thousands of developers, Postmark is a fast and reliable email delivery service. Send with Postmark to ensure your application's emails get to the inbox on time, every time."
-                  }
-            ]
-          },
-          {
-            "sub_cat_name": "Website Analytics",
-            "sub_cat_heading": "The best Website Analytics in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "PostHog — The open source product OS",
-                    "description": "Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/6859e0cb-5118-4c0f-82d4-3c54bd4d7621.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Mixpanel — Event analytics everyone can use",
-                    "description": "An event analytics platform that allows anyone to get answers from their customer and revenue data in seconds. It offers powerful real-time charts and visualizations of how people interact with your digital products and company."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/84db18d0-6f62-4d19-8afa-968ee4bc6751.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Plausible Analytics — Simple analytics for your website",
-                    "description": "A privacy focused, open source alternative to Google Analytics that lets you measure your traffic and gives you 100% data ownership."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "June — The Simple Product Analytics App",
-                    "description": "June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users"
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "FullStory — Craft a more perfect digital experience",
-                    "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/6536ab0a-00d3-4a66-af88-9438a4315831.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "UptimeRobot — Downtime Happens. Get Notified!",
-                    "description": "An uptime monitoring service that helps users to get acknowledged of the downtimes of their websites/servers and also track the performance of them. It is actively used by 600,000+ users with much more number of monitors being checked regularly."
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/98e776ed-70e6-4294-bb2b-ef1dcf4f2896.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "umami — A self-hosted alternative to Google Analytics",
-                    "description": "Umami is a simple, easy to use, self-hosted web analytics solution. The goal is to provide you with a friendlier, privacy-focused alternative to Google Analytics and a free, open-sourced alternative to paid solutions."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/b4426700-71f2-459e-87f3-206f3b9f6471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Metricool — Analyze, manage and measure your digital content",
-                    "description": "All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. The ultimate tool for analysing, managing and measuring the success of all your digital content and campaigns. Free of charge. Complete. Intuitive."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/b055b4c8-49e9-43b2-be5d-e4a66e9055cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "bunny.net — The content delivery platform that truly hops.",
-                    "description": "Experience performance like never before. bunny.net is a reliable, powerful and lightning fast CDN designed to offer incredible performance at the worlds most cost-effective pricing. Join over 100.000 websites and make your website as fast as a bunny!"
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/f026c8ee-75a2-44de-afa4-684be5c68bdc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Ugly Duckling — Consistency on 𝕏 made easier.",
-                    "description": "Ugly Duckling is a simple and affordable analytics tool that helps you stay consistent and grow on X. The first version of Ugly Duckling, a Chrome extension, received a warm reception from the community and garnered over 100 daily active users now makes a comeback as a web application with new sharing features, beautiful charts and community leaderboard."
-                  }
-            ]
-          }, {
-            "sub_cat_name": "Website Builders",
-            "sub_cat_heading": "The best Website Builders in 2024",
-            "products": [
-                {
-                    "rank": "1",
-                    "imageUrl": "https://ph-files.imgix.net/22023c3a-52cf-4320-b181-0b5894fc03ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Framer — Design and ship your dream site with zero code",
-                    "description": "A no-code platform to create responsive webpages with text, links, media, and incredible animations."
-                  },
-                  {
-                    "rank": "2",
-                    "imageUrl": "https://ph-files.imgix.net/f6dcab85-5195-4a2b-ae33-7fee00608298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Webflow — Create custom, responsive websites, visually",
-                    "description": "Take control of HTML, CSS, and JavaScript in a visual canvas. Webflow generates clean, semantic code that’s ready to publish or hand to developers."
-                  },
-                  {
-                    "rank": "3",
-                    "imageUrl": "https://ph-files.imgix.net/88bee7a4-63c1-433f-b2e8-a104fd862e20.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Flutter — Build apps for iOS, Android, web, macOS, Windows, & Linux",
-                    "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase."
-                  },
-                  {
-                    "rank": "4",
-                    "imageUrl": "https://ph-files.imgix.net/c5755a02-777d-4baf-a7d0-c5654511ef36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Render — Build, deploy, and scale your apps with unparalleled ease",
-                    "description": "A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git."
-                  },
-                  {
-                    "rank": "5",
-                    "imageUrl": "https://ph-files.imgix.net/7d6535a4-c2fe-4f75-a71e-e5bd5156b0c9.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                    "title": "ShipFast — Ship your startup in days, not weeks",
-                    "description": "The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes."
-                  },
-                  {
-                    "rank": "6",
-                    "imageUrl": "https://ph-files.imgix.net/9e0ee9b4-d147-4c63-9061-79061baa28f9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Bubble — Build web apps without code, entirely visually",
-                    "description": "Design, develop, and launch production-grade applications without code"
-                  },
-                  {
-                    "rank": "7",
-                    "imageUrl": "https://ph-files.imgix.net/d4ad8bb6-7bd5-4e3c-93af-b69c553312ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Expo — An open-source platform for building native apps",
-                    "description": "Build, deploy, and quickly iterate on native Android, iOS, and web apps from the same JavaScript codebase."
-                  },
-                  {
-                    "rank": "8",
-                    "imageUrl": "https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Clerk — An authentication and user management platform",
-                    "description": "A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users."
-                  },
-                  {
-                    "rank": "9",
-                    "imageUrl": "https://ph-files.imgix.net/cf32e935-a497-4745-8430-8644aaf27107.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Nuxt — The Vue framework for web architects",
-                    "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence."
-                  },
-                  {
-                    "rank": "10",
-                    "imageUrl": "https://ph-files.imgix.net/76ab59d2-551c-4775-a162-f8490956d66f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                    "title": "Netlify — The composable platform for modern sites, stores, and apps.",
-                    "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt."
                   }
             ]
           }

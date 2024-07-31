@@ -10,21 +10,21 @@
       },
       {
         "rank": "2",
+        "imageUrl": "https://ph-files.imgix.net/041ce41b-00f3-4acd-b38a-95592e297e9f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "Strava — The #1 app for runners and cyclists",
+        "description": "Strava is a social fitness network, that is primarily used to track cycling and running exercises, using GPS data although alternative types are available."
+      },
+      {
+        "rank": "3",
         "imageUrl": "https://ph-files.imgix.net/be524e6e-bb63-430b-96bd-bdf7ce5a78f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Fitbit — Sharing inspiration, motivation and new ways to help you find your fit.",
         "description": "These trackers are easy to use thanks to a touchscreen, backlit display and on-screen dashboard that helps you track sleep, activity and more—right from your wrist. ... You can wear Inspire & Inspire HR in the shower, pool and beyond."
       },
       {
-        "rank": "3",
+        "rank": "4",
         "imageUrl": "https://ph-files.imgix.net/93938e31-ee30-4085-aa94-3c009a72932c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Oura — The world's first wellness ring and app",
         "description": "The most accurate sleep and activity tracker is all about you: it measures the physiological signals of your body, understands your lifestyle, and guides you to make your own optimal daily choices."
-      },
-      {
-        "rank": "4",
-        "imageUrl": "https://ph-files.imgix.net/041ce41b-00f3-4acd-b38a-95592e297e9f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-        "title": "Strava — The #1 app for runners and cyclists",
-        "description": "Strava is a social fitness network, that is primarily used to track cycling and running exercises, using GPS data although alternative types are available."
       }
     ]
   },
@@ -135,6 +135,10 @@
     ]
   },
   {
+    "url": "https://www.producthunt.com/categories/senior-care",
+    "productCards": []
+  },
+  {
     "url": "https://www.producthunt.com/categories/sleep",
     "productCards": [
       {
@@ -183,6 +187,17 @@
         "imageUrl": "https://ph-files.imgix.net/6e3e6dad-4890-4ae8-b0cb-5675c8dd273e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Replika — Always here to listen and talk. Always on your side.",
         "description": ""
+      }
+    ]
+  },
+  {
+    "url": "https://www.producthunt.com/categories/workout-platforms",
+    "productCards": [
+      {
+        "rank": "1",
+        "imageUrl": "https://ph-files.imgix.net/be524e6e-bb63-430b-96bd-bdf7ce5a78f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+        "title": "Fitbit — Sharing inspiration, motivation and new ways to help you find your fit.",
+        "description": "These trackers are easy to use thanks to a touchscreen, backlit display and on-screen dashboard that helps you track sleep, activity and more—right from your wrist. ... You can wear Inspire & Inspire HR in the shower, pool and beyond."
       }
     ]
   }

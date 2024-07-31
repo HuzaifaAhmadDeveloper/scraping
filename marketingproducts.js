@@ -2,33 +2,23 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 const urls = [
-  'https://www.producthunt.com/categories/a-b-testing',
-  'https://www.producthunt.com/categories/ai-coding',
-  'https://www.producthunt.com/categories/authentication-identity',
-  'https://www.producthunt.com/categories/automation',
-  'https://www.producthunt.com/categories/cloud-computing-platforms',
-  'https://www.producthunt.com/categories/cms',
-  'https://www.producthunt.com/categories/code-editors',
-  'https://www.producthunt.com/categories/code-review-tools',
-  'https://www.producthunt.com/categories/command-line-tools',
-  'https://www.producthunt.com/categories/data-analysis',
-  'https://www.producthunt.com/categories/data-visualization',
-  'https://www.producthunt.com/categories/databases-and-backend',
-  'https://www.producthunt.com/categories/git-clients',
-  'https://www.producthunt.com/categories/headless-cms',
-  'https://www.producthunt.com/categories/issue-tracking-software',
-  'https://www.producthunt.com/categories/membership',
-  'https://www.producthunt.com/categories/no-code-platforms',
-  'https://www.producthunt.com/categories/security-compliance',
-  'https://www.producthunt.com/categories/standup-bots',
-  'https://www.producthunt.com/categories/static-site-generators',
-  'https://www.producthunt.com/categories/testing-and-qa',
-  'https://www.producthunt.com/categories/unified-api',
-  'https://www.producthunt.com/categories/video-hosting',
-  'https://www.producthunt.com/categories/vpn-client',
-  'https://www.producthunt.com/categories/web-hosting',
-  'https://www.producthunt.com/categories/website-analytics',
-  'https://www.producthunt.com/categories/website-builders'
+  'https://www.producthunt.com/categories/advertising-tools',
+  'https://www.producthunt.com/categories/affiliate-marketing',
+  'https://www.producthunt.com/categories/best-seo-tools',
+  'https://www.producthunt.com/categories/business-intelligence',
+  'https://www.producthunt.com/categories/crm',
+  'https://www.producthunt.com/categories/customer-loyalty',
+  'https://www.producthunt.com/categories/email-marketing',
+  'https://www.producthunt.com/categories/influencer-marketing',
+  'https://www.producthunt.com/categories/keyword-research',
+  'https://www.producthunt.com/categories/landing-page-builders',
+  'https://www.producthunt.com/categories/lead-generation',
+  'https://www.producthunt.com/categories/marketing-automation',
+  'https://www.producthunt.com/categories/sales-training',
+  'https://www.producthunt.com/categories/social-media-management',
+  'https://www.producthunt.com/categories/social-media-scheduling',
+  'https://www.producthunt.com/categories/survey-and-form-builders'
+  
 ];
 
 (async () => {
@@ -77,9 +67,9 @@ const urls = [
   }
 
   // Save the scraped data to a JSON file
-  fs.writeFileSync('engproducts.json', JSON.stringify(scrapedData, null, 2));
+  fs.writeFileSync('marketingproducts.json', JSON.stringify(scrapedData, null, 2));
 
-  console.log('Data saved to engproducts.json');
+  console.log('Data saved to marketingproducts.json');
 
   await browser.close();
 })();
