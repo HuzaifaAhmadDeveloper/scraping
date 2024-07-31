@@ -4,7 +4,7 @@ const fs = require('fs');
 // Custom delay function
 const delay = (time) => new Promise((resolve) => setTimeout(resolve, time));
 
-const url = 'https://www.producthunt.com/categories/ai-coding';
+const url = 'https://www.producthunt.com/categories/authentication-identity';
 const navigationTimeout = 120000; // Increased timeout to 120 seconds
 const maxRetries = 3;
 
