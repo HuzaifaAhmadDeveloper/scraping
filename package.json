@@ -40,7 +40,8 @@
     "lifestyleproducts": "node lifestyleproducts.js",
     "insertData": "node insertData.js",
     "testEng": "node testEng.js",
-    "testAICodingAssistant": "node testAICodingAssistant.js"
+    "testAICodingAssistant": "node testAICodingAssistant.js",
+    "abtestingproduct": "node abtestingproduct.js"
   },
   "keywords": [],
   "author": "",
