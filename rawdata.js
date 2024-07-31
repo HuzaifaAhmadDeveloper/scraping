@@ -286,19 +286,11 @@
         "icon": "https://ph-files.imgix.net/817b39a7-1e9d-4994-9351-15d9d8ceb9df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "1Password — The world’s most-loved password manager",
         "description": "1Password is a password manager, digital vault, form filler and secure digital wallet. Easily store and use strong passwords. Log in to sites and fill forms securely with a single click.",
-<<<<<<< HEAD
-        "productUrl":"https://www.producthunt.com/products/1password/shoutouts",
-        "websiteUrl":"https://1password.com/?ref=producthunt",
-        "imageUrl1":"",
-        "imageUrl2":"",
-        "imageUrl3":"",
-=======
         "productUrl":"",
         "websiteUrl":"",
         "imageUrl1":"https://ph-files.imgix.net/cf601d56-d9ba-4500-9e07-968578cc5fbb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
         "imageUrl2":"https://ph-files.imgix.net/65f0e3dc-2faa-4cf6-9882-5b0680e251ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
         "imageUrl3":"https://ph-files.imgix.net/1c3b96bc-8239-46ad-a70b-1755bbf79b06.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
->>>>>>> 39f1b90e623ed2285a5ba5a5ad8c68a8bea9ffd7
         "videoUrl":""
       },
       {
