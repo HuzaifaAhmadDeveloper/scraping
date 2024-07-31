@@ -1,0 +1,564 @@
+[
+  {
+    "rank": "1",
+    "imageUrl": "https://ph-files.imgix.net/dcd7544f-1c99-42be-be2b-e0cc80c463b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Ruby on Rails — A full-stack framework to build amazing web apps",
+    "description": "Rendering HTML templates, updating databases, sending and receiving emails, maintaining live pages via WebSockets, enqueuing jobs for asynchronous work, storing uploads in the cloud, providing solid security protections for common attacks. Rails does it all and so much more.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/ruby-on-rails/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/ruby-on-rails",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/ruby-on-rails",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "http://rubyonrails.org/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "2",
+    "imageUrl": "https://ph-files.imgix.net/ec7c42b6-ea2f-479b-96d1-c34cfa9b10b1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Cloudflare — The web performance & security company",
+    "description": "Cloudflare is a leading edge network services provider that offers a wide range of solutions to enhance the security, performance, and reliability of websites and applications. With its global network infrastructure and advanced technologies, Cloudflare empowers businesses to build a faster, more secure, and resilient online presence.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/cloudflare/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/cloudflare",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/cloudflare",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/a476f06a-5b71-48a7-b734-e4bf09ceb1ae.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/99a84c8b-1ee0-4d0f-9838-85ac702d0a27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/f7bdd12a-8607-4954-80e9-5cbe580a7c88.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "http://www.cloudflare.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "3",
+    "imageUrl": "https://ph-files.imgix.net/297bc3d4-bd2e-4eaa-8fb6-a289cf61ea91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Clerk — An authentication and user management platform",
+    "description": "A complete suite of embeddable UIs, flexible APIs, and admin dashboards to authenticate and manage your users.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/clerkdev/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/clerkdev",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/clerkdev",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/dc0265c9-3e68-400a-9f25-776b4fc651dd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/73cfd1b9-59f4-4de0-b610-48f0c6aaadd1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/f73a6aa2-af0c-44cb-98f8-a8eca6a810ff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://go.clerk.com/product-hunt?ref=producthunt"
+    }
+  },
+  {
+    "rank": "4",
+    "imageUrl": "https://ph-files.imgix.net/ffb82f9d-697d-4b9f-8c05-5a5c34b39af5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Telegram 4.7 — Cloud-based, secure messaging app",
+    "description": "Telegram Messenger is a globally accessible freemium, cross-platform, encrypted, cloud-based and centralized instant messaging service.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/telegram-4-7",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/telegram-4-7",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://itunes.apple.com/app/telegram-messenger/id686449807?ref=producthunt"
+    }
+  },
+  {
+    "rank": "5",
+    "imageUrl": "https://ph-files.imgix.net/2ac7c08f-c516-447a-9439-759ffb4fe184.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Infisical — Helping dev teams sync environment variables",
+    "description": "A simple, end-to-end encrypted platform that enables Node.js teams to sync and manage their environment variables. Developers can modify start/dev scripts to pull and inject environment variables into local environments with 1 line of code.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/infisical/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/infisical",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/infisical",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/002590a8-b72c-435e-b566-52d64949382a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/10677d06-b7d4-47c9-bfb7-def676e0e128.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/a8bff529-611a-4295-92f2-520ac85a68b2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://infisical.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "6",
+    "imageUrl": "https://ph-files.imgix.net/362dde8b-376b-41ba-b569-cb7970627b26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Persona — Identity verification for any use case, starting at $0",
+    "description": "Persona offers a suite of fully-automated identity verification components with worldwide coverage that can be configured and branded to create custom-tailored flows for any use case. Sign up for the Starter plan and start for free in <10 minutes.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/persona-4/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/persona-4",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/persona-4",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://withpersona.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "7",
+    "imageUrl": "https://ph-files.imgix.net/afa0d0ae-7cbb-46ec-869b-892d991b120a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "WorkOS — Your app, Enterprise Ready",
+    "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/workos/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/workos",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/workos",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://www.workos.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "8",
+    "imageUrl": "https://ph-files.imgix.net/437602fd-635f-4367-b497-ce5ebdcd7471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Stytch — User infrastructure for modern applications",
+    "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/stytch/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/stytch",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/stytch",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/125478d1-a98c-448d-a707-6c661d2d0dff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/7ea7df98-8381-4fb9-b118-90ffd5569973.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/c399c2e3-a7b2-435a-b509-2c7b7db9b731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://stytch.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "9",
+    "imageUrl": "https://ph-files.imgix.net/520f10cf-db80-4319-9ecc-c693e1558c87.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Sardine — A fraud and financial crime protection platform",
+    "description": "Protect every customer interaction from financial crime. Used by banks, retailers, and fintechs to detect fraud patterns, prevent money laundering, and stop sophisticated scams.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/sardine/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/sardine",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/sardine",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://www.sardine.ai/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "10",
+    "imageUrl": "https://ph-files.imgix.net/6819516b-a862-4aa0-908e-72f4a9a1ffa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Middesk — A business identity platform",
+    "description": "A suite of identity products to help companies across the US verify their commercial customers.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/middesk/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/middesk",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/middesk",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://middesk.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "11",
+    "imageUrl": "https://ph-files.imgix.net/245e6401-8144-4663-b12a-a11446a39958.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Auth0 — Secure access for everyone. But not just anyone.",
+    "description": "Whether you’re a developer looking to innovate or a security professional looking to mitigate, we make identity work for everyone. Auth0 is the solution you need for web, mobile, IoT, and internal applications. Loved by developers and trusted by enterprises.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/auth0/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/auth0",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/auth0",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/acda176d-71a4-4af9-b38b-bf580764e338.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/6485bf0a-8445-48c6-b0ad-a7626e6580c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/377348eb-485d-4eb8-b30a-74f1cf2b41d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://auth0.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "12",
+    "imageUrl": "https://ph-files.imgix.net/dcc49a48-bd4e-422f-a98d-0a8092c1fb64.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Kinde — Simple, powerful authentication you can integrate in minutes",
+    "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/kinde/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/kinde",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/kinde",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://www.kinde.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "13",
+    "imageUrl": "https://ph-files.imgix.net/6eab1c05-92f8-416b-a19c-a42fc9ec53e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Android 14 — Express yourself, take control, and stay safe",
+    "description": "Android 14 is available today on Pixel phones 4A, 5G, and up with phones from Samsung, Nothing, and OnePlus. More supporting will be supporting it later this year.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/android-14/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/android-14",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/android-14",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://blog.google/products/android/android-14?ref=producthunt"
+    }
+  },
+  {
+    "rank": "14",
+    "imageUrl": "https://ph-files.imgix.net/a3a5a8d6-2705-4bdf-83a7-e72886f71c3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Glasskube — 🧊 The next generation Package Manager for Kubernetes 📦",
+    "description": "Building on the pitfalls of other popular package managers in the ecosystem, we aim to deliver streamlined package updates, easy GitOps integration, package dependency management, and simplified configuration options.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/glasskube/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/glasskube",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/glasskube",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/198848c5-7480-44fd-99df-61c2c1ecf641.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/1f2dce86-844b-4450-a898-0758c5d20778.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/7b9c7745-0ec3-48d4-853f-937ff11103e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://github.com/glasskube/glasskube?ref=producthunt"
+    }
+  },
+  {
+    "rank": "15",
+    "imageUrl": "https://ph-files.imgix.net/35b73e49-865c-4f43-833e-1c261db678be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Gitsecure — AI-powered application security tool for engineering teams",
+    "description": "",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/gitsecure/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/gitsecure",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/gitsecure",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://www.gitsecure.dev/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "16",
+    "imageUrl": "https://ph-files.imgix.net/5568900d-a099-4d0a-a268-dd7192f29037.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Doppler — Easily manage your environment variables and secrets",
+    "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/doppler-2/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/doppler-2",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/doppler-2",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://doppler.com/partners/product-hunt?ref=producthunt"
+    }
+  },
+  {
+    "rank": "17",
+    "imageUrl": "https://ph-files.imgix.net/817b39a7-1e9d-4994-9351-15d9d8ceb9df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "1Password — The world’s most-loved password manager",
+    "description": "1Password is a password manager, digital vault, form filler and secure digital wallet. Easily store and use strong passwords. Log in to sites and fill forms securely with a single click.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/1password/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/1password",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/1password",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/cf601d56-d9ba-4500-9e07-968578cc5fbb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/65f0e3dc-2faa-4cf6-9882-5b0680e251ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/1c3b96bc-8239-46ad-a70b-1755bbf79b06.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://1password.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "18",
+    "imageUrl": "https://ph-files.imgix.net/8a47f03c-5ebb-43bf-8340-d2eabb307b85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Turnkey — Simple APIs to securely manage your crypto private keys",
+    "description": "Introducing Turnkey, a new model for secure and easy-to-use private key infrastructure based on secure enclaves and built by the team behind Coinbase Custody. Create wallets, sign transactions, and easily manage access permissions for your team or end users.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/turnkey/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/turnkey",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/turnkey",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/6952fba7-949e-4d25-b8be-f956a9b1aada.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/62953c96-b441-4788-b765-ed94ac73cc8e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/2b39de98-5dbc-4442-b1a3-1630b7badeb7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://www.turnkey.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "19",
+    "imageUrl": "https://ph-files.imgix.net/99b25702-dd13-48d7-8ebd-33051d0c40d3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Datadog, Inc. — Monitoring and security platform for cloud applications",
+    "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/datadog-inc/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/datadog-inc",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/datadog-inc",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [
+        "https://ph-files.imgix.net/7952824c-efd0-4117-8150-bebce64418f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/218c3afc-2d30-4fc3-8c14-3ecd990a16c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://www.datadoghq.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "20",
+    "imageUrl": "https://ph-files.imgix.net/948ff980-54cd-4e1c-b9fd-f79a8d7e8638.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Vanta — Automate compliance and streamline security reviews",
+    "description": "Whether you’re starting or scaling your security program, Vanta helps you automate compliance across frameworks like SOC 2, ISO 27001, ISO 42001, HIPAA, HITRUST CSF, GDPR, and more. Streamline security reviews by automating questionnaires and demonstrating your security posture with a customer-facing Trust Center, all powered by Vanta AI. Over 7,000 global companies like Atlassian, Flo Health, and Quora use Vanta to manage risk and prove security in real time.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/vanta/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/vanta",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/vanta",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "imageUrls": [],
+      "buttonAnchorHref": "https://www.vanta.com/lp/demo-1k?utm_campaign=1k_offer&utm_source=product-hunt&utm_medium=newsletter&ref=producthunt"
+    }
+  }
+]
