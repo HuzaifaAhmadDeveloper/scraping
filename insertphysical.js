@@ -74,24 +74,18 @@ const data ={
               },
               {
                 "rank": "6",
-                "imageUrl": "https://ph-files.imgix.net/d49f026e-6021-46cd-8dd8-e94e15059e5b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                "title": "Ingress — Real world mobile game from Google",
-                "description": ""
-              },
-              {
-                "rank": "7",
                 "imageUrl": "https://ph-files.imgix.net/b99d037f-b683-4801-8dc0-8ef28a5d75fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Pokemon GO — Augmented reality Pokemon-catching game",
                 "description": "Join Trainers across the globe who are discovering Pokémon as they explore the world around them. Pokémon GO is the global gaming sensation that has been downloaded over 1 billion times"
               },
               {
-                "rank": "8",
+                "rank": "7",
                 "imageUrl": "https://ph-files.imgix.net/ab125eab-35d4-4161-8cf2-0465264cde95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "GODOT — Godot is a 2D and 3D cross-platform compatible game engine.",
                 "description": "GODOT is a 2D and 3D cross-platform compatible game engine released as open source software under the MIT license."
               },
               {
-                "rank": "9",
+                "rank": "8",
                 "imageUrl": "https://ph-files.imgix.net/da71481f-a239-49ac-ba8e-d8b9c2e1cbfa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Heardle — Heardle - Spotify Music Guessing Game",
                 "description": "Since spotify decided to get rid of their headle game, here is a new version. I really enjoyed playing heardle and hated that spotify got rid of it. So I have been playing this version now and made it into a website."
@@ -143,12 +137,6 @@ const data ={
                 "imageUrl": "https://ph-files.imgix.net/39fa125b-b949-49d0-99bd-c960671e2a2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Limitless — Go beyond your mind's limitations",
                 "description": "Limitless is personalized AI powered by what you've seen, said, and heard. It is a web app, a Mac app, a Windows app, and a wearable that helps overcome the brain’s limitations, specifically memory and focus. We create tools that augment—not replace—human intelligence with artificial intelligence to overcome the brain’s limitations."
-              },
-              {
-                "rank": "6",
-                "imageUrl": "https://ph-files.imgix.net/8ba0c43e-a89b-4bbd-ae67-788f5cb9156f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                "title": "Apple Vision Pro — Apple Vision Pro is Apple’s first spatial computer.",
-                "description": ""
               }
             ]
           }

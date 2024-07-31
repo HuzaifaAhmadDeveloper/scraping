@@ -38,7 +38,9 @@
     "ecommernceproduct": "node ecommernceproduct.js",
     "familyproducts": "node familyproducts.js",
     "lifestyleproducts": "node lifestyleproducts.js",
-    "insertData": "node insertData.js"
+    "insertData": "node insertData.js",
+    "testEng": "node testEng.js",
+    "testAICodingAssistant": "node testAICodingAssistant.js"
   },
   "keywords": [],
   "author": "",

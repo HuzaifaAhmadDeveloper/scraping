@@ -134,43 +134,37 @@ const data ={
               },
               {
                 "rank": "2",
-                "imageUrl": "https://ph-files.imgix.net/1dfe3f22-80e7-4101-8786-46682ca3229b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                "title": "Ethereum — Blockchains, Digital Assets, and Smart Contracts",
-                "description": ""
-              },
-              {
-                "rank": "3",
                 "imageUrl": "https://ph-files.imgix.net/dfa94bd6-27a2-4af0-b729-e2606d9defdf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Dfinity — Build On The Internet. No Dependencies.",
                 "description": "The Internet Computer extends the public Internet so it can natively host websites, software systems, open internet services and DeFi. It is created by independent data centers worldwide running the ICP protocol."
               },
               {
-                "rank": "4",
+                "rank": "3",
                 "imageUrl": "https://ph-files.imgix.net/57207a9e-73e5-4bdf-b327-10b34ebb91d7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "DefiLlama — Defi dashboard",
                 "description": "Defi Llama is a dashboard that provides cross-chain data on the state of Decentralized Finance. They're committed to accuracy and transparency. I've found it really useful for exploring new ecosystems!"
               },
               
               {
-                "rank": "5",
+                "rank": "4",
                 "imageUrl": "https://ph-files.imgix.net/669da0d8-b061-46ec-8cb1-bfa246bbef7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Matrixport — Crypto financial products made simple and accessible",
                 "description": "Matrixport is the most reliable place to buy, invest and trade your digital assets and earn interest. Matrixport offers innovative and easy-to-use crypto investment products and DeFi products tailored for all crypto investors."
               },
               {
-                "rank": "6",
+                "rank": "5",
                 "imageUrl": "https://ph-files.imgix.net/44f980f9-82c8-4eec-82d1-09e411b6ab04.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "BscScan — BscScan - Binance (BNB) Blockchain Explorer",
                 "description": "BscScan is a block pilgrim created by a similar group behind Etherscan It is an examination stage for the Binance Savvy Chain organization and has numerous other helpful elements. BscScan contains information to follow DeFi projects on BSC."
               },
               {
-                "rank": "7",
+                "rank": "6",
                 "imageUrl": "https://ph-files.imgix.net/b590bbf8-3c54-441a-be7b-55e1816d46a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "OpenEden — A tokenized RWA vault",
                 "description": "Bridging TradFi with DeFi, starting with U.S. treasury bills."
               },
               {
-                "rank": "8",
+                "rank": "7",
                 "imageUrl": "https://ph-files.imgix.net/5277b313-95f7-4608-9cc1-c6ed1a9aa0b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Phantom — A friendly multichain wallet built for DeFi & NFTs",
                 "description": "Phantom makes it safe & easy for you to store, send, receive, stake, and swap tokens on Solana, Ethereum, Polygon, and Bitcoin."

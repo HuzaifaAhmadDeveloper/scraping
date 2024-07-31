@@ -2,9 +2,8 @@ const puppeteer = require('puppeteer');
 const fs = require('fs');
 
 const urls = [
+  'https://www.producthunt.com/categories/a-b-testing',
 
-  'https://www.producthunt.com/categories/static-site-generators',
-  'https://www.producthunt.com/categories/testing-and-qa',
 ];
 
 (async () => {

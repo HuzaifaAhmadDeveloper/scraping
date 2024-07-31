@@ -1,0 +1,180 @@
+[
+  {
+    "rank": "1",
+    "imageUrl": "https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "PostHog — The open source product OS",
+    "description": "Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/posthog/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/posthog",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/posthog",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is PostHog?",
+      "imageUrls": [
+        "https://ph-files.imgix.net/4d476341-9ced-408d-9516-50e5623fa042.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/8c68a387-4753-4439-8a9a-5f828546619a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/d8fe9515-97bf-434d-8489-29ad35b4fb30.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://posthog.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "2",
+    "imageUrl": "https://ph-files.imgix.net/6fedb2b3-4abe-47f0-999b-cac7a91b5a39.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Statsig — #1 feature management and product experimentation platform",
+    "description": "Statsig is the leading product experimentation platform that helps businesses use data to ship fast and build better products. Companies like OpenAI, Notion, Brex, and Eventbrite use Statsig to manage feature rollouts, automate experiments, and make decisions based on performance metrics. Founded in 2021 by former Facebook engineers, Statsig supports thousands of experiments impacting over a billion end users globally.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/statsig/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/statsig",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/statsig",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is Statsig?",
+      "imageUrls": [
+        "https://ph-files.imgix.net/3330d7d8-fe5a-4989-8d54-d9b46a96d6e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/1a667b3a-7820-4b59-bb8f-be8bc77c7514.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/9f7a554b-8657-4117-adc5-50bae7928e43.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://www.statsig.com/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "3",
+    "imageUrl": "https://ph-files.imgix.net/2e54cf9a-80a5-4397-ab91-16f56a8f9d1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Adapty — Grow mobile in-app subscriptions 💵",
+    "description": "Adapty is a service for analyzing and growing mobile in-app subscriptions. Use Adapty for paywalls A/B testing, measuring economy and customers promotion.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/adapty/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/adapty",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/adapty",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is Adapty?",
+      "imageUrls": [
+        "https://ph-files.imgix.net/7c55cc47-154f-4ff8-a2bf-a7b9b2818272.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/be921d60-43b0-49d2-b22f-d685d76ef8a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/954e5803-0f47-4514-8365-41eca3a79a3e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://adapty.io/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "4",
+    "imageUrl": "https://ph-files.imgix.net/35fa9a2c-e327-48b9-a9a7-0b6d95c69537.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Glassfy — The in-app subscriptions platform",
+    "description": "Glassfy open-source SDK provides you with subscription infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/glassfy/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/glassfy",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/glassfy",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is Glassfy?",
+      "imageUrls": [],
+      "buttonAnchorHref": "https://glassfy.io/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "5",
+    "imageUrl": "https://ph-files.imgix.net/f70f6d3f-d70d-4a12-b677-223b100edb59.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "GrowthBook — The open-source LaunchDarkly alternative",
+    "description": "GrowthBook is an open source feature flagging and experimentation platform. Safely release features to production and measure the impact on your key metrics.",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/growthbook/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/growthbook",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/growthbook",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is GrowthBook?",
+      "imageUrls": [
+        "https://ph-files.imgix.net/3b86fe7b-6b39-4a9f-9f13-ec1303a70732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/ce6b634c-a35b-4ca9-9729-a2bedc2cf6bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "https://ph-files.imgix.net/33dd37e9-99ca-46d9-8ccd-cd5d87fc2bea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop"
+      ],
+      "buttonAnchorHref": "https://www.growthbook.io/?ref=producthunt"
+    }
+  },
+  {
+    "rank": "6",
+    "imageUrl": "https://ph-files.imgix.net/728aaa80-d054-4ff6-9cc5-56c61c9925ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Countly — # 1 privacy-led product analytics",
+    "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
+    "additionalAnchor": {
+      "href": "https://www.producthunt.com/products/countly/shoutouts",
+      "text": ""
+    },
+    "additionalPageData": {
+      "secondAnchor": {
+        "href": "https://www.producthunt.com/products/countly",
+        "text": "Overview"
+      }
+    },
+    "secondAnchorPageData": {
+      "anchor": {
+        "href": "https://www.producthunt.com/products/countly",
+        "text": "Overview"
+      }
+    },
+    "thirdAnchorPageData": {
+      "specificDivText": "What is Countly ?",
+      "imageUrls": [],
+      "buttonAnchorHref": "http://countly.com/?ref=producthunt"
+    }
+  }
+]

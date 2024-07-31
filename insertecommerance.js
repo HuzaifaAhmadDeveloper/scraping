@@ -11,11 +11,11 @@ const client = new Client({
 
 const data ={
     "category": {
-      "cat_name": "Ecommerance",
-      "cat_heading": "The best Ecommerance in 2024",
+      "cat_name": "Ecommerce",
+      "cat_heading": "The best Ecommerce in 2024",
       "sub_categories": [
         {
-          "sub_cat_name": "Ecommerance platforms",
+          "sub_cat_name": "Ecommerce platforms",
           "sub_cat_heading": "The best Ecommerance platforms in 2024",
           "products": [
             {
@@ -56,24 +56,18 @@ const data ={
             },
             {
               "rank": "7",
-              "imageUrl": "https://ph-files.imgix.net/bf1ebcaf-674d-45fe-aec6-debe967022d1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-              "title": "Approximated — Offer custom automated domains as a feature to your users.",
-              "description": ""
-            },
-            {
-              "rank": "8",
               "imageUrl": "https://ph-files.imgix.net/df4c2ec0-33bf-49bd-ac27-9279a72002c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
               "title": "WordPress.org — WCFM Marketplace – Best Multivendor Marketplace for WooCommerce – WordPress plugin",
               "description": "The most featured and powerful multi vendor plugin for WordPress, setup best woocommerce marketplace store in minutes. More flexible than WC Markerpla …"
             },
             {
-              "rank": "9",
+              "rank": "8",
               "imageUrl": "https://ph-files.imgix.net/ad5ebf69-433d-4c60-878f-2c87b0a93fba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
               "title": "Usequeue — All-in-one platform to launch your productized services",
               "description": "Launch your productized service business in less than 5mins with everything setup and ready to go for you. No more gluing together 8 softwares and confusing your clients. Add checkout, client portal, and collaboration tools to your website for a seamless experience for your clients and giving you the only platform you'll need to work with them. All 100% white-labeled on your domain."
             },
             {
-              "rank": "10",
+              "rank": "9",
               "imageUrl": "https://ph-files.imgix.net/e067f5d2-8e9d-4f83-8c5a-0a85aee66413.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
               "title": "Squarespace — Everything needed to power your ideas.",
               "description": "Squarespace is the all-in-one solution for anyone looking to create a beautiful website. Domains, eCommerce, hosting, galleries, analytics, and 24/7 support all included."
@@ -152,40 +146,23 @@ const data ={
               },
               {
                 "rank": "5",
-                "imageUrl": "https://ph-files.imgix.net/eb25d527-d423-4702-b0f2-9d6b6afe1789.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                "title": "Superwall — Paywalls made easy",
-                "description": ""
-              },
-              {
-                "rank": "6",
                 "imageUrl": "https://ph-files.imgix.net/29c5bafb-178f-41d4-bdcf-b3a9dcd978b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Chargebee — The smartest way to set up your subscription billing.",
                 "description": "Chargebee's subscription billing software powers end-to-end recurring billing for subscription businesses with smart automation."
               },
               {
-                "rank": "7",
-                "imageUrl": "https://ph-files.imgix.net/efd26bfa-389a-4018-ba4c-1c31dfc5e488.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-                "title": "Hyperline — Flexible billing platform for B2B SaaS businesses.",
-                "description": ""
-              },
-              {
-                "rank": "8",
+                "rank": "6",
                 "imageUrl": "https://ph-files.imgix.net/35fa9a2c-e327-48b9-a9a7-0b6d95c69537.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "Glassfy — The in-app subscriptions platform",
                 "description": "Glassfy open-source SDK provides you with subscription infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle."
               },
               {
-                "rank": "9",
+                "rank": "7",
                 "imageUrl": "https://ph-files.imgix.net/c5f08f1d-6637-46e5-874f-6c411827048e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
                 "title": "PayPal — Send Payments, Pay Online, Merchant Account",
                 "description": "New Money gives you more control over your funds so you can spend, send, and receive the way you want. See what’s possible. For help, tweet us at @AskPayPal."
-              },
-              {
-                "rank": "10",
-                "imageUrl": "https://ph-files.imgix.net/b14c3f03-0d4c-40cc-8ea9-43e32c9970cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-                "title": "ExtensionPay — Easy Stripe integration for browser extensions",
-                "description": ""
               }
+           
             ]
           },
           {
