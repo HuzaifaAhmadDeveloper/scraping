@@ -41,7 +41,7 @@
     "insertData": "node insertData.js",
     "testEng": "node testEng.js",
     "testAICodingAssistant": "node testAICodingAssistant.js",
-    "abtestingproduct": "node abtestingproduct.js"
+    "insertEngineering": "node insertEngineering.js"
   },
   "keywords": [],
   "author": "",
