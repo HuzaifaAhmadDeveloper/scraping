@@ -98,7 +98,7 @@ const data = {
           }
         ]
       }
-    ]
+    ] //End of Main Sub Category Array
   }
 };
 
@@ -125,8 +125,8 @@ const insertData = async () => {
 
       for (const product of sub_category.products) {
         await client.query(
-          `INSERT INTO Products (rank, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)`,
-          [product.rank, product.icon, product.title, product.description, product.productUrl, product.websiteUrl, product.imageUrl1, product.imageUrl2, product.imageUrl3, product.videoUrl, cat_id, sub_cat_id]
+          `INSERT INTO Products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)`,
+          [product.rank, product.name, product.icon, product.title, product.description, product.productUrl, product.websiteUrl, product.imageUrl1, product.imageUrl2, product.imageUrl3, product.videoUrl, cat_id, sub_cat_id]
         );
       }
     }
