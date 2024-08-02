@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "1",
+    "name": "Dub.co",
+    "icon": "https://ph-files.imgix.net/3bb3ea09-8afe-42b0-8545-160370510ec5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Dub.co — Short links with superpowers",
+    "description": "A link management infrastructure for modern marketing teams.",
+    "productUrl": "https://www.producthunt.com/products/dub/shoutouts",
+    "websiteUrl": "https://dub.co/",
+    "imageUrl1": "https://ph-files.imgix.net/31019773-724e-4fac-98e7-12ff182cc8c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/c2525e84-f627-4054-9a26-3b88124bd0fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/5f79cd53-6634-4380-b478-b763725b0056.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Bento",
+    "icon": "https://ph-files.imgix.net/383901b4-d901-45cb-a3c1-60d4abcf4d75.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Bento — A link in bio, but rich and beautiful. ✨",
+    "description": "Your personal page to show everything you are and create. Bento makes it fun and delightful to tell your story by beautifully displaying all your content and links. Show the world who you are and start your journey today.",
+    "productUrl": "https://www.producthunt.com/products/bento-22a484ea-84c2-42e5-9739-4bd97b040659/shoutouts",
+    "websiteUrl": "https://bento.me/signup",
+    "imageUrl1": "https://ph-files.imgix.net/6b1b8de0-3fe0-4ef8-9cc5-3bf0228fb727.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/c78af76f-6561-4e9f-a6ef-bf821fa2ad0d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Geniuslink",
+    "icon": "https://ph-files.imgix.net/6bea32bc-ca16-4a3b-98c6-73632a56134b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Geniuslink — Squeeze more revenue out of every link you share",
+    "description": "Geniuslink makes localizing, tracking, and managing smart links dead simple, so you can earn more without added work. Get the most out of every link with simple and powerful tools that improve conversions and save you time.",
+    "productUrl": "https://www.producthunt.com/products/geniuslink-2/shoutouts",
+    "websiteUrl": "https://geniuslink.com/",
+    "imageUrl1": "https://ph-files.imgix.net/85fa38c3-9041-41cf-8c32-33bc7ac04bcb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/c65701e2-11c1-4853-906b-0b92b8c1e717.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/2df42403-376b-4526-9e00-9c16eab2ba48.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Drupico",
+    "icon": "https://ph-files.imgix.net/e6db4274-2740-4a03-8233-17db3c4635fc.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Drupico — Link management for developers.",
+    "description": "All your articles, references, links, bookmarks. One place. Organised. Accessible.",
+    "productUrl": "https://www.producthunt.com/products/drupico/shoutouts",
+    "websiteUrl": "https://drupico.com/",
+    "imageUrl1": "https://ph-files.imgix.net/3d0a2fa2-da21-4798-aae9-cd4cff6ebddf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/f9391d64-72df-4350-8a6f-db9bc5c8430a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/3b91c9ed-e687-4b28-aee9-70b6647b5000.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]
