@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "LinkedIn",
+    "icon": "https://ph-files.imgix.net/96d6beef-7855-4cae-8dec-cecff48229d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "LinkedIn — Connect, apply, and find jobs",
+    "description": "Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities. LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
+    "productUrl": "https://www.producthunt.com/products/linkedin/shoutouts",
+    "websiteUrl": "https://linkedin.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Resoume",
+    "icon": "https://ph-files.imgix.net/366f94d3-2548-4d0f-a1c7-fcce5326a8b4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Resoume — A beautiful resume and website builder",
+    "description": "An AI-powered resume builder to help you get hired.",
+    "productUrl": "https://www.producthunt.com/products/resoume/shoutouts",
+    "websiteUrl": "https://resoume.com/",
+    "imageUrl1": "https://ph-files.imgix.net/63ea3eda-873b-40a8-b7cc-e07995f7f9b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/49d58453-c4cb-4ebe-a796-00cf31f9f567.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/69cd1d1d-bf53-4a0f-9a96-e41d32e77cf3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Arc",
+    "icon": "https://ph-files.imgix.net/c751b10c-89ea-4669-8f62-8f8ca5351690.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Arc — A new web browser with a ton of personality",
+    "description": "A browser that promotes organization and concentration. It is flexible and able to adapt to the most specific individual needs.",
+    "productUrl": "https://www.producthunt.com/products/arc-4/shoutouts",
+    "websiteUrl": "https://arc.net/",
+    "imageUrl1": "https://ph-files.imgix.net/527a7060-2039-4d44-bc23-86d8b439870d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/a9326a32-1d77-4cfe-a98e-200aec48e5ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Google Chrome",
+    "icon": "https://ph-files.imgix.net/6fdd48af-5951-4156-85bb-2f9d6527fa70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Google Chrome — A more simple, secure, and faster web browser than ever",
+    "description": "Google Chrome is a cross-platform web browser developed by Google. It was first released in 2008 for Microsoft Windows, and was later ported to Linux, macOS, iOS, and Android. The browser is also the main component of Chrome OS, where it serves as the platform for web apps.",
+    "productUrl": "https://www.producthunt.com/products/google-chrome/shoutouts",
+    "websiteUrl": "http://google.com/chrome",
+    "imageUrl1": "https://ph-files.imgix.net/2938f669-1180-4d9e-b742-7e4f600b02fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/e56bc265-a6e2-4508-b420-31ad4b3f152c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Safari",
+    "icon": "https://ph-files.imgix.net/86f6aa96-eb12-4196-a016-a56404eaa5ff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Safari — The best way to see the sites.",
+    "description": "We built Safari to be the best browser for your Mac, iPhone, and iPad. Built-in privacy features keep your browsing your business. You can stream and search smarter with handy tools that help you save, find, and share your favorite sites. Apple Pay in Safari lets you shop safely and simply. Safari for Mac is faster and more energy efficient than other browsers.",
+    "productUrl": "https://www.producthunt.com/products/safari/shoutouts",
+    "websiteUrl": "https://www.apple.com/safari",
+    "imageUrl1": "https://ph-files.imgix.net/1bc59eb8-ac00-4b7e-880c-0f7aee43ed6b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/f00720a8-2f11-4407-9ade-97a4e6166214.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f727b5fe-5719-411c-91cb-19dba04feaf8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Brave Private Browser",
+    "icon": "https://ph-files.imgix.net/be677203-0a88-4763-8513-73107463a558.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Brave Private Browser — The browser that rethinks the web.",
+    "description": "The Brave Privacy Browser is your fast, free, and safe private web browser with ad blocker and pop-up blocker. Privately browse and search the internet without being tracked by advertisers, malware and pop-ups.",
+    "productUrl": "https://www.producthunt.com/products/brave-private-browser/shoutouts",
+    "websiteUrl": "https://brave.com/",
+    "imageUrl1": "https://ph-files.imgix.net/73da3c74-10b9-46bf-ab82-c17603df4f0d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/467d6e49-9477-4256-bf8f-a37426bd9ed4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4fb82470-cd76-439a-920e-73129dab0459.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Mozilla",
+    "icon": "https://ph-files.imgix.net/53d2b21c-5b9e-4d6a-be7a-80def985de79.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Mozilla — Download Firefox Browser — Fast, Private & Free — from Mozilla",
+    "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
+    "productUrl": "https://www.producthunt.com/products/mozilla-2/shoutouts",
+    "websiteUrl": "https://www.mozilla.org/en-US/firefox/new",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

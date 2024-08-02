@@ -1,0 +1,80 @@
+[
+  {
+    "rank": "1",
+    "name": "Focused Work - Focus Timer",
+    "icon": "https://ph-files.imgix.net/385e1f9a-53fa-41d8-8e0e-65e9118752fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Focused Work - Focus Timer — Flexible focus sessions to stay productive & avoid burnout.",
+    "description": "Focused Work is a flexible Focus Timer that helps you stay productive and avoid burnout. It’s purpose-built for people who struggle with focusing and structuring their time effectively.",
+    "productUrl": "https://www.producthunt.com/products/focused-work-focus-timer/shoutouts",
+    "websiteUrl": "https://focusedwork.app/",
+    "imageUrl1": "https://ph-files.imgix.net/33d69978-0f53-4f41-b2d5-bb2203c2ce2b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/a7ea21b0-850d-473a-aff4-ed0105457682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/28212fa0-127f-450c-8292-306e6c9c9818.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Rize",
+    "icon": "https://ph-files.imgix.net/9a7d9bc0-bae5-4bfe-b10e-f48be6b86a4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Rize — An intelligent time tracker that makes you more productive",
+    "description": "Rize is a time tracker that makes you more productive. It helps you be more in control of your workday and builds better habits by encouraging you to be more focused and more efficient. Currently available on macOS. Windows and Linux coming soon.",
+    "productUrl": "https://www.producthunt.com/products/rizeio/shoutouts",
+    "websiteUrl": "https://rize.io/",
+    "imageUrl1": "https://ph-files.imgix.net/39876024-0692-46bd-bdd7-e6d56abe27f5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/7b2a9113-2982-419a-8975-9333e10f53e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/07abe49c-2d09-4d64-8a18-1d80f2f60a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Jibble",
+    "icon": "https://ph-files.imgix.net/cc11264b-69f6-4f8d-95bc-319a606461e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Jibble — TRACK TIME & ATTENDANCE FOR YOUR SLACK TEAM",
+    "description": "jibble.io was first indexed by Google in September 2016",
+    "productUrl": "https://www.producthunt.com/products/jibble/shoutouts",
+    "websiteUrl": "http://www.jibble.io/",
+    "imageUrl1": "https://ph-files.imgix.net/7d9d22ca-b31c-432f-9b5f-03566f18e071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3f1f9f35-0638-4bc7-a1fa-dc46551415b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/3122a49e-4e3d-4ae4-8997-1a19c1ed3fd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Clocking - Work Tracker",
+    "icon": "https://ph-files.imgix.net/1a430d62-9b02-44b7-b979-c635b12905a2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Clocking - Work Tracker — Protect your free time from over hours!",
+    "description": "Clocking protects your spare time. Receive notifications when it is time to stop working, automatically clock in and out by location, and keep track of your over hours at ease.",
+    "productUrl": "https://www.producthunt.com/products/clocking-work-tracker/shoutouts",
+    "websiteUrl": "https://apps.apple.com/app/apple-store/id1641158389",
+    "imageUrl1": "https://ph-files.imgix.net/828cd54a-f45e-4a58-8317-612d367e8b7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/44973b40-4b64-4fc5-8b78-733bb6bf250b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/ef1ec556-f84d-4ace-9827-a03ae6b23550.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Focus Bear",
+    "icon": "https://ph-files.imgix.net/235bce6b-8ba4-4f8a-9a35-96866d2b6c50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Focus Bear — Block Distractions. Build Habits. For ADHDers by ADHDers.",
+    "description": "Focus Bear is a productivity and habit app built by a team with ADHD and ASD for people who need better focus. Helps you build better habits through real time habit guidance. Gets you into deep work by blocking distractions across all your devices (desktop and mobile).",
+    "productUrl": "https://www.producthunt.com/products/focus-bear/shoutouts",
+    "websiteUrl": "https://www.focusbear.io/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "6",
+    "name": "Pulse.red",
+    "icon": "https://ph-files.imgix.net/9e44ee89-c743-4d5d-b0d4-be71dd38fb1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Pulse.red — Keep your finger on the pulse of your projects and team.",
+    "description": "Powerful time tracker for those who appriciate simplicity. No useless infographics; stay focused on the main things.",
+    "productUrl": "https://www.producthunt.com/products/pulse-red/shoutouts",
+    "websiteUrl": "http://pulse.red/",
+    "imageUrl1": "https://ph-files.imgix.net/7fc477d3-6148-4af6-bb21-a8cef2abe03c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4e5428e4-f3b4-4764-b7e6-6caa6b0af709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]
