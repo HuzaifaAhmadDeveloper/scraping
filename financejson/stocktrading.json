@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Polygon.io",
+    "icon": "https://ph-files.imgix.net/94b63a94-9e28-4daf-ad64-3bfb4a41b412.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Polygon.io — API for Real-Time stock data",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/polygon-io/shoutouts",
+    "websiteUrl": "https://polygon.io/",
+    "imageUrl1": "https://ph-files.imgix.net/2e0c43e2-3260-4b3a-b42d-3dc2a858507c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/ef7c49bf-04da-4587-9bae-b83921b78b19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/1e72cd8b-bb85-43ef-a9df-a2f5e32bcc9c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Robinhood",
+    "icon": "https://ph-files.imgix.net/a7f4e15f-626d-4212-9d0c-d7b1279a569c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Robinhood — Investing for everyone",
+    "description": "Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.",
+    "productUrl": "https://www.producthunt.com/products/robinhood/shoutouts",
+    "websiteUrl": "http://robinhood.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]
