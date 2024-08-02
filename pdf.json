@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "Web Highlights - PDF & Web Highlighter",
+    "icon": "https://ph-files.imgix.net/cf08a44f-5fcc-42f2-b1c9-625a8ce65451.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Web Highlights - PDF & Web Highlighter — Highlight text on any web page or PDF and take notes.",
+    "description": "Tired of browsing your history to find the information you saw yesterday? Don't worry. Web Highlights got you covered. Organize your research by highlighting on any web page or PDF. Your highlights are directly synced to the web app.",
+    "productUrl": "https://www.producthunt.com/products/web-highlights-pdf-web-highlighter/shoutouts",
+    "websiteUrl": "https://web-highlights.com/",
+    "imageUrl1": "https://ph-files.imgix.net/f37c76a1-9402-4388-a1ae-c81fecb4da6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/870f3f59-1f78-466d-a00f-2c716da8ad0f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/48819029-00b0-4bf1-9476-89acc25c0eba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Instafill",
+    "icon": "https://ph-files.imgix.net/09e133eb-7f0f-4175-a272-d5d5c7a0a99b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Instafill — Fill PDF forms with AI",
+    "description": "Facing challenges with filling out PDF forms? InstaFill uses Al to understand and complete fields for you, especially when you're unsure about how to fill them. Let us handle the paperwork while you focus on what matters.",
+    "productUrl": "https://www.producthunt.com/products/instafill/shoutouts",
+    "websiteUrl": "https://instafill.ai/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Robolly",
+    "icon": "https://ph-files.imgix.net/ca00908a-9631-477e-be3b-a5cf9f4afdbc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Robolly — Dynamic images, videos & PDFs via Google Sheets or API",
+    "description": "Robolly is an all-in-one service for automated image, video & PDF generation. The potential is limitless; you can use it to generate branded social media content, open graph images, PDF certificates, personalized videos, slideshows, and so much more.",
+    "productUrl": "https://www.producthunt.com/products/robolly/shoutouts",
+    "websiteUrl": "https://robolly.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "ScreenshotOne",
+    "icon": "https://ph-files.imgix.net/10e7ef30-f2ed-482f-a5e9-d55de252202d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "ScreenshotOne — The Screenshot API you can finally rely on.",
+    "description": "Render websites and HTML as images. Block cookie banners and ads. The API uses the latest Google Chrome for rendering and Google Cloud Platform for performance and scalability.",
+    "productUrl": "https://www.producthunt.com/products/screenshotone/shoutouts",
+    "websiteUrl": "https://screenshotone.com/",
+    "imageUrl1": "https://ph-files.imgix.net/29631ddf-874c-4449-bcd5-3c9324f72aa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/20212f42-29a0-4e72-b87d-05c6eae70341.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/8588a653-2b6b-40c6-a782-ee2c533d92bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Brave Private Browser",
+    "icon": "https://ph-files.imgix.net/be677203-0a88-4763-8513-73107463a558.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Brave Private Browser — The browser that rethinks the web.",
+    "description": "The Brave Privacy Browser is your fast, free, and safe private web browser with ad blocker and pop-up blocker. Privately browse and search the internet without being tracked by advertisers, malware and pop-ups.",
+    "productUrl": "https://www.producthunt.com/products/brave-private-browser/shoutouts",
+    "websiteUrl": "https://brave.com/",
+    "imageUrl1": "https://ph-files.imgix.net/73da3c74-10b9-46bf-ab82-c17603df4f0d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/467d6e49-9477-4256-bf8f-a37426bd9ed4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4fb82470-cd76-439a-920e-73129dab0459.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

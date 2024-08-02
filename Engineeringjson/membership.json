@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Circle",
+    "icon": "https://ph-files.imgix.net/99901859-6f81-4d81-b7a0-40dce2644641.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Circle — The all-in-one community platform for creators",
+    "description": "Bring together your discussions, memberships, and content. Integrate a thriving community wherever your audience is, all under your own brand.",
+    "productUrl": "https://www.producthunt.com/products/circle-9/shoutouts",
+    "websiteUrl": "https://circle.so/",
+    "imageUrl1": "https://ph-files.imgix.net/d0920ccf-f4a3-4b0c-82b4-4e4fdd6b2566.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/879a86e3-cc22-4cd6-b392-e9eadd45838b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/6b866e5d-85bf-4393-a651-468fab765e80.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Memberstack",
+    "icon": "https://ph-files.imgix.net/fcde694f-6982-4d00-864c-a3c180203ab6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Memberstack — Authentication & Payments for Webflow. Total design freedom.",
+    "description": "Memberstack empowers you to build anything - from gated blogs, to social media platforms - all using Memberstack & Webflow (or, whatever else you use to build sites & apps). Over 3,000 companies like Slack, Reddit, and American Airlines use Memberstack to build scalable, custom membership experiences. You can build everything you need without coding - but, you can also incorporate your own code into your projects and scale with Memberstack to a full-blown react application.",
+    "productUrl": "https://www.producthunt.com/products/memberstack/shoutouts",
+    "websiteUrl": "https://www.memberstack.com/",
+    "imageUrl1": "https://ph-files.imgix.net/b7dbf204-8409-4597-b39d-4bc8f3fb7a43.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/5b15a7ef-fd6f-413a-a181-fdd059df21d1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f5405ce0-e2a0-4b80-87da-3cf8310bf528.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Buy Me a Coffee",
+    "icon": "https://ph-files.imgix.net/1b273555-0240-4583-b16d-fe3a0810a9f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Buy Me a Coffee — A supporter is worth a thousand followers",
+    "description": "Buy Me a Coffee is a beautiful way for creators to accept one-time and monthly support from their fans. Without stitching together a bunch of apps like Patreon, Mailchimp, and a donate button — you can accept support, memberships, and build a direct relationship with your fans. Your fans are going to love it.",
+    "productUrl": "https://www.producthunt.com/products/buy-me-a-coffee/shoutouts",
+    "websiteUrl": "https://www.buymeacoffee.com/",
+    "imageUrl1": "https://ph-files.imgix.net/9bef7002-3475-4462-bd16-2ddcecbd5779.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/bf8b2df0-e313-4f04-9645-e93212e90cf9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "staarter.dev",
+    "icon": "https://ph-files.imgix.net/e1deaf8f-8d1c-45f1-991f-6f4952ae5ba9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "staarter.dev — Launch Your Next SaaS Faster with staarter.dev",
+    "description": "A comprehensive Next.js boilerplate that empowers developers to launch their SaaS applications quickly and efficiently. With features like authentication, subscription management, and localization, it provides a solid foundation so you can focus on innovating.",
+    "productUrl": "https://www.producthunt.com/products/staarter-dev/shoutouts",
+    "websiteUrl": "https://staarter.dev/",
+    "imageUrl1": "https://ph-files.imgix.net/4d03d8a8-5603-44f8-942e-b47fba39fcbe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/fda7b0a7-d09b-43d0-89a7-2511890332d7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f95bf06c-2a79-4281-9f7c-b5e738824b89.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Ko-fi.com",
+    "icon": "https://ph-files.imgix.net/42ce2324-17d8-4dea-a428-8f950f7196e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Ko-fi.com — Fund Your Passions.",
+    "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
+    "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
+    "websiteUrl": "https://ko-fi.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]
