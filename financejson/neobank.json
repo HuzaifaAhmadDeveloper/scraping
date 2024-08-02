@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Mercury",
+    "icon": "https://ph-files.imgix.net/3fd6f338-a734-467f-a7a1-ec9496466480.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Mercury — Banking for startups",
+    "description": "Confidently run all your financial operations with software built from a powerful banking core. Scale with business bank accounts & debit and credit cards.",
+    "productUrl": "https://www.producthunt.com/products/mercury/shoutouts",
+    "websiteUrl": "https://www.mercury.com/",
+    "imageUrl1": "https://ph-files.imgix.net/e3bad900-ad03-4e74-a967-62ee8cc30e71.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/44dbd106-728e-42a6-b388-8f865f8639d7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/09afc871-3ca3-4b43-adda-9c497e91a359.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Brex",
+    "icon": "https://ph-files.imgix.net/0385458c-bf0b-452e-bb49-17d8cca36c9d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Brex — The #1 spend platform for strategic finance teams.",
+    "description": "Brex is all-in-one finance for growing businesses. We help companies spend, save, and earn smarter—and take every dollar further—by doing more than a bank, bookkeeping, or reward program could ever do alone. After completing the Y Combinator accelerator program in 2017, Brex has grown to over 600 employees and raised over US $940 million in venture capital.",
+    "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
+    "websiteUrl": "https://brex.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Acorns",
+    "icon": "https://ph-files.imgix.net/3f3fde58-f873-4a3f-ad29-b328b63a014b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Acorns — Investing. Earning. Growing.",
+    "description": "Join over 8 million people and help your money grow in the background of life! Sign up in under 5 minutes and automatically save and invest for you and the kids you love. “Acorns is my favorite money app, because it makes it simple & cheap to make small investments.” - Business Insider (1) SAVE AND INVEST YOUR MONEY WITH OUR FINANCIAL WELLNESS SYSTEM…",
+    "productUrl": "https://www.producthunt.com/products/acorns/shoutouts",
+    "websiteUrl": "http://www.acorns.com/",
+    "imageUrl1": "https://ph-files.imgix.net/f183a78d-9198-4094-9e34-2e80bb6247d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/ccf9e4b0-01a0-4288-b2d4-15a01a3ed37b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/82a92c2e-6d8a-4d3b-9d57-07fe8798f6c2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Arc",
+    "icon": "https://ph-files.imgix.net/bb119d1c-5312-47ce-bb40-df80abf79e26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Arc — Software-driven banking & growth capital for startups",
+    "description": "Arc empowers startups with a better banking experience. With Arc, you can open FDIC-insurance eligible accounts in minutes, manage everyday banking needs without fees, diversify & safeguard cash, maximize yield, and instantly access growth capital—all in one platform and partnering with trusted banks. Based in SF & NYC, Arc has raised $180M+ of equity and debt funding from Left Lane, NFX, BCV, YC, among others. [Arc is a technology company, not a bank: arc.tech/general-disclosures]",
+    "productUrl": "https://www.producthunt.com/products/arc-6/shoutouts",
+    "websiteUrl": "https://www.arc.tech/",
+    "imageUrl1": "https://ph-files.imgix.net/7d3dcd45-3c46-4a64-8416-470c7dcadcf7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/32eadd82-ee7b-4fd4-933a-537bb30e9f96.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/40214df0-e9c8-4b47-9569-0f1e6ed0261c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Robinhood",
+    "icon": "https://ph-files.imgix.net/a7f4e15f-626d-4212-9d0c-d7b1279a569c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Robinhood — Investing for everyone",
+    "description": "Robinhood, a pioneer of commission-free investing, gives you more ways to make your money work harder.",
+    "productUrl": "https://www.producthunt.com/products/robinhood/shoutouts",
+    "websiteUrl": "http://robinhood.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

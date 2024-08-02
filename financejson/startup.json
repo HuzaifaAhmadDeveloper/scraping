@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "1",
+    "name": "Mercury",
+    "icon": "https://ph-files.imgix.net/3fd6f338-a734-467f-a7a1-ec9496466480.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Mercury — Banking for startups",
+    "description": "Confidently run all your financial operations with software built from a powerful banking core. Scale with business bank accounts & debit and credit cards.",
+    "productUrl": "https://www.producthunt.com/products/mercury/shoutouts",
+    "websiteUrl": "https://www.mercury.com/",
+    "imageUrl1": "https://ph-files.imgix.net/e3bad900-ad03-4e74-a967-62ee8cc30e71.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/44dbd106-728e-42a6-b388-8f865f8639d7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/09afc871-3ca3-4b43-adda-9c497e91a359.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Brex",
+    "icon": "https://ph-files.imgix.net/0385458c-bf0b-452e-bb49-17d8cca36c9d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Brex — The #1 spend platform for strategic finance teams.",
+    "description": "Brex is all-in-one finance for growing businesses. We help companies spend, save, and earn smarter—and take every dollar further—by doing more than a bank, bookkeeping, or reward program could ever do alone. After completing the Y Combinator accelerator program in 2017, Brex has grown to over 600 employees and raised over US $940 million in venture capital.",
+    "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
+    "websiteUrl": "https://brex.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Carta",
+    "icon": "https://ph-files.imgix.net/ce57e4fa-2158-406f-a22f-0d1c7a22c9ff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Carta — Equity. Simplified.",
+    "description": "Carta is an ownership and equity management platform trusted by thousands of founders, investors, and employees.",
+    "productUrl": "https://www.producthunt.com/products/carta/shoutouts",
+    "websiteUrl": "https://carta.com/",
+    "imageUrl1": "https://ph-files.imgix.net/db296001-a528-44e4-8d36-fa12073d0b24.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/828b4671-2631-4a13-98c9-8e2c5cca6314.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/ce23e1ad-08e5-452a-996b-f45889d6de64.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Fondo",
+    "icon": "https://ph-files.imgix.net/f146eb83-55b8-4ecd-be04-f25646db0e70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Fondo — Bookkeeping, tax, and tax credits for startups",
+    "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
+    "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
+    "websiteUrl": "https://tryfondo.com/credits",
+    "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

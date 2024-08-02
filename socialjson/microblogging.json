@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Twitter",
+    "icon": "https://ph-files.imgix.net/ffd43e31-ce84-466a-a5c1-c53bcbd398e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Twitter — Communicate and stay connected",
+    "description": "Twitter brings you closer to what you care about.",
+    "productUrl": "https://www.producthunt.com/products/twitter/shoutouts",
+    "websiteUrl": "https://www.twitter.com/",
+    "imageUrl1": "https://ph-files.imgix.net/ffcf123c-0325-4a26-bbb9-ff6d32dec66d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/27536c5e-ea3e-4632-9c6d-6f5ddf103534.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/c07b1bfd-6237-46d6-aa57-39829acd0cb6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Threads",
+    "icon": "https://ph-files.imgix.net/ec77d93a-9530-4a03-a95a-1450e139cf1f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Threads — Share ideas & trends with text",
+    "description": "Threads is the platform where communities unite to discuss current interests and upcoming trends. Connect with favorite creators and like-minded individuals to explore shared passions, and share your thoughts, ideas, and creativity.",
+    "productUrl": "https://www.producthunt.com/products/threads-an-instagram-app-2/shoutouts",
+    "websiteUrl": "https://www.threads.net/",
+    "imageUrl1": "https://ph-files.imgix.net/b5595297-f422-4569-9292-12894f84fa82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/0347d075-0799-48bd-874f-1ac0f77f2ac1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/c5211e78-cd87-4d3d-aa22-26400717356a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

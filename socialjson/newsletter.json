@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "Morning Toasts - Business & Tech AI News",
+    "icon": "https://ph-files.imgix.net/b184c1b8-c945-45fd-96d6-5d8ef1ce93fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Morning Toasts - Business & Tech AI News — World's First Business and Tech AI News Portal",
+    "description": "Stay ahead with Morning Toasts, the world's first AI Business & Tech news portal. Daily, concise updates in just 5 minutes, curated by experts for the latest, relevant insights. Effortlessly stay informed and ahead in technology and business.",
+    "productUrl": "https://www.producthunt.com/products/morning-toasts-business-tech-ai-news/shoutouts",
+    "websiteUrl": "https://morningtoasts.com/",
+    "imageUrl1": "https://ph-files.imgix.net/ea4f04b8-f5a8-462b-8ae7-2c1e233cdcd8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/2c446b9f-9ced-4466-90a5-8c1b6cf5b29a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/9d0c5080-99c2-41c3-8bd6-08a0a46548af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Listmonk",
+    "icon": "https://ph-files.imgix.net/0739c79a-04d4-421b-9691-f5941e3e7445.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Listmonk — Self-hosted newsletter and mailing list manager",
+    "description": "Send e-mail campaigns, newsletters, manage mailing lists, all from a powerful self-hosted dashboard released as a single binary. High performance and feature packed open source app written in Golang, and backed by Postgres. https://listmonk.app/",
+    "productUrl": "https://www.producthunt.com/products/listmonk/shoutouts",
+    "websiteUrl": "https://github.com/knadh/listmonk",
+    "imageUrl1": "https://ph-files.imgix.net/19121564-ca10-460a-9599-2875385431cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/267bc6bb-6871-4419-9a1b-db9a95398ea1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/82d4dbc4-f628-41c7-bb4f-3a08603c90ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Tedium",
+    "icon": "https://ph-files.imgix.net/c381849d-8f9d-45fd-80c3-74380a712d63.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Tedium — The dull side of the internet (weekly newsletter)",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/tedium/shoutouts",
+    "websiteUrl": "http://tedium.co/",
+    "imageUrl1": "https://ph-files.imgix.net/9175bede-e188-44fc-9a99-c3b0f3fc345a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3f54fb1a-ee6a-4b8a-9046-3577612f90c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/1dae3ed5-8053-4bf0-9bb7-7d90665a8da7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

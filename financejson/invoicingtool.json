@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Stripe",
+    "icon": "https://ph-files.imgix.net/7a01a00b-d41d-4367-b44e-e1d0a672819b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Stripe — Financial infrastructure for the internet",
+    "description": "Accept payments, send payouts, automate financial processes, and ultimately grow revenue.",
+    "productUrl": "https://www.producthunt.com/products/stripe/shoutouts",
+    "websiteUrl": "https://stripe.com/",
+    "imageUrl1": "https://ph-files.imgix.net/4b1b7159-41d5-4351-b455-7cf020407a72.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/9946c056-ef74-4f1c-b372-0dc645e111ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/01345684-3785-4c22-89f4-1e1aa33001c5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Usequeue",
+    "icon": "https://ph-files.imgix.net/ad5ebf69-433d-4c60-878f-2c87b0a93fba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Usequeue — All-in-one platform to launch your productized services",
+    "description": "Launch your productized service business in less than 5mins with everything setup and ready to go for you. No more gluing together 8 softwares and confusing your clients. Add checkout, client portal, and collaboration tools to your website for a seamless experience for your clients and giving you the only platform you'll need to work with them. All 100% white-labeled on your domain.",
+    "productUrl": "https://www.producthunt.com/products/queue-4/shoutouts",
+    "websiteUrl": "https://usequeue.com/",
+    "imageUrl1": "https://ph-files.imgix.net/50df5ccc-87ca-41f9-9a5d-0fe8c2c16514.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/5f2769cc-bb67-443d-a2cb-c6d7b8bda634.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/847e9905-e5d0-4a5f-8cf8-7c0bca5197f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

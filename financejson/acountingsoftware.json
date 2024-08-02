@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "1",
+    "name": "QuickBooks",
+    "icon": "https://ph-files.imgix.net/edb8aea8-7335-49a5-924d-46a9f0d76d64.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "QuickBooks — Connector- Integrate with the applications you love!",
+    "description": "Simplifies all aspects of your financial operations by integrating QB with the applications you love. www.bizappln.com/integration/crm-quickbooks.html Check out our site to realize its full potential.",
+    "productUrl": "https://www.producthunt.com/products/quickbooks-2/shoutouts",
+    "websiteUrl": "https://www.bizappln.com/integration/crm-quickbooks.html",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Fondo",
+    "icon": "https://ph-files.imgix.net/f146eb83-55b8-4ecd-be04-f25646db0e70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Fondo — Bookkeeping, tax, and tax credits for startups",
+    "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
+    "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
+    "websiteUrl": "https://tryfondo.com/credits",
+    "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Xero",
+    "icon": "https://ph-files.imgix.net/c0dec3a8-2030-4e98-a73a-9b0c288b4751.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Xero — Accounting software to do your to-do",
+    "description": "Xero online accounting software for your business connects you to your bank, accountant, bookkeeper, and other business apps. Start a free trial today.",
+    "productUrl": "https://www.producthunt.com/products/xero-2/shoutouts",
+    "websiteUrl": "https://www.xero.com/us",
+    "imageUrl1": "https://ph-files.imgix.net/a7e719e9-7d1e-494a-a86a-8d06f31ad73b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3adaa06a-f8c1-4adc-8322-1e3ca029b54a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/5a5b5820-bf06-456e-86f4-c4ede209000c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Fortune",
+    "icon": "https://ph-files.imgix.net/8e509d6c-5aea-4c10-a945-643642e25eb5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Fortune — An AI-powered accountant",
+    "description": "Connect all your banks in one place, leverage AI to automate accounting, track cash flow, and forecast.",
+    "productUrl": "https://www.producthunt.com/products/fortune-finance-accounting/shoutouts",
+    "websiteUrl": "https://www.fortune.app/",
+    "imageUrl1": "https://ph-files.imgix.net/8b731373-5b45-4e34-90b2-465a725cb4db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/2cfc2f6c-5140-4847-bb6c-8f03b55cb301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/1b0cfa55-8453-4efb-a2e9-06303342447b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]
