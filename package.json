@@ -81,7 +81,10 @@
     "user": "node Design/user.js",
     "videoediting": "node Design/videoediting.js",
     "wallpaper": "node Design/wallpaper.js",
-    "wireframing": "node Design/wireframing.js"
+    "wireframing": "node Design/wireframing.js",
+    "insertEngineering": "node insertEngineering.js",
+    "insertWork": "node insertWork.js",
+    "insertDesign": "node insertDesign.js"
   },
   "keywords": [],
   "author": "",
