@@ -3,7 +3,7 @@
     "productCards": [
       {
         "rank": "1",
-        "name": "",
+        "name": "Supabase",
         "icon": "https://ph-files.imgix.net/b9c546be-a73d-49be-84ac-92a774a5edfc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Supabase — The open source Firebase alternative",
         "description": "Supabase is an open-source backend-as-a-service that provides real-time databases, authentication, and API services. It enables developers to build and scale applications quickly without managing server infrastructure.",
@@ -16,7 +16,7 @@
       },
       {
         "rank": "2",
-        "name": "",
+        "name": "Firebase",
         "icon": "https://ph-files.imgix.net/cd6a3077-007d-4d68-a516-c8414b11bec8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Firebase — An app development platform backed by Google",
         "description": "An app development platform that helps you build and grow apps and games users love. Backed by Google and trusted by millions of businesses around the world.",
@@ -29,7 +29,7 @@
       },
       {
         "rank": "3",
-        "name": "",
+        "name": "PostgreSQL",
         "icon": "https://ph-files.imgix.net/e166b73e-887d-4ab8-ac43-483c0a0f14ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "PostgreSQL — A powerful, open source object-relational database system",
         "description": "An open source, object-relational database system with over 35 years of active development that has earned it a strong reputation for reliability, feature robustness, and performance.",
@@ -42,7 +42,7 @@
       },
       {
         "rank": "4",
-        "name": "",
+        "name": "Render",
         "icon": "https://ph-files.imgix.net/c5755a02-777d-4baf-a7d0-c5654511ef36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Render — Build, deploy, and scale your apps with unparalleled ease",
         "description": "A unified platform to build and run all your apps and websites with free SSL, a global CDN, private networks and auto deploys from Git.",
@@ -55,7 +55,7 @@
       },
       {
         "rank": "5",
-        "name": "",
+        "name": "MongoDB",
         "icon": "https://ph-files.imgix.net/e0c7c876-e044-409e-81ff-6fc008a70415.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "MongoDB — The database for modern applications.",
         "description": "MongoDB Inc. is an American software company that develops and provides commercial support for the open source database MongoDB, a NoSQL database that stores data in JSON-like documents with flexible schemas.",
@@ -68,7 +68,7 @@
       },
       {
         "rank": "6",
-        "name": "",
+        "name": "Tinybird",
         "icon": "https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Tinybird — Turn raw data into realtime API at scale",
         "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
@@ -81,7 +81,7 @@
       },
       {
         "rank": "7",
-        "name": "",
+        "name": "Upstash",
         "icon": "https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Upstash — Serverless data platform for Redis and Kafka",
         "description": "Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions.",
@@ -94,7 +94,7 @@
       },
       {
         "rank": "8",
-        "name": "",
+        "name": "Prisma",
         "icon": "https://ph-files.imgix.net/04da03de-e75f-4453-acf2-39ba73b7c2d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Prisma — Turn your database into a GraphQL API",
         "description": "Prisma is a realtime GraphQL database layer. Connect directly from the frontend or build your own GraphQL server. - Compatible with existing tooling - Powerful GraphQL API - Runs everywhere",
@@ -107,7 +107,7 @@
       },
       {
         "rank": "9",
-        "name": "",
+        "name": "Pinecone",
         "icon": "https://ph-files.imgix.net/6c80b7b1-050d-45b3-afad-2b94cdddbf01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Pinecone — Long-term memory for AI",
         "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
@@ -120,7 +120,7 @@
       },
       {
         "rank": "10",
-        "name": "",
+        "name": "Laravel Framework",
         "icon": "https://ph-files.imgix.net/8fd47ed2-7e09-42c0-8a09-9e66744ab17d.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Laravel Framework — The PHP Framework for Web Artisans",
         "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
@@ -133,7 +133,7 @@
       },
       {
         "rank": "11",
-        "name": "",
+        "name": "PlanetScale",
         "icon": "https://ph-files.imgix.net/a34b17cd-6269-42b7-bd6f-8474f59fd6e7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "PlanetScale — The ultimate MySQL database platform",
         "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.",
@@ -146,7 +146,7 @@
       },
       {
         "rank": "12",
-        "name": "",
+        "name": "Appwrite",
         "icon": "https://ph-files.imgix.net/ea1c7b5e-0f17-46b4-aff7-64a9bbf538f1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Appwrite — 100% open source alternative for Firebase",
         "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
@@ -159,7 +159,7 @@
       },
       {
         "rank": "13",
-        "name": "",
+        "name": "ClickHouse",
         "icon": "https://ph-files.imgix.net/d4cef792-1de7-4e96-a26a-3eb34b08d2ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "ClickHouse — An open-source database built for speed and scale",
         "description": "An open-source column-oriented database management system that allows generating analytical data reports in real-time.",
@@ -172,7 +172,7 @@
       },
       {
         "rank": "14",
-        "name": "",
+        "name": "Xano",
         "icon": "https://ph-files.imgix.net/a3b86949-5fa9-466e-9f8a-dd09be37762e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Xano — The fastest way to build and deploy a scalable backend",
         "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
@@ -185,7 +185,7 @@
       },
       {
         "rank": "15",
-        "name": "",
+        "name": "Hasura",
         "icon": "https://ph-files.imgix.net/abd04bbd-8c76-464e-bdc3-77b5e80e0649.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Hasura — Instant GraphQL on all your data",
         "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
@@ -198,7 +198,7 @@
       },
       {
         "rank": "16",
-        "name": "",
+        "name": "Neon",
         "icon": "https://ph-files.imgix.net/eab801a9-fe40-4f01-a30d-37472d9bc2e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Neon — Serverless Postgres: Now Generally Available",
         "description": "Neon reimagines Postgres with a serverless architecture. With a generous free tier, scale-to-zero, and true database branching. Copy data and schema in a second and scale resources automatically. Ideal for developers prioritizing scalability and performance.",
@@ -211,7 +211,7 @@
       },
       {
         "rank": "17",
-        "name": "",
+        "name": "Convex",
         "icon": "https://ph-files.imgix.net/6c17a03d-52c6-4c6a-b521-bf84de68591b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Convex — A better type of backend",
         "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
@@ -224,7 +224,7 @@
       },
       {
         "rank": "18",
-        "name": "",
+        "name": "Weaviate",
         "icon": "https://ph-files.imgix.net/cebcb818-90c0-494a-965f-c0a08c4511ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Weaviate — The AI-native database for a new generation of software",
         "description": "The AI-native database for a new generation of software. Store and retrieve data objects and vector embeddings. Seamlessly connect to your favorite ML models. And build intuitive, reliable AI applications that scale.",
@@ -237,7 +237,7 @@
       },
       {
         "rank": "19",
-        "name": "",
+        "name": "Metabase",
         "icon": "https://ph-files.imgix.net/36d2a89f-dbcd-4ba5-a234-4d39e12329d9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Metabase — Metabase is the easy, open source way for everyone.",
         "description": "The fastest, easiest way to share data and analytics inside your company. An open source Business Intelligence server you can install in 5 minutes that connects to MySQL, PostgreSQL, MongoDB and more! Anyone can use it to build charts, dashboards and n...",
@@ -250,7 +250,7 @@
       },
       {
         "rank": "20",
-        "name": "",
+        "name": "Cloudflare Vectorize",
         "icon": "https://ph-files.imgix.net/c9931fda-0158-439a-b48f-bbc9ed1a5ddc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Cloudflare Vectorize · Vectorize v1 — Fast, efficient vector database on the edge.",
         "description": "",
@@ -263,7 +263,7 @@
       },
       {
         "rank": "21",
-        "name": "",
+        "name": "Airbyte",
         "icon": "https://ph-files.imgix.net/2e9f665f-0ebf-48ff-a480-fbc6f2fde304.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Airbyte — Open-source data integration",
         "description": "An open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases.",
@@ -276,7 +276,7 @@
       },
       {
         "rank": "22",
-        "name": "",
+        "name": "Coolify",
         "icon": "https://ph-files.imgix.net/a5603809-a9ce-447b-b3e6-f7279015e2e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Coolify — An open-source & self-hostable Heroku / Netlify alternative.",
         "description": "Coolify is an open-source and self-hostable all-in-one (IaaS) solution to host your applications, databases, or other open-source services. It's an alternative software to Heroku and Netlify and other similar software out there.",
@@ -289,7 +289,7 @@
       },
       {
         "rank": "23",
-        "name": "",
+        "name": "Scaleway",
         "icon": "https://ph-files.imgix.net/b5939df2-c084-40a9-bcb2-f70311e84a41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Scaleway — The cloud of choice",
         "description": "Build, deploy and scale applications on Europe's most complete cloud ecosystem.",
@@ -302,7 +302,7 @@
       },
       {
         "rank": "24",
-        "name": "",
+        "name": "DuckDB",
         "icon": "https://ph-files.imgix.net/2396d46b-2c67-4abe-9dca-3c123c88efac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "DuckDB — rich, fast & open source.",
         "description": "",
@@ -315,7 +315,7 @@
       },
       {
         "rank": "25",
-        "name": "",
+        "name": "Buf",
         "icon": "https://ph-files.imgix.net/93fde99f-43bd-4474-8f05-affec4292d47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Buf — A new way of working with Protocol Buffers",
         "description": "Your organization should not have to reinvent the wheel to use Protobuf efficiently and effectively. Stop worrying about your Protobuf management strategy getting out of control. We'll handle that for you, so you can worry about what matters.",
@@ -328,7 +328,7 @@
       },
       {
         "rank": "26",
-        "name": "",
+        "name": "TimescaleDB",
         "icon": "https://ph-files.imgix.net/9c5a63d9-c808-4915-b36a-22f4a5ddda95.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "TimescaleDB — An open source time-series SQL database powered by Postgres",
         "description": "TimescaleDB is an open-source database designed to make SQL scalable for time-series data. It is engineered up from PostgreSQL, providing automatic partitioning across time and space (partitioning key), as well as full SQL support.",
@@ -341,7 +341,7 @@
       },
       {
         "rank": "27",
-        "name": "",
+        "name": "LanceDB",
         "icon": "https://ph-files.imgix.net/127c1dc7-bdef-43bd-b5be-e1c717670122.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "LanceDB — The Database for Multimodal AI",
         "description": "LanceDB is a developer-friendly, open source database for AI. From hyper scalable vector search and advanced retrieval for RAG, to streaming training data and interactive exploration of large scale AI datasets, LanceDB is the best foundation for your AI application",
@@ -354,7 +354,7 @@
       },
       {
         "rank": "28",
-        "name": "",
+        "name": "Snowflake",
         "icon": "https://ph-files.imgix.net/f7a93a5f-1c5c-4d52-bf5f-d9c69cf3b8e7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Snowflake — Snowflake Data Cloud",
         "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
@@ -367,7 +367,7 @@
       },
       {
         "rank": "29",
-        "name": "",
+        "name": "Softr",
         "icon": "https://ph-files.imgix.net/deecbb94-38a6-43da-8dd8-305ea9e54974.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Softr — Build custom apps powered by your data, no code required.",
         "description": "Softr turns your spreadsheets (Airtable, Google Sheets) and databases into customer portals, internal tools, and any other custom app. Pick a template or start from scratch.",
@@ -380,7 +380,7 @@
       },
       {
         "rank": "30",
-        "name": "",
+        "name": "Drizzle ORM",
         "icon": "https://ph-files.imgix.net/5e0842a9-d219-4c9e-be3e-9b051e2e6d40.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Drizzle ORM — A lightweight and performant TypeScript ORM",
         "description": "Drizzle is a lightweight, tree shakeable modern TypeScript ORM with 0 dependencies.",
@@ -393,7 +393,7 @@
       },
       {
         "rank": "31",
-        "name": "",
+        "name": "RudderStack",
         "icon": "https://ph-files.imgix.net/1f8ffe4d-17ac-4b74-80ea-08737e9d78d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "RudderStack — Warehouse Native Customer Data Platform",
         "description": "RudderStack is the leading Warehouse Native Customer Data Platform that’s purpose-built for data teams. We run on top of your customer’s warehouse or data lake and do not store data, alleviating security concerns, reducing cost, and unlocking the value of your warehouse investment. With RudderStack's end-to-end platform and flexible, powerful tooling, data teams can easily collect, unify, and activate customer data to drive growth for the entire business.",
@@ -406,7 +406,7 @@
       },
       {
         "rank": "32",
-        "name": "",
+        "name": "PocketBase",
         "icon": "https://ph-files.imgix.net/1cc74777-81bd-43eb-8601-1dcf05e99be0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "PocketBase — Open Source realtime backend in 1 file",
         "description": "PocketBase is an open source Go backend that has embedded realtime database, files and users management, admin UI and REST-ish API, all compiled in 1 portable file. Think of it as a lightweight alternative to Firebase or Supabase.",
@@ -419,7 +419,7 @@
       },
       {
         "rank": "33",
-        "name": "",
+        "name": "Logtail",
         "icon": "https://ph-files.imgix.net/a573e8b1-8b56-4bbb-990d-633549c153d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Logtail — Query your logs like you query your database",
         "description": "ClickHouse-based SQL-compatible log management. Log more, pay less.",
@@ -432,7 +432,7 @@
       },
       {
         "rank": "34",
-        "name": "",
+        "name": "ElasticSearch",
         "icon": "https://ph-files.imgix.net/7f4cf8c2-9440-472a-829b-ac29790e6a5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "ElasticSearch — Lucene based search server.",
         "description": "",
@@ -445,7 +445,7 @@
       },
       {
         "rank": "35",
-        "name": "",
+        "name": "TablePlus",
         "icon": "https://ph-files.imgix.net/cdf25791-01c2-4fba-a327-3d14dfd4929f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "TablePlus — Database management made easy",
         "description": "Modern, native, and friendly GUI tool for relational databases: MySQL, PostgreSQL, SQLite & more",
@@ -458,7 +458,7 @@
       },
       {
         "rank": "36",
-        "name": "",
+        "name": "Redis",
         "icon": "https://ph-files.imgix.net/b38278db-907d-45aa-9634-0a17a068083f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Redis — Key-value cache and store.",
         "description": "",
@@ -471,7 +471,7 @@
       },
       {
         "rank": "37",
-        "name": "",
+        "name": "tRPC",
         "icon": "https://ph-files.imgix.net/e6721615-6bc1-4378-a2d8-ce594616d938.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "tRPC — Move Fast and Break Nothing. E2E typesafe APIs made easy.",
         "description": "",
@@ -484,7 +484,7 @@
       },
       {
         "rank": "38",
-        "name": "",
+        "name": "Directus",
         "icon": "https://ph-files.imgix.net/2dcacc76-6e98-4c8f-bee0-4d7d83fb1aa6.vnd.microsoft.icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Directus — Instant no-code app and dynamic API for any SQL database",
         "description": "The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.",
@@ -497,7 +497,7 @@
       },
       {
         "rank": "39",
-        "name": "",
+        "name": "Instant DB",
         "icon": "https://ph-files.imgix.net/f88146ba-38e2-442b-8f69-bc7188e28be8.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Instant DB — A Graph Database on the Client",
         "description": "",
@@ -510,7 +510,7 @@
       },
       {
         "rank": "40",
-        "name": "",
+        "name": "QuestDB",
         "icon": "https://ph-files.imgix.net/86d33871-d8cd-40bf-9b05-64e6c8c2b1bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "QuestDB — Fastest open source database for time-series and analytics",
         "description": "QuestDB is an open source database for time series, events, and analytical workloads with a primary focus on performance. https://github.com/questdb/questdb",
@@ -523,7 +523,7 @@
       },
       {
         "rank": "41",
-        "name": "",
+        "name": "PostgresML",
         "icon": "https://ph-files.imgix.net/ad6d08ff-396e-4450-a046-88ed244b47a5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "PostgresML — You know Postgres. Now you know machine learning.",
         "description": "PostgresML is a complete MLops platform in a simple PostgreSQL extension. Build fast, simple and powerful models right inside your database.",
@@ -536,7 +536,7 @@
       },
       {
         "rank": "42",
-        "name": "",
+        "name": "AG Grid",
         "icon": "https://ph-files.imgix.net/4dd74880-e548-4e16-8899-ec0cb2547d6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "AG Grid — A Data Grid Component for React, Angular Vue and JavaScript",
         "description": "AG Grid is a JavaScript Data Grid for rendering lots of data in a Grid. Sorting, Filtering, Ordering, Pagination and Exporting are built in. One dependency to add to your project. Open Source edition is free for use in commercial applications.",
@@ -549,7 +549,7 @@
       },
       {
         "rank": "43",
-        "name": "",
+        "name": "SingleStoreDB",
         "icon": "https://ph-files.imgix.net/830c178f-517c-49de-a0ae-a551748556a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "SingleStoreDB — Real-time distributed SQL database",
         "description": "SingleStoreDB is a real-time distributed SQL database, designed for data-intensive applications. With a unified data engine for transactional and analytical workloads, SingleStoreDB powers fast applications and real-time analytics.",
@@ -562,7 +562,7 @@
       },
       {
         "rank": "44",
-        "name": "",
+        "name": "Streamsync",
         "icon": "https://ph-files.imgix.net/7cf62972-6a64-45a7-b5f8-3e993d3f33ff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Streamsync — Create UIs using a visual editor, code the backend in Python",
         "description": "Streamsync is an open-source framework for creating web-based data apps. Build user interfaces using a visual editor; write the backend code in Python. It's an alternative to Streamlit and Dash.",
@@ -575,7 +575,7 @@
       },
       {
         "rank": "45",
-        "name": "",
+        "name": "Helm for App Store Connect",
         "icon": "https://ph-files.imgix.net/0f4f1f87-ba3b-458c-81df-35582213f903.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Helm for App Store Connect — Easy Application Management",
         "description": "Meet Helm, an app designed to make it easier and more enjoyable for users of App Store Connect to ship apps and updates. Focused on providing a fast & intuitive user experience.",
@@ -588,7 +588,7 @@
       },
       {
         "rank": "46",
-        "name": "",
+        "name": "Keyv",
         "icon": "https://ph-files.imgix.net/5d417e13-b5dc-47c3-bb7e-b658275e9e92.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Keyv — Simple key-value storage with multiple backend support",
         "description": "Keyv is a simple key-value interface for JavaScript oriented for storing any kind of data, anywhere. It supports MySQL, PostgreSQL, SQLite, Redis, Mongo, DynamoDB, Firestore, Memcached, and more",
@@ -601,7 +601,7 @@
       },
       {
         "rank": "47",
-        "name": "",
+        "name": "ScyllaDB",
         "icon": "https://ph-files.imgix.net/f08b0b88-9f10-4b99-984b-b2383fd90fe1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "ScyllaDB — Monstrously Fast + Scalable NoSQL",
         "description": "",
@@ -614,7 +614,7 @@
       },
       {
         "rank": "48",
-        "name": "",
+        "name": "Planet Crust",
         "icon": "https://ph-files.imgix.net/e4a610fc-074d-44e0-a650-3e3f12a672c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Planet Crust — Connect to any data source, build whatever you want",
         "description": "Corteza by Planet Crust is a 100% open-source, 100% API-centric low-code platform that connects to any data source, then transforms your data into an open format so you quickly build and deploy web apps with easy-to-use workflows and drag-and-drop tools.",
@@ -627,7 +627,7 @@
       },
       {
         "rank": "49",
-        "name": "",
+        "name": "Neo4j Graph Database",
         "icon": "https://ph-files.imgix.net/88b0f430-a67d-49f3-9e10-0343a5c96b8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Neo4j Graph Database — Neo4j is an open-source graph database, implemented in Java.",
         "description": "",
@@ -640,7 +640,7 @@
       },
       {
         "rank": "50",
-        "name": "",
+        "name": "MySQL",
         "icon": "https://ph-files.imgix.net/6750662e-2b25-44cd-98a9-28fda8e1be9e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "MySQL — The world's second most widley used open-source RDMS",
         "description": "mysql.com was first indexed by Google more than 10 years ago",
@@ -653,7 +653,7 @@
       },
       {
         "rank": "51",
-        "name": "",
+        "name": "Realm",
         "icon": "https://ph-files.imgix.net/71660dcf-dca3-4a72-a152-8bf0003ed0e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Realm — Realm, Mobile-first database. Build fast apps, faster.",
         "description": "",
@@ -666,7 +666,7 @@
       },
       {
         "rank": "52",
-        "name": "",
+        "name": "dbdiagram by Holistics",
         "icon": "https://ph-files.imgix.net/cb7a7e36-3acd-4b72-9845-3bee9bafa737.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "dbdiagram by Holistics — Database relationship diagram design tool",
         "description": "A free, simple tool to draw ER diagrams by just writing code. Designed for developers and data analysts.",

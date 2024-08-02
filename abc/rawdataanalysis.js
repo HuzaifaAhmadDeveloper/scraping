@@ -3,46 +3,46 @@
     "productCards": [
       {
         "rank": "1",
-        "name": "",
+        "name": "Google Cloud Platform",
         "icon": "https://ph-files.imgix.net/2df0eb38-7b7e-48a7-80d9-05c57b48d3d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Google Cloud Platform — A suite of cloud computing services by Google",
         "description": "Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.",
-        "productUrl":"",
-        "websiteUrl":"",
-        "imageUrl1":"",
-        "imageUrl2":"",
-        "imageUrl3":"",
+        "productUrl":"https://www.producthunt.com/products/google-cloud-platform/shoutouts",
+        "websiteUrl":"https://cloud.google.com/?ref=producthunt",
+        "imageUrl1":"https://ph-files.imgix.net/a0fc6d22-680e-4ec2-aa63-9012d5f3d1ed.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "imageUrl2":"https://ph-files.imgix.net/a795af87-f9fb-418e-9869-a04a9372c1a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "imageUrl3":"https://ph-files.imgix.net/0f696b59-3b4b-4d33-9a5b-e18ea1314a3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
         "videoUrl": ""
       },
       {
         "rank": "2",
-        "name": "",
+        "name": "PostHog",
         "icon": "https://ph-files.imgix.net/0329497e-75f9-4fcc-8dae-5b279bcb56e8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "PostHog — The open source product OS",
         "description": "Open-source product analytics, session recording, feature flagging and A/B testing that you can self-host. Everything engineers need to build better products.",
-        "productUrl":"",
-        "websiteUrl":"",
-        "imageUrl1":"",
-        "imageUrl2":"",
-        "imageUrl3":"",
+        "productUrl":"https://www.producthunt.com/products/posthog/shoutouts",
+        "websiteUrl":"https://posthog.com/?ref=producthunt",
+        "imageUrl1":"https://ph-files.imgix.net/4d476341-9ced-408d-9516-50e5623fa042.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "imageUrl2":"https://ph-files.imgix.net/8c68a387-4753-4439-8a9a-5f828546619a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "imageUrl3":"https://ph-files.imgix.net/d8fe9515-97bf-434d-8489-29ad35b4fb30.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
         "videoUrl": ""
       },
       {
         "rank": "3",
-        "name": "",
+        "name": "June",
         "icon": "https://ph-files.imgix.net/9f2fd64e-a608-46a9-9755-053e646f89b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "June — The Simple Product Analytics App",
         "description": "June is product analytics for B2B SaaS. Get auto-generated reports focused on how companies use your product, not users",
-        "productUrl":"",
-        "websiteUrl":"",
-        "imageUrl1":"",
-        "imageUrl2":"",
+        "productUrl":"https://www.producthunt.com/products/june/shoutouts",
+        "websiteUrl":"https://june.so/?ref=producthunt",
+        "imageUrl1":"https://ph-files.imgix.net/3cebafba-ea6f-41cd-bff2-b30606c8e98c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+        "imageUrl2":"https://ph-files.imgix.net/90b49ef7-769c-4174-916e-c58a766acddd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
         "imageUrl3":"",
         "videoUrl": ""
       },
       {
         "rank": "4",
-        "name": "",
+        "name": "Tinybird",
         "icon": "https://ph-files.imgix.net/c1ad78f3-60d5-4080-a915-5702a666ea08.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Tinybird — Turn raw data into realtime API at scale",
         "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
@@ -55,7 +55,7 @@
       },
       {
         "rank": "5",
-        "name": "",
+        "name": "Upstash",
         "icon": "https://ph-files.imgix.net/bccabb30-bb51-4ab2-8247-49dd657c3362.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Upstash — Serverless data platform for Redis and Kafka",
         "description": "Serverless Redis and Kafka as a service with per request pricing. Use any Redis/Kafka clients. The built-in REST API enables use cases with serverless and edge functions.",
@@ -68,7 +68,7 @@
       },
       {
         "rank": "6",
-        "name": "",
+        "name": "Flatfile",
         "icon": "https://ph-files.imgix.net/71819a7f-095c-4668-b288-1b433984bf35.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Flatfile — Extensible API + event based platform for data-file import",
         "description": "The Flatfile Data Exchange Platform provides developers an easy, fast, and secure way to build your ideal solution for importing CSV, Excel, or other data-files, without compromising on flexibility. With our API-first, event-driven architecture developers can build fully customizable, powerful workflows that address any file-based import use case, combined with a highly intuitive experience designed for end-users. See the magic of Flatfile for yourself and get started today, it’s free!",
@@ -81,7 +81,7 @@
       },
       {
         "rank": "7",
-        "name": "",
+        "name": "Amplitude",
         "icon": "https://ph-files.imgix.net/da9e292c-e22c-46e7-bd6b-4a08bdb92d27.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Amplitude — Get data and insights to take action and drive growth",
         "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products.",
@@ -94,7 +94,7 @@
       },
       {
         "rank": "8",
-        "name": "",
+        "name": "Typesense",
         "icon": "https://ph-files.imgix.net/e7c84912-d91c-475a-91dc-d566f2908a82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Typesense — Fast, typo-tolerant open source search engine",
         "description": "Open source search engine that delivers instant relevant results out-of-the-box. OSS alternative to Algolia & an easier-to-use alternative to ElasticSearch.",
@@ -107,7 +107,7 @@
       },
       {
         "rank": "9",
-        "name": "",
+        "name": "DataBricks",
         "icon": "https://ph-files.imgix.net/ac301ed1-8308-469d-841b-2eb5765021eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "DataBricks — Simplify big data and AI",
         "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products.",
@@ -120,7 +120,7 @@
       },
       {
         "rank": "10",
-        "name": "",
+        "name": "FullStory",
         "icon": "https://ph-files.imgix.net/9c06d78c-6a07-429b-b750-b91eed907a8a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "FullStory — Craft a more perfect digital experience",
         "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
@@ -133,7 +133,7 @@
       },
       {
         "rank": "11",
-        "name": "",
+        "name": "Metabase",
         "icon": "https://ph-files.imgix.net/36d2a89f-dbcd-4ba5-a234-4d39e12329d9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Metabase — Metabase is the easy, open source way for everyone.",
         "description": "The fastest, easiest way to share data and analytics inside your company. An open source Business Intelligence server you can install in 5 minutes that connects to MySQL, PostgreSQL, MongoDB and more! Anyone can use it to build charts, dashboards and n...",
@@ -146,7 +146,7 @@
       },
       {
         "rank": "12",
-        "name": "",
+        "name": "Dokin",
         "icon": "https://ph-files.imgix.net/24a944d4-ad23-4fcc-93a6-018fad330b9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Dokin — Sync live data from apps in Sheets, Slides, and Docs",
         "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
@@ -159,7 +159,7 @@
       },
       {
         "rank": "13",
-        "name": "",
+        "name": "Airbyte",
         "icon": "https://ph-files.imgix.net/2e9f665f-0ebf-48ff-a480-fbc6f2fde304.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Airbyte — Open-source data integration",
         "description": "An open-source data integration platform to build ELT pipelines. Consolidate your data in your data warehouses, lakes and databases.",
@@ -185,7 +185,7 @@
       },
       {
         "rank": "15",
-        "name": "",
+        "name": "Segment",
         "icon": "https://ph-files.imgix.net/5e530268-ed61-44e6-a586-789c449c47d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Segment — The leading customer data platform",
         "description": "A customer data platform that helps companies harness first-party customer data and democratizes access to reliable data for all teams. Standardize data collection, unify user records, and route customer data into any system where it’s needed.",
@@ -198,7 +198,7 @@
       },
       {
         "rank": "16",
-        "name": "",
+        "name": "Proxycurl",
         "icon": "https://ph-files.imgix.net/9a974efe-6ffa-4b9a-875e-bdc343992758.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Proxycurl — Scrape 1M Linkedin profiles in real-time",
         "description": "Proxycurl's Linkedin API takes a Linkedin Profile and returns scraped structured data of the profile",
@@ -211,7 +211,7 @@
       },
       {
         "rank": "17",
-        "name": "",
+        "name": "ChartMogul",
         "icon": "https://ph-files.imgix.net/522d48b1-30e5-4a2b-afdb-693f1f76d66f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "ChartMogul — Unlock the full revenue potential of your SaaS business",
         "description": "Our subscription analytics platform seamlessly combines and normalizes SaaS revenue data from multiple sources, delivering a clear and accurate view of your B2B SaaS business. You'll be ready to make data-driven decisions that take your business to the next level.",
@@ -224,7 +224,7 @@
       },
       {
         "rank": "18",
-        "name": "",
+        "name": "Snowflake",
         "icon": "https://ph-files.imgix.net/f7a93a5f-1c5c-4d52-bf5f-d9c69cf3b8e7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Snowflake — Snowflake Data Cloud",
         "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
@@ -237,7 +237,7 @@
       },
       {
         "rank": "19",
-        "name": "",
+        "name": "Statsig",
         "icon": "https://ph-files.imgix.net/6fedb2b3-4abe-47f0-999b-cac7a91b5a39.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Statsig — #1 feature management and product experimentation platform",
         "description": "Statsig is the leading product experimentation platform that helps businesses use data to ship fast and build better products. Companies like OpenAI, Notion, Brex, and Eventbrite use Statsig to manage feature rollouts, automate experiments, and make decisions based on performance metrics. Founded in 2021 by former Facebook engineers, Statsig supports thousands of experiments impacting over a billion end users globally.",
@@ -250,7 +250,7 @@
       },
       {
         "rank": "20",
-        "name": "",
+        "name": "RudderStack",
         "icon": "https://ph-files.imgix.net/1f8ffe4d-17ac-4b74-80ea-08737e9d78d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "RudderStack — Warehouse Native Customer Data Platform",
         "description": "RudderStack is the leading Warehouse Native Customer Data Platform that’s purpose-built for data teams. We run on top of your customer’s warehouse or data lake and do not store data, alleviating security concerns, reducing cost, and unlocking the value of your warehouse investment. With RudderStack's end-to-end platform and flexible, powerful tooling, data teams can easily collect, unify, and activate customer data to drive growth for the entire business.",
@@ -263,7 +263,7 @@
       },
       {
         "rank": "21",
-        "name": "",
+        "name": "Hex",
         "icon": "https://ph-files.imgix.net/4a39b371-c657-4158-9faf-9526eaae425a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Hex — The most powerful workspace for data science and analytics",
         "description": "You may have heard about our next-generation notebook (we love it, too), but that's only one piece of the platform we've built. Hex brings together every part of the data analysis workflow into one flexible, collaborative, easy-to-use workspace. Whether you're a data scientist or a less technical domain expert, you can explore, build, and collaborate. Go from quick questions to deep-dive analyses to interactive data apps - all without jumping between tools.",
@@ -276,7 +276,7 @@
       },
       {
         "rank": "22",
-        "name": "",
+        "name": "Langfuse",
         "icon": "https://ph-files.imgix.net/9a61a5f2-5dd2-492c-ae2a-5fdafe0d9c82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Langfuse — Open Source LLM Engineering Platform",
         "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse",
@@ -289,7 +289,7 @@
       },
       {
         "rank": "23",
-        "name": "",
+        "name": "Wolfram Mathematica",
         "icon": "https://ph-files.imgix.net/f605d90f-1d8c-4677-a740-bae76b1a9e8b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Wolfram Mathematica — The world's definitive system for modern technical computing",
         "description": "Wolfram Mathematica is a modern technical computing system spanning most areas of technical computing - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields.",
@@ -302,7 +302,7 @@
       },
       {
         "rank": "24",
-        "name": "",
+        "name": "Logtail",
         "icon": "https://ph-files.imgix.net/a573e8b1-8b56-4bbb-990d-633549c153d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Logtail — Query your logs like you query your database",
         "description": "ClickHouse-based SQL-compatible log management. Log more, pay less.",
@@ -315,7 +315,7 @@
       },
       {
         "rank": "25",
-        "name": "",
+        "name": "Equals",
         "icon": "https://ph-files.imgix.net/7ce855ec-7452-4439-952a-8d3288b57ed4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Equals — Next-generation analysis and reporting",
         "description": "Equals fills the void between one-size-fits-all and complex data platforms. It's as if your favorite spreadsheet and BI tool had a baby – a legit prodigy.",
@@ -328,7 +328,7 @@
       },
       {
         "rank": "26",
-        "name": "",
+        "name": "Google Analytics",
         "icon": "https://ph-files.imgix.net/2456a1eb-af9b-4032-9c28-45e7724cd2c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Google Analytics — Get essential customer insights.",
         "description": "Google Analytics is a comprehensive web analytics tool offered by Google that provides valuable insights into the performance and behavior of websites, mobile apps, and other digital platforms. It allows businesses and website owners to track and analyze a wide range of data, enabling them to make informed decisions and optimize their online presence.",
@@ -341,7 +341,7 @@
       },
       {
         "rank": "27",
-        "name": "",
+        "name": "Glassfy",
         "icon": "https://ph-files.imgix.net/35fa9a2c-e327-48b9-a9a7-0b6d95c69537.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Glassfy — The in-app subscriptions platform",
         "description": "Glassfy open-source SDK provides you with subscription infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle.",
@@ -354,7 +354,7 @@
       },
       {
         "rank": "28",
-        "name": "",
+        "name": "MotherDuck",
         "icon": "https://ph-files.imgix.net/5fd2a535-a102-4627-b3d5-790ea06ffd6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "MotherDuck — The ducking simple data warehouse for analytics",
         "description": "The cloud SQL analytics platform that helps you do more with your data. A unique architecture enables dual query execution across local machines and the cloud, letting you experience smooth workflows and ultra-efficient performance that won’t break the bank.",
@@ -367,7 +367,7 @@
       },
       {
         "rank": "29",
-        "name": "",
+        "name": "QuestDB",
         "icon": "https://ph-files.imgix.net/86d33871-d8cd-40bf-9b05-64e6c8c2b1bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "QuestDB — Fastest open source database for time-series and analytics",
         "description": "QuestDB is an open source database for time series, events, and analytical workloads with a primary focus on performance. https://github.com/questdb/questdb",
@@ -380,7 +380,7 @@
       },
       {
         "rank": "30",
-        "name": "",
+        "name": "DefiLlama",
         "icon": "https://ph-files.imgix.net/57207a9e-73e5-4bdf-b327-10b34ebb91d7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "DefiLlama — Defi dashboard",
         "description": "Defi Llama is a dashboard that provides cross-chain data on the state of Decentralized Finance. They're committed to accuracy and transparency. I've found it really useful for exploring new ecosystems!",
@@ -393,7 +393,7 @@
       },
       {
         "rank": "31",
-        "name": "",
+        "name": "Countly",
         "icon": "https://ph-files.imgix.net/728aaa80-d054-4ff6-9cc5-56c61c9925ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Countly — # 1 privacy-led product analytics",
         "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
@@ -406,7 +406,7 @@
       },
       {
         "rank": "32",
-        "name": "",
+        "name": "xIgnite",
         "icon": "https://ph-files.imgix.net/fc5e701a-cca8-47f7-83b2-424b4415786b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "xIgnite — Realtime financial data APIs, at a fraction of the price.",
         "description": "",
@@ -419,7 +419,7 @@
       },
       {
         "rank": "33",
-        "name": "",
+        "name": "Eden AI",
         "icon": "https://ph-files.imgix.net/da70c17b-fabe-485d-bed8-413c8dcb0e0a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Eden AI — Seamlessly Merging the Top AI APIs into One",
         "description": "Integrate Eden AI in your product to: 💪 Increase Accuracy & Reduce Cost by choosing the right AI API for each AI task ☮️ Gain peace of mind with centralized usage restrictions & cost monitoring 🌐 Continually explore emerging AI capabilities in the market",
@@ -432,7 +432,7 @@
       },
       {
         "rank": "34",
-        "name": "",
+        "name": "SingleStoreDB",
         "icon": "https://ph-files.imgix.net/830c178f-517c-49de-a0ae-a551748556a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "SingleStoreDB — Real-time distributed SQL database",
         "description": "SingleStoreDB is a real-time distributed SQL database, designed for data-intensive applications. With a unified data engine for transactional and analytical workloads, SingleStoreDB powers fast applications and real-time analytics.",
@@ -445,7 +445,7 @@
       },
       {
         "rank": "35",
-        "name": "",
+        "name": "TelemetryDeck",
         "icon": "https://ph-files.imgix.net/83c688b3-4ae6-486f-9b2e-38ef46a026e7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "TelemetryDeck — Lightweight analytics that's not evil",
         "description": "TelemetryDeck is a service that helps app and web developers improve their product by supplying immediate, accurate analytics data while users use your app. And the best part: It's all anonymized so your users' data stays private!",
@@ -458,7 +458,7 @@
       },
       {
         "rank": "36",
-        "name": "",
+        "name": "Simple Analytics",
         "icon": "https://ph-files.imgix.net/dfc42ba5-f9af-4955-9b94-2b0751d94e7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
         "title": "Simple Analytics — Simple, clean, and privacy-friendly analytics 📊",
         "description": "Simple Analytics gives you the analytics you need without invading the privacy of your users, with a clean interface, and simple integration.",
@@ -471,7 +471,7 @@
       },
       {
         "rank": "37",
-        "name": "",
+        "name": "Zuar",
         "icon": "https://ph-files.imgix.net/76c7ac98-1faf-4131-98c0-57ef404d50f8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Zuar — Business analytics, data staging/pipeline & automation",
         "description": "Zuar provides cutting-edge data tools: Mitto ETL automation, data transformation/modeling, Tableau enhancements, and seasoned engineers to help with deployments.",
@@ -484,7 +484,7 @@
       },
       {
         "rank": "38",
-        "name": "",
+        "name": "Lychee",
         "icon": "https://ph-files.imgix.net/7c58d0cc-6624-4ad0-a385-0dbcd61df1d8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Lychee — AI-Powered Data Visualization in 0.32 seconds.",
         "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
@@ -497,7 +497,7 @@
       },
       {
         "rank": "39",
-        "name": "",
+        "name": "Semantic Scholar",
         "icon": "https://ph-files.imgix.net/b363906d-585a-4397-ab04-24ebbec7a661.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Semantic Scholar — Vertical search across academic papers",
         "description": "",
@@ -510,7 +510,7 @@
       },
       {
         "rank": "40",
-        "name": "",
+        "name": "Vexo",
         "icon": "https://ph-files.imgix.net/47c117af-48d4-49c2-8562-abbe9339675b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Vexo — The Analytics tool for React Native, simply amazing.",
         "description": "Vexo helps developers and managers solve all their React Native analytics needs. With a seamless integration it provides data out of the box, through a beautiful interface.",
@@ -523,7 +523,7 @@
       },
       {
         "rank": "41",
-        "name": "",
+        "name": "BscScan",
         "icon": "https://ph-files.imgix.net/44f980f9-82c8-4eec-82d1-09e411b6ab04.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "BscScan — BscScan - Binance (BNB) Blockchain Explorer",
         "description": "BscScan is a block pilgrim created by a similar group behind Etherscan It is an examination stage for the Binance Savvy Chain organization and has numerous other helpful elements. BscScan contains information to follow DeFi projects on BSC.",
@@ -536,7 +536,7 @@
       },
       {
         "rank": "42",
-        "name": "",
+        "name": "Datadog, Inc.",
         "icon": "https://ph-files.imgix.net/99b25702-dd13-48d7-8ebd-33051d0c40d3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
         "title": "Datadog, Inc. — Monitoring and security platform for cloud applications",
         "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
