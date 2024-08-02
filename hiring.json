@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "LinkedIn",
+    "icon": "https://ph-files.imgix.net/90491fc5-dace-4f57-b815-365f3100633a.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "LinkedIn — LinkedIn Job Search: Find US Jobs, Internships, Jobs Near Me",
+    "description": "64% of job seekers get hired through a referral. Use LinkedIn Jobs to boost your chances of getting hired through people you know.",
+    "productUrl": "https://www.producthunt.com/products/linkedin-2/shoutouts",
+    "websiteUrl": "https://www.linkedin.com/jobs",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Remote Rocketship",
+    "icon": "https://ph-files.imgix.net/690f97bd-5978-4e0f-b804-66d753e0ea0a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Remote Rocketship — The remote job board with 18k+ tech jobs",
+    "description": "Search 18,000+ open roles at 6,000+ remote companies. Filter by location, tech stack, salary, company size, full-time/part-time and more!",
+    "productUrl": "https://www.producthunt.com/products/remote-rocketship/shoutouts",
+    "websiteUrl": "http://www.remoterocketship.com/",
+    "imageUrl1": "https://ph-files.imgix.net/e59bc327-205c-40a0-bc64-75c9e81bde14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/0888ac2d-0da1-41d7-a508-3f5b358d072b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/cfcf3876-7136-4abb-bbbc-4dd465ba4d38.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Findem",
+    "icon": "https://ph-files.imgix.net/8b093985-7aea-4f39-923a-7fec97d3d891.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Findem — Search for ideal candidates like never before",
+    "description": "Findem’s Impossible Search lets you find candidates who have the EXACT attributes you’re looking for in a new hire. We’ve exposed 100+ Impossible Searches for free across different roles, so everyone can experience the magic for themselves!",
+    "productUrl": "https://www.producthunt.com/products/findem/shoutouts",
+    "websiteUrl": "https://www.findem.ai/#scroll",
+    "imageUrl1": "https://ph-files.imgix.net/7b9d8210-a21b-4428-8341-db8890fabed4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/9e97ea43-2134-4877-9e79-732201271a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/6aadb21f-c161-489a-8ed3-60190715c30a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]
