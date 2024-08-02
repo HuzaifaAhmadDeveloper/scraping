@@ -4,7 +4,7 @@ const fs = require('fs');
 // Custom delay function
 const delay = (time) => new Promise((resolve) => setTimeout(resolve, time));
 
-const url = 'https://www.producthunt.com/categories/unified-api';
+const url = 'https://www.producthunt.com/categories/a-b-testing';
 const navigationTimeout = 120000; // Increased timeout to 120 seconds
 const maxRetries = 3;
 
@@ -65,7 +65,7 @@ const navigateWithRetries = async (page, url, options, retries = 0) => {
           const additionalAnchorElement = card.querySelector('div.flex.flex-row.items-start a');
 
           const rank = rankElement ? rankElement.innerText.replace('#', '') : null;
-          const imageUrl = imageElement ? imageElement.src : null;
+          const icon = imageElement ? imageElement.src : null;
           const title = titleElement ? titleElement.innerText : null;
           const description = descriptionElement ? descriptionElement.innerText : null;
           const additionalAnchor = additionalAnchorElement ? {
@@ -75,10 +75,10 @@ const navigateWithRetries = async (page, url, options, retries = 0) => {
 
           products.push({
             rank,
-            imageUrl,
+            icon,
             title,
             description,
-            additionalAnchor
+            productUrl: additionalAnchor ? additionalAnchor.href : null
           });
         }
 
@@ -93,8 +93,8 @@ const navigateWithRetries = async (page, url, options, retries = 0) => {
 
     // Process additional data for each product card
     for (const product of allProductData) {
-      if (product.additionalAnchor) {
-        const additionalPageUrl = product.additionalAnchor.href;
+      if (product.productUrl) {
+        const additionalPageUrl = product.productUrl;
 
         // Navigate to the additional anchor page
         await navigateWithRetries(page, additionalPageUrl, { waitUntil: 'networkidle2', timeout: navigationTimeout });
@@ -141,10 +141,18 @@ const navigateWithRetries = async (page, url, options, retries = 0) => {
 
             const thirdAnchorPageData = await page.evaluate(() => {
               const imageElements = document.querySelectorAll('div.flex.flex-row.justify-start.gap-4.overflow-x-auto.justify-between img');
-              const imageUrls = Array.from(imageElements).map(img => img.src);
+              const imageUrls = {};
+              imageElements.forEach((img, index) => {
+                imageUrls[`imageUrl${index + 1}`] = img.src;
+              });
 
               const buttonAnchorElement = document.querySelector('div.styles_buttons__kKy_S.mt-6.flex.flex-row.items-center.gap-3 a');
-              const buttonAnchorHref = buttonAnchorElement ? buttonAnchorElement.href : null;
+              let buttonAnchorHref = buttonAnchorElement ? buttonAnchorElement.href : null;
+
+              // Logic to remove the "?ref=producthunt" part or any query parameters
+              if (buttonAnchorHref && buttonAnchorHref.includes('?')) {
+                buttonAnchorHref = buttonAnchorHref.split('?')[0];
+              }
 
               return {
                 imageUrls,
@@ -157,13 +165,28 @@ const navigateWithRetries = async (page, url, options, retries = 0) => {
         }
       }
 
-      allData.push(product);
+      // Processing and formatting the data
+      const formattedProduct = {
+        rank: product.rank,
+        name: product.title.split(' — ')[0], // Assuming the name is the first part of the title
+        icon: product.icon,
+        title: product.title,
+        description: product.description,
+        productUrl: product.productUrl,
+        websiteUrl: product.thirdAnchorPageData?.buttonAnchorHref || '',
+        imageUrl1: product.thirdAnchorPageData?.imageUrls?.imageUrl1 || '',
+        imageUrl2: product.thirdAnchorPageData?.imageUrls?.imageUrl2 || '',
+        imageUrl3: product.thirdAnchorPageData?.imageUrls?.imageUrl3 || '',
+        videoUrl: '' // Assuming you want to keep this as an empty string
+      };
+
+      allData.push(formattedProduct);
     }
 
+    // Save the formatted data to a JSON file
     if (allData.length > 0) {
-      // Save the scraped data to a JSON file
-      fs.writeFileSync('imran-unified.json', JSON.stringify(allData, null, 2));
-      console.log('All product data saved to imran-unified.json');
+      fs.writeFileSync('formatted-products.json', JSON.stringify(allData, null, 2));
+      console.log('Formatted product data saved to formatted-products.json');
     } else {
       console.log('No product cards found.');
     }
