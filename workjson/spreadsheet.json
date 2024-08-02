@@ -1,0 +1,93 @@
+[
+  {
+    "rank": "1",
+    "name": "Google Sheets",
+    "icon": "https://ph-files.imgix.net/725ed71c-b517-4cf1-89c5-92ff785a326b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Google Sheets — Free Online Spreadsheets for Personal Use",
+    "description": "Google Sheets is a spreadsheet program included as part of a free, web-based software office suite offered by Google within its Google Drive service. The service also includes Google Docs and Google Slides, a word processor and presentation program respectively.",
+    "productUrl": "https://www.producthunt.com/products/google-sheets/shoutouts",
+    "websiteUrl": "https://www.google.com/sheets/about",
+    "imageUrl1": "https://ph-files.imgix.net/59c302bb-7285-42d8-a13a-d48244655aca.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/82c64539-bdf6-48f2-8401-d93a8114f9fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/fc9d40e4-aa72-4ac4-87af-56fd64e9fe59.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Airtable",
+    "icon": "https://ph-files.imgix.net/ec714738-1a69-4821-ac8d-af4eff63d4d4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Airtable — The perfect tool to stay organized",
+    "description": "Airtable is a platform that makes it easy to build powerful, custom applications. These tools can streamline just about any process, workflow, or project—and best of all, you can build them without ever learning to write a single line of code.",
+    "productUrl": "https://www.producthunt.com/products/airtable/shoutouts",
+    "websiteUrl": "http://airtable.com/",
+    "imageUrl1": "https://ph-files.imgix.net/d685d4be-3a48-4f15-8e06-d3596760b07c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/e563cc9c-5480-4531-917a-6acf86623def.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/68db7c89-bcf8-4b4a-b2ba-776cf2b1b347.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Softr",
+    "icon": "https://ph-files.imgix.net/deecbb94-38a6-43da-8dd8-305ea9e54974.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Softr — Build custom apps powered by your data, no code required.",
+    "description": "Softr turns your spreadsheets (Airtable, Google Sheets) and databases into customer portals, internal tools, and any other custom app. Pick a template or start from scratch.",
+    "productUrl": "https://www.producthunt.com/products/softr/shoutouts",
+    "websiteUrl": "http://softr.io/",
+    "imageUrl1": "https://ph-files.imgix.net/4006cbb7-a0e4-4410-86f3-42b88825fb5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/268caf68-e641-42df-8ec1-baad6b78aea6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/08f90515-f388-4a2a-ae83-fed6b95d94e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Equals",
+    "icon": "https://ph-files.imgix.net/7ce855ec-7452-4439-952a-8d3288b57ed4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Equals — Next-generation analysis and reporting",
+    "description": "Equals fills the void between one-size-fits-all and complex data platforms. It's as if your favorite spreadsheet and BI tool had a baby – a legit prodigy.",
+    "productUrl": "https://www.producthunt.com/products/equals/shoutouts",
+    "websiteUrl": "https://equals.com/",
+    "imageUrl1": "https://ph-files.imgix.net/975ef0b3-f35f-4e57-9469-faa118a77574.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/7adafe83-e7fc-486c-af35-5d992a7a52bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/cec82dec-2085-460e-bb4c-4183ba5a83fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Glide",
+    "icon": "https://ph-files.imgix.net/71409bbb-a3d4-4e09-81d1-f20b328a7385.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Glide — Create an app from a Google Sheet in five minutes",
+    "description": "Glide turns spreadsheets into beautiful, easy-to-use apps, without code. Pick a spreadsheet or start with a template, customize your app, then share it instantly with anyone. Start today for free!",
+    "productUrl": "https://www.producthunt.com/products/glide-2/shoutouts",
+    "websiteUrl": "http://glideapps.com/",
+    "imageUrl1": "https://ph-files.imgix.net/86898684-0963-4efb-a3d0-805abfcdd0d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3e9cc42a-c1be-4a1d-ada6-fbdd3b999194.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/0b93ec6c-4623-467a-b6a7-bfe5c00dbbd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "6",
+    "name": "Lychee",
+    "icon": "https://ph-files.imgix.net/7c58d0cc-6624-4ad0-a385-0dbcd61df1d8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Lychee — AI-Powered Data Visualization in 0.32 seconds.",
+    "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
+    "productUrl": "https://www.producthunt.com/products/lychee-3/shoutouts",
+    "websiteUrl": "https://www.lych3e.com/",
+    "imageUrl1": "https://ph-files.imgix.net/756531cd-bc17-4559-b67c-f7fead96bc18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/05a0cd1e-4e9c-42a3-b4b4-98147b7203c5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/824deb2b-5d1d-4670-8a8e-fead41642269.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "7",
+    "name": "Easy Charts",
+    "icon": "https://ph-files.imgix.net/e5cfdf2d-374a-4406-803f-890d7e80ddf4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Easy Charts — Refreshingly simple charts. No code shadcn/charts",
+    "description": "Super simple charts, without a subscription. If you've used Excel or Sheets, you will feel right at home... If you know how to press a button, you already know how to use Easy Charts. If you have marveled at shadcn/charts, this is no-code shadcn/charts",
+    "productUrl": "https://www.producthunt.com/products/easy-charts/shoutouts",
+    "websiteUrl": "https://lych3e.com/charts",
+    "imageUrl1": "https://ph-files.imgix.net/36132348-794a-4115-87fc-5a07759bf0a6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/f9bd018a-5b90-4e60-8ac9-e3d877aa823d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/c1d0f676-f50b-425c-88ed-61229fc9b867.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Figma",
+    "icon": "https://ph-files.imgix.net/db00a7a1-6778-4e51-a953-de5a9a339bc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Figma — The collaborative interface design tool",
+    "description": "A collaborative design tool for creating user interfaces, mobile apps, and websites with a wide range of features, including vector editing tools, prototyping, and version control, all in a cloud-based platform.",
+    "productUrl": "https://www.producthunt.com/products/figma/shoutouts",
+    "websiteUrl": "https://www.figma.com/",
+    "imageUrl1": "https://ph-files.imgix.net/da03af27-d94d-4fe8-b020-82471c32b380.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/43c127d4-4f51-4194-8c35-6b063b0ae8a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Whimsical",
+    "icon": "https://ph-files.imgix.net/2406be33-399a-4656-9e0b-03eeeba8fa1f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Whimsical — Where product teams align on their next build",
+    "description": "Whimsical is the iterative product workspace. We help teams build clarity and shared understanding faster with documentation tools for solving any product challenge.",
+    "productUrl": "https://www.producthunt.com/products/whimsical/shoutouts",
+    "websiteUrl": "https://whimsical.com/",
+    "imageUrl1": "https://ph-files.imgix.net/dabd7b01-ddc9-4580-9510-e069e604a50e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/0d3b5fe3-4edf-415a-b1b0-a07868925e79.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/07d5b9d3-4cf5-44a7-ba92-b6ec8e31ab1e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Craftwork Design",
+    "icon": "https://ph-files.imgix.net/e7585390-f991-4073-84c7-5cf2597948ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Craftwork Design — UI assets for startup owners & busy designers",
+    "description": "High-quality UX/UI and Wireframe Kits, Illustrations, Templates, and Mockups to make your design workflow faster and easier. Craftwork is a small team of designers and developers. We create our own design stuff and follow new cool products around the internet.",
+    "productUrl": "https://www.producthunt.com/products/craftwork-design/shoutouts",
+    "websiteUrl": "https://craftwork.design/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "draw io",
+    "icon": "https://ph-files.imgix.net/369da244-b1c5-4152-b77d-2b963b983676.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "draw io — Flowchart Maker & Online Diagram Software",
+    "description": "diagrams.net is a free and open source cross-platform graph drawing software developed in HTML5 and JavaScript. Its interface can be used to create diagrams such as flowcharts, wireframes, UML diagrams, organizational charts, and network diagrams.",
+    "productUrl": "https://www.producthunt.com/products/draw-io-2/shoutouts",
+    "websiteUrl": "https://app.diagrams.net/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Sketchlie",
+    "icon": "https://ph-files.imgix.net/300031bb-b812-40c8-a047-148229b9243b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Sketchlie — Streamline Ideation, Collaborate, Create. All in real-time",
+    "description": "Sketchlie is an online workspace designed for effective collaboration and transforming ideas into reality. Our goal is to give you the tools to turn ideas into reality. Our platform facilitates brainstorming, project planning, and collaboration in real-time, allowing you to work seamlessly and efficiently with your team, no matter the distance.",
+    "productUrl": "https://www.producthunt.com/products/sketchlie/shoutouts",
+    "websiteUrl": "https://www.sketchlie.com/",
+    "imageUrl1": "https://ph-files.imgix.net/9a16375d-faaf-478f-af89-5249e140f401.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4abf1569-d3f8-4d2b-8a20-8828c1dd533e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/a94b56c9-05cb-4a93-b407-5ac556412ad4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

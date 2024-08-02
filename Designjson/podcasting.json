@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Morning Maker Show",
+    "icon": "https://ph-files.imgix.net/967aae82-4147-40ab-8ed0-fedcc7a8d4fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Morning Maker Show — Build in public show you need to know about",
+    "description": "We keep everyone updated on cool makers and their great products. Sometimes we can be funny too.",
+    "productUrl": "https://www.producthunt.com/products/morning-maker-show/shoutouts",
+    "websiteUrl": "https://morningmakershow.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a97d53d3-f3f2-433d-83c4-972d3a19172b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/e353eb74-b040-4198-a6d8-677aeb190ef7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4f83ce91-b2ba-4495-915e-1de3ad746806.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Spotify",
+    "icon": "https://ph-files.imgix.net/aa6e3930-dec2-4d85-af41-d39f120e7539.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Spotify — Stream music and podcasts",
+    "description": "Discover new music, podcasts and listen to your favorite artists, albums, or create a playlist with the latest songs to suit your mood.",
+    "productUrl": "https://www.producthunt.com/products/spotify/shoutouts",
+    "websiteUrl": "https://www.spotify.com/",
+    "imageUrl1": "https://ph-files.imgix.net/6e781bf6-ac35-4fd3-b7e4-899f6d4a000b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Wondercraft",
+    "icon": "https://ph-files.imgix.net/290edd0f-e78e-4fce-ba2d-aec0c8e4e67a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Wondercraft — An AI powered audio studio",
+    "description": "The easy and enjoyable way to create professional, studio-quality audio for podcasts, audiobooks, ads, company communications, and more.",
+    "productUrl": "https://www.producthunt.com/products/wondercraft-ai/shoutouts",
+    "websiteUrl": "https://wondercraft.ai/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Descript",
+    "icon": "https://ph-files.imgix.net/c01b13d6-b21b-4b37-869f-1190b90fed39.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Descript — If you can edit text, you can make videos, podcast, & clips",
+    "description": "Descript is a new kind of video and audio editor that’s as easy as a doc. Descript’s AI-powered features and intuitive interface fuel YouTube and TikTok channels, top podcasts, and businesses using video for marketing, sales, and internal training and collaboration. Descript aims to make video a staple of every communicator’s toolkit, alongside docs and slides.",
+    "productUrl": "https://www.producthunt.com/products/descript/shoutouts",
+    "websiteUrl": "https://www.descript.com/",
+    "imageUrl1": "https://ph-files.imgix.net/aaf03998-8f3f-4be4-88ca-fb3652a9748b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/05f138ec-94cc-49aa-8656-9937c758871e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/64e70d78-62cf-4fbb-8a3d-70666287e363.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Ko-fi.com",
+    "icon": "https://ph-files.imgix.net/42ce2324-17d8-4dea-a428-8f950f7196e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Ko-fi.com — Fund Your Passions.",
+    "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
+    "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
+    "websiteUrl": "https://ko-fi.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]
