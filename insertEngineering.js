@@ -9022,13 +9022,15 @@ const data = {
   }
 };
 
+
+
 const insertData = async () => {
   try {
     await client.connect();
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO Category (cat_name, cat_heading) VALUES ($1, $2) RETURNING cat_id`,
+      `INSERT INTO category (cat_name, cat_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING cat_id`,
       [data.category.cat_name, data.category.cat_heading]
     );
 
@@ -9037,16 +9039,50 @@ const insertData = async () => {
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO Sub_Category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3) RETURNING sub_cat_id`,
+        `INSERT INTO sub_category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3) RETURNING sub_cat_id`,
         [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
       );
 
       const sub_cat_id = subCategoryResult.rows[0].sub_cat_id;
 
       for (const product of sub_category.products) {
+        // Check if the product already exists
+        const productResult = await client.query(
+          `SELECT prod_id FROM products WHERE name = $1`,
+          [product.name]
+        );
+
+        let prod_id;
+        if (productResult.rows.length === 0) {
+          // Insert new product if it doesn't exist
+          const newProductResult = await client.query(
+            `INSERT INTO products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING prod_id`,
+            [
+              product.rank,
+              product.name,
+              product.icon,
+              product.title,
+              product.description,
+              product.productUrl,
+              product.websiteUrl,
+              product.imageUrl1,
+              product.imageUrl2,
+              product.imageUrl3,
+              product.videoUrl,
+              cat_id,
+              sub_cat_id,
+            ]
+          );
+          prod_id = newProductResult.rows[0].prod_id;
+        } else {
+          // Get existing prod_id if product exists
+          prod_id = productResult.rows[0].prod_id;
+        }
+
+        // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO Products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13)`,
-          [product.rank, product.name, product.icon, product.title, product.description, product.productUrl, product.websiteUrl, product.imageUrl1, product.imageUrl2, product.imageUrl3, product.videoUrl, cat_id, sub_cat_id]
+          `INSERT INTO productSubcategory (prod_id, cat_id, sub_cat_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [prod_id, cat_id, sub_cat_id]
         );
       }
     }
