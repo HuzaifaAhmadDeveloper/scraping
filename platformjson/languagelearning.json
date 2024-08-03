@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "Duolingo",
+    "icon": "https://ph-files.imgix.net/31f7fa4d-ec8f-4904-ac08-b893980e372d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Duolingo — The free, fun & effective way to learn a language",
+    "description": "Duolingo is a platform that includes a language-learning website and app, as well as a digital language proficiency assessment exam.",
+    "productUrl": "https://www.producthunt.com/products/duolingo/shoutouts",
+    "websiteUrl": "https://duolingo.com/",
+    "imageUrl1": "https://ph-files.imgix.net/e46ed027-6873-447b-8f37-a203713788b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/6d8becec-9831-4e7a-8805-0726e74c55fc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/cba97e29-07f9-445c-a603-f6a1f3fc9dbd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "maths.ai",
+    "icon": "https://ph-files.imgix.net/883021eb-264e-411f-a45b-0a3f90eb3e2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "maths.ai — Your favourite AI maths teacher",
+    "description": "An AI powered maths tutor, designed to mimic your friendly, patient and nice maths and science teacher.",
+    "productUrl": "https://www.producthunt.com/products/maths-ai/shoutouts",
+    "websiteUrl": "https://maths.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/580ce779-e6dc-4d01-b83d-dd095e3f8e14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/cab9e1a7-2dea-4ab9-a2af-064b60288340.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/0906406c-0c8f-428f-892c-583f997846bc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Five Phrases",
+    "icon": "https://ph-files.imgix.net/9d85c750-84b7-405a-8e59-e09da53640cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Five Phrases — Your travel buddy",
+    "description": "Don’t know the language? No problemo! Your new travel buddy is here to help you learn the most important phrases for your trip.",
+    "productUrl": "https://www.producthunt.com/products/five-phrases/shoutouts",
+    "websiteUrl": "https://www.fivephrasesapp.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a6f8f3a7-6b28-4aa0-b9b7-ea25e55193a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4c1011ac-0605-46d7-adf4-c3969b68bdd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/d949f4eb-b24e-4324-9b18-3ddbfe05520c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

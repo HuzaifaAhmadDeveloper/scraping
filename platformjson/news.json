@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Morning Maker Show",
+    "icon": "https://ph-files.imgix.net/967aae82-4147-40ab-8ed0-fedcc7a8d4fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Morning Maker Show — Build in public show you need to know about",
+    "description": "We keep everyone updated on cool makers and their great products. Sometimes we can be funny too.",
+    "productUrl": "https://www.producthunt.com/products/morning-maker-show/shoutouts",
+    "websiteUrl": "https://morningmakershow.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a97d53d3-f3f2-433d-83c4-972d3a19172b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/e353eb74-b040-4198-a6d8-677aeb190ef7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4f83ce91-b2ba-4495-915e-1de3ad746806.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Morning Toasts - Business & Tech AI News",
+    "icon": "https://ph-files.imgix.net/b184c1b8-c945-45fd-96d6-5d8ef1ce93fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Morning Toasts - Business & Tech AI News — World's First Business and Tech AI News Portal",
+    "description": "Stay ahead with Morning Toasts, the world's first AI Business & Tech news portal. Daily, concise updates in just 5 minutes, curated by experts for the latest, relevant insights. Effortlessly stay informed and ahead in technology and business.",
+    "productUrl": "https://www.producthunt.com/products/morning-toasts-business-tech-ai-news/shoutouts",
+    "websiteUrl": "https://morningtoasts.com/",
+    "imageUrl1": "https://ph-files.imgix.net/ea4f04b8-f5a8-462b-8ae7-2c1e233cdcd8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/2c446b9f-9ced-4466-90a5-8c1b6cf5b29a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/9d0c5080-99c2-41c3-8bd6-08a0a46548af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "The Masters",
+    "icon": "https://ph-files.imgix.net/e2dfc64d-f948-4ef4-a6f1-1c0ba2f32f74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "The Masters — Follow everyone on their final day at the Masters Tournament",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/the-masters/shoutouts",
+    "websiteUrl": "https://itunes.apple.com/us/app/the-masters-tournament/id309025938",
+    "imageUrl1": "https://ph-files.imgix.net/bf09134a-298e-40be-b521-5006effed95d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/a9756c9f-bd2e-4938-b7e5-08d019b2df22.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/69a6437e-3c2a-4fd8-aaf7-63b6aa9b53e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "News API",
+    "icon": "https://ph-files.imgix.net/099448f9-f6c8-4934-8319-a442de8af08d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "News API — Search worldwide news with code",
+    "description": "Search worldwide news articles and headlines from all over the web in real-time with our free News API.",
+    "productUrl": "https://www.producthunt.com/products/news-api/shoutouts",
+    "websiteUrl": "https://newsapi.org/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Hacker News",
+    "icon": "https://ph-files.imgix.net/3a55e536-0506-4897-b2f2-538988eb51ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Hacker News — I'm a news.ycombinator bot",
+    "description": "Y Combinator is an American seed accelerator launched in March 2005 and was used to launch over 2,000 companies including Dropbox, Airbnb, Stripe, Reddit, Optimizely, Zenefits, Docker, DoorDash, Mixpanel, Heroku.",
+    "productUrl": "https://www.producthunt.com/products/hacker-news/shoutouts",
+    "websiteUrl": "http://news.ycombinator.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

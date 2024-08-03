@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Claude by Anthropic",
+    "icon": "https://ph-files.imgix.net/ae49ce7d-30a4-457b-823a-2e1ee8d44dbb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Claude by Anthropic — A family of foundational AI models",
+    "description": "We're an AI research company that builds reliable, interpretable, and steerable AI systems. Our first product is Claude, an AI assistant for tasks at any scale.",
+    "productUrl": "https://www.producthunt.com/products/claude/shoutouts",
+    "websiteUrl": "https://www.anthropic.com/claude",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "LanceDB",
+    "icon": "https://ph-files.imgix.net/127c1dc7-bdef-43bd-b5be-e1c717670122.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "LanceDB — The Database for Multimodal AI",
+    "description": "LanceDB is a developer-friendly, open source database for AI. From hyper scalable vector search and advanced retrieval for RAG, to streaming training data and interactive exploration of large scale AI datasets, LanceDB is the best foundation for your AI application",
+    "productUrl": "https://www.producthunt.com/products/lancedb/shoutouts",
+    "websiteUrl": "https://lancedb.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "ApiPrivacy",
+    "icon": "https://ph-files.imgix.net/f1bf1407-0d12-4a16-82c2-f4ce4d0f38c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "ApiPrivacy — AI scans and resolves privacy-data leaks in your apps & APIs",
+    "description": "The first AI platform to accurately detect and catalog App & API privacy data. Enforces privacy standards across internal and third-party data sharing, resulting in secure and compliant APIs.",
+    "productUrl": "https://www.producthunt.com/products/app-api-privacy-mgmt/shoutouts",
+    "websiteUrl": "https://apiprivacy.com/",
+    "imageUrl1": "https://ph-files.imgix.net/6e0af682-22ed-4613-bbd7-de539dc25263.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/5408057d-717a-440e-936b-5949c411b48a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/0950d503-c13e-41a1-9476-a66af6c692d4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "PostgresML",
+    "icon": "https://ph-files.imgix.net/ad6d08ff-396e-4450-a046-88ed244b47a5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "PostgresML — You know Postgres. Now you know machine learning.",
+    "description": "PostgresML is a complete MLops platform in a simple PostgreSQL extension. Build fast, simple and powerful models right inside your database.",
+    "productUrl": "https://www.producthunt.com/products/postgresml/shoutouts",
+    "websiteUrl": "https://postgresml.org/",
+    "imageUrl1": "https://ph-files.imgix.net/288361aa-6259-4bbf-9ec5-e67dda152203.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d5b0e7ce-28d3-4e66-b079-c27f79e19bf8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/308fd54e-f57b-4daf-acca-7db887834a34.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "SendPulse",
+    "icon": "https://ph-files.imgix.net/1f582c86-a6ff-4447-9a0c-1c7d28645cd9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "SendPulse — Maximizing e-mail marketing open rates.",
+    "description": "SendPulse maximizes the core metric of e-mail marketing - newsletter open rate - atomatically. We collect tons of data about billions of subscribers in our system and predict the best time and channel for each subscriber when to deliver the next message to him. In a result our customers see 50% open rate increase in average.",
+    "productUrl": "https://www.producthunt.com/products/sendpulse/shoutouts",
+    "websiteUrl": "https://sendpulse.com/",
+    "imageUrl1": "https://ph-files.imgix.net/d1174e06-b650-4897-81e0-851a0c65ed1f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/25a59c44-2814-4363-8626-f92145b9aa01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/8a6a35b7-b354-4788-aa83-2a7b97999764.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

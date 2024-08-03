@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Stable Diffusion XL",
+    "icon": "https://ph-files.imgix.net/d672baa2-0961-48e5-a7c7-f83a6098e6c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Stable Diffusion XL — Richer images & jaw-dropping aesthetics from shorter prompts",
+    "description": "Create descriptive images with shorter prompts and generate words within images. This is a significant advancement in image generation capabilities, offering enhanced image composition and face generation resulting in stunning visuals and realistic aesthetics.",
+    "productUrl": "https://www.producthunt.com/products/stable-diffusion-xl/shoutouts",
+    "websiteUrl": "https://stability.ai/stable-diffusion",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Avatars by Studio Neiro AI",
+    "icon": "https://ph-files.imgix.net/4104cfc9-8533-4b34-912f-f5b98f8138bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Avatars by Studio Neiro AI — Craft captivating videos using scalable AI driven avatars",
+    "description": "Generate video avatars with human-like features and micro-expressions that accurately represent your brand script or audio speech. Customize the voice of AI avatar to match the speaker's persona. First ultrarealistic avatars for vertical videos by Studio Neiro AI.",
+    "productUrl": "https://www.producthunt.com/products/avatars-by-studio-neiro-ai/shoutouts",
+    "websiteUrl": "https://neiro.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/d03a6424-280f-4826-9b11-29aafb5141fb.octet-stream?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4cbf174e-f497-42b1-aee9-a723618923d8.octet-stream?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/85902355-64e5-4512-b152-a13dd52dc04b.octet-stream?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

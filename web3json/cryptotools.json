@@ -1,0 +1,93 @@
+[
+  {
+    "rank": "1",
+    "name": "Realm App",
+    "icon": "https://ph-files.imgix.net/abff8d50-5720-4088-b7f2-5c68dc03de10.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Realm App — Converts idle browser homepage into quick-access dashboard.",
+    "description": "Realm App is a literacy and productivity tool as a browser extension. Users can customize their workspaces using a range of widgets such as bookmarks and curated reading lists, to suit their role and usage.",
+    "productUrl": "https://www.producthunt.com/products/realm-app/shoutouts",
+    "websiteUrl": "https://realmapp.io/",
+    "imageUrl1": "https://ph-files.imgix.net/bfe74dd2-f462-41ff-863c-c33ab83c0c03.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/5434b6cb-f957-4d2f-9a06-0f563090ed6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/38301c4e-f9c0-4495-ba6a-45b9f9c228fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Coingecko",
+    "icon": "https://ph-files.imgix.net/3090d95b-e49a-497d-8a1c-38a2da573396.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Coingecko — Live Crypto Prices",
+    "description": "CoinGecko provides a fundamental analysis of the crypto market. In addition to tracking price, volume and market capitalization, CoinGecko tracks community growth, open-source code development, major events and on-chain metrics",
+    "productUrl": "https://www.producthunt.com/products/coingecko/shoutouts",
+    "websiteUrl": "https://www.coingecko.com/",
+    "imageUrl1": "https://ph-files.imgix.net/23d8f967-c59a-4fd4-9c08-419cae5106c7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d01f5fc2-46c7-42e9-85fa-faec603c77a2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4ec9c72d-256a-43d8-9ac1-de8a63fe7364.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "CoinMarketCap",
+    "icon": "https://ph-files.imgix.net/0d151da7-5553-4bec-98e8-71757a1338c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "CoinMarketCap — Crypto-currency market capitalizations",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/coinmarketcap/shoutouts",
+    "websiteUrl": "http://coinmarketcap.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Turnkey",
+    "icon": "https://ph-files.imgix.net/8a47f03c-5ebb-43bf-8340-d2eabb307b85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Turnkey — Simple APIs to securely manage your crypto private keys",
+    "description": "Introducing Turnkey, a new model for secure and easy-to-use private key infrastructure based on secure enclaves and built by the team behind Coinbase Custody. Create wallets, sign transactions, and easily manage access permissions for your team or end users.",
+    "productUrl": "https://www.producthunt.com/products/turnkey/shoutouts",
+    "websiteUrl": "https://www.turnkey.com/",
+    "imageUrl1": "https://ph-files.imgix.net/6952fba7-949e-4d25-b8be-f956a9b1aada.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/62953c96-b441-4788-b765-ed94ac73cc8e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/2b39de98-5dbc-4442-b1a3-1630b7badeb7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "BscScan",
+    "icon": "https://ph-files.imgix.net/44f980f9-82c8-4eec-82d1-09e411b6ab04.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "BscScan — BscScan - Binance (BNB) Blockchain Explorer",
+    "description": "BscScan is a block pilgrim created by a similar group behind Etherscan It is an examination stage for the Binance Savvy Chain organization and has numerous other helpful elements. BscScan contains information to follow DeFi projects on BSC.",
+    "productUrl": "https://www.producthunt.com/products/bscscan/shoutouts",
+    "websiteUrl": "https://bscsscan.us.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "6",
+    "name": "OpenEden",
+    "icon": "https://ph-files.imgix.net/b590bbf8-3c54-441a-be7b-55e1816d46a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "OpenEden — A tokenized RWA vault",
+    "description": "Bridging TradFi with DeFi, starting with U.S. treasury bills.",
+    "productUrl": "https://www.producthunt.com/products/openeden/shoutouts",
+    "websiteUrl": "https://openeden.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "7",
+    "name": "Capsule",
+    "icon": "https://ph-files.imgix.net/742f1bed-887e-409a-a511-0e9840445d9e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Capsule — Cross-app embedded wallet infrastructure",
+    "description": "On a mission to radically simplify interacting with blockchains.",
+    "productUrl": "https://www.producthunt.com/products/capsule-10/shoutouts",
+    "websiteUrl": "https://usecapsule.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

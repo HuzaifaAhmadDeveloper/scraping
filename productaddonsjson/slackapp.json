@@ -1,0 +1,93 @@
+[
+  {
+    "rank": "1",
+    "name": "RocketSim for Xcode",
+    "icon": "https://ph-files.imgix.net/ed0e2783-29ad-40d6-aa90-8599937d8a53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "RocketSim for Xcode — Record the iOS Simulator into MP4 or GIF",
+    "description": "Record the iOS Simulator into GIF or MP4 Create a recording from the iOS simulator and export it as GIF or MP4. Directly drag it into Slack, GitHub, Twitter, or any other app. Recording is not all. Organise and launch Universal Links (deeplinks) with ease.",
+    "productUrl": "https://www.producthunt.com/products/rocketsim-for-xcode/shoutouts",
+    "websiteUrl": "https://www.rocketsim.app/",
+    "imageUrl1": "https://ph-files.imgix.net/6259ff45-a27d-4bc3-97f0-08435aebcc1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/b5051fc4-fcef-43f4-9ade-65f39f90fca0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/6409a821-cd03-4c03-9863-edd76ae38ee2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Standuply: Poll & Survey Scrum Bot",
+    "icon": "https://ph-files.imgix.net/d2e024f8-11f8-4993-8932-a2b5c3cca9e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Standuply: Poll & Survey Scrum Bot — Project Management Assistant for Slack and MS Teams",
+    "description": "Standuply is the #1 Standup Bot. It runs asynchronous stand-up & retrospective meetings, Slack polls, and tracks team performance to automate your Agile processes.",
+    "productUrl": "https://www.producthunt.com/products/standuply/shoutouts",
+    "websiteUrl": "http://standuply.com/",
+    "imageUrl1": "https://ph-files.imgix.net/e32eed9c-3799-40f1-b4d1-2ac692e45072.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/48dd9a53-35ca-4d79-92b9-d5fa03ca79d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/377dc98b-32fa-44fd-aac2-f41b607786d5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "ChatBotKit",
+    "icon": "https://ph-files.imgix.net/98500024-bbc4-4a50-a532-67abb3dd00c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "ChatBotKit — The fastest way to build advanced AI chat bots",
+    "description": "ChatBotKit helps you create conversational AI chatbots with your own data to communicate naturally with users on your website, Slack, and Discord.",
+    "productUrl": "https://www.producthunt.com/products/chatbotkit/shoutouts",
+    "websiteUrl": "https://chatbotkit.com/",
+    "imageUrl1": "https://ph-files.imgix.net/c4818c14-2cd4-4841-b3ad-b20553bb2ee7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4eb87a7f-3b9c-4fff-8fee-8aff46cb112d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/e48784e4-8b27-43fb-83ec-2c9f67bd5147.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Jibble",
+    "icon": "https://ph-files.imgix.net/cc11264b-69f6-4f8d-95bc-319a606461e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Jibble — TRACK TIME & ATTENDANCE FOR YOUR SLACK TEAM",
+    "description": "jibble.io was first indexed by Google in September 2016",
+    "productUrl": "https://www.producthunt.com/products/jibble/shoutouts",
+    "websiteUrl": "http://www.jibble.io/",
+    "imageUrl1": "https://ph-files.imgix.net/7d9d22ca-b31c-432f-9b5f-03566f18e071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3f1f9f35-0638-4bc7-a1fa-dc46551415b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/3122a49e-4e3d-4ae4-8997-1a19c1ed3fd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Karmabot",
+    "icon": "https://ph-files.imgix.net/4dd05943-c165-41a7-95eb-3cf85416f3a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Karmabot — Peer recognition and appreciation for business chats",
+    "description": "Praise, values, rewards, reports, surveys, mini-games, onboardings and 1-on-1s automated. Karma brings true bonding to remote teams. You can build stronger, happier teams on Slack and MS Teams, set goals, track performance and reward excellence.",
+    "productUrl": "https://www.producthunt.com/products/karmabot/shoutouts",
+    "websiteUrl": "https://karmabot.chat/",
+    "imageUrl1": "https://ph-files.imgix.net/19a0b3a1-ecb2-4d0c-8bed-a22882ef0aa4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "6",
+    "name": "Billy (birthday bot for Slack)",
+    "icon": "https://ph-files.imgix.net/294a07d2-7039-445e-ab71-89fb51bdf139.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Billy (birthday bot for Slack) — Never forget a teammate's birthday again",
+    "description": "🎉 Automates birthday and work anniversary celebrations in Slack. 🎉 Join thousands of companies who brought fun into their workplace. Install now for free (in less than 30s ⚡️)",
+    "productUrl": "https://www.producthunt.com/products/billy-birthday-bot-for-slack/shoutouts",
+    "websiteUrl": "https://billybirthday.com/",
+    "imageUrl1": "https://ph-files.imgix.net/73d9d622-f47e-4b22-8341-ec8b55d86c53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/ea37e6db-43bb-4a2e-bc7d-f76c97a72c48.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/21f5a588-4f89-48d3-8de9-d037f984407d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "7",
+    "name": "Alfy",
+    "icon": "https://ph-files.imgix.net/918d10ab-6b2c-4561-bdcc-8835033549a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Alfy — Random Coffee App for Slack",
+    "description": "The simplest and most-affordable random coffee app for Slack. Alfy is a must-have for every remote/hybrid company. Made with love by BuddiesHR.com 💜",
+    "productUrl": "https://www.producthunt.com/products/alfy/shoutouts",
+    "websiteUrl": "https://buddieshr.com/alfy",
+    "imageUrl1": "https://ph-files.imgix.net/83114339-6cfd-4acf-8c16-ae6a65a0148f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/9969f4ea-62db-4041-8e33-7243e4ce8a2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/41046ace-c572-420e-b02c-eb494d8f8af7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

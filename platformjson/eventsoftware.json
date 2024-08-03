@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Meetup",
+    "icon": "https://ph-files.imgix.net/438af8e8-692c-4cfd-ac4f-1ac08b267074.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Meetup — Meet new people, do new things",
+    "description": "Find Meetup events so you can do more of what matters to you. Or create your own group and meet people near you who share your interests.",
+    "productUrl": "https://www.producthunt.com/products/meetup/shoutouts",
+    "websiteUrl": "http://www.meetup.com/",
+    "imageUrl1": "https://ph-files.imgix.net/c925e0a7-e035-496e-8927-0cc94c339ead.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/e12772ab-a8a2-4da1-bbde-60b2ad0faf52.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/1ed8d92b-c1b6-40e8-a79a-629a61329ebb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "lablab.ai",
+    "icon": null,
+    "title": "lablab.ai — Empowering AI innovation",
+    "description": "Lablab.ai is a community of over 30,000 Makers building with state-of-the-art, modern Artificial Intelligence. Join a free Hackathon event today!",
+    "productUrl": "https://www.producthunt.com/products/lablab-ai/shoutouts",
+    "websiteUrl": "https://lablab.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/94c9ae4b-f2a4-4a42-95c0-81c0c6cee551.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d559fae4-6926-4fe7-a201-c2dd07a9a006.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/059630dc-ef5c-4674-ac1e-36aeb389d95c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "OpenAI Events",
+    "icon": "https://ph-files.imgix.net/d72cdc8d-47ea-49c3-bfa8-b54e170a395e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "OpenAI Events — Uniting the global AI community",
+    "description": "This domain is for sale!",
+    "productUrl": "https://www.producthunt.com/products/openai-events/shoutouts",
+    "websiteUrl": "https://openaievents.org/",
+    "imageUrl1": "https://ph-files.imgix.net/da22e16c-7a99-487b-b019-fb2f5627d9b4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/6041c415-02a9-41c1-8478-55e8a64909a6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f11ffaeb-868a-4473-bf5b-1f79b5300420.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Eventbrite",
+    "icon": "https://ph-files.imgix.net/b231e288-0294-4e14-95e0-009ebbbf9fa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Eventbrite — Local Events & Things To Do",
+    "description": "Eventbrite brings people together through live experiences. Discover events that match your passions, or create your own with online ticketing tools.",
+    "productUrl": "https://www.producthunt.com/products/eventbrite/shoutouts",
+    "websiteUrl": "http://eventbrite.com/",
+    "imageUrl1": "https://ph-files.imgix.net/c0929cdf-d720-4dc6-9cae-d0f2bf387c6d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/72ec44f0-23cc-40f6-b785-5c2de1417ca6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/096f7bec-ed5d-4d99-bcd2-f32534985bb7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Heardle",
+    "icon": "https://ph-files.imgix.net/da71481f-a239-49ac-ba8e-d8b9c2e1cbfa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Heardle — Heardle - Spotify Music Guessing Game",
+    "description": "Since spotify decided to get rid of their headle game, here is a new version. I really enjoyed playing heardle and hated that spotify got rid of it. So I have been playing this version now and made it into a website.",
+    "productUrl": "https://www.producthunt.com/products/heardle-2/shoutouts",
+    "websiteUrl": "https://www.heardleunlimited.xyz/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

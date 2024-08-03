@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "GoodMind",
+    "icon": "https://ph-files.imgix.net/c45d7132-2a52-4e7c-a74d-8d2e361652ae.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "GoodMind — AI-powered assessments & stigma-free counselling sessions",
+    "description": "▪️We are live. Take our free assessment test and book your appointment today! ▪️GoodMind has launched. No more suffering in silence. Talk about your feelings and get connected to the best therapist. ▪️Come let's embark on a journey towards a happier you.",
+    "productUrl": "https://www.producthunt.com/products/goodmind/shoutouts",
+    "websiteUrl": "https://goodmind.co/",
+    "imageUrl1": "https://ph-files.imgix.net/2c6f035c-43bb-4db3-acd2-f770093c3db5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/f3addfd3-2215-4f53-ab76-53b5e5eb7b55.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/d97ebf2d-354d-43f9-8609-8ab50eb57f76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Sonia AI Therapy",
+    "icon": "https://ph-files.imgix.net/948b4eda-cf34-4671-bda5-05995a7763de.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Sonia AI Therapy — An emotionally intelligent AI-powered therapist",
+    "description": "A fully AI-powered cognitive behavioral therapist. Think of a standard conversational therapy session, but talking to an empathic voice on your phone instead of to a human in their clinic.",
+    "productUrl": "https://www.producthunt.com/products/sonia-ai-therapy/shoutouts",
+    "websiteUrl": "https://apps.apple.com/us/app/sonia-ai-therapy/id6472111765",
+    "imageUrl1": "https://ph-files.imgix.net/d08b332e-a5e3-464b-b442-569c234044dd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/1e5909c8-f85d-498e-9b57-07c6368e9a36.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/4effdeb3-279b-46d6-9c96-85cbe6ebcf21.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Replika",
+    "icon": "https://ph-files.imgix.net/6e3e6dad-4890-4ae8-b0cb-5675c8dd273e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Replika — Always here to listen and talk. Always on your side.",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/replika-2/shoutouts",
+    "websiteUrl": "https://replika.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

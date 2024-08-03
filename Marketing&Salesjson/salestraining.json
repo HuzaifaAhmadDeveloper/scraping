@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "Flowla",
+    "icon": "https://ph-files.imgix.net/863849a4-8f1f-4f7c-a171-2029826e52e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Flowla — Digital sales rooms that WOW buyers.",
+    "description": "Auto-personalized deal rooms for revenue teams & clients that unite everything & everyone in the process in a single link. 🪄 Deliver an outstanding buying experience that increases conversion 📈 shortens deal cycles, and eases onboardings and renewals. 🚀",
+    "productUrl": "https://www.producthunt.com/products/flowla/shoutouts",
+    "websiteUrl": "https://flowla.com/",
+    "imageUrl1": "https://ph-files.imgix.net/cb886a74-0f12-4b8d-a604-dbf2cbb4a8da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/9ef1d574-2b59-4663-b627-adc6dacbdf07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/dfe86030-ec7d-4634-a18d-63d6e79e6ab3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Clay",
+    "icon": "https://ph-files.imgix.net/bd81d0d1-9c8c-4123-bf66-bd79251da340.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Clay — Build tools & workflows to supercharge your sales team",
+    "description": "Quickly connect your apps and code into automated workflows, build useful tools, enrich data sets and more.",
+    "productUrl": "https://www.producthunt.com/products/clay-4/shoutouts",
+    "websiteUrl": "https://clay.run/",
+    "imageUrl1": "https://ph-files.imgix.net/f8fcea9f-cc65-48ee-838a-6b8f000b94bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/90f055a4-44fb-4c5c-9be6-34c9d8f0dc3a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/7b74b999-cbfa-4293-a019-324ffff29cb2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Storylane",
+    "icon": "https://ph-files.imgix.net/8fbd4713-1f51-4cff-9610-f33baaa187aa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Storylane — Create and share interactive product demo in 10 mins",
+    "description": "Storylane helps marketing and sales teams create and share clickable and interactive product demos. You can embed these demos on your website, campaigns or sales followups to get highly qualified leads and win more deals.",
+    "productUrl": "https://www.producthunt.com/products/storylane/shoutouts",
+    "websiteUrl": "https://storylane.io/",
+    "imageUrl1": "https://ph-files.imgix.net/a360a26a-ba0f-4944-a4cb-5f33dd8f801f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4d8430a6-cdc6-4904-8843-5985f73717c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f817aee0-c593-41a6-8b03-3faee924e93f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

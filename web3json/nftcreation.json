@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "thirdweb",
+    "icon": "https://ph-files.imgix.net/7179fa03-c2a3-425d-9c8f-1981d877ce9f.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "thirdweb — Build web3 apps and games, easily",
+    "description": "⛏️ **Build** features such as NFT's, marketplaces, tokens, and more in a few clicks 🧰 **Utility** SDK's, widgets, and interfaces to integrate web3 features into your app 🕹️ **Powers** blockchain games, DAO's, NFT card platforms, generative art drops and more",
+    "productUrl": "https://www.producthunt.com/products/thirdweb/shoutouts",
+    "websiteUrl": "https://thirdweb.com/",
+    "imageUrl1": "https://ph-files.imgix.net/208732d9-a7b7-4e09-a908-1d4bc6558a31.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/eed30f27-4b35-4c18-af10-89031f84eb5d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/97ec9a0f-80c3-4589-bb6e-88c083869e44.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Phantom",
+    "icon": "https://ph-files.imgix.net/5277b313-95f7-4608-9cc1-c6ed1a9aa0b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Phantom — A friendly multichain wallet built for DeFi & NFTs",
+    "description": "Phantom makes it safe & easy for you to store, send, receive, stake, and swap tokens on Solana, Ethereum, Polygon, and Bitcoin.",
+    "productUrl": "https://www.producthunt.com/products/phantom-3/shoutouts",
+    "websiteUrl": "https://phantom.app/",
+    "imageUrl1": "https://ph-files.imgix.net/49d63055-be9c-4c15-b45a-21d199463ef2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/a88378bc-6eff-4786-95ae-f26b9d9c1a1c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/3ce51445-4598-4b3c-a86b-ebd0ab85d68b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Google Maps",
+    "icon": "https://ph-files.imgix.net/1a00ea36-1658-49a3-8736-dd83b7767e15.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Google Maps — From your block to your next adventure, Google Maps helps you discover more 🗺️",
+    "description": "Find a place. Your location. Trails. Dedicated lanes. Bicycle-friendly roads.",
+    "productUrl": "https://www.producthunt.com/products/google-maps/shoutouts",
+    "websiteUrl": "http://maps.google.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Strava",
+    "icon": "https://ph-files.imgix.net/041ce41b-00f3-4acd-b38a-95592e297e9f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Strava — The #1 app for runners and cyclists",
+    "description": "Strava is a social fitness network, that is primarily used to track cycling and running exercises, using GPS data although alternative types are available.",
+    "productUrl": "https://www.producthunt.com/products/strava/shoutouts",
+    "websiteUrl": "http://www.strava.com/",
+    "imageUrl1": "https://ph-files.imgix.net/4cefa905-9973-41e1-b9af-1c457e88719c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/721d6f4e-391c-4367-aca3-1f483b00dc2d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

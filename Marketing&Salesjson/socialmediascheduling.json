@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "1",
+    "name": "Contentdrips",
+    "icon": "https://ph-files.imgix.net/ed7295fa-0f47-4752-8a10-d39b32d8dfb3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Contentdrips — Contentdrips helps create micro content for social media.",
+    "description": "Create personalised micro content for your social media growth.",
+    "productUrl": "https://www.producthunt.com/products/contentdrips/shoutouts",
+    "websiteUrl": "https://contentdrips.com/",
+    "imageUrl1": "https://ph-files.imgix.net/3d215448-5af1-493e-b67d-31146f7443af.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/2cb54b24-bd5a-44e0-9fcc-ab9ac16c40fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/3a90117e-acc3-4888-b3ea-b2059810d985.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Metricool",
+    "icon": "https://ph-files.imgix.net/b4426700-71f2-459e-87f3-206f3b9f6471.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Metricool — Analyze, manage and measure your digital content",
+    "description": "All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. The ultimate tool for analysing, managing and measuring the success of all your digital content and campaigns. Free of charge. Complete. Intuitive.",
+    "productUrl": "https://www.producthunt.com/products/metricool/shoutouts",
+    "websiteUrl": "http://metricool.com/",
+    "imageUrl1": "https://ph-files.imgix.net/22d14087-509b-477d-b99f-4ffcd20e5983.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/abc748b1-255f-4d99-926d-1a71182b6a00.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/fc4324b0-a273-4ff2-9f4e-278d5d50ba15.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Typefully",
+    "icon": "https://ph-files.imgix.net/d0bb79f4-dead-4c5c-b6d6-c4d584394a00.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Typefully — Write, schedule, and publish great Twitter threads.",
+    "description": "Write, schedule & publish great threads, without distractions — and boost your Twitter growth with powerful analytics.",
+    "productUrl": "https://www.producthunt.com/products/typefully/shoutouts",
+    "websiteUrl": "https://typefully.app/",
+    "imageUrl1": "https://ph-files.imgix.net/481c6685-a41d-4242-9d71-c8d8cbe726f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3d85a53e-b9e2-4bb0-a6b6-3508bfad06af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/5e41ed46-d62d-4206-844a-9019719ecb58.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Buffer",
+    "icon": "https://ph-files.imgix.net/87ae88d0-2d31-4823-96a3-7aa7d92b280e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Buffer — Make your business stand out and reach more customers on social media",
+    "description": "Buffer is a software application for the web and mobile, designed to manage accounts in social networks.",
+    "productUrl": "https://www.producthunt.com/products/buffer/shoutouts",
+    "websiteUrl": "http://buffer.com/",
+    "imageUrl1": "https://ph-files.imgix.net/c35ad352-dff0-43d7-b2b9-cd597f8c6372.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

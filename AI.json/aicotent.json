@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "YOLO",
+    "icon": "https://ph-files.imgix.net/a8edd340-963d-44fc-bc80-98f49ae2cfa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "YOLO — Real-time object detection",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/yolo/shoutouts",
+    "websiteUrl": "https://pjreddie.com/darknet/yolo",
+    "imageUrl1": "https://ph-files.imgix.net/b8659a6d-e301-4e80-a8e4-5b373dca5188.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/b19f2847-cbbf-4589-83d6-819f24dede22.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/267bcece-c232-4649-9e28-9c8f75e23012.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Journalist",
+    "icon": "https://ph-files.imgix.net/004c521d-0849-482c-bdbf-92e6615e19eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Journalist — Instantly generate hundreds of high-quality articles.",
+    "description": "Journalist is an AI Article Generator that generates high-quality articles for your business. With a few clicks, you're able to automate your content with well-structured, unique and optimised articles for your niche.",
+    "productUrl": "https://www.producthunt.com/products/journalist/shoutouts",
+    "websiteUrl": "https://journalist.cafe/",
+    "imageUrl1": "https://ph-files.imgix.net/fb6f2559-a382-47e5-911a-ca89f114fe16.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d5487aea-2d22-4c7d-8ea0-ffe5b80345d0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/55aed00e-a8c4-4968-bf9b-cbdb1b0a0db6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Detector De IA Gratuito",
+    "icon": "https://ph-files.imgix.net/253ec319-b2f1-470f-8780-d52d4ccc526b.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Detector De IA Gratuito — Detector de IA gratuito",
+    "description": "El detector de IA le ayuda a encontrar la puntuación de similitud de IA y determinar si el contenido está escrito por un humano o por una herramienta de IA.",
+    "productUrl": "https://www.producthunt.com/products/detector-de-ia-gratuito/shoutouts",
+    "websiteUrl": "https://detectordeia.net/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

@@ -1,0 +1,41 @@
+[
+  {
+    "rank": "1",
+    "name": "Synthesia",
+    "icon": "https://ph-files.imgix.net/f81fb88e-13cc-4863-8b1f-4a51fa2b3c8b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Synthesia — Create AI videos from text in minutes!",
+    "description": "Create AI videos with AI avatars and natural AI voices. Generate engaging videos for e-learning, customer onboarding, etc. No need for actors, cameras or audio equipment.",
+    "productUrl": "https://www.producthunt.com/products/synthesia/shoutouts",
+    "websiteUrl": "http://synthesia.io/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Character AI",
+    "icon": "https://ph-files.imgix.net/12d8f295-d199-4358-8cf1-39d1698f67d9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Character AI — Building the next generation of conversational AI",
+    "description": "Create and talk to AI Characters! Characters can be fictional or based on real people, dead or alive or even inanimate objects. Our dialog agents are powered by our own proprietary technology based on large language models.",
+    "productUrl": "https://www.producthunt.com/products/character-ai/shoutouts",
+    "websiteUrl": "https://beta.character.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/c188cfdd-d681-4944-88be-268802abed7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/8e99b7c2-4d9e-4aff-9a37-f2877b71d1af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/974233f0-6973-42c9-8ce8-2f2fa4163e50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Replika",
+    "icon": "https://ph-files.imgix.net/6e3e6dad-4890-4ae8-b0cb-5675c8dd273e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Replika — Always here to listen and talk. Always on your side.",
+    "description": "",
+    "productUrl": "https://www.producthunt.com/products/replika-2/shoutouts",
+    "websiteUrl": "https://replika.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

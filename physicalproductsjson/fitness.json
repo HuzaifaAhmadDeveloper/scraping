@@ -1,0 +1,28 @@
+[
+  {
+    "rank": "1",
+    "name": "Strava",
+    "icon": "https://ph-files.imgix.net/041ce41b-00f3-4acd-b38a-95592e297e9f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Strava — The #1 app for runners and cyclists",
+    "description": "Strava is a social fitness network, that is primarily used to track cycling and running exercises, using GPS data although alternative types are available.",
+    "productUrl": "https://www.producthunt.com/products/strava/shoutouts",
+    "websiteUrl": "http://www.strava.com/",
+    "imageUrl1": "https://ph-files.imgix.net/4cefa905-9973-41e1-b9af-1c457e88719c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/721d6f4e-391c-4367-aca3-1f483b00dc2d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Apple Watch",
+    "icon": null,
+    "title": "Apple Watch — A powerful smartwatch from Apple.",
+    "description": "Apple Watch is a line of smartwatches produced by Apple . It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services.",
+    "productUrl": "https://www.producthunt.com/products/apple-watch/shoutouts",
+    "websiteUrl": "https://www.apple.com/apple-watch",
+    "imageUrl1": "https://ph-files.imgix.net/376b5995-0319-42f1-9f71-a42036d49f0c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/faad51c5-e1b4-44d8-b715-8ad781d111c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/123e7c48-87d5-4cb3-812b-b08630e324a0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

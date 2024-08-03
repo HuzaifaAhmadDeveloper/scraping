@@ -1,0 +1,93 @@
+[
+  {
+    "rank": "1",
+    "name": "Hugging Face",
+    "icon": "https://ph-files.imgix.net/b2de76c7-180d-42ca-892c-e360ad7b8771.svg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Hugging Face — The AI community building the future.",
+    "description": "We’re on a journey to advance and democratize artificial intelligence through open source and open science.",
+    "productUrl": "https://www.producthunt.com/products/hugging-face/shoutouts",
+    "websiteUrl": "https://www.huggingface.co/",
+    "imageUrl1": "https://ph-files.imgix.net/33379560-25d8-49c7-be0d-20a173d95770.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/3bfd9c0e-6054-4e7a-aa09-849ea8fe3511.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/b951d0e6-2e9c-42bf-8a9d-3ea9368ec24d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Weights & Biases",
+    "icon": "https://ph-files.imgix.net/e9dc34ff-8c5d-4f49-bd9e-3300710bbee2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Weights & Biases — Building the future of AI",
+    "description": "Weights & Biases is the leading AI developer platform to train and fine-tune models, manage models from experimentation to production, and track and evaluate GenAI applications powered by LLMs.",
+    "productUrl": "https://www.producthunt.com/products/weights-biases/shoutouts",
+    "websiteUrl": "https://www.wandb.ai/site",
+    "imageUrl1": "https://ph-files.imgix.net/804d6ac3-b356-4c90-8df3-9ba0217c0f77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/feec606a-c672-4392-9ba3-20e33b0139be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "TensorFlow",
+    "icon": "https://ph-files.imgix.net/f9b89eda-07db-4e65-9807-cd8247ee3124.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "TensorFlow — An end-to-end open source machine learning platform",
+    "description": "TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.",
+    "productUrl": "https://www.producthunt.com/products/tensorflow/shoutouts",
+    "websiteUrl": "http://tensorflow.org/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Langfuse",
+    "icon": "https://ph-files.imgix.net/9a61a5f2-5dd2-492c-ae2a-5fdafe0d9c82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Langfuse — Open Source LLM Engineering Platform",
+    "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse",
+    "productUrl": "https://www.producthunt.com/products/langfuse/shoutouts",
+    "websiteUrl": "https://langfuse.com/",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "OpenAI Tools",
+    "icon": "https://ph-files.imgix.net/045e1776-1aef-441d-901a-d5870829fee8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "OpenAI Tools — Super App For Fine-tuning Datasets, Jobs, Metrics & Models",
+    "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
+    "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
+    "websiteUrl": "https://www.openaitools.io/",
+    "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "6",
+    "name": "spaCy",
+    "icon": "https://ph-files.imgix.net/ec5d95dd-fb14-4e28-a2e7-6100387899e7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "spaCy — Industrial-strength, open source natural language processing",
+    "description": "spaCy is a library for advanced Natural Language Processing in Python and Cython. It's built on the very latest research, and was designed from day one to be used in real products.",
+    "productUrl": "https://www.producthunt.com/products/spacy/shoutouts",
+    "websiteUrl": "https://github.com/explosion/spaCy",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "7",
+    "name": "Kuasar Video AI",
+    "icon": "https://ph-files.imgix.net/05dfad60-12e0-4cea-9247-f54e64c5ca70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Kuasar Video AI — Score videos on social media , analyze them using video AI.",
+    "description": "Kuasar Video is an initiative that provides artificial intelligence-supported video solutions to companies and enables them to reach more audiences up to 1000% thanks to its products.",
+    "productUrl": "https://www.producthunt.com/products/kuasar-1-1/shoutouts",
+    "websiteUrl": "https://kuasarvideo.com/",
+    "imageUrl1": "https://ph-files.imgix.net/35daa423-1f48-46e4-83ff-b4992b7d45c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d92d6b32-9b82-415d-be61-23c8b94046c5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/1df96268-81c4-4a56-8571-f0f9de3aa665.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

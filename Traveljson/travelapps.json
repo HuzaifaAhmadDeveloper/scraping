@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Foursquare",
+    "icon": "https://ph-files.imgix.net/305922f1-445a-41cc-ae1e-57ebd7f557df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Foursquare — The Future of Location Technology",
+    "description": "Foursquare Labs Inc., commonly known as Foursquare, is an American technology company.Your partner in finding creative ways to power location-based experiences, transforming your business from the ground up.",
+    "productUrl": "https://www.producthunt.com/products/foursquare/shoutouts",
+    "websiteUrl": "http://enterprise.foursquare.com/",
+    "imageUrl1": "https://ph-files.imgix.net/981fa080-a999-4451-82a5-bfe245e4b68a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/c1b5b439-3e6f-4c62-9dc3-3220439c285c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/592af88f-1eb6-4262-b9df-ba7768a09e50.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Couchsurfing",
+    "icon": "https://ph-files.imgix.net/eb31d5ae-40dd-44fd-9a6a-4b3089b73c3a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Couchsurfing — Stay with locals and meet travelers",
+    "description": "With Couchsurfing, you can stay with locals in every country on earth. Travel like a local, stay in someone’s home, and experience the world in a way money can’t buy.",
+    "productUrl": "https://www.producthunt.com/products/couchsurfing/shoutouts",
+    "websiteUrl": "https://www.couchsurfing.com/",
+    "imageUrl1": "https://ph-files.imgix.net/6f3d836e-2054-4e0e-9f35-e4461be36668.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/29545ef7-b65b-405a-b198-56af3d6670c3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/07171e5f-4556-4622-8b40-78735e015def.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Five Phrases",
+    "icon": "https://ph-files.imgix.net/9d85c750-84b7-405a-8e59-e09da53640cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Five Phrases — Your travel buddy",
+    "description": "Don’t know the language? No problemo! Your new travel buddy is here to help you learn the most important phrases for your trip.",
+    "productUrl": "https://www.producthunt.com/products/five-phrases/shoutouts",
+    "websiteUrl": "https://www.fivephrasesapp.com/",
+    "imageUrl1": "https://ph-files.imgix.net/a6f8f3a7-6b28-4aa0-b9b7-ea25e55193a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/4c1011ac-0605-46d7-adf4-c3969b68bdd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/d949f4eb-b24e-4324-9b18-3ddbfe05520c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Mindtrip",
+    "icon": "https://ph-files.imgix.net/6dbc7f5c-4f27-4549-8145-7156b174488a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Mindtrip — AI platform for travel, personalized to you",
+    "description": "Mindtrip is a travel platform that combines conversational AI with a proprietary knowledge base of places to deliver personalized travel experiences that are accurate, actionable, and all in one place.",
+    "productUrl": "https://www.producthunt.com/products/mindtrip/shoutouts",
+    "websiteUrl": "https://mindtrip.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/fe4039e8-fece-4f5b-afbf-04506ccf2400.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/9feb2ff5-2269-4175-99ab-9ec744d37635.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/f943ad42-c521-4bb6-a240-601a0bbd9ffc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Vertoe",
+    "icon": "https://ph-files.imgix.net/9f591e57-f1a4-4626-8eae-71bca60baa1c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Vertoe — On demand short term storage. Anywhere, anytime",
+    "description": "Vertoe is an on-demand short term storage provider connecting people looking to safely store their bags/personal items for a few hours/days to nearby local shops that have space. We aim to provide instant storage within 5 minutes of wherever you are.",
+    "productUrl": "https://www.producthunt.com/products/vertoe/shoutouts",
+    "websiteUrl": "https://apps.apple.com/us/app/vertoe/id1455519147",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  }
+]

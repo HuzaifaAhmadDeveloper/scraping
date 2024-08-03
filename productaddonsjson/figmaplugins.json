@@ -1,0 +1,67 @@
+[
+  {
+    "rank": "1",
+    "name": "Figma",
+    "icon": "https://ph-files.imgix.net/db00a7a1-6778-4e51-a953-de5a9a339bc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Figma — The collaborative interface design tool",
+    "description": "A collaborative design tool for creating user interfaces, mobile apps, and websites with a wide range of features, including vector editing tools, prototyping, and version control, all in a cloud-based platform.",
+    "productUrl": "https://www.producthunt.com/products/figma/shoutouts",
+    "websiteUrl": "https://www.figma.com/",
+    "imageUrl1": "https://ph-files.imgix.net/da03af27-d94d-4fe8-b020-82471c32b380.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/43c127d4-4f51-4194-8c35-6b063b0ae8a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Jitter",
+    "icon": "https://ph-files.imgix.net/6b009896-a716-4e21-a13e-963837356563.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Jitter — 💫 Fast and simple motion design tool on the web.",
+    "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
+    "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
+    "websiteUrl": "https://jitter.video/",
+    "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Weavely",
+    "icon": "https://ph-files.imgix.net/8c7b16db-c6c1-4695-a26e-7c9baca30f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Weavely — Build web forms with custom UX and UI from Figma designs",
+    "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
+    "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
+    "websiteUrl": "https://www.weavely.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Musho",
+    "icon": "https://ph-files.imgix.net/284b90ea-f607-4802-b74e-701e8bc52cab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
+    "title": "Musho — Your new AI design assistant",
+    "description": "Musho is so much more than a design tool—think of it as your go-to creative assistant in Figma that turns simple prompts into gorgeous websites. 💛",
+    "productUrl": "https://www.producthunt.com/products/musho/shoutouts",
+    "websiteUrl": "https://musho.ai/",
+    "imageUrl1": "https://ph-files.imgix.net/02886dff-1af7-43d1-a2e9-a23413f13f19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/5a1a9f01-0b37-4cac-90ad-d9288db44719.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/bdc1959c-3789-41a9-9b31-06152684bb25.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "5",
+    "name": "Heroicons",
+    "icon": "https://ph-files.imgix.net/3f1c203b-342e-43e7-9f51-b9dc39b7d2c7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Heroicons — A unique set of icons that are easy to customize with CSS",
+    "description": "Beautiful hand-crafted SVG icons, by the makers of Tailwind CSS.",
+    "productUrl": "https://www.producthunt.com/products/heroicons/shoutouts",
+    "websiteUrl": "http://www.heroicons.com/",
+    "imageUrl1": "https://ph-files.imgix.net/fc5f516e-7e95-444d-aa50-dbce213580df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/73708776-db88-4516-a0ae-7b6868fe70b4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/5d8e107e-ab0a-43a3-bf2a-11440192f078.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]

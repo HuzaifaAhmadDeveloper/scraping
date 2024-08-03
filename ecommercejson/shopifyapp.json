@@ -1,0 +1,54 @@
+[
+  {
+    "rank": "1",
+    "name": "Shopify",
+    "icon": "https://ph-files.imgix.net/ed9034f5-ba0e-4c51-9c48-a4d5a0eae2e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Shopify — Powering millions of businesses",
+    "description": "Join the best of over 800,000 Shopify merchants selling online, in-store, and everywhere in between. For assistance, reach out to @ShopifySupport",
+    "productUrl": "https://www.producthunt.com/products/shopify/shoutouts",
+    "websiteUrl": "http://shopify.com/",
+    "imageUrl1": "https://ph-files.imgix.net/f23efd31-f293-4397-861c-35e250f01efe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/59ad2e40-9ae5-49e3-be0f-48a7b31adefd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/efced69f-8821-4f16-abea-43ff6598dd74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "2",
+    "name": "Shopify Plus",
+    "icon": "https://ph-files.imgix.net/33ac6eab-fbf4-43b4-ab24-5818ef48c8c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Shopify Plus — Enterprise Ecommerce Platform",
+    "description": "The best enterprise ecommerce platform for high-growth businesses. See why companies making $1M-500M are growing an average of 126% YoY on Shopify Plus—690% above the ecommerce industry average. Grow bigger, faster.",
+    "productUrl": "https://www.producthunt.com/products/shopify-plus/shoutouts",
+    "websiteUrl": "https://www.shopify.com/plus",
+    "imageUrl1": "",
+    "imageUrl2": "",
+    "imageUrl3": "",
+    "videoUrl": ""
+  },
+  {
+    "rank": "3",
+    "name": "Gadget",
+    "icon": "https://ph-files.imgix.net/cf942563-41e3-4591-a6eb-3c7f738a135b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Gadget — The fastest way to build and run web apps",
+    "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
+    "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
+    "websiteUrl": "https://gadget.dev/",
+    "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  },
+  {
+    "rank": "4",
+    "name": "Shopify",
+    "icon": "https://ph-files.imgix.net/33d5fcdd-4b26-4574-b64d-7f46f03588b5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+    "title": "Shopify — 10+ Best ecommerce platforms for your business in 2023",
+    "description": "This comparison guide will take a look at the top 12 ecommerce platforms and how to evaluate which is best for your business needs.",
+    "productUrl": "https://www.producthunt.com/products/shopify-5/shoutouts",
+    "websiteUrl": "https://www.shopify.com/blog/best-ecommerce-platforms",
+    "imageUrl1": "https://ph-files.imgix.net/d8498375-f22a-4e8f-ba09-1b376de064ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "https://ph-files.imgix.net/b429de24-3273-4377-87a2-6efbc3422147.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl3": "https://ph-files.imgix.net/a42fe24d-4f64-4132-b7bb-63ed7db48819.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "videoUrl": ""
+  }
+]
