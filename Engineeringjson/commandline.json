@@ -7,7 +7,7 @@
     "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.",
     "productUrl": "https://www.producthunt.com/products/vite-2/shoutouts",
     "websiteUrl": "https://vitejs.dev/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/2615e2d3-36d0-42cd-9cdc-a6e10a36354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -33,10 +33,10 @@
     "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
     "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
     "websiteUrl": "https://www.convex.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/wISChclk5lM"
   },
   {
     "rank": "4",
@@ -59,10 +59,10 @@
     "description": "Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.",
     "productUrl": "https://www.producthunt.com/products/astro-build-faster-websites/shoutouts",
     "websiteUrl": "https://astro.build/",
-    "imageUrl1": "https://ph-files.imgix.net/e11fc6f2-2f8b-46bc-9928-cfab172e298a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/c019cc9e-ff9b-4955-9965-0622d5259a68.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5f3c36aa-af9a-4ca2-a421-718d10bd42ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5u0Ds7wzUeI"
   },
   {
     "rank": "6",
@@ -98,10 +98,10 @@
     "description": "Warp is a fast Rust-based terminal that’s easy to use and built for teams. 1) Commands and outputs are grouped like a data notebook 2) Input is a modern code-editor preconfigured with useful completions 3) Share outputs via links 4) Save and run team commands",
     "productUrl": "https://www.producthunt.com/products/warp/shoutouts",
     "websiteUrl": "https://www.warp.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/cc32ea89-b44b-441e-88f7-eaf78d3a925a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
   },
   {
     "rank": "9",
@@ -111,10 +111,10 @@
     "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.",
     "productUrl": "https://www.producthunt.com/products/t3-stack-next-and-react-file-generator/shoutouts",
     "websiteUrl": "https://marketplace.visualstudio.com/items",
-    "imageUrl1": "https://ph-files.imgix.net/2cb23239-36bf-4b8a-9a8c-d2e18a2258ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4290a651-4a1f-4d2b-9761-522453528a29.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/07db5522-d3e6-4dc7-a047-0b4009a66fa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/7kNljNbz5Bw"
   },
   {
     "rank": "10",
@@ -124,10 +124,10 @@
     "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
     "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
     "websiteUrl": "https://vorniches.com/snap2txt",
-    "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
   },
   {
     "rank": "11",
@@ -176,7 +176,7 @@
     "description": "Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
     "productUrl": "https://www.producthunt.com/products/turbo-2/shoutouts",
     "websiteUrl": "https://turbo.build/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0c08b89a-d55f-497e-a465-d727d73f6b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -189,7 +189,7 @@
     "description": "Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe. The free npm Registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world. Our other tools and services take the Registry, and the work you do around it, to the next level.",
     "productUrl": "https://www.producthunt.com/products/npm/shoutouts",
     "websiteUrl": "https://www.npmjs.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/4dbcf30e-f11b-480e-b3fd-3ea8ce6c495a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -215,10 +215,10 @@
     "description": "Nx is a next-generation-build system with first-class support for both standalone projects and monorepos.",
     "productUrl": "https://www.producthunt.com/products/nx/shoutouts",
     "websiteUrl": "https://nx.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/512f9dc8-3430-4b75-a5e5-3c4818995206.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4a0d96c9-c341-4f08-9486-f70a199339be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/9fc0776f-5f34-46dd-b029-912edf003558.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/wADNsVItnsM"
   },
   {
     "rank": "18",
@@ -228,8 +228,8 @@
     "description": "Developer Tools to power-up Redux development workflow or any other architecture which handles the state change. It can be used as a browser extension (for Chrome and Firefox), as a standalone app or as a React component integrated in the client app.",
     "productUrl": "https://www.producthunt.com/products/redux-dev-tools/shoutouts",
     "websiteUrl": "https://github.com/reduxjs/redux-devtools",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/54cbfe23-4cca-41ef-b1e0-ba266d6aa177.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0555dc42-365c-463f-bda1-f220f22e7c88.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -241,10 +241,10 @@
     "description": "Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.",
     "productUrl": "https://www.producthunt.com/products/create-go-app/shoutouts",
     "websiteUrl": "https://github.com/create-go-app/cli",
-    "imageUrl1": "https://ph-files.imgix.net/9aeff73f-92fb-4f10-8cf1-ba8652c9bc80.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/9cfedc03-cde9-4375-826c-1699b3105052.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/125b1624-4c5c-4f7c-9cde-40bc6ebafb1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5-DNZFU9TOQ"
   },
   {
     "rank": "20",

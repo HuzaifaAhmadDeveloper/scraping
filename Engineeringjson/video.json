@@ -74,8 +74,8 @@
     "websiteUrl": "http://music.youtube.com/",
     "imageUrl1": "https://ph-files.imgix.net/54f9e4b9-87fb-447b-84a7-bcc4874ec712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/0214ffe9-79a6-4750-aa62-825de28fffcf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/cb4f8eb8-c05d-4929-83a0-a44addd4c2f5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "7",
@@ -85,10 +85,10 @@
     "description": "StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.",
     "productUrl": "https://www.producthunt.com/products/streamyard/shoutouts",
     "websiteUrl": "https://streamyard.com/",
-    "imageUrl1": "https://ph-files.imgix.net/68168793-fa61-4f75-81ca-3af75eebb88a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/067f268f-29e6-45b3-9637-4134052c7421.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/92cd77c5-e750-4a4b-8bf7-9fbb51001fdf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/An5ko-YEp1o"
   },
   {
     "rank": "8",
@@ -124,10 +124,10 @@
     "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
     "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
     "websiteUrl": "https://sievedata.com/",
-    "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F_OiR1dXyoI"
   },
   {
     "rank": "11",
@@ -137,8 +137,8 @@
     "description": "It's getting harder than ever to stand out above the noise and engage your prospects and customers. Buying committees have grown larger, inboxes more flooded, and prospects spend more time conducting their own research. Vidyard is building a suite of products that allows teams to adapt and take advantage of these trends. Visit our site to learn more!",
     "productUrl": "https://www.producthunt.com/products/vidyard-studio/shoutouts",
     "websiteUrl": "https://www.vidyard.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/95e92da0-983c-418a-8518-15c7ef476c33.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0c85d01a-eb80-49f0-8bae-7774b91071b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -150,7 +150,7 @@
     "description": "We create, manage and deliver engaging experiences at scale",
     "productUrl": "https://www.producthunt.com/products/cloudinary/shoutouts",
     "websiteUrl": "https://cloudinary.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/aaac3e0a-eb5f-4693-ae7a-08f7df4a55c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -176,10 +176,10 @@
     "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
     "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
     "websiteUrl": "https://creatomate.com/",
-    "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4miLz33EnY"
   },
   {
     "rank": "15",
@@ -202,8 +202,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/youtube-2/shoutouts",
     "websiteUrl": "https://www.youtube.com/new",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/9db20c9b-a4d3-499d-85b7-a658f15f0fe4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/66657bac-0622-45b6-b881-e589ad7dd88d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   }

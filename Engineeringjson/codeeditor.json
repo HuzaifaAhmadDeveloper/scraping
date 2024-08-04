@@ -23,7 +23,7 @@
     "imageUrl1": "https://ph-files.imgix.net/ff8f5f99-c225-42d4-b48f-fc757ef33dd5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/5bb27997-054a-4dfd-affb-81df11401667.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/6ea71746-b8d9-4d61-b6db-c341f9cf3cb6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "3",
@@ -33,7 +33,7 @@
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
     "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
     "websiteUrl": "https://laravel.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -46,7 +46,7 @@
     "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration.",
     "productUrl": "https://www.producthunt.com/products/jetbrains/shoutouts",
     "websiteUrl": "https://www.jetbrains.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/b45f1201-a239-48fa-90db-7fb3b1cebaf7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -62,7 +62,7 @@
     "imageUrl1": "https://ph-files.imgix.net/f0b776d7-f4dd-4a0c-81f4-9d3d05808d2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/6f07a661-3190-4532-8973-1b2c5cab3b8e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/a2DDYMEPwbE"
   },
   {
     "rank": "6",
@@ -98,10 +98,10 @@
     "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
     "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
     "websiteUrl": "https://cursor.sh/cpp",
-    "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/dYD3DoYeveU"
   },
   {
     "rank": "9",
@@ -137,7 +137,7 @@
     "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
     "productUrl": "https://www.producthunt.com/products/zed-3/shoutouts",
     "websiteUrl": "https://zed.dev/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/f5101171-051d-4ff7-ac15-f7ceab5acc83.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -152,8 +152,8 @@
     "websiteUrl": "https://stackblitz.com/",
     "imageUrl1": "https://ph-files.imgix.net/61ccdd2a-2914-47d8-9cb8-e52697ce441a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/f40e57e2-aeb8-410b-9124-8c19e0a500ef.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/33464979-934a-4feb-9a34-6a711077b5e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "13",
@@ -163,8 +163,8 @@
     "description": "Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free.",
     "productUrl": "https://www.producthunt.com/products/visual-studio/shoutouts",
     "websiteUrl": "https://visualstudio.microsoft.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/d4cdac77-eaff-4cc7-a7bb-b8751725e82f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/f52602e5-fac2-4a91-9ea7-83405beb9464.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -176,7 +176,7 @@
     "description": "Quasar IntelliSense: Effortlessly enhance your Quasar development in Visual Studio Code with CSS class autocompletion. Save time, minimize errors, and simplify your workflow for a more efficient and effective coding experience.",
     "productUrl": "https://www.producthunt.com/products/quasar-intellisense/shoutouts",
     "websiteUrl": "https://marketplace.visualstudio.com/items",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/e7bae665-b9f6-4d9e-bca8-a164a3accd3a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -215,7 +215,7 @@
     "description": "This is an opionated configuration for Typescript React Native with all the packages and tools that I use for my React Native projects. Feel free to contribute.",
     "productUrl": "https://www.producthunt.com/products/typescript-react-native-starter/shoutouts",
     "websiteUrl": "https://github.com/NewBieBR/typescript-react-native-starter",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/46a7ef11-99b0-4b13-8a17-7e356ee1c867.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -228,10 +228,10 @@
     "description": "Warp is a fast Rust-based terminal that’s easy to use and built for teams. 1) Commands and outputs are grouped like a data notebook 2) Input is a modern code-editor preconfigured with useful completions 3) Share outputs via links 4) Save and run team commands",
     "productUrl": "https://www.producthunt.com/products/warp/shoutouts",
     "websiteUrl": "https://www.warp.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/cc32ea89-b44b-441e-88f7-eaf78d3a925a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
   },
   {
     "rank": "19",
@@ -254,10 +254,10 @@
     "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.",
     "productUrl": "https://www.producthunt.com/products/t3-stack-next-and-react-file-generator/shoutouts",
     "websiteUrl": "https://marketplace.visualstudio.com/items",
-    "imageUrl1": "https://ph-files.imgix.net/2cb23239-36bf-4b8a-9a8c-d2e18a2258ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4290a651-4a1f-4d2b-9761-522453528a29.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/07db5522-d3e6-4dc7-a047-0b4009a66fa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/7kNljNbz5Bw"
   },
   {
     "rank": "21",
@@ -267,10 +267,10 @@
     "description": "Wasp is the fastest way to develop full-stack web apps in React & Node.js. Describe high-level features (auth, CRUD, async jobs, …) via a simple config language, and write the rest of your logic in React, Node.js and Prisma. Wasp is currently in Beta.",
     "productUrl": "https://www.producthunt.com/products/wasp-lang-alpha/shoutouts",
     "websiteUrl": "https://wasp-lang.dev/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
   },
   {
     "rank": "22",
@@ -293,10 +293,10 @@
     "description": "CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster",
     "productUrl": "https://www.producthunt.com/products/codesandbox/shoutouts",
     "websiteUrl": "https://codesandbox.io/",
-    "imageUrl1": "https://ph-files.imgix.net/1c1b8a88-81d0-49b6-a1ee-52f1767122fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/e6732851-e71f-4465-bea9-0c6d8e931897.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/11bbb762-0b2b-48c5-b45f-4535607633fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5AWGpS0Npzk"
   },
   {
     "rank": "24",
@@ -306,8 +306,8 @@
     "description": "BBEdit is the leading professional HTML and text editor for macOS. This award-winning product has been crafted to serve the needs of writers, Web authors and software developers, and provides an abundance of features for editing, searching, and manipulation of prose, source code, and textual data.",
     "productUrl": "https://www.producthunt.com/products/bbedit/shoutouts",
     "websiteUrl": "https://www.barebones.com/products/bbedit",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/1753c943-a41c-47f2-a119-538dfb51ed2c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/d5a69e61-bbc5-424d-8fa7-975b71b339ba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -332,10 +332,10 @@
     "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.",
     "productUrl": "https://www.producthunt.com/products/codepen/shoutouts",
     "websiteUrl": "http://codepen.io/",
-    "imageUrl1": "https://ph-files.imgix.net/aab2ea86-3dc7-4b4a-8d43-7ada84df609c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/213e8684-3d7f-4d30-bf20-b3c4bdd0245f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/b16aebda-eac8-41c0-9d8a-17cbf452730b?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gWb0njDcixo"
   },
   {
     "rank": "27",
@@ -345,7 +345,7 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/wallaby/shoutouts",
     "websiteUrl": "https://wallabyjs.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/369d1224-ab13-4b67-a420-406bc559f981.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -371,10 +371,10 @@
     "description": "An AI-powered software development & deployment platform for building, sharing, and shipping software fast.",
     "productUrl": "https://www.producthunt.com/products/replit/shoutouts",
     "websiteUrl": "https://replit.com/",
-    "imageUrl1": "https://ph-files.imgix.net/225f11b9-1e89-49b1-ae3f-432612728bb1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/64964b85-6408-4543-9276-2c447e484df4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d790b507-ead3-4c97-8773-0a2f29420b23.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/A5_qYYKEVEg"
   },
   {
     "rank": "30",
@@ -436,7 +436,7 @@
     "description": "Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
     "productUrl": "https://www.producthunt.com/products/turbo-2/shoutouts",
     "websiteUrl": "https://turbo.build/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0c08b89a-d55f-497e-a465-d727d73f6b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -475,10 +475,10 @@
     "description": "Apple empowers developers and fuels innovation with new tools and resources. Enhancements to Xcode and Swift, combined with new APIs, offer developers expanded capabilities for creating high‑quality apps.",
     "productUrl": "https://www.producthunt.com/products/xcode-16/shoutouts",
     "websiteUrl": "https://apps.apple.com/us/app/xcode/id497799835",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/28bd582c-6ea8-4edd-8171-990496300b74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BAQ9EhAm2eM"
   },
   {
     "rank": "38",
@@ -501,7 +501,7 @@
     "description": "Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe. The free npm Registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world. Our other tools and services take the Registry, and the work you do around it, to the next level.",
     "productUrl": "https://www.producthunt.com/products/npm/shoutouts",
     "websiteUrl": "https://www.npmjs.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/4dbcf30e-f11b-480e-b3fd-3ea8ce6c495a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -514,10 +514,10 @@
     "description": "Spacemacs is a new way to experience Emacs -- a sophisticated and polished set-up focused on ergonomics, mnemonics and consistency.",
     "productUrl": "https://www.producthunt.com/products/spacemacs/shoutouts",
     "websiteUrl": "https://www.spacemacs.org/",
-    "imageUrl1": "https://ph-files.imgix.net/e1bd5651-0287-4003-ac57-827e23c3a41c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b6600376-efb6-4109-9b0f-fde45edd66af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c7c6ce11-9011-4869-a530-5080d9d40fb3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/J40cBkNj3Bc"
   },
   {
     "rank": "41",
@@ -527,7 +527,7 @@
     "description": "Your one stop destination for all developer utility tools including code generator tools, code converter tools, html code generator, css code generator, minifiers, seo tolls and many more.",
     "productUrl": "https://www.producthunt.com/products/dev-tools/shoutouts",
     "websiteUrl": "https://tools.knitocode.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/36fc3ec1-d9f9-47fc-b9e8-220c954f0f3d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -605,8 +605,8 @@
     "description": "PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.",
     "productUrl": "https://www.producthunt.com/products/phpstorm/shoutouts",
     "websiteUrl": "https://www.jetbrains.com/phpstorm",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/0ccc7365-1e57-450e-bb84-63e91f93025a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/87457627-c785-4b99-9f8f-11f2d368471b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   }

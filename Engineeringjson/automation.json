@@ -46,8 +46,8 @@
     "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.",
     "productUrl": "https://www.producthunt.com/products/zapier/shoutouts",
     "websiteUrl": "http://zapier.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/8d6121c1-fd5e-4d3b-8c7c-185c4125c832.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/28d986a4-d8cd-4e59-9768-074a8d15aed1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -59,8 +59,8 @@
     "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
     "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
     "websiteUrl": "https://tailwindui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -75,7 +75,7 @@
     "imageUrl1": "https://ph-files.imgix.net/cd608ea0-fc48-41c5-942e-e4f561c7c732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/ed087d65-fd2e-45a4-851a-3c2e5b7459ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/5b2bf218-85a3-4400-9e07-085412ec472e.gif?fm=mp4&crop=max&w=555&h=320#t=0.001"
   },
   {
     "rank": "7",
@@ -98,7 +98,7 @@
     "description": "Build, share, run, and verify applications anywhere without tedious environment configuration or management.",
     "productUrl": "https://www.producthunt.com/products/docker/shoutouts",
     "websiteUrl": "https://www.docker.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/9d09fbe5-d7f7-4289-8f9e-ed07b8635446.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -124,10 +124,10 @@
     "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
     "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
     "websiteUrl": "https://cursor.sh/cpp",
-    "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/dYD3DoYeveU"
   },
   {
     "rank": "11",
@@ -152,8 +152,8 @@
     "websiteUrl": "https://monday.com/lp/project-management",
     "imageUrl1": "https://ph-files.imgix.net/0884e8e9-ae76-4242-91fb-646b84b5bed9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/d94afde8-ee75-4486-8058-74a25ea18203.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/dcbc0b29-a50a-466b-946a-1cc0aaedea8b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "13",
@@ -176,10 +176,10 @@
     "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
     "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
     "websiteUrl": "https://dokin.co/",
-    "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Y3meyamctuo"
   },
   {
     "rank": "15",
@@ -189,10 +189,10 @@
     "description": "Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features.",
     "productUrl": "https://www.producthunt.com/products/relay-app/shoutouts",
     "websiteUrl": "https://relay.app/",
-    "imageUrl1": "https://ph-files.imgix.net/66383651-1978-4035-a91e-1673226ae304.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/554633f1-e03d-4a8a-b3db-a51f44c27acf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/7d824529-255b-4542-ba21-baffb02c2454.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/WNM5PPZVMlM"
   },
   {
     "rank": "16",
@@ -358,10 +358,10 @@
     "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
     "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
     "websiteUrl": "https://localizebot.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/mzR8TDmcMxk"
   },
   {
     "rank": "29",
@@ -397,8 +397,8 @@
     "description": "Leaders in Conversational Voice AI. We're building generative AI voices for the conversational future. Join https://discord.gg/yBbq7UfUsF",
     "productUrl": "https://www.producthunt.com/products/play-ht/shoutouts",
     "websiteUrl": "https://play.ai/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/ca4f8595-90ab-4689-8389-fb9d7e1fc93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/4a642ef0-fef7-4e4d-b885-61a4cd1a0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -436,7 +436,7 @@
     "description": "Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.",
     "productUrl": "https://www.producthunt.com/products/nixos/shoutouts",
     "websiteUrl": "https://nixos.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0ae59381-5f95-4a29-9d3b-466f09e3c966.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -488,10 +488,10 @@
     "description": "Chargebee's subscription billing software powers end-to-end recurring billing for subscription businesses with smart automation.",
     "productUrl": "https://www.producthunt.com/products/chargebee/shoutouts",
     "websiteUrl": "http://chargebee.com/",
-    "imageUrl1": "https://ph-files.imgix.net/7f3ed069-3626-444c-9209-b628094b2a49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/6f8efc2e-1cc7-42d6-9556-8eaa91b97c3d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/20bb3065-4ea4-475f-a6ff-69a7a03e0e57.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/SoRVkqFPexU"
   },
   {
     "rank": "39",
@@ -514,10 +514,10 @@
     "description": "Easy-to-use templates with endless customizability and powerful automation. All with full control at your fingertips.",
     "productUrl": "https://www.producthunt.com/products/text-blaze/shoutouts",
     "websiteUrl": "https://blaze.today/",
-    "imageUrl1": "https://ph-files.imgix.net/f3475db5-4c07-4cbf-a36a-410f0497b745.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/19ed3a3a-4147-4559-b67d-1897709cd2c2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/km2eNAVujz0"
   },
   {
     "rank": "41",
@@ -527,10 +527,10 @@
     "description": "Mintlify lets fast growing teams enable continuous documentation into a standard practice. Mintlify sets up rules and automations to ensure that software teams can easily create, track and manage documentation.",
     "productUrl": "https://www.producthunt.com/products/mintlify/shoutouts",
     "websiteUrl": "https://www.mintlify.com/",
-    "imageUrl1": "https://ph-files.imgix.net/00e09e89-5821-4ff9-b221-449b94131b99.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/004b3e77-46ca-4ab0-a912-bcb16576750f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/efae918b-186b-46e4-badc-cf4126e3d461.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/SvMPmfLtoGA"
   },
   {
     "rank": "42",
@@ -540,10 +540,10 @@
     "description": "Rize is a time tracker that makes you more productive. It helps you be more in control of your workday and builds better habits by encouraging you to be more focused and more efficient. Currently available on macOS. Windows and Linux coming soon.",
     "productUrl": "https://www.producthunt.com/products/rizeio/shoutouts",
     "websiteUrl": "https://rize.io/",
-    "imageUrl1": "https://ph-files.imgix.net/39876024-0692-46bd-bdd7-e6d56abe27f5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7b2a9113-2982-419a-8975-9333e10f53e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/07abe49c-2d09-4d64-8a18-1d80f2f60a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/zQReO4NAT-k"
   },
   {
     "rank": "43",
@@ -553,8 +553,8 @@
     "description": "Turn any Google sheet into an API instantly, for free. Power websites, apps, or whatever you like, all from a spreadsheet. Changes to your spreadsheet update your API in realtime.",
     "productUrl": "https://www.producthunt.com/products/sheety/shoutouts",
     "websiteUrl": "https://sheety.co/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/6218517b-3519-4e3d-b228-03c750afeb05.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/28413ba6-75d5-4430-a558-b9e48ae5c467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -660,7 +660,7 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YuV5ATYcY_I"
   },
   {
     "rank": "52",
@@ -735,10 +735,10 @@
     "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
     "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
     "websiteUrl": "https://sievedata.com/",
-    "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F_OiR1dXyoI"
   },
   {
     "rank": "58",
@@ -761,10 +761,10 @@
     "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
     "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
     "websiteUrl": "https://www.openaitools.io/",
-    "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ZFMahUWQin4"
   },
   {
     "rank": "60",
@@ -774,10 +774,10 @@
     "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
     "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
     "websiteUrl": "https://gadget.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pj01pMFlQ7I"
   },
   {
     "rank": "61",
@@ -826,10 +826,10 @@
     "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
     "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
     "websiteUrl": "https://creatomate.com/",
-    "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4miLz33EnY"
   },
   {
     "rank": "65",
@@ -839,7 +839,7 @@
     "description": "Zuar provides cutting-edge data tools: Mitto ETL automation, data transformation/modeling, Tableau enhancements, and seasoned engineers to help with deployments.",
     "productUrl": "https://www.producthunt.com/products/zuar/shoutouts",
     "websiteUrl": "https://www.zuar.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/70596403-7b6f-4290-adcd-2afe4a6c69cb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -852,10 +852,10 @@
     "description": "Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.",
     "productUrl": "https://www.producthunt.com/products/create-go-app/shoutouts",
     "websiteUrl": "https://github.com/create-go-app/cli",
-    "imageUrl1": "https://ph-files.imgix.net/9aeff73f-92fb-4f10-8cf1-ba8652c9bc80.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/9cfedc03-cde9-4375-826c-1699b3105052.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/125b1624-4c5c-4f7c-9cde-40bc6ebafb1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5-DNZFU9TOQ"
   },
   {
     "rank": "67",
@@ -866,9 +866,9 @@
     "productUrl": "https://www.producthunt.com/products/vanta/shoutouts",
     "websiteUrl": "https://www.vanta.com/lp/demo-1k",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/91d4be6a-0f67-4081-9b0b-761e32345971.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/17ef9f10-5374-44de-8582-d7ac9d29f4e9.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/b515905b-47a8-43e7-be57-af73bd189c94.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "68",
@@ -891,10 +891,10 @@
     "description": "Connect all your banks in one place, leverage AI to automate accounting, track cash flow, and forecast.",
     "productUrl": "https://www.producthunt.com/products/fortune-finance-accounting/shoutouts",
     "websiteUrl": "https://www.fortune.app/",
-    "imageUrl1": "https://ph-files.imgix.net/8b731373-5b45-4e34-90b2-465a725cb4db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2cfc2f6c-5140-4847-bb6c-8f03b55cb301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/1b0cfa55-8453-4efb-a2e9-06303342447b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/lfzBhxb1TDQ"
   },
   {
     "rank": "70",
@@ -904,7 +904,7 @@
     "description": "Robolly is an all-in-one service for automated image, video & PDF generation. The potential is limitless; you can use it to generate branded social media content, open graph images, PDF certificates, personalized videos, slideshows, and so much more.",
     "productUrl": "https://www.producthunt.com/products/robolly/shoutouts",
     "websiteUrl": "https://robolly.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/20a32838-9f7e-4277-8f46-f35d3428e93f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

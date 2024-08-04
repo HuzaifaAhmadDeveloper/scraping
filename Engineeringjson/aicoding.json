@@ -7,7 +7,7 @@
     "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration.",
     "productUrl": "https://www.producthunt.com/products/jetbrains/shoutouts",
     "websiteUrl": "https://www.jetbrains.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/b45f1201-a239-48fa-90db-7fb3b1cebaf7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -20,10 +20,10 @@
     "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code.",
     "productUrl": "https://www.producthunt.com/products/github-copilot-chat/shoutouts",
     "websiteUrl": "https://github.com/features/copilot",
-    "imageUrl1": "https://ph-files.imgix.net/f0b776d7-f4dd-4a0c-81f4-9d3d05808d2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/6f07a661-3190-4532-8973-1b2c5cab3b8e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/e699c6c5-756a-414e-b796-005bf5d82af9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/a2DDYMEPwbE"
   },
   {
     "rank": "3",
@@ -33,10 +33,10 @@
     "description": "A new type of end-to-end processing unit system that provides the fastest inference for computationally intensive applications with a sequential component to them, such as AI language applications (LLMs)",
     "productUrl": "https://www.producthunt.com/products/groq-chat/shoutouts",
     "websiteUrl": "https://chat.groq.com/",
-    "imageUrl1": "https://ph-files.imgix.net/dae72806-6864-4ec6-ae3a-ffbd634e503a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/df0cb900-2558-48fd-bc31-87e5d0c36aea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/df7e3df5-7d28-4dfe-ad1c-350ad96e0e9a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/8UzW_AGX68g"
   },
   {
     "rank": "4",
@@ -46,10 +46,10 @@
     "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
     "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
     "websiteUrl": "https://cursor.sh/cpp",
-    "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/dYD3DoYeveU"
   },
   {
     "rank": "5",
@@ -85,10 +85,10 @@
     "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
     "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
     "websiteUrl": "https://localizebot.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/mzR8TDmcMxk"
   },
   {
     "rank": "8",
@@ -111,8 +111,8 @@
     "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse",
     "productUrl": "https://www.producthunt.com/products/langfuse/shoutouts",
     "websiteUrl": "https://langfuse.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/00781215-ec91-4ad4-af51-dd7fd5a55fbc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/151cece2-f032-4ace-84ef-b6dec0818f01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -137,7 +137,7 @@
     "description": "Run Llama 2 and other models on macOS, with Windows and Linux coming soon. Customize and create your own.",
     "productUrl": "https://www.producthunt.com/products/ollama/shoutouts",
     "websiteUrl": "https://github.com/jmorganca/ollama",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/5458784e-eb0d-4d4e-a08e-c0d2af61549c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -150,10 +150,10 @@
     "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
     "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
     "websiteUrl": "https://vorniches.com/snap2txt",
-    "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
   },
   {
     "rank": "13",
@@ -163,10 +163,10 @@
     "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
     "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
     "websiteUrl": "https://www.coze.com/",
-    "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/KLpMdzHxG1A"
   },
   {
     "rank": "14",
@@ -202,7 +202,7 @@
     "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
     "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
     "websiteUrl": "",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/19220fa5-2de7-484b-b0a0-c4047bcc48bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -215,10 +215,10 @@
     "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
     "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
     "websiteUrl": "https://novel.sh/",
-    "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rCM7fuYP2nU"
   },
   {
     "rank": "18",
@@ -241,8 +241,8 @@
     "description": "Google Colab has become a reference point for many web developers and AI enthusiasts. Each notebook has a unique link from which it can be accessed. Consequently, why not create a website where you can browse, add and collect all the Jupyter notebooks?",
     "productUrl": "https://www.producthunt.com/products/colab-notebooks/shoutouts",
     "websiteUrl": "http://colabnotebooks.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/463584b2-9bb4-4adc-a21e-b413c6a2e819.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/41500161-0ee0-4623-8e80-e73d10f0f214.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -267,9 +267,9 @@
     "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
     "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
     "websiteUrl": "https://www.openaitools.io/",
-    "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ZFMahUWQin4"
   }
 ]
