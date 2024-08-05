@@ -11,12 +11,12 @@ const client = new Client({
 
 const data = {
   "category": {
-    "cat_name": "Design and Creative",
-    "cat_heading": "The best Design and Creative in 2024",
+    "category_name": "Design and Creative",
+    "category_heading": "The best Design and Creative in 2024",
     "sub_categories": [
       {
-        "sub_cat_name": "3D and Animation",
-        "sub_cat_heading": "The best 3D and Animation in 2024",
+        "sub_category_name": "3D and Animation",
+        "sub_category_heading": "The best 3D and Animation in 2024",
         "products": [
           {
             "rank": "1",
@@ -217,8 +217,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Background removal tools",
-        "sub_cat_heading": "The best Background removal tools in 2024",
+        "sub_category_name": "Background removal tools",
+        "sub_category_heading": "The best Background removal tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -237,8 +237,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Camera apps",
-        "sub_cat_heading": "The best Camera apps in 2024",
+        "sub_category_name": "Camera apps",
+        "sub_category_heading": "The best Camera apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -348,8 +348,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Design inspiration websites",
-        "sub_cat_heading": "The best Design inspiration websites in 2024",
+        "sub_category_name": "Design inspiration websites",
+        "sub_category_heading": "The best Design inspiration websites in 2024",
         "products": [
           {
             "rank": "1",
@@ -472,8 +472,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Design mockups",
-        "sub_cat_heading": "The best Design mockups in 2024",
+        "sub_category_name": "Design mockups",
+        "sub_category_heading": "The best Design mockups in 2024",
         "products": [
           {
             "rank": "1",
@@ -661,8 +661,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Design resources",
-        "sub_cat_heading": "The best Design resources in 2024",
+        "sub_category_name": "Design resources",
+        "sub_category_heading": "The best Design resources in 2024",
         "products": [
           {
             "rank": "1",
@@ -1383,8 +1383,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Digital whiteboards",
-        "sub_cat_heading": "The best Digital whiteboards in 2024",
+        "sub_category_name": "Digital whiteboards",
+        "sub_category_heading": "The best Digital whiteboards in 2024",
         "products": [
           {
             "rank": "1",
@@ -1494,8 +1494,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Graphic design tools",
-        "sub_cat_heading": "The best Graphic design tools in 2024",
+        "sub_category_name": "Graphic design tools",
+        "sub_category_heading": "The best Graphic design tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -1904,8 +1904,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Icon sets",
-        "sub_cat_heading": "The best Icon sets in 2024",
+        "sub_category_name": "Icon sets",
+        "sub_category_heading": "The best Icon sets in 2024",
         "products": [
           {
             "rank": "1",
@@ -1976,8 +1976,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Interface design tools",
-        "sub_cat_heading": "The best Interface design tools in 2024",
+        "sub_category_name": "Interface design tools",
+        "sub_category_heading": "The best Interface design tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -2555,8 +2555,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Mobile editing apps",
-        "sub_cat_heading": "The best Mobile editing apps in 2024",
+        "sub_category_name": "Mobile editing apps",
+        "sub_category_heading": "The best Mobile editing apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -3043,8 +3043,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Photo editing",
-        "sub_cat_heading": "The best Photo editing in 2024",
+        "sub_category_name": "Photo editing",
+        "sub_category_heading": "The best Photo editing in 2024",
         "products": [
           {
             "rank": "1",
@@ -3297,8 +3297,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Podcasting",
-        "sub_cat_heading": "The best Podcasting in 2024",
+        "sub_category_name": "Podcasting",
+        "sub_category_heading": "The best Podcasting in 2024",
         "products": [
           {
             "rank": "1",
@@ -3369,8 +3369,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Social audio apps",
-        "sub_cat_heading": "The best Social audio apps in 2024",
+        "sub_category_name": "Social audio apps",
+        "sub_category_heading": "The best Social audio apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -3389,8 +3389,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Space design apps",
-        "sub_cat_heading": "The best Space design apps in 2024",
+        "sub_category_name": "Space design apps",
+        "sub_category_heading": "The best Space design apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -3409,8 +3409,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Stock photo sites",
-        "sub_cat_heading": "The best Stock photo sites in 2024",
+        "sub_category_name": "Stock photo sites",
+        "sub_category_heading": "The best Stock photo sites in 2024",
         "products": [
           {
             "rank": "1",
@@ -3481,8 +3481,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "UI frameworks",
-        "sub_cat_heading": "The best UI frameworks in 2024",
+        "sub_category_name": "UI frameworks",
+        "sub_category_heading": "The best UI frameworks in 2024",
         "products": [
           {
             "rank": "1",
@@ -4268,8 +4268,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "User research",
-        "sub_cat_heading": "The best User research in 2024",
+        "sub_category_name": "User research",
+        "sub_category_heading": "The best User research in 2024",
         "products": [
           {
             "rank": "1",
@@ -4522,8 +4522,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Video editing",
-        "sub_cat_heading": "The best Video editing in 2024",
+        "sub_category_name": "Video editing",
+        "sub_category_heading": "The best Video editing in 2024",
         "products": [
           {
             "rank": "1",
@@ -4984,8 +4984,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Wallpapers",
-        "sub_cat_heading": "The best Wallpapers in 2024",
+        "sub_category_name": "Wallpapers",
+        "sub_category_heading": "The best Wallpapers in 2024",
         "products": [
           {
             "rank": "1",
@@ -5004,8 +5004,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Wireframing",
-        "sub_cat_heading": "The best Wireframing in 2024",
+        "sub_category_name": "Wireframing",
+        "sub_category_heading": "The best Wireframing in 2024",
         "products": [
           {
             "rank": "1",
@@ -5085,59 +5085,59 @@ const insertData = async () => {
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO category (cat_name, cat_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING cat_id`,
-      [data.category.cat_name, data.category.cat_heading]
+      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      [data.category.category_name, data.category.category_heading]
     );
 
-    const cat_id = categoryResult.rows[0].cat_id;
+    const category_id = categoryResult.rows[0].category_id;
 
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO sub_category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3) RETURNING sub_cat_id`,
-        [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
+        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
 
-      const sub_cat_id = subCategoryResult.rows[0].sub_cat_id;
+      const sub_category_id = subCategoryResult.rows[0].sub_category_id;
 
       for (const product of sub_category.products) {
         // Check if the product already exists
         const productResult = await client.query(
-          `SELECT prod_id FROM products WHERE name = $1`,
-          [product.name]
+          `SELECT product_id FROM products WHERE product_name = $1`,
+          [product.product_name]
         );
 
-        let prod_id;
+        let product_id;
         if (productResult.rows.length === 0) {
           // Insert new product if it doesn't exist
           const newProductResult = await client.query(
-            `INSERT INTO products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING prod_id`,
+            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
             [
-              product.rank,
-              product.name,
-              product.icon,
-              product.title,
-              product.description,
-              product.productUrl,
-              product.websiteUrl,
-              product.imageUrl1,
-              product.imageUrl2,
-              product.imageUrl3,
-              product.videoUrl,
-              cat_id,
-              sub_cat_id,
+              product.product_rank,
+              product.product_name,
+              product.product_icon,
+              product.product_title,
+              product.product_description,
+              product.product_Url,
+              product.website_Url,
+              product.image_Url1,
+              product.image_Url2,
+              product.image_Url3,
+              product.video_Url,
+              category_id,
+              sub_category_id,
             ]
           );
-          prod_id = newProductResult.rows[0].prod_id;
+          product_id = newProductResult.rows[0].product_id;
         } else {
-          // Get existing prod_id if product exists
-          prod_id = productResult.rows[0].prod_id;
+          // Get existing product_id if product exists
+          product_id = productResult.rows[0].product_id;
         }
 
         // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO productSubcategory (prod_id, cat_id, sub_cat_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
-          [prod_id, cat_id, sub_cat_id]
+          `INSERT INTO productSubcategory (product_id, category_id, sub_category_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [product_id, category_id, sub_category_id]
         );
       }
     }

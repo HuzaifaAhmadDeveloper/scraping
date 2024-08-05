@@ -11,12 +11,12 @@ const client = new Client({
 
 const data = {
   "category": {
-    "cat_name": "Physical Products",
-    "cat_heading": "The best Physical Products in 2024",
+    "category_name": "Physical Products",
+    "category_heading": "The best Physical Products in 2024",
     "sub_categories": [
       {
-        "sub_cat_name": "Books",
-        "sub_cat_heading": "The best Books in 2024",
+        "sub_category_name": "Books",
+        "sub_category_heading": "The best Books in 2024",
         "products": [
           {
             "rank": "1",
@@ -35,8 +35,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Fitness",
-        "sub_cat_heading": "The best Fitness in 2024",
+        "sub_category_name": "Fitness",
+        "sub_category_heading": "The best Fitness in 2024",
         "products": [
           {
             "rank": "1",
@@ -55,8 +55,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Games",
-        "sub_cat_heading": "The best Games in 2024",
+        "sub_category_name": "Games",
+        "sub_category_heading": "The best Games in 2024",
         "products": [
           {
             "rank": "1",
@@ -179,8 +179,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Toys",
-        "sub_cat_heading": "The best Toys in 2024",
+        "sub_category_name": "Toys",
+        "sub_category_heading": "The best Toys in 2024",
         "products": [
           {
             "rank": "1",
@@ -199,8 +199,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Wearables",
-        "sub_cat_heading": "The best Wearables in 2024",
+        "sub_category_name": "Wearables",
+        "sub_category_heading": "The best Wearables in 2024",
         "products": [
           {
             "rank": "1",
@@ -288,31 +288,74 @@ const data = {
 };
 
 const insertData = async () => {
-    try {
-      await client.connect();
-  
-      // Insert category
-      const categoryResult = await client.query(
-        `INSERT INTO Category (cat_name, cat_heading) VALUES ($1, $2) RETURNING cat_id`,
-        [data.category.cat_name, data.category.cat_heading]
+  try {
+    await client.connect();
+
+    // Insert category
+    const categoryResult = await client.query(
+      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      [data.category.category_name, data.category.category_heading]
+    );
+
+    const category_id = categoryResult.rows[0].category_id;
+
+    // Insert sub-categories and products
+    for (const sub_category of data.category.sub_categories) {
+      const subCategoryResult = await client.query(
+        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
-  
-      const cat_id = categoryResult.rows[0].cat_id;
-  
-      // Insert sub-categories
-      for (const sub_category of data.category.sub_categories) {
+
+      const sub_category_id = subCategoryResult.rows[0].sub_category_id;
+
+      for (const product of sub_category.products) {
+        // Check if the product already exists
+        const productResult = await client.query(
+          `SELECT product_id FROM products WHERE product_name = $1`,
+          [product.product_name]
+        );
+
+        let product_id;
+        if (productResult.rows.length === 0) {
+          // Insert new product if it doesn't exist
+          const newProductResult = await client.query(
+            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
+            [
+              product.product_rank,
+              product.product_name,
+              product.product_icon,
+              product.product_title,
+              product.product_description,
+              product.product_Url,
+              product.website_Url,
+              product.image_Url1,
+              product.image_Url2,
+              product.image_Url3,
+              product.video_Url,
+              category_id,
+              sub_category_id,
+            ]
+          );
+          product_id = newProductResult.rows[0].product_id;
+        } else {
+          // Get existing product_id if product exists
+          product_id = productResult.rows[0].product_id;
+        }
+
+        // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO Sub_Category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3)`,
-          [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
+          `INSERT INTO productSubcategory (product_id, category_id, sub_category_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [product_id, category_id, sub_category_id]
         );
       }
-  
-      console.log("Data inserted successfully");
-    } catch (err) {
-      console.error("Error inserting data", err);
-    } finally {
-      await client.end();
     }
-  };
-  
-  insertData();
+
+    console.log("Data inserted successfully");
+  } catch (err) {
+    console.error("Error inserting data", err);
+  } finally {
+    await client.end();
+  }
+};
+
+insertData();

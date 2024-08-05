@@ -11,12 +11,12 @@ const client = new Client({
 
 const data = {
   "category": {
-    "cat_name": "Social and Community",
-    "cat_heading": "The best Social and Community in 2024",
+    "category_name": "Social and Community",
+    "category_heading": "The best Social and Community in 2024",
     "sub_categories": [
       {
-        "sub_cat_name": "Blogging platforms",
-        "sub_cat_heading": "The best Blogging platforms in 2024",
+        "sub_category_name": "Blogging platforms",
+        "sub_category_heading": "The best Blogging platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -29,19 +29,6 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/38dae5bc-b2af-43a7-94a9-9f9e814d4c3f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/22a5d0e4-7476-49fc-82a7-9e30178c66ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7c2f160d-dc90-43f9-9354-52a69fa9b663.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "2",
-            "name": "WordPress",
-            "icon": "https://ph-files.imgix.net/2b33c6b3-be3a-47c4-9dff-6bb8f878e607.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "WordPress — WordPress is open source software you can use to create a beautiful website, blog, or app.",
-            "description": "Trusted by the Best. 43% of the web uses WordPress, from hobby blogs to the biggest news sites online.",
-            "productUrl": "https://www.producthunt.com/products/wordpress/shoutouts",
-            "websiteUrl": "",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
             "videoUrl": ""
           },
           {
@@ -91,7 +78,7 @@ const data = {
             "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
             "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
             "websiteUrl": "https://ko-fi.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3942cebc-f885-4839-81bf-9079389ce071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -100,8 +87,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Community management",
-        "sub_cat_heading": "The best Community management in 2024",
+        "sub_category_name": "Community management",
+        "sub_category_heading": "The best Community management in 2024",
         "products": [
           {
             "rank": "1",
@@ -139,8 +126,8 @@ const data = {
             "websiteUrl": "http://www.discourse.org/",
             "imageUrl1": "https://ph-files.imgix.net/dbde5970-2b76-4347-a934-da6ff67fb788.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/d9ed6f9b-d1d0-43a0-8615-f3326f7c43bd.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/8a268b26-1b7c-4299-94d7-a45bad7f86fa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "4",
@@ -176,8 +163,8 @@ const data = {
             "description": "Featurebase helps you understand what ideas or problems your customers have about your product and, therefore, helps you steer your startup in the right direction. You can capture all their feedback, bug reports and feature requests on a public board.",
             "productUrl": "https://www.producthunt.com/products/featurebase/shoutouts",
             "websiteUrl": "https://featurebase.app/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/d5a756a1-6179-4d41-b057-3b00417aba43.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66dabc4f-be6e-40b4-86f1-30368ebba169.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -192,7 +179,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/9bef7002-3475-4462-bd16-2ddcecbd5779.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/bf8b2df0-e313-4f04-9645-e93212e90cf9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/12d28cb1-ccc4-4a9c-bb6f-10a996b7c4c6.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "8",
@@ -202,10 +189,10 @@ const data = {
             "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.",
             "productUrl": "https://www.producthunt.com/products/codepen/shoutouts",
             "websiteUrl": "http://codepen.io/",
-            "imageUrl1": "https://ph-files.imgix.net/aab2ea86-3dc7-4b4a-8d43-7ada84df609c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/213e8684-3d7f-4d30-bf20-b3c4bdd0245f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b16aebda-eac8-41c0-9d8a-17cbf452730b?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gWb0njDcixo"
           },
           {
             "rank": "9",
@@ -224,8 +211,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Link in bio tools",
-        "sub_cat_heading": "The best Link in bio tools in 2024",
+        "sub_category_name": "Link in bio tools",
+        "sub_category_heading": "The best Link in bio tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -251,7 +238,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/6b1b8de0-3fe0-4ef8-9cc5-3bf0228fb727.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/c78af76f-6561-4e9f-a6ef-bf821fa2ad0d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/d7da5355-376c-43c8-a646-344dc56a6012.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -261,10 +248,10 @@ const data = {
             "description": "Geniuslink makes localizing, tracking, and managing smart links dead simple, so you can earn more without added work. Get the most out of every link with simple and powerful tools that improve conversions and save you time.",
             "productUrl": "https://www.producthunt.com/products/geniuslink-2/shoutouts",
             "websiteUrl": "https://geniuslink.com/",
-            "imageUrl1": "https://ph-files.imgix.net/85fa38c3-9041-41cf-8c32-33bc7ac04bcb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c65701e2-11c1-4853-906b-0b92b8c1e717.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2df42403-376b-4526-9e00-9c16eab2ba48.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/XsCDApDWsIA"
           },
           {
             "rank": "4",
@@ -283,8 +270,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Live streaming platforms",
-        "sub_cat_heading": "The best Live streaming platforms in 2024",
+        "sub_category_name": "Live streaming platforms",
+        "sub_category_heading": "The best Live streaming platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -307,10 +294,10 @@ const data = {
             "description": "StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.",
             "productUrl": "https://www.producthunt.com/products/streamyard/shoutouts",
             "websiteUrl": "https://streamyard.com/",
-            "imageUrl1": "https://ph-files.imgix.net/68168793-fa61-4f75-81ca-3af75eebb88a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/067f268f-29e6-45b3-9637-4134052c7421.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/92cd77c5-e750-4a4b-8bf7-9fbb51001fdf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/An5ko-YEp1o"
           },
           {
             "rank": "3",
@@ -333,17 +320,17 @@ const data = {
             "description": "Tidio Live Chat is a live chat service which allows you to communicate with your customers easily, also with the help of chatbots. A feature-rich free version with paid upgrades available pending your need.",
             "productUrl": "https://www.producthunt.com/products/tidio-2/shoutouts",
             "websiteUrl": "https://www.tidio.com/",
-            "imageUrl1": "https://ph-files.imgix.net/de9abc23-4c9b-41f8-8076-f73af6f81fa9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/cff4d678-85ef-464b-ba40-0994ebc29729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3acd3240-4f9d-4999-a04f-a88a0cec0f30.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/8u4HTj2d3nM"
           }
         ]
         
       },
       {
-        "sub_cat_name": "Messaging apps",
-        "sub_cat_heading": "The best Messaging apps in 2024",
+        "sub_category_name": "Messaging apps",
+        "sub_category_heading": "The best Messaging apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -366,8 +353,8 @@ const data = {
             "description": "A voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.",
             "productUrl": "https://www.producthunt.com/products/discord/shoutouts",
             "websiteUrl": "https://discord.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/929f256e-f033-420c-a683-8f46b5a60d7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0bc69517-d2dc-4005-82c0-416586a19e6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -393,9 +380,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
             "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "5",
@@ -407,8 +394,8 @@ const data = {
             "websiteUrl": "http://www.discourse.org/",
             "imageUrl1": "https://ph-files.imgix.net/dbde5970-2b76-4347-a934-da6ff67fb788.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/d9ed6f9b-d1d0-43a0-8615-f3326f7c43bd.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/8a268b26-1b7c-4299-94d7-a45bad7f86fa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "6",
@@ -431,7 +418,7 @@ const data = {
             "description": "Socket.IO enables real-time bidirectional event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - Real-time analytics - Instant messaging and chat - Binary streaming - Document collaboration",
             "productUrl": "https://www.producthunt.com/products/socket-io-2-0/shoutouts",
             "websiteUrl": "https://github.com/socketio/socket.io",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8a324565-b7f2-4512-a932-da0d77607caa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -457,10 +444,10 @@ const data = {
             "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
             "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
             "websiteUrl": "https://www.coze.com/",
-            "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/KLpMdzHxG1A"
           },
           {
             "rank": "10",
@@ -489,19 +476,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "12",
-            "name": "Chaty",
-            "icon": null,
-            "title": "Chaty — Connect with your customers on 20+ popular messaging apps",
-            "description": "Provide your website visitors' a frictionless customer communication by allowing customers easy access to all the platforms you’re available on improving your customers’ experience and increasing your chances of conversion or sales.",
-            "productUrl": "https://www.producthunt.com/products/chaty/shoutouts",
-            "websiteUrl": "https://chaty.app/",
-            "imageUrl1": "https://ph-files.imgix.net/aceda95a-2b40-4d4e-b02a-e6b18288dec4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/135a7097-e584-4fb6-900a-10be806b1d2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/b00d130f-9459-4d86-9b2a-373b68465512.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "13",
             "name": "OneSignal",
             "icon": "https://ph-files.imgix.net/493d793b-3f12-4ed1-856f-bdfb5eac6406.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -509,10 +483,10 @@ const data = {
             "description": "OneSignal is the market-leading customer messaging and engagement solution, offering mobile and web push notifications, in-app messaging, SMS, and email. Our powerful omnichannel platform enables 1M+ businesses to deliver over 10B+ messages daily. Powered by superior architecture, OneSignal is designed to scale with your business and deliver messages more quickly and reliably than the competition.",
             "productUrl": "https://www.producthunt.com/products/onesignal/shoutouts",
             "websiteUrl": "https://onesignal.com/",
-            "imageUrl1": "https://ph-files.imgix.net/b631ebc8-91d6-45d7-99d0-6973b7b58174.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/66da23cb-4a8a-4fb7-86ff-ac8cf0f9d2bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/98c9a62a-3e5f-4d84-b685-90279fb0cbc6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://www.loom.com/share/944ad26804334e4da623a0c725950711?sid=97b7d526-6006-4cd3-972c-3eef5901c42c"
           },
           {
             "rank": "14",
@@ -535,10 +509,10 @@ const data = {
             "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California.Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.",
             "productUrl": "https://www.producthunt.com/products/twilio/shoutouts",
             "websiteUrl": "http://www.twilio.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fe6f6075-78e0-4c52-8ae4-0f56a6f2146e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/20880aba-f21a-448a-9612-9f071c9349e9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/429944d7-79f5-42d0-9fc7-d4346113084a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/WaD7jiq2Y6U"
           },
           {
             "rank": "16",
@@ -574,17 +548,17 @@ const data = {
             "description": "Re-engage users, even when they are offsite on mobile and desktop",
             "productUrl": "https://www.producthunt.com/products/web-push-notification-tool/shoutouts",
             "websiteUrl": "https://www.notifyvisitors.com/product/web-push-notification",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8b8de178-e642-452d-8303-efd9c353993f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/h57vmVx0Tp4"
           }
         ]
        
       },
       {
-        "sub_cat_name": "Microblogging platforms",
-        "sub_cat_heading": "The best Microblogging platforms in 2024",
+        "sub_category_name": "Microblogging platforms",
+        "sub_category_heading": "The best Microblogging platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -616,8 +590,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Newsletter platforms",
-        "sub_cat_heading": "The best Newsletter platforms in 2024",
+        "sub_category_name": "Newsletter platforms",
+        "sub_category_heading": "The best Newsletter platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -662,8 +636,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Photo sharing",
-        "sub_cat_heading": "The best Photo sharing in 2024",
+        "sub_category_name": "Photo sharing",
+        "sub_category_heading": "The best Photo sharing in 2024",
         "products": [
           {
             "rank": "1",
@@ -725,8 +699,8 @@ const data = {
             "description": "Pokemon was inspired by the author's childhood memory of running around chasing after rare insects. This app was able to correctly identify the type of the butterfly from a picture of a caterpillar I shared. It's also sponsored by National Geographic",
             "productUrl": "https://www.producthunt.com/products/inaturalist/shoutouts",
             "websiteUrl": "https://apps.apple.com/us/app/inaturalist/id421397028",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9583e4ba-3ef5-4709-baf5-00adebbb7f0a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/d3567809-1b14-43ec-8eb1-bb4fa0f85eda.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -734,8 +708,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Professional networking platforms",
-        "sub_cat_heading": "The best Professional networking platforms in 2024",
+        "sub_category_name": "Professional networking platforms",
+        "sub_category_heading": "The best Professional networking platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -758,10 +732,10 @@ const data = {
             "description": "Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities. LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
             "productUrl": "https://www.producthunt.com/products/linkedin/shoutouts",
             "websiteUrl": "https://linkedin.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0fe8a06e-9b35-44dd-8f53-077a235f11eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/fFAqBXp9ibo"
           },
           {
             "rank": "3",
@@ -771,7 +745,7 @@ const data = {
             "description": "Proxycurl's Linkedin API takes a Linkedin Profile and returns scraped structured data of the profile",
             "productUrl": "https://www.producthunt.com/products/proxycurl/shoutouts",
             "websiteUrl": "https://nubela.co/proxycurl/linkedin",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/4a802c88-0f93-45e6-9085-d53e4a1be012.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -784,7 +758,7 @@ const data = {
             "description": "64% of job seekers get hired through a referral. Use LinkedIn Jobs to boost your chances of getting hired through people you know.",
             "productUrl": "https://www.producthunt.com/products/linkedin-2/shoutouts",
             "websiteUrl": "https://www.linkedin.com/jobs",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6e3ef5d8-0e4a-4966-9e18-8ec7943bed70.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -797,7 +771,7 @@ const data = {
             "description": "Professionals, makers, and \"do-ers\" have to be more present on more channels today than ever before. And the more you put yourself out there, the more junk you get back. Gated is one simple link to share what you’re focused on anywhere you’re building your presence online and start conversations about the topics you actually care about. We create tech and A.I. that's on *your* side - protecting your time and keeping you focused on your goals in this noisy digital world.",
             "productUrl": "https://www.producthunt.com/products/gated/shoutouts",
             "websiteUrl": "https://www.gated.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/88c12b09-c196-4d5f-8a9d-93d4d95c1979.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -810,8 +784,8 @@ const data = {
             "description": "sage is a new place on the internet for builders, makers, & creators to find and be found by the right group of ppl. any idea goes. a hip-hop album, short film, a novel, some indie software, a youtube channel — whatever.",
             "productUrl": "https://www.producthunt.com/products/buildspace-sage/shoutouts",
             "websiteUrl": "https://sage.buildspace.so/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/a331ef6a-7ad2-4f0f-9e5d-7b9a973de640.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/91f26664-4c33-411f-ad46-a82364588b33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -836,17 +810,17 @@ const data = {
             "description": "Findem’s Impossible Search lets you find candidates who have the EXACT attributes you’re looking for in a new hire. We’ve exposed 100+ Impossible Searches for free across different roles, so everyone can experience the magic for themselves!",
             "productUrl": "https://www.producthunt.com/products/findem/shoutouts",
             "websiteUrl": "https://www.findem.ai/#scroll",
-            "imageUrl1": "https://ph-files.imgix.net/7b9d8210-a21b-4428-8341-db8890fabed4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9e97ea43-2134-4877-9e79-732201271a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6aadb21f-c161-489a-8ed3-60190715c30a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pTXlV3npRHM"
           }
         ]
        
       },
       {
-        "sub_cat_name": "Safety and Privacy platforms",
-        "sub_cat_heading": "The best Safety and Privacy platforms in 2024",
+        "sub_category_name": "Safety and Privacy platforms",
+        "sub_category_heading": "The best Safety and Privacy platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -856,7 +830,7 @@ const data = {
             "description": "Professionals, makers, and \"do-ers\" have to be more present on more channels today than ever before. And the more you put yourself out there, the more junk you get back. Gated is one simple link to share what you’re focused on anywhere you’re building your presence online and start conversations about the topics you actually care about. We create tech and A.I. that's on *your* side - protecting your time and keeping you focused on your goals in this noisy digital world.",
             "productUrl": "https://www.producthunt.com/products/gated/shoutouts",
             "websiteUrl": "https://www.gated.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/88c12b09-c196-4d5f-8a9d-93d4d95c1979.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -908,8 +882,8 @@ const data = {
             "description": "Cloaked is a people-first privacy app that generates virtual identities to protect your personal data. No one should have to choose between staying connected and personal privacy — with Cloaked, you can try new products, travel, shop, and even meet new people while staying in control of your data. Unique and unlimited phone numbers, passwords, and payments set us apart from other privacy tools and password managers. Go ahead and give them your (Cloaked) info — and say goodbye to spam forever.",
             "productUrl": "https://www.producthunt.com/products/keepitcloaked/shoutouts",
             "websiteUrl": "https://www.cloaked.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/b61d4238-8001-4a92-939b-c0b9b78c5d2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/44a5e744-ac83-4c89-a60a-0b9c8934240c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -917,8 +891,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Social bookmarking",
-        "sub_cat_heading": "The best Social bookmarking in 2024",
+        "sub_category_name": "Social bookmarking",
+        "sub_category_heading": "The best Social bookmarking in 2024",
         "products": [
           {
             "rank": "1",
@@ -931,14 +905,14 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/de8da9f5-a737-49f5-bd92-7b15208e72a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/2540cd29-e59f-4de5-8b0a-e21d2041669b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/671fae72-dd85-4b9c-ae56-2151537f402a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
         
       },
       {
-        "sub_cat_name": "Social Networking",
-        "sub_cat_heading": "The best Social Networking in 2024",
+        "sub_category_name": "Social Networking",
+        "sub_category_heading": "The best Social Networking in 2024",
         "products": [
           {
             "rank": "1",
@@ -961,10 +935,10 @@ const data = {
             "description": "Manage your professional identity. Build and engage with your professional network. Access knowledge, insights and opportunities. LinkedIn is an American business and employment-oriented service that operates via websites and mobile apps. Founded on December 28, 2002, and launched on May 5, 2003, it is mainly used for professional networking, including employers posting jobs and job seekers posting their CVs.",
             "productUrl": "https://www.producthunt.com/products/linkedin/shoutouts",
             "websiteUrl": "https://linkedin.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0fe8a06e-9b35-44dd-8f53-077a235f11eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/fFAqBXp9ibo"
           },
           {
             "rank": "3",
@@ -1003,7 +977,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/de8da9f5-a737-49f5-bd92-7b15208e72a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/2540cd29-e59f-4de5-8b0a-e21d2041669b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/671fae72-dd85-4b9c-ae56-2151537f402a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "6",
@@ -1029,7 +1003,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/4cefa905-9973-41e1-b9af-1c457e88719c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/721d6f4e-391c-4367-aca3-1f483b00dc2d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/1c6e059f-d461-46e6-b1c0-168a423582f2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "8",
@@ -1065,7 +1039,7 @@ const data = {
             "description": "Professionals, makers, and \"do-ers\" have to be more present on more channels today than ever before. And the more you put yourself out there, the more junk you get back. Gated is one simple link to share what you’re focused on anywhere you’re building your presence online and start conversations about the topics you actually care about. We create tech and A.I. that's on *your* side - protecting your time and keeping you focused on your goals in this noisy digital world.",
             "productUrl": "https://www.producthunt.com/products/gated/shoutouts",
             "websiteUrl": "https://www.gated.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/88c12b09-c196-4d5f-8a9d-93d4d95c1979.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1084,19 +1058,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "12",
-            "name": "Chaty",
-            "icon": null,
-            "title": "Chaty — Connect with your customers on 20+ popular messaging apps",
-            "description": "Provide your website visitors' a frictionless customer communication by allowing customers easy access to all the platforms you’re available on improving your customers’ experience and increasing your chances of conversion or sales.",
-            "productUrl": "https://www.producthunt.com/products/chaty/shoutouts",
-            "websiteUrl": "https://chaty.app/",
-            "imageUrl1": "https://ph-files.imgix.net/aceda95a-2b40-4d4e-b02a-e6b18288dec4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/135a7097-e584-4fb6-900a-10be806b1d2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/b00d130f-9459-4d86-9b2a-373b68465512.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "13",
             "name": "BuildSpace Sage",
             "icon": "https://ph-files.imgix.net/56d21e5e-06b5-467a-a4c3-826f521be169.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -1104,8 +1065,8 @@ const data = {
             "description": "sage is a new place on the internet for builders, makers, & creators to find and be found by the right group of ppl. any idea goes. a hip-hop album, short film, a novel, some indie software, a youtube channel — whatever.",
             "productUrl": "https://www.producthunt.com/products/buildspace-sage/shoutouts",
             "websiteUrl": "https://sage.buildspace.so/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/a331ef6a-7ad2-4f0f-9e5d-7b9a973de640.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/91f26664-4c33-411f-ad46-a82364588b33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1195,8 +1156,8 @@ const data = {
             "description": "facebook events for hot people ✨ create your party page in seconds ⚡️ letting you create party pages for every vibe.",
             "productUrl": "https://www.producthunt.com/products/partiful/shoutouts",
             "websiteUrl": "https://partiful.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/a3a2f8dd-a10a-4fb4-bd60-9aba0ba36882.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2288ba1a-434a-4581-85ab-90e2c005bc2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1208,8 +1169,8 @@ const data = {
             "description": "Since spotify decided to get rid of their headle game, here is a new version. I really enjoyed playing heardle and hated that spotify got rid of it. So I have been playing this version now and made it into a website.",
             "productUrl": "https://www.producthunt.com/products/heardle-2/shoutouts",
             "websiteUrl": "https://www.heardleunlimited.xyz/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/58ab1eb9-6c0b-4528-bf3a-682fb94ea651.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/ecf89072-9240-4847-a11f-17ac67fb74ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1222,9 +1183,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/tiktok-shop-app-store/shoutouts",
             "websiteUrl": "https://partner.us.tiktokshop.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/1818bf10-eba6-4b11-b32c-29c8fec8fea2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/11758ace-29d3-4b22-a177-150d4167777c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/6039e60f-f90a-4fa5-9324-e4e744c95218.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "23",
@@ -1260,8 +1221,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/youtube-2/shoutouts",
             "websiteUrl": "https://www.youtube.com/new",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9db20c9b-a4d3-499d-85b7-a658f15f0fe4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66657bac-0622-45b6-b881-e589ad7dd88d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1273,8 +1234,8 @@ const data = {
             "description": "Meta is helping build a future where people have more ways to play and connect in the metaverse. Welcome to the next chapter of social connection.",
             "productUrl": "https://www.producthunt.com/products/meta/shoutouts",
             "websiteUrl": "https://www.meta.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/79ed5ed4-7a89-475e-85ed-3624a3b926ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/79ed5ed4-7a89-475e-85ed-3624a3b926ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -1282,8 +1243,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Video and Voice calling",
-        "sub_cat_heading": "The best Video and Voice calling in 2024",
+        "sub_category_name": "Video and Voice calling",
+        "sub_category_heading": "The best Video and Voice calling in 2024",
         "products": [
           {
             "rank": "1",
@@ -1306,8 +1267,8 @@ const data = {
             "description": "A voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.",
             "productUrl": "https://www.producthunt.com/products/discord/shoutouts",
             "websiteUrl": "https://discord.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/929f256e-f033-420c-a683-8f46b5a60d7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0bc69517-d2dc-4005-82c0-416586a19e6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1364,19 +1325,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "7",
-            "name": "Krisp",
-            "icon": null,
-            "title": "Krisp — Magically mutes background noise during calls",
-            "description": "Krisp is a superior noise cancelling app that mutes background noise in real time calls. With one click it removes all extraneous noises for incoming and outgoing calls. Available on Windows, Mac, and iOS.",
-            "productUrl": "https://www.producthunt.com/products/krisp/shoutouts",
-            "websiteUrl": "https://krisp.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/7d9908cf-aed2-48d3-9bb1-d5df74245862.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/1811dacf-b137-49c3-98c6-aaf15b0dcdc2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/10b52e64-006d-41f3-9fce-26ff9707c2c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "8",
             "name": "LiveKit",
             "icon": "https://ph-files.imgix.net/45e5b993-3081-4c6a-8578-4933431cbb0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
@@ -1410,10 +1358,10 @@ const data = {
             "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
             "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
             "websiteUrl": "https://www.usebacktrack.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/oD-phHlm388"
           },
           {
             "rank": "11",
@@ -1436,8 +1384,8 @@ const data = {
             "description": "It's getting harder than ever to stand out above the noise and engage your prospects and customers. Buying committees have grown larger, inboxes more flooded, and prospects spend more time conducting their own research. Vidyard is building a suite of products that allows teams to adapt and take advantage of these trends. Visit our site to learn more!",
             "productUrl": "https://www.producthunt.com/products/vidyard-studio/shoutouts",
             "websiteUrl": "https://www.vidyard.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/95e92da0-983c-418a-8518-15c7ef476c33.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0c85d01a-eb80-49f0-8bae-7774b91071b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1449,8 +1397,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/youtube-2/shoutouts",
             "websiteUrl": "https://www.youtube.com/new",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9db20c9b-a4d3-499d-85b7-a658f15f0fe4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66657bac-0622-45b6-b881-e589ad7dd88d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -1462,31 +1410,74 @@ const data = {
 };
 
 const insertData = async () => {
-    try {
-      await client.connect();
-  
-      // Insert category
-      const categoryResult = await client.query(
-        `INSERT INTO Category (cat_name, cat_heading) VALUES ($1, $2) RETURNING cat_id`,
-        [data.category.cat_name, data.category.cat_heading]
+  try {
+    await client.connect();
+
+    // Insert category
+    const categoryResult = await client.query(
+      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      [data.category.category_name, data.category.category_heading]
+    );
+
+    const category_id = categoryResult.rows[0].category_id;
+
+    // Insert sub-categories and products
+    for (const sub_category of data.category.sub_categories) {
+      const subCategoryResult = await client.query(
+        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
-  
-      const cat_id = categoryResult.rows[0].cat_id;
-  
-      // Insert sub-categories
-      for (const sub_category of data.category.sub_categories) {
+
+      const sub_category_id = subCategoryResult.rows[0].sub_category_id;
+
+      for (const product of sub_category.products) {
+        // Check if the product already exists
+        const productResult = await client.query(
+          `SELECT product_id FROM products WHERE product_name = $1`,
+          [product.product_name]
+        );
+
+        let product_id;
+        if (productResult.rows.length === 0) {
+          // Insert new product if it doesn't exist
+          const newProductResult = await client.query(
+            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
+            [
+              product.product_rank,
+              product.product_name,
+              product.product_icon,
+              product.product_title,
+              product.product_description,
+              product.product_Url,
+              product.website_Url,
+              product.image_Url1,
+              product.image_Url2,
+              product.image_Url3,
+              product.video_Url,
+              category_id,
+              sub_category_id,
+            ]
+          );
+          product_id = newProductResult.rows[0].product_id;
+        } else {
+          // Get existing product_id if product exists
+          product_id = productResult.rows[0].product_id;
+        }
+
+        // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO Sub_Category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3)`,
-          [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
+          `INSERT INTO productSubcategory (product_id, category_id, sub_category_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [product_id, category_id, sub_category_id]
         );
       }
-  
-      console.log("Data inserted successfully");
-    } catch (err) {
-      console.error("Error inserting data", err);
-    } finally {
-      await client.end();
     }
-  };
-  
-  insertData();
+
+    console.log("Data inserted successfully");
+  } catch (err) {
+    console.error("Error inserting data", err);
+  } finally {
+    await client.end();
+  }
+};
+
+insertData();

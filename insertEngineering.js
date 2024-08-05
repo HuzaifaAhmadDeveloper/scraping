@@ -11,12 +11,12 @@ const client = new Client({
 
 const data = {
   "category": {
-    "cat_name": "Engineering and Development",
-    "cat_heading": "The best engineering & development in 2024",
+    "category_name": "Engineering and Development",
+    "category_heading": "The best engineering & development in 2024",
     "sub_categories": [
       {
-        "sub_cat_name": "A/B Testing",
-        "sub_cat_heading": "The best a/b testing in 2024",
+        "sub_category_name": "A/B Testing",
+        "sub_category_heading": "The best a/b testing in 2024",
         "products": [
           {
             "rank": "1",
@@ -99,8 +99,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "AI coding assistants",
-        "sub_cat_heading": "The best AI coding assistants in 2024",
+        "sub_category_name": "AI coding assistants",
+        "sub_category_heading": "The best AI coding assistants in 2024",
         "products": [
           {
             "rank": "1",
@@ -379,8 +379,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Authentication And Identity",
-        "sub_cat_heading": "The best Authentication And Identity in 2024",
+        "sub_category_name": "Authentication And Identity",
+        "sub_category_heading": "The best Authentication And Identity in 2024",
         "products": [
           {
             "rank": "1",
@@ -685,8 +685,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Automation tools",
-        "sub_cat_heading": "The best Automation tools in 2024",
+        "sub_category_name": "Automation tools",
+        "sub_category_heading": "The best Automation tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -1601,8 +1601,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Cloud Computing Platforms",
-        "sub_cat_heading": "The best Cloud Computing Platforms in 2024",
+        "sub_category_name": "Cloud Computing Platforms",
+        "sub_category_heading": "The best Cloud Computing Platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -2803,8 +2803,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "CMS",
-        "sub_cat_heading": "The best CMS in 2024",
+        "sub_category_name": "CMS",
+        "sub_category_heading": "The best CMS in 2024",
         "products": [
           {
             "rank": "1",
@@ -2926,8 +2926,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Code editors",
-        "sub_cat_heading": "The best Code editors in 2024",
+        "sub_category_name": "Code editors",
+        "sub_category_heading": "The best Code editors in 2024",
         "products": [
           {
             "rank": "1",
@@ -3543,8 +3543,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Code Review Tools",
-        "sub_cat_heading": "The best Code Review Tools in 2024",
+        "sub_category_name": "Code Review Tools",
+        "sub_category_heading": "The best Code Review Tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -3653,8 +3653,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Command line tools",
-        "sub_cat_heading": "The best Command line tools in 2024",
+        "sub_category_name": "Command line tools",
+        "sub_category_heading": "The best Command line tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -3919,8 +3919,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Data analysis tools",
-        "sub_cat_heading": "The best Data analysis tools in 2024",
+        "sub_category_name": "Data analysis tools",
+        "sub_category_heading": "The best Data analysis tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -4458,8 +4458,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Databases and Backend",
-        "sub_cat_heading": "The best Databases and Backend in 2024",
+        "sub_category_name": "Databases and Backend",
+        "sub_category_heading": "The best Databases and Backend in 2024",
         "products": [
           {
             "rank": "1",
@@ -4984,8 +4984,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Data visualization tools",
-        "sub_cat_heading": "The best Data visualization tools in 2024",
+        "sub_category_name": "Data visualization tools",
+        "sub_category_heading": "The best Data visualization tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -5211,8 +5211,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Git clients",
-        "sub_cat_heading": "The best Git clients in 2024",
+        "sub_category_name": "Git clients",
+        "sub_category_heading": "The best Git clients in 2024",
         "products": [
           {
             "rank": "1",
@@ -5347,8 +5347,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Headless CMS software",
-        "sub_cat_heading": "The best Headless CMS software in 2024",
+        "sub_category_name": "Headless CMS software",
+        "sub_category_heading": "The best Headless CMS software in 2024",
         "products": [
           {
             "rank": "1",
@@ -5444,8 +5444,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Issue tracking software",
-        "sub_cat_heading": "The best Issue tracking software in 2024",
+        "sub_category_name": "Issue tracking software",
+        "sub_category_heading": "The best Issue tracking software in 2024",
         "products": [
           {
             "rank": "1",
@@ -5619,8 +5619,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Membership software",
-        "sub_cat_heading": "The best Membership software in 2024",
+        "sub_category_name": "Membership software",
+        "sub_category_heading": "The best Membership software in 2024",
         "products": [
           {
             "rank": "1",
@@ -5690,8 +5690,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "No-code platforms",
-        "sub_cat_heading": "The best No-code platforms in 2024",
+        "sub_category_name": "No-code platforms",
+        "sub_category_heading": "The best No-code platforms in 2024",
         "products": [
           {
             "rank": "1",
@@ -6476,8 +6476,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Security and Compliance",
-        "sub_cat_heading": "The best Security and Compliance in 2024",
+        "sub_category_name": "Security and Compliance",
+        "sub_category_heading": "The best Security and Compliance in 2024",
         "products": [
           {
             "rank": "1",
@@ -6742,8 +6742,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Standup bots",
-        "sub_cat_heading": "The best Standup bots in 2024",
+        "sub_category_name": "Standup bots",
+        "sub_category_heading": "The best Standup bots in 2024",
         "products": [
           {
             "rank": "1",
@@ -6761,8 +6761,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Static site generators",
-        "sub_cat_heading": "The best Static site generators in 2024",
+        "sub_category_name": "Static site generators",
+        "sub_category_heading": "The best Static site generators in 2024",
         "products": [
           {
             "rank": "1",
@@ -6936,8 +6936,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Testing and QA",
-        "sub_cat_heading": "The best Testing and QA in 2024",
+        "sub_category_name": "Testing and QA",
+        "sub_category_heading": "The best Testing and QA in 2024",
         "products": [
           {
             "rank": "2",
@@ -7007,8 +7007,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Unified API",
-        "sub_cat_heading": "The best Unified API in 2024",
+        "sub_category_name": "Unified API",
+        "sub_category_heading": "The best Unified API in 2024",
         "products": [
           {
             "rank": "1",
@@ -7559,8 +7559,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Video hosting",
-        "sub_cat_heading": "The best Video hosting in 2024",
+        "sub_category_name": "Video hosting",
+        "sub_category_heading": "The best Video hosting in 2024",
         "products": [
           {
             "rank": "1",
@@ -7773,8 +7773,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "VPN client",
-        "sub_cat_heading": "The best VPN client in 2024",
+        "sub_category_name": "VPN client",
+        "sub_category_heading": "The best VPN client in 2024",
         "products": [
           {
             "rank": "1",
@@ -7792,8 +7792,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Web hosting services",
-        "sub_cat_heading": "The best Web hosting services in 2024",
+        "sub_category_name": "Web hosting services",
+        "sub_category_heading": "The best Web hosting services in 2024",
         "products": [
           {
             "rank": "1",
@@ -7928,8 +7928,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Website analytics",
-        "sub_cat_heading": "The best Website analytics in 2024",
+        "sub_category_name": "Website analytics",
+        "sub_category_heading": "The best Website analytics in 2024",
         "products": [
           {
             "rank": "1",
@@ -8129,8 +8129,8 @@ const data = {
         ]
       },
       {
-        "sub_cat_name": "Website builders",
-        "sub_cat_heading": "The best Website builders in 2024",
+        "sub_category_name": "Website builders",
+        "sub_category_heading": "The best Website builders in 2024",
         "products": [
           {
             "rank": "1",
@@ -8913,33 +8913,33 @@ const insertData = async () => {
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO category (cat_name, cat_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING cat_id`,
-      [data.category.cat_name, data.category.cat_heading]
+      `INSERT INTO Category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      [data.category.category_name, data.category.category_heading]
     );
 
-    const cat_id = categoryResult.rows[0].cat_id;
+    const category_id = categoryResult.rows[0].category_id;
 
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO sub_category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3) RETURNING sub_cat_id`,
-        [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
+        `INSERT INTO Sub_Category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
 
-      const sub_cat_id = subCategoryResult.rows[0].sub_cat_id;
+      const sub_category_id = subCategoryResult.rows[0].sub_category_id;
 
       for (const product of sub_category.products) {
         // Check if the product already exists
         const productResult = await client.query(
-          `SELECT prod_id FROM products WHERE name = $1`,
+          `SELECT product_id FROM Products WHERE name = $1`,
           [product.name]
         );
 
-        let prod_id;
+        let product_id;
         if (productResult.rows.length === 0) {
           // Insert new product if it doesn't exist
           const newProductResult = await client.query(
-            `INSERT INTO products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING prod_id`,
+            `INSERT INTO Products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
             [
               product.rank,
               product.name,
@@ -8952,20 +8952,20 @@ const insertData = async () => {
               product.imageUrl2,
               product.imageUrl3,
               product.videoUrl,
-              cat_id,
-              sub_cat_id,
+              category_id,
+              sub_category_id,
             ]
           );
-          prod_id = newProductResult.rows[0].prod_id;
+          product_id = newProductResult.rows[0].product_id;
         } else {
-          // Get existing prod_id if product exists
-          prod_id = productResult.rows[0].prod_id;
+          // Get existing product_id if product exists
+          product_id = productResult.rows[0].product_id;
         }
 
         // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO productSubcategory (prod_id, cat_id, sub_cat_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
-          [prod_id, cat_id, sub_cat_id]
+          `INSERT INTO productSubcategory (product_id, category_id, sub_category_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [product_id, category_id, sub_category_id]
         );
       }
     }
