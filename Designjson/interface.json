@@ -10,7 +10,7 @@
     "imageUrl1": "https://ph-files.imgix.net/da03af27-d94d-4fe8-b020-82471c32b380.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/43c127d4-4f51-4194-8c35-6b063b0ae8a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/409794c9-a323-4c5f-8bbb-e77fc56e516a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "2",
@@ -59,10 +59,10 @@
     "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
     "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
     "websiteUrl": "https://canva.com/",
-    "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/bVCRcNlY1yw"
   },
   {
     "rank": "6",
@@ -85,10 +85,10 @@
     "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
     "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
     "websiteUrl": "https://daisyui.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ky18YtME8UQ"
   },
   {
     "rank": "8",
@@ -98,8 +98,8 @@
     "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
     "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
     "websiteUrl": "https://chakra-ui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -111,10 +111,10 @@
     "description": "BaseTen is the fastest way to build apps powered by machine learning. Deploy models with a few lines of code, serve APIs without infrastructure or framework nightmares, and build stateful, interactive user interfaces to power real, functional applications.",
     "productUrl": "https://www.producthunt.com/products/baseten/shoutouts",
     "websiteUrl": "https://www.baseten.co/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/1c598821-c001-4927-9470-3de76b55ec60.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/GkC4aumr6BQ"
   },
   {
     "rank": "10",
@@ -124,8 +124,8 @@
     "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
     "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
     "websiteUrl": "https://mantine.dev/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -138,9 +138,9 @@
     "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
     "websiteUrl": "https://nextui.org/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "12",
@@ -228,10 +228,10 @@
     "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
     "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
     "websiteUrl": "https://www.weavely.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
   },
   {
     "rank": "19",
@@ -241,10 +241,10 @@
     "description": "Create a logo using premade icons and editing tools or let AI take the lead.",
     "productUrl": "https://www.producthunt.com/products/logofast/shoutouts",
     "websiteUrl": "https://logofa.st/",
-    "imageUrl1": "https://ph-files.imgix.net/1f01fe64-647f-415b-955a-11573f58259d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ca29a5be-8ad3-4ffa-9ea6-d05134707941.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a3977152-bfef-4450-88bc-26bbb86e622b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/tax7iwjPC44"
   },
   {
     "rank": "20",
@@ -280,10 +280,10 @@
     "description": "This is the place to find out about new apps, and get inspired to build your own in SwiftUI! These apps are the best examples of what SwiftUI is capable, check them out by visiting the site today!",
     "productUrl": "https://www.producthunt.com/products/swiftui-apps/shoutouts",
     "websiteUrl": "https://swiftuiapps.com/",
-    "imageUrl1": "https://ph-files.imgix.net/441cad18-9b8c-44a1-9101-965e1f89627a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7284c511-9ccf-4b9d-9da1-b17909d4545d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/36ae86a5-dda3-4b0d-9223-ef3ad25278bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YdkKvf9e4yg"
   },
   {
     "rank": "23",
@@ -293,10 +293,10 @@
     "description": "Connected space for product teams. Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.",
     "productUrl": "https://www.producthunt.com/products/zeplin/shoutouts",
     "websiteUrl": "https://zeplin.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d70ba836-0a3d-4ae6-980c-4754a98444f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1c939c00-506b-42f9-b83d-aa7efa4ffea8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/27fc46c9-0672-40c9-abd3-3df7985a3df4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/tZDMEM4W6go"
   },
   {
     "rank": "24",
@@ -319,7 +319,7 @@
     "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.",
     "productUrl": "https://www.producthunt.com/products/p5-js/shoutouts",
     "websiteUrl": "http://p5js.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/a7735952-a18f-48de-86ba-9749bb170926.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -332,10 +332,10 @@
     "description": "Adobe XD is made for designers like you, by designers like us. Easily create beautiful animations that move, scale and blur across artboards.",
     "productUrl": "https://www.producthunt.com/products/adobe-xd-cc-13-0/shoutouts",
     "websiteUrl": "https://www.adobe.com/xd",
-    "imageUrl1": "https://ph-files.imgix.net/c309fb68-fe73-4e76-b038-2e56afc3b532.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3805597e-6418-4ab4-9347-ec17b41a4298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/dabd8734-9fde-4c56-88d4-8c671f83d6c8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/OicuzCSD84I"
   },
   {
     "rank": "27",
@@ -345,8 +345,8 @@
     "description": "800+ commits in 10 months, 33 contributors working on it, we are very exited to introduce Ant Design 5.0.0 🆕5️⃣💥, bring out brand new design token system and dynamic theme ability, no more less.js and global styles!",
     "productUrl": "https://www.producthunt.com/products/ant-design-5-0/shoutouts",
     "websiteUrl": "https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/1deb203f-603d-4e54-9c87-72c796128ea5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/04f48b3f-2df9-43ae-8801-09913129c551.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -361,19 +361,6 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
-    "rank": "29",
-    "name": "Material Tailwind",
-    "icon": null,
-    "title": "Material Tailwind — Components library for Tailwind CSS & Material Design",
-    "description": "Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. It features multiple React components, all written with Tailwind CSS classes and Material Design guidelines. Coming soon components for VueJS, Angular and many more.",
-    "productUrl": "https://www.producthunt.com/products/material-tailwind/shoutouts",
-    "websiteUrl": "https://material-tailwind.com/",
-    "imageUrl1": "https://ph-files.imgix.net/573bdaa8-4e7a-4690-933d-4058ade35b3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/60c03dec-c43d-441e-a067-52d01a844748.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/804799f7-2cbe-4171-846e-bd63d3807824.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "videoUrl": ""
   },
   {
@@ -397,10 +384,10 @@
     "description": "Generative AI is coming to user interface design! Galileo AI generates stunning UI designs with text or image prompts, empowering you to design at lightning speed.",
     "productUrl": "https://www.producthunt.com/products/galileo-ai/shoutouts",
     "websiteUrl": "https://www.usegalileo.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/d6c3adeb-6f3a-4660-9acd-d1db433442b4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/6b11ef93-eb6a-4064-943e-11a897caba23.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/59c89ad6-89ff-4fad-af0b-b44f422fd61d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/a91-NhhtJKA"
   },
   {
     "rank": "32",
@@ -462,10 +449,10 @@
     "description": "Hey! 👋 Tamagui is your new favorite style library. It makes cross-platform React styles much faster - both to develop, at runtime. Featuring a novel optimizing compiler that turns styled components into clean CSS and minimal VDOM, using tree-flattening.",
     "productUrl": "https://www.producthunt.com/products/tamagui/shoutouts",
     "websiteUrl": "https://tamagui.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/8307cbcf-af82-4140-8113-38d8bb00bb42.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/283288e3-8f61-4816-bd35-d1c57ad249ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a20191f7-d6c2-487f-90e2-abee6f0fbd28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Guwa1oPBvmU"
   },
   {
     "rank": "37",
@@ -475,10 +462,10 @@
     "description": "teleportHQ is a platform and a suite of open-source tools built for user interface professionals. It simplifies the process of creating, maintaining and publishing user interfaces for desktop and mobile devices. teleportHQ uses AI to analyze the user's intentions and augments the final result with real-time optimizations.",
     "productUrl": "https://www.producthunt.com/products/teleporthq/shoutouts",
     "websiteUrl": "http://teleporthq.io/",
-    "imageUrl1": "https://ph-files.imgix.net/09e42714-9998-4f7e-ac4c-3ae586a973db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/668065b6-d494-458d-9336-184dc0da5101.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/b51c2411-7187-423f-a43c-769d19fc4d26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/kxW62eMsw0k"
   },
   {
     "rank": "38",
@@ -501,10 +488,10 @@
     "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
     "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
     "websiteUrl": "https://www.facebook.com/pxCode",
-    "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/zJsajMMLUvY"
   },
   {
     "rank": "40",
@@ -556,7 +543,7 @@
     "imageUrl1": "https://ph-files.imgix.net/d2e47514-2b83-4ab5-b69a-e2d981b0bb93.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/b29001af-bba8-40ed-8d31-f1f94989beab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/df26786b-b197-473e-857b-2f5ce9754300.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "44",

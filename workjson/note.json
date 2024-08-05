@@ -46,8 +46,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/google-docs/shoutouts",
     "websiteUrl": "https://drive.google.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/4fed8ad1-db3b-43ff-b142-4fd85d0c53d2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/3cb575e1-8d32-48ea-9172-569b7d757e83.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -72,10 +72,10 @@
     "description": "Atlassian develops products for software development, project management, and content management.",
     "productUrl": "https://www.producthunt.com/products/atlassian/shoutouts",
     "websiteUrl": "http://www.atlassian.com/",
-    "imageUrl1": "https://ph-files.imgix.net/3a5eb72a-78f8-4a97-a823-d60aace1174e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1e9d7311-1a68-4ef6-9d1b-1165f69f9f88.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c8c9c57e-9345-4407-a81b-312f3d2ed93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/MTLCc2WqnaE"
   },
   {
     "rank": "7",
@@ -98,23 +98,10 @@
     "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
     "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
     "websiteUrl": "https://signup.kleversuite.com/auth/register",
-    "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "9",
-    "name": "AFFiNE",
-    "icon": null,
-    "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-    "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-    "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-    "websiteUrl": "https://affine.pro/",
-    "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/6FVuVvwextU"
   },
   {
     "rank": "10",
@@ -150,10 +137,10 @@
     "description": "Reflect is a note-taking tool designed to mirror the way your brain works. We're simple, speedy, secure, and, dare we say it, quite pleasing on the eye.",
     "productUrl": "https://www.producthunt.com/products/reflect-notes/shoutouts",
     "websiteUrl": "https://reflect.app/",
-    "imageUrl1": "https://ph-files.imgix.net/93579e72-f369-45f5-9bf0-3a42d0ba775d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4c7fedf5-2dae-4532-a445-786ef91c5cda.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/dbfe0ec3-c216-4aba-a510-54aca2c61b5b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/RsXzhchCs0w"
   },
   {
     "rank": "13",
@@ -177,9 +164,9 @@
     "productUrl": "https://www.producthunt.com/products/coda/shoutouts",
     "websiteUrl": "https://coda.io/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/4159b8b9-1559-4d2a-9762-9f1315a3d4ae.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/5912e6cd-7062-4645-9f69-28e682bc687d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/5a3463e6-e7ef-49bb-b2cd-67daacc1c60f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "15",
@@ -189,10 +176,10 @@
     "description": "A developer-focused alternative to Google Docs for instant team collaboration. Development teams can experience fast, effortless collaboration and instant alignment with markdown support and no account required.",
     "productUrl": "https://www.producthunt.com/products/stashpad-docs/shoutouts",
     "websiteUrl": "https://stash.new/",
-    "imageUrl1": "https://ph-files.imgix.net/8992c48c-7a2b-462b-b202-c78118412b88.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/8ee8075f-567b-4c76-aa38-f03260a31078.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/1d43ec87-b9dc-4a00-84f0-23531cbcdf91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/9miuaDK0uF8"
   },
   {
     "rank": "16",
@@ -202,8 +189,8 @@
     "description": "Never forget a section for your readme again! Select sections to add to your readme, edit the contents, and drag to rearrange. See a live-updating rendered preview of your markdown, then download your README.md file!",
     "productUrl": "https://www.producthunt.com/products/readme-so/shoutouts",
     "websiteUrl": "https://readme.so/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/50b68ccc-bd2b-415a-9852-d18a00b9e864.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/980a11a6-61ed-416a-822e-618e8d146928.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -215,7 +202,7 @@
     "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
     "productUrl": "https://www.producthunt.com/products/capacities/shoutouts",
     "websiteUrl": "https://capacities.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/842ec9da-9044-4651-9122-711b771694be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -228,10 +215,10 @@
     "description": "Mintlify lets fast growing teams enable continuous documentation into a standard practice. Mintlify sets up rules and automations to ensure that software teams can easily create, track and manage documentation.",
     "productUrl": "https://www.producthunt.com/products/mintlify/shoutouts",
     "websiteUrl": "https://www.mintlify.com/",
-    "imageUrl1": "https://ph-files.imgix.net/00e09e89-5821-4ff9-b221-449b94131b99.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/004b3e77-46ca-4ab0-a912-bcb16576750f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/efae918b-186b-46e4-badc-cf4126e3d461.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/SvMPmfLtoGA"
   },
   {
     "rank": "19",
@@ -254,10 +241,10 @@
     "description": "Nuclino serves as your team's collective brain – stay connected to it while you’re on the go! Nuclino allows you to create real-time collaborative documents and connect them instantly like a wiki. The tree, board, and graph views let you explore and organize your knowledge visually. It's perfect for anything, from quick notes to detailed documentation.",
     "productUrl": "https://www.producthunt.com/products/nuclino/shoutouts",
     "websiteUrl": "https://www.nuclino.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c5d04e73-6aab-4a80-9399-c7dc506bbb38.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ce005e23-283c-490e-b108-1b18540b10dc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d21029af-f497-4b60-8fea-38191ea6a25f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AS0GJh1DE64"
   },
   {
     "rank": "21",
@@ -293,8 +280,8 @@
     "description": "BBEdit is the leading professional HTML and text editor for macOS. This award-winning product has been crafted to serve the needs of writers, Web authors and software developers, and provides an abundance of features for editing, searching, and manipulation of prose, source code, and textual data.",
     "productUrl": "https://www.producthunt.com/products/bbedit/shoutouts",
     "websiteUrl": "https://www.barebones.com/products/bbedit",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/1753c943-a41c-47f2-a119-538dfb51ed2c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/d5a69e61-bbc5-424d-8fa7-975b71b339ba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -306,10 +293,10 @@
     "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
     "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
     "websiteUrl": "https://www.usebacktrack.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/oD-phHlm388"
   },
   {
     "rank": "25",
@@ -332,10 +319,10 @@
     "description": "Dashy is an all-in-one app to organize your life and projects. It brings together common tools and data so everything is accessible from a single location, eliminating the need to navigate multiple platforms to find what you are looking for.",
     "productUrl": "https://www.producthunt.com/products/dashy-3/shoutouts",
     "websiteUrl": "https://dashy.io/",
-    "imageUrl1": "https://ph-files.imgix.net/a61a6830-aa13-4239-8789-04f7e9da938a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/474d8aa9-1586-4a5c-915e-da97b638c322.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/f66e07ea-48dd-4c5f-b9f0-ea64a2e11c4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YNCzZjni1s8"
   },
   {
     "rank": "27",
@@ -384,10 +371,10 @@
     "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
     "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
     "websiteUrl": "https://novel.sh/",
-    "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rCM7fuYP2nU"
   },
   {
     "rank": "31",
@@ -397,8 +384,8 @@
     "description": "Google Colab has become a reference point for many web developers and AI enthusiasts. Each notebook has a unique link from which it can be accessed. Consequently, why not create a website where you can browse, add and collect all the Jupyter notebooks?",
     "productUrl": "https://www.producthunt.com/products/colab-notebooks/shoutouts",
     "websiteUrl": "http://colabnotebooks.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/463584b2-9bb4-4adc-a21e-b413c6a2e819.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/41500161-0ee0-4623-8e80-e73d10f0f214.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -410,10 +397,10 @@
     "description": "Craft is a tool for creating beautiful documents and notes and sharing your thoughts. Everything you create in Craft can be shared with one tap. Craft supports inline markdown, backlinks, code snippets, images, videos, attaching PDF files, and rich link previews.",
     "productUrl": "https://www.producthunt.com/products/craft-do/shoutouts",
     "websiteUrl": "https://craft.do/",
-    "imageUrl1": "https://ph-files.imgix.net/f9385e64-0c30-4372-9179-f19e0633f6f8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7734af5c-ad68-4617-87e2-1075366af8d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/18268631-09ff-48c9-87c3-c1b12f3afa9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/qD665WBmGhs"
   },
   {
     "rank": "33",
@@ -436,10 +423,10 @@
     "description": "Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.",
     "productUrl": "https://www.producthunt.com/products/gamma-3/shoutouts",
     "websiteUrl": "https://gamma.app/",
-    "imageUrl1": "https://ph-files.imgix.net/4c2da502-48fc-4631-ab27-605dcba43789.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/37842e29-252a-4906-91c2-dc343fa9bcdf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c0624464-a0bd-4103-940c-5d8270af21e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/r9VOYJM6nZc"
   },
   {
     "rank": "35",

@@ -7,10 +7,10 @@
     "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
     "productUrl": "https://www.producthunt.com/products/fullstory/shoutouts",
     "websiteUrl": "http://www.fullstory.com/",
-    "imageUrl1": "https://ph-files.imgix.net/fa5456a0-6c1f-4454-b1a1-b54fa3229315.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ce59303e-7b35-4f15-8a12-7dea4304a5af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2b3a0d48-9222-4669-bd9f-4360d3f9e4c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YaaHrCr3a9U"
   },
   {
     "rank": "2",
@@ -49,7 +49,7 @@
     "imageUrl1": "https://ph-files.imgix.net/2deb3ee4-30ec-449e-985e-efdca628311b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/9b3bbbee-5ba1-4afd-926d-7b08b34adbc9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/d5d38ca0-4683-412a-89ca-2209e3264507.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "5",
@@ -85,8 +85,8 @@
     "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
     "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
     "websiteUrl": "https://www.kinde.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -117,32 +117,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "10",
-    "name": "Tandemz",
-    "icon": null,
-    "title": "Tandemz — Recruit research participants in just a couple of clicks",
-    "description": "Find research participants from all over the world easily, for your interviews, usability tests, and surveys.",
-    "productUrl": "https://www.producthunt.com/products/tandemz/shoutouts",
-    "websiteUrl": "https://www.tandemz.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d7eb31fa-ea93-4b08-8b83-71d332ecf947.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/2eb8e348-f4ab-4b88-905f-f8463880354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/ef71eb4c-e181-4b8a-8f56-b32955d7f5c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "11",
-    "name": "Told",
-    "icon": null,
-    "title": "Told — Collect user feedback with in-product surveys",
-    "description": "A no-code survey tool that helps you collect user or customer feedback and understand your data simply.",
-    "productUrl": "https://www.producthunt.com/products/told-2/shoutouts",
-    "websiteUrl": "https://www.told.club/",
-    "imageUrl1": "https://ph-files.imgix.net/c40c5ca2-48a0-4ea4-b05c-943e75270b1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/12430d09-8030-4599-9c5c-446bdaf5393a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/6a6ab32a-49cd-4eda-a6dc-9df4978a96cf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "12",
     "name": "Survser",
     "icon": "https://ph-files.imgix.net/f3bdd5bb-7b27-4536-821f-88ed8473890c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -150,10 +124,10 @@
     "description": "Survser is an easy and affordable solution for in-app user surveys. Ask your users the right questions at the right time and uncover growth paths for your product.",
     "productUrl": "https://www.producthunt.com/products/survser/shoutouts",
     "websiteUrl": "https://survser.com/",
-    "imageUrl1": "https://ph-files.imgix.net/3c54ec42-5b51-47df-b5bf-bce1749fa72b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0f0036ce-0cc3-4d59-bdf2-af46324952fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/424f902a-a20d-4734-a531-ce5894300585.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/y-2k8wldPRw"
   },
   {
     "rank": "13",
@@ -163,10 +137,10 @@
     "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
     "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
     "websiteUrl": "https://www.chameleon.io/",
-    "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/nDbUx3uJgbI"
   },
   {
     "rank": "14",
@@ -189,10 +163,10 @@
     "description": "Hotjar’s visual insights, user feedback, and live interviews show you what site visitors do, and why they do it. Access all the insights you need in one place and join 1.1 million websites in 180+ countries who already use Hotjar to turn their clicks into conversions. Install a single script and get started for free.",
     "productUrl": "https://www.producthunt.com/products/hotjar/shoutouts",
     "websiteUrl": "http://www.hotjar.com/",
-    "imageUrl1": "https://ph-files.imgix.net/f01a6719-969e-4992-8435-a984d277d006.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/8e27cb70-ac21-433a-b530-4c32b9a5eed3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/9312d8bc-bacd-42d3-b400-8b90345ef16b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/GhTvP_Ead68"
   },
   {
     "rank": "16",
@@ -215,7 +189,7 @@
     "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
     "productUrl": "https://www.producthunt.com/products/countly/shoutouts",
     "websiteUrl": "http://countly.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/7769e73c-6df3-40b2-9731-faf85d158de5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

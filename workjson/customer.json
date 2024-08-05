@@ -33,10 +33,10 @@
     "description": "Zendesk is a service-first CRM company that builds software designed to improve customer relationships. As employees, we encourage each other to grow and innovate. As a company, we roll up our sleeves to plant roots in the communities we call home.",
     "productUrl": "https://www.producthunt.com/products/zendesk/shoutouts",
     "websiteUrl": "http://www.zendesk.com/",
-    "imageUrl1": "https://ph-files.imgix.net/f7e02db9-904d-4b7d-9e25-d25da44d635c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f45c2408-f4db-43ff-813d-86184fa1287a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a3c976ef-6bc4-4316-b1fe-ee9d44a03bcb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/6sSZNSsQQZg"
   },
   {
     "rank": "4",
@@ -72,7 +72,7 @@
     "description": "A free, fast & beautiful way to collect and organize user feedback in a central place. Prioritize feedback, create a roadmap with just a few clicks and keep everyone up-to-date with the roadmap.",
     "productUrl": "https://www.producthunt.com/products/nolt/shoutouts",
     "websiteUrl": "http://nolt.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/73a9948c-ecfe-4ea1-a0e2-450d0a761923.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -85,7 +85,7 @@
     "description": "Build customized ChatGPT-like agents that understand both your standards and your business context in seconds with no code — anything from a customer support chatbot, an internal AI search engine, to a full-scale CEO assistant.",
     "productUrl": "https://www.producthunt.com/products/mindpal-for-youtube/shoutouts",
     "websiteUrl": "https://mindpal.space/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -124,7 +124,7 @@
     "description": "Deliver personalized engagement at scale with the Twilio Customer Engagement Platform. Build or buy your ideal customer engagement experience on a trusted, global platform that combines the best in digital communication channels, first-party customer data, and flexible, easy-to-build solutions.",
     "productUrl": "https://www.producthunt.com/products/twilio-2/shoutouts",
     "websiteUrl": "https://www.twilio.com/customer-engagement-platform",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/ec436093-898e-47d2-af67-3f271bda57b8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -139,8 +139,8 @@
     "websiteUrl": "https://segment.com/",
     "imageUrl1": "https://ph-files.imgix.net/564264b4-09b8-4809-8030-bf8f2b5589d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/470d2871-b225-47ca-a306-3bb2662aed31.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/3fb9f0cc-9716-4db9-9556-bab99efafdc3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "12",
@@ -150,8 +150,8 @@
     "description": "Featurebase helps you understand what ideas or problems your customers have about your product and, therefore, helps you steer your startup in the right direction. You can capture all their feedback, bug reports and feature requests on a public board.",
     "productUrl": "https://www.producthunt.com/products/featurebase/shoutouts",
     "websiteUrl": "https://featurebase.app/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/d5a756a1-6179-4d41-b057-3b00417aba43.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/66dabc4f-be6e-40b4-86f1-30368ebba169.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -241,8 +241,8 @@
     "description": "Leaders in Conversational Voice AI. We're building generative AI voices for the conversational future. Join https://discord.gg/yBbq7UfUsF",
     "productUrl": "https://www.producthunt.com/products/play-ht/shoutouts",
     "websiteUrl": "https://play.ai/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/ca4f8595-90ab-4689-8389-fb9d7e1fc93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/4a642ef0-fef7-4e4d-b885-61a4cd1a0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -338,19 +338,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "27",
-    "name": "Chaty",
-    "icon": null,
-    "title": "Chaty — Connect with your customers on 20+ popular messaging apps",
-    "description": "Provide your website visitors' a frictionless customer communication by allowing customers easy access to all the platforms you’re available on improving your customers’ experience and increasing your chances of conversion or sales.",
-    "productUrl": "https://www.producthunt.com/products/chaty/shoutouts",
-    "websiteUrl": "https://chaty.app/",
-    "imageUrl1": "https://ph-files.imgix.net/aceda95a-2b40-4d4e-b02a-e6b18288dec4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/135a7097-e584-4fb6-900a-10be806b1d2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/b00d130f-9459-4d86-9b2a-373b68465512.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "28",
     "name": "Survser",
     "icon": "https://ph-files.imgix.net/f3bdd5bb-7b27-4536-821f-88ed8473890c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -358,10 +345,10 @@
     "description": "Survser is an easy and affordable solution for in-app user surveys. Ask your users the right questions at the right time and uncover growth paths for your product.",
     "productUrl": "https://www.producthunt.com/products/survser/shoutouts",
     "websiteUrl": "https://survser.com/",
-    "imageUrl1": "https://ph-files.imgix.net/3c54ec42-5b51-47df-b5bf-bce1749fa72b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0f0036ce-0cc3-4d59-bdf2-af46324952fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/424f902a-a20d-4734-a531-ce5894300585.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/y-2k8wldPRw"
   },
   {
     "rank": "29",
@@ -384,10 +371,10 @@
     "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
     "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
     "websiteUrl": "https://www.chameleon.io/",
-    "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/nDbUx3uJgbI"
   },
   {
     "rank": "31",
@@ -398,9 +385,9 @@
     "productUrl": "https://www.producthunt.com/products/enlightup-io/shoutouts",
     "websiteUrl": "https://enlightup.io/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/a3011bd6-12b7-4d2e-b7f3-77df6f4f89de.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/416843d9-f851-4228-9554-c9a9517cc17d.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/911dd9f3-3b65-4f13-8592-6001fc4476d4.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "32",
@@ -423,7 +410,7 @@
     "description": "The modern business landscape is constantly growing and changing according to modern technological trends and customer demands. It is a market of tough competition and only on-point services to a…",
     "productUrl": "https://www.producthunt.com/products/medium-4/shoutouts",
     "websiteUrl": "https://medium.com/successivetech/what-is-salesforce-billing-cpq-645cd5d89e1c",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/bd8818bf-5923-45b9-9645-dfccb6c37f54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

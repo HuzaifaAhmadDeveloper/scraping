@@ -20,10 +20,10 @@
     "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
     "productUrl": "https://www.producthunt.com/products/flutter/shoutouts",
     "websiteUrl": "https://flutter.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/cda52a23-3dd1-4510-a5f1-972d677eabb6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0812df7e-b7be-4f7c-b329-624b47c9efd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/4c365210-bfbe-4919-a6c0-7011ed0a7fa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/l6hw4o6_Wcs"
   },
   {
     "rank": "3",
@@ -59,7 +59,7 @@
     "description": "Create native apps for Android, iOS, and more using React.",
     "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
     "websiteUrl": "http://facebook.github.io/react-native",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -72,10 +72,10 @@
     "description": "A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
     "productUrl": "https://www.producthunt.com/products/svelte/shoutouts",
     "websiteUrl": "https://svelte.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/931b42c5-6711-45d2-b84f-76711ad50898.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/5e35a9fc-1c1d-4377-bc13-e3d4967d9c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/710f38ab-3a04-4e94-9654-d4b4fb7a305e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AdNJ3fydeao"
   },
   {
     "rank": "7",
@@ -98,10 +98,10 @@
     "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence.",
     "productUrl": "https://www.producthunt.com/products/nuxt-js/shoutouts",
     "websiteUrl": "https://nuxtjs.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/91ed0a8d-258a-48ff-a2f1-78d605018d5c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/o9e12WbKrd8"
   },
   {
     "rank": "9",
@@ -111,8 +111,8 @@
     "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
     "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
     "websiteUrl": "https://tailwindui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -124,10 +124,10 @@
     "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
     "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
     "websiteUrl": "https://daisyui.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ky18YtME8UQ"
   },
   {
     "rank": "11",
@@ -137,10 +137,10 @@
     "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
     "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
     "websiteUrl": "https://flutterflow.io/",
-    "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/jGbLsYDgAVc"
   },
   {
     "rank": "12",
@@ -150,7 +150,7 @@
     "description": "Thinnest possible Virtual DOM abstraction on top of the DOM. It builds on stable platform features, registers real event handlers and plays nicely with other libraries.",
     "productUrl": "https://www.producthunt.com/products/preact/shoutouts",
     "websiteUrl": "https://preactjs.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/6fe0e255-fd53-4cb2-87a1-042b9c81ee0c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -163,10 +163,10 @@
     "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.",
     "productUrl": "https://www.producthunt.com/products/remix-5/shoutouts",
     "websiteUrl": "https://remix.run/",
-    "imageUrl1": "https://ph-files.imgix.net/1e43896b-6ea9-48f4-bbdb-ff8128907b81.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/dc0533fc-f70d-4084-88b9-095d239c61d0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/9FDV-VCq5XE"
   },
   {
     "rank": "14",
@@ -176,8 +176,8 @@
     "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
     "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
     "websiteUrl": "https://chakra-ui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -189,8 +189,8 @@
     "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
     "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
     "websiteUrl": "https://mantine.dev/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -203,9 +203,9 @@
     "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
     "websiteUrl": "https://nextui.org/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "17",
@@ -228,10 +228,10 @@
     "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
     "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
     "websiteUrl": "https://aws.github.io/aws-amplify",
-    "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BCXdLx6xHmc"
   },
   {
     "rank": "19",
@@ -267,10 +267,10 @@
     "description": "A framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface.",
     "productUrl": "https://www.producthunt.com/products/tauri-2/shoutouts",
     "websiteUrl": "https://tauri.app/",
-    "imageUrl1": "https://ph-files.imgix.net/96efd69f-3865-4db2-9ae1-6f71c59ee99d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/e5b9fe47-c6f6-46e8-a0f1-ec0245991ba5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/255ca07e-fb16-441f-884f-4c5ff8ddc995.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/-X8evddpu7M"
   },
   {
     "rank": "22",
@@ -306,7 +306,7 @@
     "description": "The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.",
     "productUrl": "https://www.producthunt.com/products/gradio/shoutouts",
     "websiteUrl": "https://www.gradio.app/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0a65a3aa-9f5b-41a6-b86c-d567f7379403.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -371,10 +371,10 @@
     "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
     "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
     "websiteUrl": "https://dopt.com/",
-    "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/NVPsmpFRKbI"
   },
   {
     "rank": "30",
@@ -442,19 +442,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "35",
-    "name": "SwiftShip",
-    "icon": null,
-    "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
-    "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
-    "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
-    "websiteUrl": "https://swiftship.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "36",
     "name": "Ant Design 5.0",
     "icon": "https://ph-files.imgix.net/8e778120-accc-46ee-a747-8d7fe7e93d4d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -462,8 +449,8 @@
     "description": "800+ commits in 10 months, 33 contributors working on it, we are very exited to introduce Ant Design 5.0.0 🆕5️⃣💥, bring out brand new design token system and dynamic theme ability, no more less.js and global styles!",
     "productUrl": "https://www.producthunt.com/products/ant-design-5-0/shoutouts",
     "websiteUrl": "https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/1deb203f-603d-4e54-9c87-72c796128ea5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/04f48b3f-2df9-43ae-8801-09913129c551.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -501,22 +488,9 @@
     "description": "Full-stack, multi-client JavaScript Framework built on React, GraphQL, and Prisma",
     "productUrl": "https://www.producthunt.com/products/redwood-js/shoutouts",
     "websiteUrl": "https://github.com/redwoodjs",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/879637e6-1e5d-4390-bb09-a4129556cdcf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
-    "rank": "40",
-    "name": "Material Tailwind",
-    "icon": null,
-    "title": "Material Tailwind — Components library for Tailwind CSS & Material Design",
-    "description": "Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. It features multiple React components, all written with Tailwind CSS classes and Material Design guidelines. Coming soon components for VueJS, Angular and many more.",
-    "productUrl": "https://www.producthunt.com/products/material-tailwind/shoutouts",
-    "websiteUrl": "https://material-tailwind.com/",
-    "imageUrl1": "https://ph-files.imgix.net/573bdaa8-4e7a-4690-933d-4058ade35b3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/60c03dec-c43d-441e-a067-52d01a844748.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/804799f7-2cbe-4171-846e-bd63d3807824.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "videoUrl": ""
   },
   {
@@ -566,10 +540,10 @@
     "description": "Hey! 👋 Tamagui is your new favorite style library. It makes cross-platform React styles much faster - both to develop, at runtime. Featuring a novel optimizing compiler that turns styled components into clean CSS and minimal VDOM, using tree-flattening.",
     "productUrl": "https://www.producthunt.com/products/tamagui/shoutouts",
     "websiteUrl": "https://tamagui.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/8307cbcf-af82-4140-8113-38d8bb00bb42.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/283288e3-8f61-4816-bd35-d1c57ad249ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a20191f7-d6c2-487f-90e2-abee6f0fbd28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Guwa1oPBvmU"
   },
   {
     "rank": "45",
@@ -605,10 +579,10 @@
     "description": "teleportHQ is a platform and a suite of open-source tools built for user interface professionals. It simplifies the process of creating, maintaining and publishing user interfaces for desktop and mobile devices. teleportHQ uses AI to analyze the user's intentions and augments the final result with real-time optimizations.",
     "productUrl": "https://www.producthunt.com/products/teleporthq/shoutouts",
     "websiteUrl": "http://teleporthq.io/",
-    "imageUrl1": "https://ph-files.imgix.net/09e42714-9998-4f7e-ac4c-3ae586a973db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/668065b6-d494-458d-9336-184dc0da5101.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/b51c2411-7187-423f-a43c-769d19fc4d26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/kxW62eMsw0k"
   },
   {
     "rank": "48",
@@ -618,10 +592,10 @@
     "description": "AG Grid is a JavaScript Data Grid for rendering lots of data in a Grid. Sorting, Filtering, Ordering, Pagination and Exporting are built in. One dependency to add to your project. Open Source edition is free for use in commercial applications.",
     "productUrl": "https://www.producthunt.com/products/ag-grid/shoutouts",
     "websiteUrl": "https://ag-grid.com/",
-    "imageUrl1": "https://ph-files.imgix.net/e94d5839-1247-479a-abd9-cf21fab6cac1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/469263b1-6e44-49b5-8875-89a9c856cb1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/ee2b3fd1-a13d-4fbb-a992-97d028d89987.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/6wpITiH8npM"
   },
   {
     "rank": "49",
@@ -644,8 +618,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/pressure-js/shoutouts",
     "websiteUrl": "http://pressurejs.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/6f50e561-ac1f-45ae-9440-af29e08d5d39.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/6a8134dc-cd67-4a9c-b1d5-2ff22ce72879.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -657,7 +631,7 @@
     "description": "Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components",
     "productUrl": "https://www.producthunt.com/products/tanstack/shoutouts",
     "websiteUrl": "https://tanstack.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/1c1db09f-19db-4eee-bee0-2e5b33fba96e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -683,10 +657,10 @@
     "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
     "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
     "websiteUrl": "https://www.facebook.com/pxCode",
-    "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/zJsajMMLUvY"
   },
   {
     "rank": "54",
@@ -709,10 +683,10 @@
     "description": "Vexo helps developers and managers solve all their React Native analytics needs. With a seamless integration it provides data out of the box, through a beautiful interface.",
     "productUrl": "https://www.producthunt.com/products/vexo/shoutouts",
     "websiteUrl": "https://www.vexo.co/",
-    "imageUrl1": "https://ph-files.imgix.net/124f1375-467d-40c1-a1f2-9663fae1e3fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/bde7d554-9bc2-434f-8712-ca4ff58b9731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/be79f6a6-2472-4a31-8583-e51d839f7b03.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/S3ADOef9kQ0"
   },
   {
     "rank": "56",
