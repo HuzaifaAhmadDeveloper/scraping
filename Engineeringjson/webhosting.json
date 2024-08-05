@@ -7,7 +7,7 @@
     "description": "Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.",
     "productUrl": "https://www.producthunt.com/products/vercel/shoutouts",
     "websiteUrl": "https://vercel.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/e69437f3-2b92-40e1-b164-61b01134e5ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -33,10 +33,10 @@
     "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
     "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
     "websiteUrl": "https://digitalocean.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rR4R9tp-4bs"
   },
   {
     "rank": "4",
@@ -59,8 +59,8 @@
     "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
     "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
     "websiteUrl": "https://aws.amazon.com/lightsail",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -85,7 +85,7 @@
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
     "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
     "websiteUrl": "https://laravel.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -98,10 +98,10 @@
     "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.",
     "productUrl": "https://www.producthunt.com/products/remix-5/shoutouts",
     "websiteUrl": "https://remix.run/",
-    "imageUrl1": "https://ph-files.imgix.net/1e43896b-6ea9-48f4-bbdb-ff8128907b81.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "",
+    "imageUrl3": "https://ph-files.imgix.net/dc0533fc-f70d-4084-88b9-095d239c61d0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/9FDV-VCq5XE"
   },
   {
     "rank": "9",
@@ -111,10 +111,10 @@
     "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
     "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
     "websiteUrl": "https://www.convex.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/wISChclk5lM"
   },
   {
     "rank": "10",

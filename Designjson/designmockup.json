@@ -20,8 +20,8 @@
     "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
     "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
     "websiteUrl": "https://tailwindui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -46,10 +46,10 @@
     "description": "Decktopus, the new generation online presentation tool, lets you create the perfect presentation in the shortest time without any design skills.",
     "productUrl": "https://www.producthunt.com/products/decktopus/shoutouts",
     "websiteUrl": "https://decktopus.com/",
-    "imageUrl1": "https://ph-files.imgix.net/cbbe95ff-5844-42cb-b671-303423a1f239.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0f263a36-59ae-490a-b331-31903ff0925a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/864ddbba-3f24-4459-9095-824be07ecb31.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/NdS3Ic-Uyok"
   },
   {
     "rank": "5",
@@ -59,7 +59,7 @@
     "description": "High-quality UX/UI and Wireframe Kits, Illustrations, Templates, and Mockups to make your design workflow faster and easier. Craftwork is a small team of designers and developers. We create our own design stuff and follow new cool products around the internet.",
     "productUrl": "https://www.producthunt.com/products/craftwork-design/shoutouts",
     "websiteUrl": "https://craftwork.design/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/13d901ce-667b-4b98-b115-21275fbd7e74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -72,7 +72,7 @@
     "description": "Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. And with an extensive collection of tools for editing and retouching photos, creating graphic designs, painting, drawing vector graphics, and adding stunning effects, it’s the only image editor you’ll need.",
     "productUrl": "https://www.producthunt.com/products/pixelmator/shoutouts",
     "websiteUrl": "http://www.pixelmator.com/pro",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/f463a9c6-6117-4255-8751-47fde808b71f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -85,10 +85,10 @@
     "description": "Adobe XD is made for designers like you, by designers like us. Easily create beautiful animations that move, scale and blur across artboards.",
     "productUrl": "https://www.producthunt.com/products/adobe-xd-cc-13-0/shoutouts",
     "websiteUrl": "https://www.adobe.com/xd",
-    "imageUrl1": "https://ph-files.imgix.net/c309fb68-fe73-4e76-b038-2e56afc3b532.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3805597e-6418-4ab4-9347-ec17b41a4298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/dabd8734-9fde-4c56-88d4-8c671f83d6c8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/OicuzCSD84I"
   },
   {
     "rank": "8",
@@ -111,10 +111,10 @@
     "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
     "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
     "websiteUrl": "http://rotato.xyz/",
-    "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gU5QqGOvzg0"
   },
   {
     "rank": "10",
@@ -124,10 +124,10 @@
     "description": "Previewed is a mockup generator, which is used by devs & designers to create beautiful promotional graphics for your app. Browse a variety of templates, pick one, customize it in a few clicks & download your pixel perfect design.",
     "productUrl": "https://www.producthunt.com/products/previewed/shoutouts",
     "websiteUrl": "https://previewed.app/",
-    "imageUrl1": "https://ph-files.imgix.net/f1ffe1e7-afd9-4bbf-896a-8f69d9947f23.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1f8cb3b6-9dde-48d5-af61-85d5973a70d8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2183d43e-dee0-4772-aa18-da9e71db6851.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/nlUzHkAsdrQ"
   },
   {
     "rank": "11",
@@ -137,7 +137,7 @@
     "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
     "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
     "websiteUrl": "http://www.freepik.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

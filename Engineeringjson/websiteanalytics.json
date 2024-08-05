@@ -10,7 +10,7 @@
     "imageUrl1": "https://ph-files.imgix.net/231a0994-400c-4e17-b897-177f54404301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/f4b8b63f-0880-49df-8a29-c43582316183.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/661c6ee8-aca9-45c4-89f5-2bb7014fd845.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "2",
@@ -49,7 +49,7 @@
     "imageUrl1": "https://ph-files.imgix.net/3cebafba-ea6f-41cd-bff2-b30606c8e98c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/90b49ef7-769c-4174-916e-c58a766acddd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/8e13e113-5583-4226-ac7d-8976d5ad9ca9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "5",
@@ -59,10 +59,10 @@
     "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
     "productUrl": "https://www.producthunt.com/products/fullstory/shoutouts",
     "websiteUrl": "http://www.fullstory.com/",
-    "imageUrl1": "https://ph-files.imgix.net/fa5456a0-6c1f-4454-b1a1-b54fa3229315.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ce59303e-7b35-4f15-8a12-7dea4304a5af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2b3a0d48-9222-4669-bd9f-4360d3f9e4c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YaaHrCr3a9U"
   },
   {
     "rank": "6",
@@ -73,9 +73,9 @@
     "productUrl": "https://www.producthunt.com/products/uptimerobot/shoutouts",
     "websiteUrl": "https://uptimerobot.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/8bb090db-89a3-4a0a-9fb8-138bea80dbf7.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/80ab08c2-5fd8-4b66-9bca-0ff69db343a9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/b6d6075e-b1b9-442c-b0cf-9d77ed59c2e6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "7",
@@ -85,8 +85,8 @@
     "description": "Google Analytics is a comprehensive web analytics tool offered by Google that provides valuable insights into the performance and behavior of websites, mobile apps, and other digital platforms. It allows businesses and website owners to track and analyze a wide range of data, enabling them to make informed decisions and optimize their online presence.",
     "productUrl": "https://www.producthunt.com/products/google-analytics/shoutouts",
     "websiteUrl": "https://marketingplatform.google.com/about/analytics",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/8804100e-2051-4a4e-8129-22e2d4281d53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/685a9c88-76ee-44df-a88b-daa89f42b877.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -111,10 +111,10 @@
     "description": "All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. The ultimate tool for analysing, managing and measuring the success of all your digital content and campaigns. Free of charge. Complete. Intuitive.",
     "productUrl": "https://www.producthunt.com/products/metricool/shoutouts",
     "websiteUrl": "http://metricool.com/",
-    "imageUrl1": "https://ph-files.imgix.net/22d14087-509b-477d-b99f-4ffcd20e5983.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/abc748b1-255f-4d99-926d-1a71182b6a00.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/fc4324b0-a273-4ff2-9f4e-278d5d50ba15.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ikl6JU0rgH8"
   },
   {
     "rank": "10",
@@ -139,8 +139,8 @@
     "websiteUrl": "http://www.hotjar.com/",
     "imageUrl1": "https://ph-files.imgix.net/f01a6719-969e-4992-8435-a984d277d006.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/9312d8bc-bacd-42d3-b400-8b90345ef16b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/GhTvP_Ead68"
   },
   {
     "rank": "12",
@@ -176,10 +176,10 @@
     "description": "TelemetryDeck is a service that helps app and web developers improve their product by supplying immediate, accurate analytics data while users use your app. And the best part: It's all anonymized so your users' data stays private!",
     "productUrl": "https://www.producthunt.com/products/telemetrydeck/shoutouts",
     "websiteUrl": "https://telemetrydeck.com/",
-    "imageUrl1": "https://ph-files.imgix.net/74aaf714-87b1-4751-94dc-62e3ba5a7e48.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f36eecbe-2cbd-42e4-a4e4-69fd3723a82e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/8003167e-bb66-4826-8598-e9758d259c22.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5hXs4Mymfz4"
   },
   {
     "rank": "15",
@@ -189,8 +189,8 @@
     "description": "Fathom is a simple, light-weight, privacy-focused alternative to Google Analytics. So, stop scrolling through pages of reports and collecting gobs of personal data about your visitors, both of which you probably don’t need. Our website stats show up on a single, blazingly fast dashboard so you can make business decisions quickly.",
     "productUrl": "https://www.producthunt.com/products/fathom-analytics/shoutouts",
     "websiteUrl": "https://usefathom.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/a7e5c47b-588c-42a8-8839-75fbbd5e99ee.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/aeded0c8-4ed3-472a-a72a-d30860c94ca3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   }

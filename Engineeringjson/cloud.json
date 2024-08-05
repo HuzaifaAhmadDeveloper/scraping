@@ -7,7 +7,7 @@
     "description": "Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.",
     "productUrl": "https://www.producthunt.com/products/vercel/shoutouts",
     "websiteUrl": "https://vercel.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/e69437f3-2b92-40e1-b164-61b01134e5ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -46,10 +46,10 @@
     "description": "Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.",
     "productUrl": "https://www.producthunt.com/products/google-cloud-platform/shoutouts",
     "websiteUrl": "https://cloud.google.com/",
-    "imageUrl1": "https://ph-files.imgix.net/a0fc6d22-680e-4ec2-aa63-9012d5f3d1ed.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a795af87-f9fb-418e-9869-a04a9372c1a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0f696b59-3b4b-4d33-9a5b-e18ea1314a3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gx8VTa1c8DA"
   },
   {
     "rank": "5",
@@ -72,10 +72,10 @@
     "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
     "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
     "websiteUrl": "https://digitalocean.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rR4R9tp-4bs"
   },
   {
     "rank": "7",
@@ -124,8 +124,8 @@
     "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
     "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
     "websiteUrl": "https://aws.amazon.com/lightsail",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -151,9 +151,9 @@
     "productUrl": "https://www.producthunt.com/products/upstash/shoutouts",
     "websiteUrl": "https://upstash.com/",
     "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "",
+    "imageUrl3": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "13",
@@ -166,7 +166,7 @@
     "imageUrl1": "https://ph-files.imgix.net/ff8f5f99-c225-42d4-b48f-fc757ef33dd5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/5bb27997-054a-4dfd-affb-81df11401667.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/6ea71746-b8d9-4d61-b6db-c341f9cf3cb6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "14",
@@ -176,10 +176,10 @@
     "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
     "productUrl": "https://www.producthunt.com/products/pinecone-2/shoutouts",
     "websiteUrl": "https://www.pinecone.io/",
-    "imageUrl1": "https://ph-files.imgix.net/57adc4ac-b282-4575-b248-dbf6d56fb76d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3a5ceef2-fc0b-4523-9cab-37037890a9d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c8688054-17ca-4254-af66-09b82969c7f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/iCuR6ihHQgc"
   },
   {
     "rank": "15",
@@ -215,7 +215,7 @@
     "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.",
     "productUrl": "https://www.producthunt.com/products/planetscale/shoutouts",
     "websiteUrl": "https://planetscale.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/c31b6813-6c35-4204-b9f7-73509c21d791.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -228,10 +228,10 @@
     "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
     "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
     "websiteUrl": "https://appwrite.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AfpWWpx_6hE"
   },
   {
     "rank": "19",
@@ -241,10 +241,10 @@
     "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.",
     "productUrl": "https://www.producthunt.com/products/netlify/shoutouts",
     "websiteUrl": "https://www.netlify.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d8d6109d-4f9a-4bc4-a79e-b3e49ef92385.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4bfb7c04-fb37-42f0-8b8d-d0824124df07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0b73bc88-aff5-4f71-8d3f-57180a3649ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Mh0ASgHoxv8"
   },
   {
     "rank": "20",
@@ -254,8 +254,8 @@
     "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
     "productUrl": "https://www.producthunt.com/products/cloudflare-pages/shoutouts",
     "websiteUrl": "https://pages.cloudflare.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/4411882e-9da8-4a4d-b2bc-e3ac00ad4553.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/a1c66db9-4701-4b31-bcab-bde80c5b23f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -280,10 +280,10 @@
     "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
     "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
     "websiteUrl": "https://www.xano.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ng0GiVYOFnc"
   },
   {
     "rank": "23",
@@ -294,9 +294,9 @@
     "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
     "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "24",
@@ -319,10 +319,10 @@
     "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
     "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
     "websiteUrl": "https://hasura.io/",
-    "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F2QZzdQ9igM"
   },
   {
     "rank": "26",
@@ -332,10 +332,10 @@
     "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products.",
     "productUrl": "https://www.producthunt.com/products/databricks/shoutouts",
     "websiteUrl": "https://databricks.com/",
-    "imageUrl1": "https://ph-files.imgix.net/a17b228f-bf28-4cb4-89e3-4c509dc932db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/31c7e24b-6206-4ece-9bb3-50a587e530a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a22f69f4-e23a-4bad-ba79-b634766b0aa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/XjuGU6w8td4"
   },
   {
     "rank": "27",
@@ -345,7 +345,7 @@
     "description": "Build, share, run, and verify applications anywhere without tedious environment configuration or management.",
     "productUrl": "https://www.producthunt.com/products/docker/shoutouts",
     "websiteUrl": "https://www.docker.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/9d09fbe5-d7f7-4289-8f9e-ed07b8635446.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -358,10 +358,10 @@
     "description": "Neon reimagines Postgres with a serverless architecture. With a generous free tier, scale-to-zero, and true database branching. Copy data and schema in a second and scale resources automatically. Ideal for developers prioritizing scalability and performance.",
     "productUrl": "https://www.producthunt.com/products/neon-6/shoutouts",
     "websiteUrl": "https://neon.tech/",
-    "imageUrl1": "https://ph-files.imgix.net/1e2ea28b-1643-4858-b711-1adf59b7a4d9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/b3f2c729-f8cf-47c4-9092-f4cbfbb6be04.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/b8c982c4-b3c4-44ea-8a05-0715d45838a9.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/llSTZMVrbx8"
   },
   {
     "rank": "29",
@@ -371,7 +371,7 @@
     "description": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
     "productUrl": "https://www.producthunt.com/products/microsoft-azure-2/shoutouts",
     "websiteUrl": "https://azure.microsoft.com/en-us",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/a9da3670-2693-4c3f-9463-88258e127b77.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -410,10 +410,10 @@
     "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
     "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
     "websiteUrl": "https://aws.github.io/aws-amplify",
-    "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BCXdLx6xHmc"
   },
   {
     "rank": "33",
@@ -527,10 +527,10 @@
     "description": "Lark combines a multitude of essential collaboration tools in a single interconnected platform, including Chat, Calendar, Creation and Cloud storage. These functions are always in sync, and are easy access from one to the next.",
     "productUrl": "https://www.producthunt.com/products/lark-3/shoutouts",
     "websiteUrl": "https://www.larksuite.com/",
-    "imageUrl1": "https://ph-files.imgix.net/095cbbdf-9656-4380-b248-ed47b2382d69.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/bea7ef1b-5570-41fd-a6cb-2ed016e2c9ae.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/6c56f740-cd82-4f6b-a15f-0b6d7698b0a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/weF0O7OiFeM"
   },
   {
     "rank": "42",
@@ -566,10 +566,10 @@
     "description": "NVIDIA, inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more. We created the world’s largest gaming platform and the world’s fastest supercomputer. We are the brains of self-driving cars, intelligent machines, and IoT.",
     "productUrl": "https://www.producthunt.com/products/nvidia/shoutouts",
     "websiteUrl": "http://www.nvidia.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d180afa8-cb04-4554-8a9b-bd59934ba59f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/1a63bc12-0986-4b4a-bf47-2d3e2993eb2f.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/aa0c314f-e383-43e7-a557-88f1045d9314.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/Y2F8yisiS6E"
   },
   {
     "rank": "45",
@@ -579,10 +579,10 @@
     "description": "Coolify is an open-source and self-hostable all-in-one (IaaS) solution to host your applications, databases, or other open-source services. It's an alternative software to Heroku and Netlify and other similar software out there.",
     "productUrl": "https://www.producthunt.com/products/coolify/shoutouts",
     "websiteUrl": "https://coolify.io/",
-    "imageUrl1": "https://ph-files.imgix.net/7b533ce7-84d2-46a7-a6f4-665dcff2c2be.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0be83c76-21d5-46a0-b217-a967c71b920f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/90915ab1-efd7-47f1-9473-f15cf866266f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Jg6SWqyvYys"
   },
   {
     "rank": "46",
@@ -592,8 +592,8 @@
     "description": "Build, deploy and scale applications on Europe's most complete cloud ecosystem.",
     "productUrl": "https://www.producthunt.com/products/scaleway-3/shoutouts",
     "websiteUrl": "https://www.scaleway.com/en",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/427fddb0-f854-499d-acf4-5abfead07975.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/2eaa8f52-044d-4605-bddc-eb21b321cdd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -620,8 +620,8 @@
     "websiteUrl": "https://stackblitz.com/",
     "imageUrl1": "https://ph-files.imgix.net/61ccdd2a-2914-47d8-9cb8-e52697ce441a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/33464979-934a-4feb-9a34-6a711077b5e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/f40e57e2-aeb8-410b-9124-8c19e0a500ef.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "49",
@@ -631,10 +631,10 @@
     "description": "SigNoz is an open-source alternative to DataDog. We help developers find issues in the software they run on cloud and solve them quickly. Run SigNoz in your infrastructure and get your application monitoring setup at 10x lower cost",
     "productUrl": "https://www.producthunt.com/products/signoz/shoutouts",
     "websiteUrl": "https://signoz.io/",
-    "imageUrl1": "https://ph-files.imgix.net/4aed3ed2-117a-490e-bc1d-1bc4c8aca716.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a87ac560-a1e2-4c3b-b2a2-825f87c67ccb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/3319ffdd-556f-4610-9489-0c0fd2f8c369.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Ly34WBQ2640"
   },
   {
     "rank": "50",
@@ -696,7 +696,7 @@
     "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
     "productUrl": "https://www.producthunt.com/products/snowflake-3/shoutouts",
     "websiteUrl": "https://www.snowflake.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/3db88619-0a67-42ae-b46f-48624d7cb3ac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -709,9 +709,9 @@
     "description": "TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.",
     "productUrl": "https://www.producthunt.com/products/tensorflow/shoutouts",
     "websiteUrl": "http://tensorflow.org/",
-    "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
+    "imageUrl1": "https://ph-files.imgix.net/05167cc8-0174-421f-9bfc-e522f8fdc9d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/05167cc8-0174-421f-9bfc-e522f8fdc9d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl3": "https://ph-files.imgix.net/2a6f9d65-225f-4362-b439-cc739076bce9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "videoUrl": ""
   },
   {
@@ -735,7 +735,7 @@
     "description": "Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.",
     "productUrl": "https://www.producthunt.com/products/nixos/shoutouts",
     "websiteUrl": "https://nixos.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0ae59381-5f95-4a29-9d3b-466f09e3c966.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -787,10 +787,10 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/elasticsearch/shoutouts",
     "websiteUrl": "https://www.elastic.co/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/6d397443-e37a-4893-9803-de213808feff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/yZJfsUOHJjg"
   },
   {
     "rank": "62",
@@ -813,7 +813,7 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/webassembly/shoutouts",
     "websiteUrl": "https://webassembly.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/8ac0612d-d600-4747-a324-fe4d149de30a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -865,10 +865,10 @@
     "description": "The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.",
     "productUrl": "https://www.producthunt.com/products/ipfs/shoutouts",
     "websiteUrl": "https://ipfs.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/a0e112e3-1de7-45b9-ab9a-beec02eea9e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/8CMxDNuuAiQ"
   },
   {
     "rank": "68",
@@ -878,7 +878,7 @@
     "description": "Hatch is way for you to deploy Rails apps to your own servers at places like Digital Ocean as easily as Heroku. We'll take care of installing Ruby, Nginx, PostgreSQL, Redis and more and even manage environment variables and all the other little details for you.",
     "productUrl": "https://www.producthunt.com/products/hatchbox/shoutouts",
     "websiteUrl": "https://www.hatchbox.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/df2a8730-6e89-4efe-8df5-f3be3452e821.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -917,10 +917,10 @@
     "description": "Appliku automagically sets up your server and runs your web apps from GitHub or GitLab. Set up in under 5 minutes, click to deploy. Think of Appliku as your personal DevOps.",
     "productUrl": "https://www.producthunt.com/products/appliku/shoutouts",
     "websiteUrl": "https://appliku.com/",
-    "imageUrl1": "https://ph-files.imgix.net/8a0d2db4-fbfd-4837-8425-9576767e6303.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/41ff6d6f-c874-4bda-a9e8-e987aaab9344.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/76ec93b4-90f9-403a-8b7f-f3a7e70b1cb1.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/wlsaEtoC33Q"
   },
   {
     "rank": "72",
@@ -930,10 +930,10 @@
     "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California.Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.",
     "productUrl": "https://www.producthunt.com/products/twilio/shoutouts",
     "websiteUrl": "http://www.twilio.com/",
-    "imageUrl1": "https://ph-files.imgix.net/fe6f6075-78e0-4c52-8ae4-0f56a6f2146e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/20880aba-f21a-448a-9612-9f071c9349e9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/429944d7-79f5-42d0-9fc7-d4346113084a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/WaD7jiq2Y6U"
   },
   {
     "rank": "73",
@@ -969,7 +969,7 @@
     "description": "Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that enables developers to send mail from within any application.",
     "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-2/shoutouts",
     "websiteUrl": "https://aws.amazon.com/ses",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/abd9f9ac-cd3d-4757-8430-7d801697d81a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -1021,7 +1021,7 @@
     "description": "Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage. Manage your AWS S3 buckets. AWS S3 Tool has following features: - With Amazon Web Services (AWS) S3 profiles manage S3 buckets easily - Delete Files from S3 buckets - Download Files from S3 buckets - Upload Files to S3 Buckets https://www.youtube.com/watch?v=2fQKEpt9_S4",
     "productUrl": "https://www.producthunt.com/products/aws-s3-tool/shoutouts",
     "websiteUrl": "https://www.microsoft.com/store/p/aws-s3-tool/9p6q0xr4gmgg",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/9019cd6d-0a06-44f3-a981-c7f954a756a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -1034,10 +1034,10 @@
     "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
     "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
     "websiteUrl": "https://doppler.com/partners/product-hunt",
-    "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/eNHjSEnBa9o"
   },
   {
     "rank": "81",
@@ -1060,10 +1060,10 @@
     "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
     "productUrl": "https://www.producthunt.com/products/datadog-inc/shoutouts",
     "websiteUrl": "https://www.datadoghq.com/",
-    "imageUrl1": "https://ph-files.imgix.net/7952824c-efd0-4117-8150-bebce64418f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/218c3afc-2d30-4fc3-8c14-3ecd990a16c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/7ea1a63b-b6cd-4caf-96fa-89d717c321b9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DeU4SXI90oI"
   },
   {
     "rank": "83",
@@ -1073,10 +1073,10 @@
     "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
     "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
     "websiteUrl": "https://gadget.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pj01pMFlQ7I"
   },
   {
     "rank": "84",
@@ -1138,10 +1138,10 @@
     "description": "QEMU: the FAST! processor emulator Full-system emulation - Run operating systems for any machine, on any supported architecture User-mode emulation - Run programs for another Linux/BSD target, on any supported architecture Virtualization - Run KVM, Xen Virtual",
     "productUrl": "https://www.producthunt.com/products/qemu/shoutouts",
     "websiteUrl": "https://www.qemu.org/",
-    "imageUrl1": "https://ph-files.imgix.net/b2a39d3c-2817-4d56-8ba8-90fef096fc4c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2c3feee9-c120-4cdf-9dac-81233a661178.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a2899e32-4426-477c-8bc0-44292c32dca8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/OhUJeuviwhE"
   },
   {
     "rank": "89",

@@ -23,7 +23,7 @@
     "imageUrl1": "https://ph-files.imgix.net/42035602-9301-4cd6-878f-325637732dac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/0c4b7e96-6e32-437d-adaf-1d8d5e5867e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/a5a68229-b897-4e88-b419-d908a1091f1c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "3",
@@ -35,8 +35,8 @@
     "websiteUrl": "https://www.atlassian.com/jira",
     "imageUrl1": "https://ph-files.imgix.net/768ff8d4-fef0-4bc2-ab04-6b1dc156ee9b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/91a73e16-f5c8-4b71-8305-64d646f903ea.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/JFZLY4SU6gk"
   },
   {
     "rank": "4",
@@ -151,9 +151,9 @@
     "productUrl": "https://www.producthunt.com/products/enlightup-io/shoutouts",
     "websiteUrl": "https://enlightup.io/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/a3011bd6-12b7-4d2e-b7f3-77df6f4f89de.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/416843d9-f851-4228-9554-c9a9517cc17d.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/911dd9f3-3b65-4f13-8592-6001fc4476d4.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "13",

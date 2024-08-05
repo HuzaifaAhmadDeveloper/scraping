@@ -46,10 +46,10 @@
     "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
     "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
     "websiteUrl": "https://appwrite.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AfpWWpx_6hE"
   },
   {
     "rank": "5",
@@ -59,8 +59,8 @@
     "description": "The tools developers need to create easy and accessible experiences for their users. With just a few lines of code, users can connect to more than 12,000 financial institutions.",
     "productUrl": "https://www.producthunt.com/products/plaid/shoutouts",
     "websiteUrl": "http://plaid.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/1234ceec-4a3d-4ac0-b185-fd80cdd93c68.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/79ed42b2-8305-4e08-8ab5-0284a76c2726.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -85,10 +85,10 @@
     "description": "Persona offers a suite of fully-automated identity verification components with worldwide coverage that can be configured and branded to create custom-tailored flows for any use case. Sign up for the Starter plan and start for free in <10 minutes.",
     "productUrl": "https://www.producthunt.com/products/persona-4/shoutouts",
     "websiteUrl": "https://withpersona.com/",
-    "imageUrl1": "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/942c201c-e657-4b8a-8098-bfcfcc06fc00.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/VnZX4HoXIhU"
   },
   {
     "rank": "8",
@@ -98,8 +98,8 @@
     "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
     "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
     "websiteUrl": "https://www.workos.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -124,10 +124,10 @@
     "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
     "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
     "websiteUrl": "https://apparencekit.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/JbUWROBEiNM"
   },
   {
     "rank": "11",
@@ -176,8 +176,8 @@
     "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
     "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
     "websiteUrl": "https://www.kinde.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -202,10 +202,10 @@
     "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
     "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
     "websiteUrl": "https://doppler.com/partners/product-hunt",
-    "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/eNHjSEnBa9o"
   },
   {
     "rank": "17",
@@ -228,10 +228,10 @@
     "description": "Introducing Turnkey, a new model for secure and easy-to-use private key infrastructure based on secure enclaves and built by the team behind Coinbase Custody. Create wallets, sign transactions, and easily manage access permissions for your team or end users.",
     "productUrl": "https://www.producthunt.com/products/turnkey/shoutouts",
     "websiteUrl": "https://www.turnkey.com/",
-    "imageUrl1": "https://ph-files.imgix.net/6952fba7-949e-4d25-b8be-f956a9b1aada.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/62953c96-b441-4788-b765-ed94ac73cc8e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2b39de98-5dbc-4442-b1a3-1630b7badeb7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/dw7bqF-9ilw"
   },
   {
     "rank": "19",
@@ -267,8 +267,8 @@
     "description": "Cloaked is a people-first privacy app that generates virtual identities to protect your personal data. No one should have to choose between staying connected and personal privacy — with Cloaked, you can try new products, travel, shop, and even meet new people while staying in control of your data. Unique and unlimited phone numbers, passwords, and payments set us apart from other privacy tools and password managers. Go ahead and give them your (Cloaked) info — and say goodbye to spam forever.",
     "productUrl": "https://www.producthunt.com/products/keepitcloaked/shoutouts",
     "websiteUrl": "https://www.cloaked.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/b61d4238-8001-4a92-939b-c0b9b78c5d2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/44a5e744-ac83-4c89-a60a-0b9c8934240c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },

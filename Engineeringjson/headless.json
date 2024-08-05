@@ -7,10 +7,10 @@
     "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.",
     "productUrl": "https://www.producthunt.com/products/netlify/shoutouts",
     "websiteUrl": "https://www.netlify.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d8d6109d-4f9a-4bc4-a79e-b3e49ef92385.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4bfb7c04-fb37-42f0-8b8d-d0824124df07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0b73bc88-aff5-4f71-8d3f-57180a3649ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Mh0ASgHoxv8"
   },
   {
     "rank": "2",
@@ -20,10 +20,10 @@
     "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
     "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
     "websiteUrl": "https://dopt.com/",
-    "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/NVPsmpFRKbI"
   },
   {
     "rank": "3",
@@ -33,10 +33,10 @@
     "description": "Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.",
     "productUrl": "https://www.producthunt.com/products/strapi/shoutouts",
     "websiteUrl": "https://strapi.io/",
-    "imageUrl1": "https://ph-files.imgix.net/b6940b6f-cb10-41a6-a406-afb76889eb1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1be1ade7-95f5-44f8-b6a1-272c0c0549fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/84ed884a-84b5-4f3c-bdb4-60ad6da02989.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/qWKdF8N8LQU"
   },
   {
     "rank": "4",
@@ -85,9 +85,9 @@
     "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
     "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
     "websiteUrl": "https://notaku.so/product/docs",
-    "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/RAjffRSNT0g"
   }
 ]

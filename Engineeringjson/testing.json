@@ -1,18 +1,5 @@
 [
   {
-    "rank": "1",
-    "name": "Tandemz",
-    "icon": null,
-    "title": "Tandemz — Recruit research participants in just a couple of clicks",
-    "description": "Find research participants from all over the world easily, for your interviews, usability tests, and surveys.",
-    "productUrl": "https://www.producthunt.com/products/tandemz/shoutouts",
-    "websiteUrl": "https://www.tandemz.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d7eb31fa-ea93-4b08-8b83-71d332ecf947.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/2eb8e348-f4ab-4b88-905f-f8463880354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/ef71eb4c-e181-4b8a-8f56-b32955d7f5c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "2",
     "name": "Octomind",
     "icon": "https://ph-files.imgix.net/3d81a8a3-7984-4a99-9050-f54e574bcb0f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
@@ -33,7 +20,7 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/wallaby/shoutouts",
     "websiteUrl": "https://wallabyjs.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/369d1224-ab13-4b67-a420-406bc559f981.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -46,23 +33,10 @@
     "description": "Are you actively building APIs? Our AI enforces 100s of API Industry-Standards, including API Governance Top-10 List, resulting in Rapid Development, Consistent, and Highly Adoptable APIs. Early adopters get FREE Pro Plan worth $99/mo 👋",
     "productUrl": "https://www.producthunt.com/products/api-governance-testing/shoutouts",
     "websiteUrl": "https://apigovernance.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/e6bfaa18-0435-444f-953f-042ffd1f508f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/02e39aa2-7c9f-4147-91f0-9e8530bb4aa7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e78343f4-8b81-4c68-abf4-3d2affc698a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "5",
-    "name": "Ellipsis",
-    "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-    "title": "Ellipsis — AI code reviews & bug fixes",
-    "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
-    "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
-    "websiteUrl": "",
-    "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pMW7DxTVkhc"
   },
   {
     "rank": "6",
@@ -72,10 +46,10 @@
     "description": "Create real, private email addresses on demand. Send and receive emails and attachments in application code and integration tests. Intuitive REST APIs and SDK Libraries. Free for personal use.",
     "productUrl": "https://www.producthunt.com/products/mailslurp/shoutouts",
     "websiteUrl": "https://www.mailslurp.com/",
-    "imageUrl1": "https://ph-files.imgix.net/e1138665-11ad-4a30-8e55-a796f5a27bee.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f7be6729-0523-4a5f-970d-2a33eb278c54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0975cc2f-3d6a-44ce-96c9-ba876abccbbf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/D8D5ts14RUY"
   },
   {
     "rank": "7",
@@ -85,9 +59,9 @@
     "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
     "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
     "websiteUrl": "https://www.openaitools.io/",
-    "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ZFMahUWQin4"
   }
 ]

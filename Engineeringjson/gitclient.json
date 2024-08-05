@@ -10,7 +10,7 @@
     "imageUrl1": "https://ph-files.imgix.net/42035602-9301-4cd6-878f-325637732dac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/0c4b7e96-6e32-437d-adaf-1d8d5e5867e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/a5a68229-b897-4e88-b419-d908a1091f1c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "2",
@@ -72,10 +72,10 @@
     "description": "Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.",
     "productUrl": "https://www.producthunt.com/products/tower/shoutouts",
     "websiteUrl": "https://www.git-tower.com/",
-    "imageUrl1": "https://ph-files.imgix.net/7542174b-2bb4-4394-9e0e-69e67310105d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/727b88c5-0bdc-4189-98b3-57a18961f47d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/fc5783d1-1ced-4fa9-a10e-23768ec922a1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/cEQu0HDwKxw"
   },
   {
     "rank": "7",

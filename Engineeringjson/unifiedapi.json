@@ -46,8 +46,8 @@
     "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
     "productUrl": "https://www.producthunt.com/products/tinybird/shoutouts",
     "websiteUrl": "https://www.tinybird.co/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/aa0cbe89-d3fb-4351-a072-3addc96eef1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/4754d6b1-cc5c-4c30-9bdc-1999745fa466.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -62,7 +62,7 @@
     "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "6",
@@ -98,10 +98,10 @@
     "description": "The universal API for meeting bots. Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more.",
     "productUrl": "https://www.producthunt.com/products/recall-ai/shoutouts",
     "websiteUrl": "https://recall.ai/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/d36334ce-3517-4e38-a1fd-7c481284cd41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/vIEfNjDDjGc"
   },
   {
     "rank": "9",
@@ -140,7 +140,7 @@
     "imageUrl1": "https://ph-files.imgix.net/cd608ea0-fc48-41c5-942e-e4f561c7c732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/ed087d65-fd2e-45a4-851a-3c2e5b7459ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/5b2bf218-85a3-4400-9e07-085412ec472e.gif?fm=mp4&crop=max&w=555&h=320#t=0.001"
   },
   {
     "rank": "12",
@@ -150,10 +150,10 @@
     "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
     "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
     "websiteUrl": "https://hasura.io/",
-    "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F2QZzdQ9igM"
   },
   {
     "rank": "13",
@@ -163,10 +163,10 @@
     "description": "BaseTen is the fastest way to build apps powered by machine learning. Deploy models with a few lines of code, serve APIs without infrastructure or framework nightmares, and build stateful, interactive user interfaces to power real, functional applications.",
     "productUrl": "https://www.producthunt.com/products/baseten/shoutouts",
     "websiteUrl": "https://www.baseten.co/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/1c598821-c001-4927-9470-3de76b55ec60.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/GkC4aumr6BQ"
   },
   {
     "rank": "14",
@@ -208,19 +208,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "17",
-    "name": "Clearbit",
-    "icon": null,
-    "title": "Clearbit — Data to power your entire business",
-    "description": "Clearbit provides powerful products and data APIs to help your business grow. Contact enrichment, lead generation, financial compliance, and more...",
-    "productUrl": "https://www.producthunt.com/products/clearbit/shoutouts",
-    "websiteUrl": "https://clearbit.com/",
-    "imageUrl1": "https://ph-files.imgix.net/048a3c89-6dfc-4260-b1c7-e06794772a3f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/51d50186-3521-436b-bd74-6b86e1dbe54d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/d720636f-707a-412c-b665-2d168b3e82ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "18",
     "name": "Proxycurl",
     "icon": "https://ph-files.imgix.net/9a974efe-6ffa-4b9a-875e-bdc343992758.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -228,7 +215,7 @@
     "description": "Proxycurl's Linkedin API takes a Linkedin Profile and returns scraped structured data of the profile",
     "productUrl": "https://www.producthunt.com/products/proxycurl/shoutouts",
     "websiteUrl": "https://nubela.co/proxycurl/linkedin",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/4a802c88-0f93-45e6-9085-d53e4a1be012.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -241,8 +228,8 @@
     "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
     "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
     "websiteUrl": "https://www.workos.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -254,10 +241,10 @@
     "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.",
     "productUrl": "https://www.producthunt.com/products/stytch/shoutouts",
     "websiteUrl": "https://stytch.com/",
-    "imageUrl1": "https://ph-files.imgix.net/125478d1-a98c-448d-a707-6c661d2d0dff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7ea7df98-8381-4fb9-b118-90ffd5569973.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c399c2e3-a7b2-435a-b509-2c7b7db9b731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/S9cTxaMGzzA"
   },
   {
     "rank": "21",
@@ -280,10 +267,10 @@
     "description": "TERRA makes it easy to connect your app to wearables, through a single API. Connect to WHOOP, Oura, Garmin, Freestyle Libre, Peloton, Apple, Google, and all the integrations.",
     "productUrl": "https://www.producthunt.com/products/terra-2/shoutouts",
     "websiteUrl": "https://tryterra.co/",
-    "imageUrl1": "https://ph-files.imgix.net/65a94031-ac71-4ee8-97e3-a0b4282b7f97.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/30ff8f4d-9014-45b1-a137-4453c6c0f442.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c06ccd10-c5e6-4ac1-9434-6303bde5caf0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/dkG6ZM017ug"
   },
   {
     "rank": "23",
@@ -306,10 +293,10 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/polygon-io/shoutouts",
     "websiteUrl": "https://polygon.io/",
-    "imageUrl1": "https://ph-files.imgix.net/2e0c43e2-3260-4b3a-b42d-3dc2a858507c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ef7c49bf-04da-4587-9bae-b83921b78b19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/1e72cd8b-bb85-43ef-a9df-a2f5e32bcc9c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BtMqNtJG8bU"
   },
   {
     "rank": "25",
@@ -374,7 +361,7 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YuV5ATYcY_I"
   },
   {
     "rank": "30",
@@ -410,10 +397,10 @@
     "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
     "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
     "websiteUrl": "https://sievedata.com/",
-    "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F_OiR1dXyoI"
   },
   {
     "rank": "33",
@@ -452,7 +439,7 @@
     "imageUrl1": "https://ph-files.imgix.net/fb59d3f5-8794-4493-a79e-91ccdc640f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/6e09611c-02a9-49ad-9e41-d7a8752895a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/79b97077-8a8f-40e7-82ec-25336ed88d95.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "36",
@@ -462,10 +449,10 @@
     "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
     "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
     "websiteUrl": "https://gadget.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pj01pMFlQ7I"
   },
   {
     "rank": "37",
@@ -527,10 +514,10 @@
     "description": "Rutter is a universal API for reading and writing commerce data across any accounting system, payment processor or ecommerce platform. Our new Accounting APIs make it easy to integrate with Quickbooks, Xero, Netsuite, Freshbooks and Sage with a single API.",
     "productUrl": "https://www.producthunt.com/products/rutter/shoutouts",
     "websiteUrl": "https://rutterapi.com/",
-    "imageUrl1": "https://ph-files.imgix.net/9de89340-8fc2-4c84-9222-31eb275812fa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/818fcbd2-f93c-4446-831c-81dc1740389e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/bbc3a44a-3c6a-4728-b8e0-d7aedc7a8731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/mMjcStkRrS0"
   },
   {
     "rank": "42",
@@ -554,8 +541,8 @@
     "productUrl": "https://www.producthunt.com/products/tiktok-shop-app-store/shoutouts",
     "websiteUrl": "https://partner.us.tiktokshop.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/1818bf10-eba6-4b11-b32c-29c8fec8fea2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/11758ace-29d3-4b22-a177-150d4167777c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/6039e60f-f90a-4fa5-9324-e4e744c95218.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   }
 ]

@@ -47,9 +47,9 @@
     "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
     "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "5",
@@ -75,7 +75,7 @@
     "imageUrl1": "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/VnZX4HoXIhU"
   },
   {
     "rank": "7",
@@ -85,8 +85,8 @@
     "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
     "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
     "websiteUrl": "https://www.workos.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -98,10 +98,10 @@
     "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.",
     "productUrl": "https://www.producthunt.com/products/stytch/shoutouts",
     "websiteUrl": "https://stytch.com/",
-    "imageUrl1": "https://ph-files.imgix.net/125478d1-a98c-448d-a707-6c661d2d0dff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7ea7df98-8381-4fb9-b118-90ffd5569973.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c399c2e3-a7b2-435a-b509-2c7b7db9b731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/S9cTxaMGzzA"
   },
   {
     "rank": "9",
@@ -150,8 +150,8 @@
     "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
     "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
     "websiteUrl": "https://www.kinde.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -205,7 +205,7 @@
     "imageUrl1": "https://ph-files.imgix.net/e7c58b7e-441b-4060-82f6-a330f8e2892b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/0764d8fc-9c33-4bc6-8251-effab25eed74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/9f41e10c-118a-47f3-9102-139b65baf5f6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "17",
@@ -215,10 +215,10 @@
     "description": "Are you actively building APIs? Our AI enforces 100s of API Industry-Standards, including API Governance Top-10 List, resulting in Rapid Development, Consistent, and Highly Adoptable APIs. Early adopters get FREE Pro Plan worth $99/mo 👋",
     "productUrl": "https://www.producthunt.com/products/api-governance-testing/shoutouts",
     "websiteUrl": "https://apigovernance.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/e6bfaa18-0435-444f-953f-042ffd1f508f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/02e39aa2-7c9f-4147-91f0-9e8530bb4aa7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e78343f4-8b81-4c68-abf4-3d2affc698a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pMW7DxTVkhc"
   },
   {
     "rank": "18",
@@ -241,10 +241,10 @@
     "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
     "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
     "websiteUrl": "https://doppler.com/partners/product-hunt",
-    "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/eNHjSEnBa9o"
   },
   {
     "rank": "20",

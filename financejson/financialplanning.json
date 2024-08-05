@@ -21,9 +21,9 @@
     "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
     "websiteUrl": "https://brex.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "3",
@@ -98,10 +98,10 @@
     "description": "An indie iOS app for not just tracking — but also planning and analyzing — your budget. If you value money and want to be wise with your spending, or if you want to learn how to do budgeting, the updated Budget Hound is here to help you.",
     "productUrl": "https://www.producthunt.com/products/budget-hound-3/shoutouts",
     "websiteUrl": "https://budgethound.app/",
-    "imageUrl1": "https://ph-files.imgix.net/8acd37f9-9c13-46d5-a157-f350be11aee8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/5e0dcbc7-c17f-43ba-88b0-ab18f7383d3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/52707553-f5ba-495d-bea3-b5f2e4d645ce.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Y1XEXFZwa-s"
   },
   {
     "rank": "9",

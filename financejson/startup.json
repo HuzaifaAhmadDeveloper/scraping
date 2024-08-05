@@ -21,9 +21,9 @@
     "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
     "websiteUrl": "https://brex.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "3",
@@ -46,9 +46,9 @@
     "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
     "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
     "websiteUrl": "https://tryfondo.com/credits",
-    "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/erraKgw8hT4"
   }
 ]

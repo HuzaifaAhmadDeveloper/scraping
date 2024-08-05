@@ -20,10 +20,10 @@
     "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
     "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
     "websiteUrl": "https://jitter.video/",
-    "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DlS41IjSR4g"
   },
   {
     "rank": "3",
@@ -33,7 +33,7 @@
     "description": "Build real-time 3D projects for various industries across games, animation, automotive, architecture, and more. Start creating with Unity today!",
     "productUrl": "https://www.producthunt.com/products/unity/shoutouts",
     "websiteUrl": "https://unity.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/45c238cc-ec96-4dc9-a071-d27cc59d88f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -46,10 +46,10 @@
     "description": "We are a motion video editing agency who create videos that work for you. Through our subscription model, we provide ongoing motion videos that support to help elevate your marketing. We create product demos, launch promos, explainers and more.",
     "productUrl": "https://www.producthunt.com/products/pexmotion/shoutouts",
     "websiteUrl": "https://pexmotion.io/",
-    "imageUrl1": "https://ph-files.imgix.net/82e8b6a4-2f15-4e2d-8b65-66911ff12c96.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ecd223e7-dffc-4bff-a1d0-5b858a42cbbe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/7e6db52c-1c70-42e5-bcd1-558c1869fc41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ng04BUELUWY"
   },
   {
     "rank": "5",
@@ -85,10 +85,10 @@
     "description": "Unreal Engine is the world’s most open and advanced real-time 3D creation platform. Continuously evolving to serve not only its original purpose as a state-of-the-art games engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.",
     "productUrl": "https://www.producthunt.com/products/unreal-engine/shoutouts",
     "websiteUrl": "https://www.unrealengine.com/",
-    "imageUrl1": "https://ph-files.imgix.net/e669f1ad-6e1c-46a1-a8c8-e6f3969d417b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/313cf637-4ff5-4bfb-873f-e133217727e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
+    "imageUrl2": "https://youtu.be/bJPxq6QogKE",
     "imageUrl3": "https://ph-files.imgix.net/01e6cf0e-ad50-47b3-a5bc-e8c2027cfa8a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/VxzmukMHeCE"
   },
   {
     "rank": "8",
@@ -113,8 +113,8 @@
     "websiteUrl": "https://lottiefiles.com/",
     "imageUrl1": "https://ph-files.imgix.net/3c6e3804-e65b-432e-8106-9556ce4c75e1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/4d8b0708-54ba-407e-abbe-82e71e58f234.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DMKZfMcbs10"
   },
   {
     "rank": "10",
@@ -124,10 +124,10 @@
     "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
     "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
     "websiteUrl": "http://rotato.xyz/",
-    "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gU5QqGOvzg0"
   },
   {
     "rank": "11",
@@ -137,8 +137,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/pressure-js/shoutouts",
     "websiteUrl": "http://pressurejs.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/6f50e561-ac1f-45ae-9440-af29e08d5d39.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/6a8134dc-cd67-4a9c-b1d5-2ff22ce72879.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -176,10 +176,10 @@
     "description": "GODOT is a 2D and 3D cross-platform compatible game engine released as open source software under the MIT license.",
     "productUrl": "https://www.producthunt.com/products/godot/shoutouts",
     "websiteUrl": "https://godotengine.org/",
-    "imageUrl1": "https://ph-files.imgix.net/d7cb0791-b40a-460f-b876-eca0512fb172.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1d6745b4-3a50-4c9a-a002-40562922c095.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/254755fa-8530-4352-b77d-b7b733fc35cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/P6nQ3E-Cyfk"
   },
   {
     "rank": "15",

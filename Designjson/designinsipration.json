@@ -35,7 +35,7 @@
     "websiteUrl": "http://about.pinterest.com/",
     "imageUrl1": "https://ph-files.imgix.net/de8da9f5-a737-49f5-bd92-7b15208e72a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/2540cd29-e59f-4de5-8b0a-e21d2041669b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
+    "imageUrl3": "https://ph-files.imgix.net/671fae72-dd85-4b9c-ae56-2151537f402a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
     "videoUrl": ""
   },
   {
@@ -46,10 +46,10 @@
     "description": "This is the place to find out about new apps, and get inspired to build your own in SwiftUI! These apps are the best examples of what SwiftUI is capable, check them out by visiting the site today!",
     "productUrl": "https://www.producthunt.com/products/swiftui-apps/shoutouts",
     "websiteUrl": "https://swiftuiapps.com/",
-    "imageUrl1": "https://ph-files.imgix.net/441cad18-9b8c-44a1-9101-965e1f89627a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7284c511-9ccf-4b9d-9da1-b17909d4545d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/36ae86a5-dda3-4b0d-9223-ef3ad25278bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YdkKvf9e4yg"
   },
   {
     "rank": "5",
@@ -59,10 +59,10 @@
     "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.",
     "productUrl": "https://www.producthunt.com/products/codepen/shoutouts",
     "websiteUrl": "http://codepen.io/",
-    "imageUrl1": "https://ph-files.imgix.net/aab2ea86-3dc7-4b4a-8d43-7ada84df609c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/213e8684-3d7f-4d30-bf20-b3c4bdd0245f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/b16aebda-eac8-41c0-9d8a-17cbf452730b?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gWb0njDcixo"
   },
   {
     "rank": "6",
@@ -72,10 +72,10 @@
     "description": "A library of hand-drawn illustrations that you can use in product, marketing, comics, product states, user flows, personas, storyboarding, and more.",
     "productUrl": "https://www.producthunt.com/products/open-peeps/shoutouts",
     "websiteUrl": "http://openpeeps.com/",
-    "imageUrl1": "https://ph-files.imgix.net/3ea885ad-de31-45d4-97a8-08200947d633.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/22ad98a2-1622-4358-856b-e1dce469627f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/c13ebcb8-101f-41ad-b2a2-3c5647fa80e9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/-Umdp0ai5Ok"
   },
   {
     "rank": "7",
@@ -88,7 +88,7 @@
     "imageUrl1": "https://ph-files.imgix.net/20cdcd57-b30a-4ab1-bcce-79211309300a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/4fe5fdfc-d7fc-4690-b212-94a38d886129.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/3528031a-a6de-4e93-b346-7e69e4469c39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "8",

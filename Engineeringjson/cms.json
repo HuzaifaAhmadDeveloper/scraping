@@ -7,20 +7,7 @@
     "description": "Thinnest possible Virtual DOM abstraction on top of the DOM. It builds on stable platform features, registers real event handlers and plays nicely with other libraries.",
     "productUrl": "https://www.producthunt.com/products/preact/shoutouts",
     "websiteUrl": "https://preactjs.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
-    "rank": "2",
-    "name": "WordPress",
-    "icon": "https://ph-files.imgix.net/2b33c6b3-be3a-47c4-9dff-6bb8f878e607.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-    "title": "WordPress — WordPress is open source software you can use to create a beautiful website, blog, or app.",
-    "description": "Trusted by the Best. 43% of the web uses WordPress, from hobby blogs to the biggest news sites online.",
-    "productUrl": "https://www.producthunt.com/products/wordpress/shoutouts",
-    "websiteUrl": "",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/6fe0e255-fd53-4cb2-87a1-042b9c81ee0c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -33,10 +20,10 @@
     "description": "Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.",
     "productUrl": "https://www.producthunt.com/products/strapi/shoutouts",
     "websiteUrl": "https://strapi.io/",
-    "imageUrl1": "https://ph-files.imgix.net/b6940b6f-cb10-41a6-a406-afb76889eb1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1be1ade7-95f5-44f8-b6a1-272c0c0549fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/84ed884a-84b5-4f3c-bdb4-60ad6da02989.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/qWKdF8N8LQU"
   },
   {
     "rank": "4",
@@ -61,8 +48,8 @@
     "websiteUrl": "https://sites.google.com/new",
     "imageUrl1": "",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/e96e77b4-03df-4caf-a71d-e4d64f2224d1.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/hG-vGjKMvZE"
   },
   {
     "rank": "6",
@@ -98,10 +85,10 @@
     "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
     "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
     "websiteUrl": "https://notaku.so/product/docs",
-    "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/RAjffRSNT0g"
   },
   {
     "rank": "9",
@@ -114,7 +101,7 @@
     "imageUrl1": "https://ph-files.imgix.net/7a8c1deb-6539-476c-bd6a-907c830b2394.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/397dff55-46ff-4866-9c1c-3180b9c1f485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/a731c07a-dc4a-4ec7-b287-d8b14fe0d75d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "10",
