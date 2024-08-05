@@ -26,8 +26,8 @@ const data = {
             "description": "Simplifies all aspects of your financial operations by integrating QB with the applications you love. www.bizappln.com/integration/crm-quickbooks.html Check out our site to realize its full potential.",
             "productUrl": "https://www.producthunt.com/products/quickbooks-2/shoutouts",
             "websiteUrl": "https://www.bizappln.com/integration/crm-quickbooks.html",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/e082637f-1136-461e-a487-7aa592a4dcc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/c417400b-5abf-40c0-a475-9120f4b8e945.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -39,10 +39,10 @@ const data = {
             "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
             "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
             "websiteUrl": "https://tryfondo.com/credits",
-            "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/erraKgw8hT4"
           },
           {
             "rank": "3",
@@ -65,10 +65,10 @@ const data = {
             "description": "Connect all your banks in one place, leverage AI to automate accounting, track cash flow, and forecast.",
             "productUrl": "https://www.producthunt.com/products/fortune-finance-accounting/shoutouts",
             "websiteUrl": "https://www.fortune.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8b731373-5b45-4e34-90b2-465a725cb4db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2cfc2f6c-5140-4847-bb6c-8f03b55cb301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1b0cfa55-8453-4efb-a2e9-06303342447b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/lfzBhxb1TDQ"
           }
         ]
         
@@ -86,9 +86,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
             "websiteUrl": "https://brex.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -163,10 +163,10 @@ const data = {
             "description": "An indie iOS app for not just tracking — but also planning and analyzing — your budget. If you value money and want to be wise with your spending, or if you want to learn how to do budgeting, the updated Budget Hound is here to help you.",
             "productUrl": "https://www.producthunt.com/products/budget-hound-3/shoutouts",
             "websiteUrl": "https://budgethound.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8acd37f9-9c13-46d5-a157-f350be11aee8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5e0dcbc7-c17f-43ba-88b0-ab18f7383d3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/52707553-f5ba-495d-bea3-b5f2e4d645ce.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y1XEXFZwa-s"
           },
           {
             "rank": "8",
@@ -176,10 +176,10 @@ const data = {
             "description": "Connect all your banks in one place, leverage AI to automate accounting, track cash flow, and forecast.",
             "productUrl": "https://www.producthunt.com/products/fortune-finance-accounting/shoutouts",
             "websiteUrl": "https://www.fortune.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8b731373-5b45-4e34-90b2-465a725cb4db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2cfc2f6c-5140-4847-bb6c-8f03b55cb301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1b0cfa55-8453-4efb-a2e9-06303342447b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/lfzBhxb1TDQ"
           },
           {
             "rank": "9",
@@ -249,9 +249,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
             "websiteUrl": "https://brex.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -326,10 +326,10 @@ const data = {
             "description": "An indie iOS app for not just tracking — but also planning and analyzing — your budget. If you value money and want to be wise with your spending, or if you want to learn how to do budgeting, the updated Budget Hound is here to help you.",
             "productUrl": "https://www.producthunt.com/products/budget-hound-3/shoutouts",
             "websiteUrl": "https://budgethound.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8acd37f9-9c13-46d5-a157-f350be11aee8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5e0dcbc7-c17f-43ba-88b0-ab18f7383d3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/52707553-f5ba-495d-bea3-b5f2e4d645ce.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y1XEXFZwa-s"
           },
           {
             "rank": "9",
@@ -437,10 +437,10 @@ const data = {
             "description": "Crunchbase information includes investments and funding information, founding members and individuals in leadership positions, mergers and acquisitions, news, and industry trends.",
             "productUrl": "https://www.producthunt.com/products/crunchbase/shoutouts",
             "websiteUrl": "http://www.crunchbase.com/",
-            "imageUrl1": "https://ph-files.imgix.net/71add3eb-b0b0-4011-87c6-a8b84dbc8408.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3839b9e0-fcc7-4e48-9066-a2ad1b5bf07c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2b382333-e01f-442f-91ee-b2863e0fd4e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/LpbqF6_nPzs"
           },
           {
             "rank": "5",
@@ -463,10 +463,10 @@ const data = {
             "description": "Give your community skin in the game. Fairmint empowers you to grant equity to anyone that adds value to your company and passively receive investment from your biggest fans. Launch in a few clicks and get back to building your business.",
             "productUrl": "https://www.producthunt.com/products/fairmint-equity-of-the-future/shoutouts",
             "websiteUrl": "https://www.fairmint.com/",
-            "imageUrl1": "https://ph-files.imgix.net/16a1500a-3285-42f1-8290-31263c90c798.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/978f084e-97a6-46f5-980a-9776de89aff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f8778032-3c21-400d-9e5b-03e1d74f8547.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Xi_D6FeXK4A"
           },
           {
             "rank": "7",
@@ -492,7 +492,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/b5db4e52-af5f-4ea5-b344-05b80d297aa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/2b9854e8-b7d8-4c86-a4db-6c82fca4a715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/fcb1b80e-97fa-4039-b28b-ec71f5934684.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "9",
@@ -502,10 +502,10 @@ const data = {
             "description": "Work on your idea, MVP, or existing product for 12 weeks. If you launch, get users, and demonstrate product velocity, you'll have a chance at receiving a $25k investment. Accepting 200+ builder founders for our upcoming cohort and look to invest in 30 teams.",
             "productUrl": "https://www.producthunt.com/products/founder-university/shoutouts",
             "websiteUrl": "https://www.founder.university/ph",
-            "imageUrl1": "https://ph-files.imgix.net/13af426a-0da0-4b1d-81fe-c1594f5210e9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6ed2f9d9-d514-4e9b-b76d-15bb04dc26d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ef392e7c-62bd-44b3-8e4b-a9570e6b6805.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/yDOzXfIouSQ"
           }
         ]
         
@@ -561,10 +561,10 @@ const data = {
             "description": "Give your community skin in the game. Fairmint empowers you to grant equity to anyone that adds value to your company and passively receive investment from your biggest fans. Launch in a few clicks and get back to building your business.",
             "productUrl": "https://www.producthunt.com/products/fairmint-equity-of-the-future/shoutouts",
             "websiteUrl": "https://www.fairmint.com/",
-            "imageUrl1": "https://ph-files.imgix.net/16a1500a-3285-42f1-8290-31263c90c798.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/978f084e-97a6-46f5-980a-9776de89aff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f8778032-3c21-400d-9e5b-03e1d74f8547.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Xi_D6FeXK4A"
           },
           {
             "rank": "5",
@@ -574,8 +574,8 @@ const data = {
             "description": "Invest smarter with insights from millions of conversations happening across social.",
             "productUrl": "https://www.producthunt.com/products/lunarcrush/shoutouts",
             "websiteUrl": "https://lunarcrush.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/62399e62-0685-475b-98fc-63cb10322df0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/e18f6f36-44f0-48bc-8b33-b74bb46739b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -587,7 +587,7 @@ const data = {
             "description": "Matrixport is the most reliable place to buy, invest and trade your digital assets and earn interest. Matrixport offers innovative and easy-to-use crypto investment products and DeFi products tailored for all crypto investors.",
             "productUrl": "https://www.producthunt.com/products/matrixport/shoutouts",
             "websiteUrl": "https://www.matrixport.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f04c082e-47f1-4a72-bca9-1fde86a228bd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -600,10 +600,10 @@ const data = {
             "description": "Work on your idea, MVP, or existing product for 12 weeks. If you launch, get users, and demonstrate product velocity, you'll have a chance at receiving a $25k investment. Accepting 200+ builder founders for our upcoming cohort and look to invest in 30 teams.",
             "productUrl": "https://www.producthunt.com/products/founder-university/shoutouts",
             "websiteUrl": "https://www.founder.university/ph",
-            "imageUrl1": "https://ph-files.imgix.net/13af426a-0da0-4b1d-81fe-c1594f5210e9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6ed2f9d9-d514-4e9b-b76d-15bb04dc26d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ef392e7c-62bd-44b3-8e4b-a9570e6b6805.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/yDOzXfIouSQ"
           },
           {
             "rank": "8",
@@ -615,8 +615,8 @@ const data = {
             "websiteUrl": "http://robinhood.com/",
             "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/15ade4c9-ed2f-43a2-b87b-468d748161c6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/43f613dc-eda6-4b6c-b5b1-1ba5d1ac0239.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
        
@@ -692,10 +692,10 @@ const data = {
             "description": "Coinbase is a digital currency exchange whose mission is to create an open financial system for the world.",
             "productUrl": "https://www.producthunt.com/products/coinbase/shoutouts",
             "websiteUrl": "http://www.coinbase.com/",
-            "imageUrl1": "https://ph-files.imgix.net/50db6a6a-dfb1-4c28-8e58-fb193bba2b21.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/fb1b62ab-e75a-4f50-90fa-8143e6b7e592.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/460fe1f4-7217-4078-a994-75b98d9df254.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/L9-qann-HLk"
           },
           {
             "rank": "4",
@@ -705,10 +705,10 @@ const data = {
             "description": "New Money gives you more control over your funds so you can spend, send, and receive the way you want. See what’s possible. For help, tweet us at @AskPayPal.",
             "productUrl": "https://www.producthunt.com/products/paypal/shoutouts",
             "websiteUrl": "https://www.paypal.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fdceb42c-f78f-4c7a-bec1-03a721ff22c6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1688557a-73bb-4484-b3f4-4359f8cdd92a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b40966bf-7ffe-44fe-bfb4-cef0772323ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vXQ3Q3ziOQk"
           },
           {
             "rank": "5",
@@ -744,10 +744,10 @@ const data = {
             "description": "Dots is the simplest way to send and accept payments online, especially if you’re a marketplace or hiring 1099 workers. Our API accepts payments from your favorite credit card processor, PayPal, and more. It also enables payouts using Venmo, ACH, Zelle, etc.",
             "productUrl": "https://www.producthunt.com/products/dots-3/shoutouts",
             "websiteUrl": "https://www.senddots.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3039467a-0241-4955-b759-722225279588.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1828ea06-e04f-4b1c-94d8-1459cf1d2d13.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0589cfa3-cfca-4ce3-a7bf-d927005ee06f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OWH3f1WAwF4"
           }
         ]
        
@@ -778,9 +778,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
             "websiteUrl": "https://brex.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -818,8 +818,8 @@ const data = {
             "websiteUrl": "http://robinhood.com/",
             "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/15ade4c9-ed2f-43a2-b87b-468d748161c6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/43f613dc-eda6-4b6c-b5b1-1ba5d1ac0239.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
        
@@ -850,9 +850,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
             "websiteUrl": "https://brex.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -862,10 +862,10 @@ const data = {
             "description": "Coinbase is a digital currency exchange whose mission is to create an open financial system for the world.",
             "productUrl": "https://www.producthunt.com/products/coinbase/shoutouts",
             "websiteUrl": "http://www.coinbase.com/",
-            "imageUrl1": "https://ph-files.imgix.net/50db6a6a-dfb1-4c28-8e58-fb193bba2b21.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/fb1b62ab-e75a-4f50-90fa-8143e6b7e592.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/460fe1f4-7217-4078-a994-75b98d9df254.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/L9-qann-HLk"
           },
           {
             "rank": "4",
@@ -875,10 +875,10 @@ const data = {
             "description": "New Money gives you more control over your funds so you can spend, send, and receive the way you want. See what’s possible. For help, tweet us at @AskPayPal.",
             "productUrl": "https://www.producthunt.com/products/paypal/shoutouts",
             "websiteUrl": "https://www.paypal.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fdceb42c-f78f-4c7a-bec1-03a721ff22c6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1688557a-73bb-4484-b3f4-4359f8cdd92a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b40966bf-7ffe-44fe-bfb4-cef0772323ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vXQ3Q3ziOQk"
           },
           {
             "rank": "5",
@@ -960,8 +960,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/google-docs/shoutouts",
             "websiteUrl": "https://drive.google.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/4fed8ad1-db3b-43ff-b142-4fd85d0c53d2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/3cb575e1-8d32-48ea-9172-569b7d757e83.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -973,10 +973,10 @@ const data = {
             "description": "Meetings don't have to crush your soul. Discover radically unique video calls designed to help hybrid-remote teams create, collaborate and celebrate together.",
             "productUrl": "https://www.producthunt.com/products/around-co/shoutouts",
             "websiteUrl": "https://around.co/",
-            "imageUrl1": "https://ph-files.imgix.net/ff440a8d-2430-493a-9f8d-d21b6ae04e97.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1353d4e2-3b7f-4be9-9360-ed2449a40596.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/3bae1473-c295-45e0-8223-fef5595e96ad.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/gHESEqng5u0"
           },
           {
             "rank": "6",
@@ -1015,7 +1015,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/98d85c97-2d9f-426f-93ef-166d774c7b85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/bc9e8de1-832c-4344-ac1b-64a2666e83ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/4adc04c9-5009-486a-b676-639716216658.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "9",
@@ -1025,10 +1025,10 @@ const data = {
             "description": "Persona offers a suite of fully-automated identity verification components with worldwide coverage that can be configured and branded to create custom-tailored flows for any use case. Sign up for the Starter plan and start for free in <10 minutes.",
             "productUrl": "https://www.producthunt.com/products/persona-4/shoutouts",
             "websiteUrl": "https://withpersona.com/",
-            "imageUrl1": "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/942c201c-e657-4b8a-8098-bfcfcc06fc00.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/VnZX4HoXIhU"
           },
           {
             "rank": "10",
@@ -1038,10 +1038,10 @@ const data = {
             "description": "Reflect is a note-taking tool designed to mirror the way your brain works. We're simple, speedy, secure, and, dare we say it, quite pleasing on the eye.",
             "productUrl": "https://www.producthunt.com/products/reflect-notes/shoutouts",
             "websiteUrl": "https://reflect.app/",
-            "imageUrl1": "https://ph-files.imgix.net/93579e72-f369-45f5-9bf0-3a42d0ba775d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4c7fedf5-2dae-4532-a445-786ef91c5cda.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/dbfe0ec3-c216-4aba-a510-54aca2c61b5b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RsXzhchCs0w"
           },
           {
             "rank": "11",
@@ -1077,10 +1077,10 @@ const data = {
             "description": "Search 18,000+ open roles at 6,000+ remote companies. Filter by location, tech stack, salary, company size, full-time/part-time and more!",
             "productUrl": "https://www.producthunt.com/products/remote-rocketship/shoutouts",
             "websiteUrl": "http://www.remoterocketship.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e59bc327-205c-40a0-bc64-75c9e81bde14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0888ac2d-0da1-41d7-a508-3f5b358d072b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cfcf3876-7136-4abb-bbbc-4dd465ba4d38.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/xvSu5_cxboI"
           },
           {
             "rank": "14",
@@ -1132,7 +1132,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/U_tUIZM9yWc"
           }
         ]
         
@@ -1222,9 +1222,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
             "websiteUrl": "https://brex.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -1247,10 +1247,10 @@ const data = {
             "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
             "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
             "websiteUrl": "https://tryfondo.com/credits",
-            "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/erraKgw8hT4"
           }
         ]
         
@@ -1267,10 +1267,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/polygon-io/shoutouts",
             "websiteUrl": "https://polygon.io/",
-            "imageUrl1": "https://ph-files.imgix.net/2e0c43e2-3260-4b3a-b42d-3dc2a858507c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ef7c49bf-04da-4587-9bae-b83921b78b19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1e72cd8b-bb85-43ef-a9df-a2f5e32bcc9c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BtMqNtJG8bU"
           },
           {
             "rank": "2",
@@ -1282,8 +1282,8 @@ const data = {
             "websiteUrl": "http://robinhood.com/",
             "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/15ade4c9-ed2f-43a2-b87b-468d748161c6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/43f613dc-eda6-4b6c-b5b1-1ba5d1ac0239.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
        
@@ -1300,10 +1300,10 @@ const data = {
             "description": "Fondo is the easy way to get your startup's books closed, taxes filed, & cash back from the IRS ($21k on average).",
             "productUrl": "https://www.producthunt.com/products/fondo/shoutouts",
             "websiteUrl": "https://tryfondo.com/credits",
-            "imageUrl1": "https://ph-files.imgix.net/02819f1d-2b11-4af2-a573-7f441e2356db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/098dec9f-92a8-4fe7-a412-a05905c1e55a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2f9040aa-66ba-47db-a6a5-5d756eae64c9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/erraKgw8hT4"
           }
         ]
        
