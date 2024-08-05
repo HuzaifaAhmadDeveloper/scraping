@@ -65,7 +65,7 @@ const data = {
             "description": "Glassfy open-source SDK provides you with subscription infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle.",
             "productUrl": "https://www.producthunt.com/products/glassfy/shoutouts",
             "websiteUrl": "https://glassfy.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/dc48b822-5512-4798-bea6-6a341cba905c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -91,7 +91,7 @@ const data = {
             "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
             "productUrl": "https://www.producthunt.com/products/countly/shoutouts",
             "websiteUrl": "http://countly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/7769e73c-6df3-40b2-9731-faf85d158de5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -110,7 +110,7 @@ const data = {
             "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration.",
             "productUrl": "https://www.producthunt.com/products/jetbrains/shoutouts",
             "websiteUrl": "https://www.jetbrains.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/b45f1201-a239-48fa-90db-7fb3b1cebaf7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -123,10 +123,10 @@ const data = {
             "description": "GitHub Copilot Chat is a companion extension to GitHub Copilot that provides conversational AI assistance throughout your software development journey in VS Code.",
             "productUrl": "https://www.producthunt.com/products/github-copilot-chat/shoutouts",
             "websiteUrl": "https://github.com/features/copilot",
-            "imageUrl1": "https://ph-files.imgix.net/f0b776d7-f4dd-4a0c-81f4-9d3d05808d2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6f07a661-3190-4532-8973-1b2c5cab3b8e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/e699c6c5-756a-414e-b796-005bf5d82af9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/a2DDYMEPwbE"
           },
           {
             "rank": "3",
@@ -136,10 +136,10 @@ const data = {
             "description": "A new type of end-to-end processing unit system that provides the fastest inference for computationally intensive applications with a sequential component to them, such as AI language applications (LLMs)",
             "productUrl": "https://www.producthunt.com/products/groq-chat/shoutouts",
             "websiteUrl": "https://chat.groq.com/",
-            "imageUrl1": "https://ph-files.imgix.net/dae72806-6864-4ec6-ae3a-ffbd634e503a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/df0cb900-2558-48fd-bc31-87e5d0c36aea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/df7e3df5-7d28-4dfe-ad1c-350ad96e0e9a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/8UzW_AGX68g"
           },
           {
             "rank": "4",
@@ -149,10 +149,10 @@ const data = {
             "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
             "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
             "websiteUrl": "https://cursor.sh/cpp",
-            "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/dYD3DoYeveU"
           },
           {
             "rank": "5",
@@ -188,10 +188,10 @@ const data = {
             "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
             "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
             "websiteUrl": "https://localizebot.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mzR8TDmcMxk"
           },
           {
             "rank": "8",
@@ -214,8 +214,8 @@ const data = {
             "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse",
             "productUrl": "https://www.producthunt.com/products/langfuse/shoutouts",
             "websiteUrl": "https://langfuse.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/00781215-ec91-4ad4-af51-dd7fd5a55fbc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/151cece2-f032-4ace-84ef-b6dec0818f01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -240,7 +240,7 @@ const data = {
             "description": "Run Llama 2 and other models on macOS, with Windows and Linux coming soon. Customize and create your own.",
             "productUrl": "https://www.producthunt.com/products/ollama/shoutouts",
             "websiteUrl": "https://github.com/jmorganca/ollama",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/5458784e-eb0d-4d4e-a08e-c0d2af61549c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -253,10 +253,10 @@ const data = {
             "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
             "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
             "websiteUrl": "https://vorniches.com/snap2txt",
-            "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
           },
           {
             "rank": "13",
@@ -266,10 +266,10 @@ const data = {
             "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
             "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
             "websiteUrl": "https://www.coze.com/",
-            "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/KLpMdzHxG1A"
           },
           {
             "rank": "14",
@@ -298,6 +298,19 @@ const data = {
             "videoUrl": ""
           },
           {
+            "rank": "16",
+            "name": "Ellipsis",
+            "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+            "title": "Ellipsis — AI code reviews & bug fixes",
+            "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
+            "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
+            "websiteUrl": "",
+            "imageUrl1": "https://ph-files.imgix.net/19220fa5-2de7-484b-b0a0-c4047bcc48bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=max&dpr=1",
+            "imageUrl2": "",
+            "imageUrl3": "",
+            "videoUrl": ""
+          },
+          {
             "rank": "17",
             "name": "Novel",
             "icon": "https://ph-files.imgix.net/33ea6c5c-575b-4ac1-adf4-11a978ea444d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -305,10 +318,10 @@ const data = {
             "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
             "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
             "websiteUrl": "https://novel.sh/",
-            "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rCM7fuYP2nU"
           },
           {
             "rank": "18",
@@ -331,8 +344,8 @@ const data = {
             "description": "Google Colab has become a reference point for many web developers and AI enthusiasts. Each notebook has a unique link from which it can be accessed. Consequently, why not create a website where you can browse, add and collect all the Jupyter notebooks?",
             "productUrl": "https://www.producthunt.com/products/colab-notebooks/shoutouts",
             "websiteUrl": "http://colabnotebooks.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/463584b2-9bb4-4adc-a21e-b413c6a2e819.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/41500161-0ee0-4623-8e80-e73d10f0f214.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -357,10 +370,10 @@ const data = {
             "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
             "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
             "websiteUrl": "https://www.openaitools.io/",
-            "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZFMahUWQin4"
           }
           
         ]
@@ -416,10 +429,10 @@ const data = {
             "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
             "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
             "websiteUrl": "https://appwrite.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AfpWWpx_6hE"
           },
           {
             "rank": "5",
@@ -429,8 +442,8 @@ const data = {
             "description": "The tools developers need to create easy and accessible experiences for their users. With just a few lines of code, users can connect to more than 12,000 financial institutions.",
             "productUrl": "https://www.producthunt.com/products/plaid/shoutouts",
             "websiteUrl": "http://plaid.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1234ceec-4a3d-4ac0-b185-fd80cdd93c68.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/79ed42b2-8305-4e08-8ab5-0284a76c2726.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -455,10 +468,10 @@ const data = {
             "description": "Persona offers a suite of fully-automated identity verification components with worldwide coverage that can be configured and branded to create custom-tailored flows for any use case. Sign up for the Starter plan and start for free in <10 minutes.",
             "productUrl": "https://www.producthunt.com/products/persona-4/shoutouts",
             "websiteUrl": "https://withpersona.com/",
-            "imageUrl1": "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/942c201c-e657-4b8a-8098-bfcfcc06fc00.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/VnZX4HoXIhU"
           },
           {
             "rank": "8",
@@ -468,8 +481,8 @@ const data = {
             "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
             "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
             "websiteUrl": "https://www.workos.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -494,10 +507,10 @@ const data = {
             "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
             "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
             "websiteUrl": "https://apparencekit.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/JbUWROBEiNM"
           },
           {
             "rank": "11",
@@ -546,8 +559,8 @@ const data = {
             "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
             "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
             "websiteUrl": "https://www.kinde.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -572,10 +585,10 @@ const data = {
             "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
             "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
             "websiteUrl": "https://doppler.com/partners/product-hunt",
-            "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/eNHjSEnBa9o"
           },
           {
             "rank": "17",
@@ -598,10 +611,10 @@ const data = {
             "description": "Introducing Turnkey, a new model for secure and easy-to-use private key infrastructure based on secure enclaves and built by the team behind Coinbase Custody. Create wallets, sign transactions, and easily manage access permissions for your team or end users.",
             "productUrl": "https://www.producthunt.com/products/turnkey/shoutouts",
             "websiteUrl": "https://www.turnkey.com/",
-            "imageUrl1": "https://ph-files.imgix.net/6952fba7-949e-4d25-b8be-f956a9b1aada.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/62953c96-b441-4788-b765-ed94ac73cc8e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2b39de98-5dbc-4442-b1a3-1630b7badeb7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/dw7bqF-9ilw"
           },
           {
             "rank": "19",
@@ -637,8 +650,8 @@ const data = {
             "description": "Cloaked is a people-first privacy app that generates virtual identities to protect your personal data. No one should have to choose between staying connected and personal privacy — with Cloaked, you can try new products, travel, shop, and even meet new people while staying in control of your data. Unique and unlimited phone numbers, passwords, and payments set us apart from other privacy tools and password managers. Go ahead and give them your (Cloaked) info — and say goodbye to spam forever.",
             "productUrl": "https://www.producthunt.com/products/keepitcloaked/shoutouts",
             "websiteUrl": "https://www.cloaked.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/b61d4238-8001-4a92-939b-c0b9b78c5d2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/44a5e744-ac83-4c89-a60a-0b9c8934240c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -722,8 +735,8 @@ const data = {
             "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.",
             "productUrl": "https://www.producthunt.com/products/zapier/shoutouts",
             "websiteUrl": "http://zapier.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/8d6121c1-fd5e-4d3b-8c7c-185c4125c832.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/28d986a4-d8cd-4e59-9768-074a8d15aed1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -735,8 +748,8 @@ const data = {
             "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
             "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
             "websiteUrl": "https://tailwindui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -751,7 +764,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/cd608ea0-fc48-41c5-942e-e4f561c7c732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/ed087d65-fd2e-45a4-851a-3c2e5b7459ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/5b2bf218-85a3-4400-9e07-085412ec472e.gif?fm=mp4&crop=max&w=555&h=320#t=0.001"
           },
           {
             "rank": "7",
@@ -774,7 +787,7 @@ const data = {
             "description": "Build, share, run, and verify applications anywhere without tedious environment configuration or management.",
             "productUrl": "https://www.producthunt.com/products/docker/shoutouts",
             "websiteUrl": "https://www.docker.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/9d09fbe5-d7f7-4289-8f9e-ed07b8635446.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -800,10 +813,10 @@ const data = {
             "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
             "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
             "websiteUrl": "https://cursor.sh/cpp",
-            "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/dYD3DoYeveU"
           },
           {
             "rank": "11",
@@ -828,8 +841,8 @@ const data = {
             "websiteUrl": "https://monday.com/lp/project-management",
             "imageUrl1": "https://ph-files.imgix.net/0884e8e9-ae76-4242-91fb-646b84b5bed9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/d94afde8-ee75-4486-8058-74a25ea18203.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/dcbc0b29-a50a-466b-946a-1cc0aaedea8b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "13",
@@ -852,10 +865,10 @@ const data = {
             "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
             "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
             "websiteUrl": "https://dokin.co/",
-            "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y3meyamctuo"
           },
           {
             "rank": "15",
@@ -865,10 +878,10 @@ const data = {
             "description": "Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features.",
             "productUrl": "https://www.producthunt.com/products/relay-app/shoutouts",
             "websiteUrl": "https://relay.app/",
-            "imageUrl1": "https://ph-files.imgix.net/66383651-1978-4035-a91e-1673226ae304.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/554633f1-e03d-4a8a-b3db-a51f44c27acf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7d824529-255b-4542-ba21-baffb02c2454.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/WNM5PPZVMlM"
           },
           {
             "rank": "16",
@@ -1034,10 +1047,10 @@ const data = {
             "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
             "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
             "websiteUrl": "https://localizebot.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mzR8TDmcMxk"
           },
           {
             "rank": "29",
@@ -1073,8 +1086,8 @@ const data = {
             "description": "Leaders in Conversational Voice AI. We're building generative AI voices for the conversational future. Join https://discord.gg/yBbq7UfUsF",
             "productUrl": "https://www.producthunt.com/products/play-ht/shoutouts",
             "websiteUrl": "https://play.ai/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/ca4f8595-90ab-4689-8389-fb9d7e1fc93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/4a642ef0-fef7-4e4d-b885-61a4cd1a0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1112,7 +1125,7 @@ const data = {
             "description": "Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.",
             "productUrl": "https://www.producthunt.com/products/nixos/shoutouts",
             "websiteUrl": "https://nixos.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0ae59381-5f95-4a29-9d3b-466f09e3c966.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1164,10 +1177,10 @@ const data = {
             "description": "Chargebee's subscription billing software powers end-to-end recurring billing for subscription businesses with smart automation.",
             "productUrl": "https://www.producthunt.com/products/chargebee/shoutouts",
             "websiteUrl": "http://chargebee.com/",
-            "imageUrl1": "https://ph-files.imgix.net/7f3ed069-3626-444c-9209-b628094b2a49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6f8efc2e-1cc7-42d6-9556-8eaa91b97c3d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/20bb3065-4ea4-475f-a6ff-69a7a03e0e57.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/SoRVkqFPexU"
           },
           {
             "rank": "39",
@@ -1190,10 +1203,10 @@ const data = {
             "description": "Easy-to-use templates with endless customizability and powerful automation. All with full control at your fingertips.",
             "productUrl": "https://www.producthunt.com/products/text-blaze/shoutouts",
             "websiteUrl": "https://blaze.today/",
-            "imageUrl1": "https://ph-files.imgix.net/f3475db5-4c07-4cbf-a36a-410f0497b745.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/19ed3a3a-4147-4559-b67d-1897709cd2c2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/km2eNAVujz0"
           },
           {
             "rank": "41",
@@ -1203,10 +1216,10 @@ const data = {
             "description": "Mintlify lets fast growing teams enable continuous documentation into a standard practice. Mintlify sets up rules and automations to ensure that software teams can easily create, track and manage documentation.",
             "productUrl": "https://www.producthunt.com/products/mintlify/shoutouts",
             "websiteUrl": "https://www.mintlify.com/",
-            "imageUrl1": "https://ph-files.imgix.net/00e09e89-5821-4ff9-b221-449b94131b99.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/004b3e77-46ca-4ab0-a912-bcb16576750f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/efae918b-186b-46e4-badc-cf4126e3d461.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/SvMPmfLtoGA"
           },
           {
             "rank": "42",
@@ -1216,10 +1229,10 @@ const data = {
             "description": "Rize is a time tracker that makes you more productive. It helps you be more in control of your workday and builds better habits by encouraging you to be more focused and more efficient. Currently available on macOS. Windows and Linux coming soon.",
             "productUrl": "https://www.producthunt.com/products/rizeio/shoutouts",
             "websiteUrl": "https://rize.io/",
-            "imageUrl1": "https://ph-files.imgix.net/39876024-0692-46bd-bdd7-e6d56abe27f5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7b2a9113-2982-419a-8975-9333e10f53e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/07abe49c-2d09-4d64-8a18-1d80f2f60a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zQReO4NAT-k"
           },
           {
             "rank": "43",
@@ -1229,8 +1242,8 @@ const data = {
             "description": "Turn any Google sheet into an API instantly, for free. Power websites, apps, or whatever you like, all from a spreadsheet. Changes to your spreadsheet update your API in realtime.",
             "productUrl": "https://www.producthunt.com/products/sheety/shoutouts",
             "websiteUrl": "https://sheety.co/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/6218517b-3519-4e3d-b228-03c750afeb05.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/28413ba6-75d5-4430-a558-b9e48ae5c467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1336,6 +1349,32 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
+            "videoUrl": "https://youtu.be/YuV5ATYcY_I"
+          },
+          {
+            "rank": "52",
+            "name": "Ellipsis",
+            "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
+            "title": "Ellipsis — AI code reviews & bug fixes",
+            "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
+            "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
+            "websiteUrl": "",
+            "imageUrl1": "",
+            "imageUrl2": "",
+            "imageUrl3": "",
+            "videoUrl": ""
+          },
+          {
+            "rank": "53",
+            "name": "SwiftShip",
+            "icon": null,
+            "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
+            "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
+            "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
+            "websiteUrl": "https://swiftship.dev/",
+            "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -1385,10 +1424,10 @@ const data = {
             "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
             "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
             "websiteUrl": "https://sievedata.com/",
-            "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F_OiR1dXyoI"
           },
           {
             "rank": "58",
@@ -1411,10 +1450,10 @@ const data = {
             "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
             "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
             "websiteUrl": "https://www.openaitools.io/",
-            "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZFMahUWQin4"
           },
           {
             "rank": "60",
@@ -1424,10 +1463,10 @@ const data = {
             "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
             "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
             "websiteUrl": "https://gadget.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pj01pMFlQ7I"
           },
           {
             "rank": "61",
@@ -1476,10 +1515,10 @@ const data = {
             "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
             "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
             "websiteUrl": "https://creatomate.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4miLz33EnY"
           },
           {
             "rank": "65",
@@ -1489,7 +1528,7 @@ const data = {
             "description": "Zuar provides cutting-edge data tools: Mitto ETL automation, data transformation/modeling, Tableau enhancements, and seasoned engineers to help with deployments.",
             "productUrl": "https://www.producthunt.com/products/zuar/shoutouts",
             "websiteUrl": "https://www.zuar.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/70596403-7b6f-4290-adcd-2afe4a6c69cb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1502,10 +1541,10 @@ const data = {
             "description": "Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.",
             "productUrl": "https://www.producthunt.com/products/create-go-app/shoutouts",
             "websiteUrl": "https://github.com/create-go-app/cli",
-            "imageUrl1": "https://ph-files.imgix.net/9aeff73f-92fb-4f10-8cf1-ba8652c9bc80.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9cfedc03-cde9-4375-826c-1699b3105052.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/125b1624-4c5c-4f7c-9cde-40bc6ebafb1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5-DNZFU9TOQ"
           },
           {
             "rank": "67",
@@ -1516,9 +1555,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/vanta/shoutouts",
             "websiteUrl": "https://www.vanta.com/lp/demo-1k",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/91d4be6a-0f67-4081-9b0b-761e32345971.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/17ef9f10-5374-44de-8582-d7ac9d29f4e9.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/b515905b-47a8-43e7-be57-af73bd189c94.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "68",
@@ -1541,10 +1580,10 @@ const data = {
             "description": "Connect all your banks in one place, leverage AI to automate accounting, track cash flow, and forecast.",
             "productUrl": "https://www.producthunt.com/products/fortune-finance-accounting/shoutouts",
             "websiteUrl": "https://www.fortune.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8b731373-5b45-4e34-90b2-465a725cb4db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2cfc2f6c-5140-4847-bb6c-8f03b55cb301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1b0cfa55-8453-4efb-a2e9-06303342447b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/lfzBhxb1TDQ"
           },
           {
             "rank": "70",
@@ -1554,7 +1593,7 @@ const data = {
             "description": "Robolly is an all-in-one service for automated image, video & PDF generation. The potential is limitless; you can use it to generate branded social media content, open graph images, PDF certificates, personalized videos, slideshows, and so much more.",
             "productUrl": "https://www.producthunt.com/products/robolly/shoutouts",
             "websiteUrl": "https://robolly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/20a32838-9f7e-4277-8f46-f35d3428e93f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1573,7 +1612,7 @@ const data = {
             "description": "Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.",
             "productUrl": "https://www.producthunt.com/products/vercel/shoutouts",
             "websiteUrl": "https://vercel.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e69437f3-2b92-40e1-b164-61b01134e5ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1612,10 +1651,10 @@ const data = {
             "description": "Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.",
             "productUrl": "https://www.producthunt.com/products/google-cloud-platform/shoutouts",
             "websiteUrl": "https://cloud.google.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a0fc6d22-680e-4ec2-aa63-9012d5f3d1ed.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a795af87-f9fb-418e-9869-a04a9372c1a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0f696b59-3b4b-4d33-9a5b-e18ea1314a3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gx8VTa1c8DA"
           },
           {
             "rank": "5",
@@ -1638,10 +1677,10 @@ const data = {
             "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
             "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
             "websiteUrl": "https://digitalocean.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rR4R9tp-4bs"
           },
           {
             "rank": "7",
@@ -1690,8 +1729,8 @@ const data = {
             "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
             "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
             "websiteUrl": "https://aws.amazon.com/lightsail",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1717,9 +1756,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/upstash/shoutouts",
             "websiteUrl": "https://upstash.com/",
             "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "",
+            "imageUrl3": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "13",
@@ -1732,7 +1771,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/ff8f5f99-c225-42d4-b48f-fc757ef33dd5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/5bb27997-054a-4dfd-affb-81df11401667.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/6ea71746-b8d9-4d61-b6db-c341f9cf3cb6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "14",
@@ -1742,10 +1781,10 @@ const data = {
             "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
             "productUrl": "https://www.producthunt.com/products/pinecone-2/shoutouts",
             "websiteUrl": "https://www.pinecone.io/",
-            "imageUrl1": "https://ph-files.imgix.net/57adc4ac-b282-4575-b248-dbf6d56fb76d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3a5ceef2-fc0b-4523-9cab-37037890a9d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c8688054-17ca-4254-af66-09b82969c7f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/iCuR6ihHQgc"
           },
           {
             "rank": "15",
@@ -1781,7 +1820,7 @@ const data = {
             "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.",
             "productUrl": "https://www.producthunt.com/products/planetscale/shoutouts",
             "websiteUrl": "https://planetscale.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/c31b6813-6c35-4204-b9f7-73509c21d791.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1794,10 +1833,10 @@ const data = {
             "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
             "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
             "websiteUrl": "https://appwrite.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AfpWWpx_6hE"
           },
           {
             "rank": "19",
@@ -1807,10 +1846,10 @@ const data = {
             "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.",
             "productUrl": "https://www.producthunt.com/products/netlify/shoutouts",
             "websiteUrl": "https://www.netlify.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d8d6109d-4f9a-4bc4-a79e-b3e49ef92385.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4bfb7c04-fb37-42f0-8b8d-d0824124df07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0b73bc88-aff5-4f71-8d3f-57180a3649ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Mh0ASgHoxv8"
           },
           {
             "rank": "20",
@@ -1820,8 +1859,8 @@ const data = {
             "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
             "productUrl": "https://www.producthunt.com/products/cloudflare-pages/shoutouts",
             "websiteUrl": "https://pages.cloudflare.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/4411882e-9da8-4a4d-b2bc-e3ac00ad4553.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/a1c66db9-4701-4b31-bcab-bde80c5b23f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1846,10 +1885,10 @@ const data = {
             "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
             "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
             "websiteUrl": "https://www.xano.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng0GiVYOFnc"
           },
           {
             "rank": "23",
@@ -1860,9 +1899,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
             "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "24",
@@ -1885,10 +1924,10 @@ const data = {
             "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
             "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
             "websiteUrl": "https://hasura.io/",
-            "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F2QZzdQ9igM"
           },
           {
             "rank": "26",
@@ -1898,10 +1937,10 @@ const data = {
             "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products.",
             "productUrl": "https://www.producthunt.com/products/databricks/shoutouts",
             "websiteUrl": "https://databricks.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a17b228f-bf28-4cb4-89e3-4c509dc932db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/31c7e24b-6206-4ece-9bb3-50a587e530a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a22f69f4-e23a-4bad-ba79-b634766b0aa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/XjuGU6w8td4"
           },
           {
             "rank": "27",
@@ -1911,7 +1950,7 @@ const data = {
             "description": "Build, share, run, and verify applications anywhere without tedious environment configuration or management.",
             "productUrl": "https://www.producthunt.com/products/docker/shoutouts",
             "websiteUrl": "https://www.docker.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/9d09fbe5-d7f7-4289-8f9e-ed07b8635446.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1924,10 +1963,10 @@ const data = {
             "description": "Neon reimagines Postgres with a serverless architecture. With a generous free tier, scale-to-zero, and true database branching. Copy data and schema in a second and scale resources automatically. Ideal for developers prioritizing scalability and performance.",
             "productUrl": "https://www.producthunt.com/products/neon-6/shoutouts",
             "websiteUrl": "https://neon.tech/",
-            "imageUrl1": "https://ph-files.imgix.net/1e2ea28b-1643-4858-b711-1adf59b7a4d9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/b3f2c729-f8cf-47c4-9092-f4cbfbb6be04.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/b8c982c4-b3c4-44ea-8a05-0715d45838a9.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/llSTZMVrbx8"
           },
           {
             "rank": "29",
@@ -1937,7 +1976,7 @@ const data = {
             "description": "Invent with purpose, realize cost savings, and make your organization more efficient with Microsoft Azure’s open and flexible cloud computing platform.",
             "productUrl": "https://www.producthunt.com/products/microsoft-azure-2/shoutouts",
             "websiteUrl": "https://azure.microsoft.com/en-us",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/a9da3670-2693-4c3f-9463-88258e127b77.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1976,10 +2015,10 @@ const data = {
             "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
             "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
             "websiteUrl": "https://aws.github.io/aws-amplify",
-            "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BCXdLx6xHmc"
           },
           {
             "rank": "33",
@@ -2093,10 +2132,10 @@ const data = {
             "description": "Lark combines a multitude of essential collaboration tools in a single interconnected platform, including Chat, Calendar, Creation and Cloud storage. These functions are always in sync, and are easy access from one to the next.",
             "productUrl": "https://www.producthunt.com/products/lark-3/shoutouts",
             "websiteUrl": "https://www.larksuite.com/",
-            "imageUrl1": "https://ph-files.imgix.net/095cbbdf-9656-4380-b248-ed47b2382d69.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bea7ef1b-5570-41fd-a6cb-2ed016e2c9ae.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6c56f740-cd82-4f6b-a15f-0b6d7698b0a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/weF0O7OiFeM"
           },
           {
             "rank": "42",
@@ -2132,10 +2171,10 @@ const data = {
             "description": "NVIDIA, inventor of the GPU, which creates interactive graphics on laptops, workstations, mobile devices, notebooks, PCs, and more. We created the world’s largest gaming platform and the world’s fastest supercomputer. We are the brains of self-driving cars, intelligent machines, and IoT.",
             "productUrl": "https://www.producthunt.com/products/nvidia/shoutouts",
             "websiteUrl": "http://www.nvidia.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d180afa8-cb04-4554-8a9b-bd59934ba59f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/1a63bc12-0986-4b4a-bf47-2d3e2993eb2f.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/aa0c314f-e383-43e7-a557-88f1045d9314.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/Y2F8yisiS6E"
           },
           {
             "rank": "45",
@@ -2145,10 +2184,10 @@ const data = {
             "description": "Coolify is an open-source and self-hostable all-in-one (IaaS) solution to host your applications, databases, or other open-source services. It's an alternative software to Heroku and Netlify and other similar software out there.",
             "productUrl": "https://www.producthunt.com/products/coolify/shoutouts",
             "websiteUrl": "https://coolify.io/",
-            "imageUrl1": "https://ph-files.imgix.net/7b533ce7-84d2-46a7-a6f4-665dcff2c2be.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0be83c76-21d5-46a0-b217-a967c71b920f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/90915ab1-efd7-47f1-9473-f15cf866266f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Jg6SWqyvYys"
           },
           {
             "rank": "46",
@@ -2158,8 +2197,8 @@ const data = {
             "description": "Build, deploy and scale applications on Europe's most complete cloud ecosystem.",
             "productUrl": "https://www.producthunt.com/products/scaleway-3/shoutouts",
             "websiteUrl": "https://www.scaleway.com/en",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/427fddb0-f854-499d-acf4-5abfead07975.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2eaa8f52-044d-4605-bddc-eb21b321cdd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2186,8 +2225,8 @@ const data = {
             "websiteUrl": "https://stackblitz.com/",
             "imageUrl1": "https://ph-files.imgix.net/61ccdd2a-2914-47d8-9cb8-e52697ce441a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/33464979-934a-4feb-9a34-6a711077b5e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/f40e57e2-aeb8-410b-9124-8c19e0a500ef.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "49",
@@ -2197,10 +2236,10 @@ const data = {
             "description": "SigNoz is an open-source alternative to DataDog. We help developers find issues in the software they run on cloud and solve them quickly. Run SigNoz in your infrastructure and get your application monitoring setup at 10x lower cost",
             "productUrl": "https://www.producthunt.com/products/signoz/shoutouts",
             "websiteUrl": "https://signoz.io/",
-            "imageUrl1": "https://ph-files.imgix.net/4aed3ed2-117a-490e-bc1d-1bc4c8aca716.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a87ac560-a1e2-4c3b-b2a2-825f87c67ccb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3319ffdd-556f-4610-9489-0c0fd2f8c369.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Ly34WBQ2640"
           },
           {
             "rank": "50",
@@ -2262,7 +2301,7 @@ const data = {
             "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
             "productUrl": "https://www.producthunt.com/products/snowflake-3/shoutouts",
             "websiteUrl": "https://www.snowflake.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3db88619-0a67-42ae-b46f-48624d7cb3ac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2275,9 +2314,9 @@ const data = {
             "description": "TensorFlow is a fast, flexible, and scalable open-source machine learning library for research and production.",
             "productUrl": "https://www.producthunt.com/products/tensorflow/shoutouts",
             "websiteUrl": "http://tensorflow.org/",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
+            "imageUrl1": "https://ph-files.imgix.net/05167cc8-0174-421f-9bfc-e522f8fdc9d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/05167cc8-0174-421f-9bfc-e522f8fdc9d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl3": "https://ph-files.imgix.net/2a6f9d65-225f-4362-b439-cc739076bce9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "videoUrl": ""
           },
           {
@@ -2301,7 +2340,7 @@ const data = {
             "description": "Nix is a tool that takes a unique approach to package management and system configuration. Learn how to make reproducible, declarative and reliable systems.",
             "productUrl": "https://www.producthunt.com/products/nixos/shoutouts",
             "websiteUrl": "https://nixos.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0ae59381-5f95-4a29-9d3b-466f09e3c966.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2353,10 +2392,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/elasticsearch/shoutouts",
             "websiteUrl": "https://www.elastic.co/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6d397443-e37a-4893-9803-de213808feff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/yZJfsUOHJjg"
           },
           {
             "rank": "62",
@@ -2379,7 +2418,7 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/webassembly/shoutouts",
             "websiteUrl": "https://webassembly.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8ac0612d-d600-4747-a324-fe4d149de30a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2431,10 +2470,10 @@ const data = {
             "description": "The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.",
             "productUrl": "https://www.producthunt.com/products/ipfs/shoutouts",
             "websiteUrl": "https://ipfs.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/a0e112e3-1de7-45b9-ab9a-beec02eea9e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/8CMxDNuuAiQ"
           },
           {
             "rank": "68",
@@ -2444,7 +2483,7 @@ const data = {
             "description": "Hatch is way for you to deploy Rails apps to your own servers at places like Digital Ocean as easily as Heroku. We'll take care of installing Ruby, Nginx, PostgreSQL, Redis and more and even manage environment variables and all the other little details for you.",
             "productUrl": "https://www.producthunt.com/products/hatchbox/shoutouts",
             "websiteUrl": "https://www.hatchbox.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/df2a8730-6e89-4efe-8df5-f3be3452e821.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2483,10 +2522,10 @@ const data = {
             "description": "Appliku automagically sets up your server and runs your web apps from GitHub or GitLab. Set up in under 5 minutes, click to deploy. Think of Appliku as your personal DevOps.",
             "productUrl": "https://www.producthunt.com/products/appliku/shoutouts",
             "websiteUrl": "https://appliku.com/",
-            "imageUrl1": "https://ph-files.imgix.net/8a0d2db4-fbfd-4837-8425-9576767e6303.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/41ff6d6f-c874-4bda-a9e8-e987aaab9344.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/76ec93b4-90f9-403a-8b7f-f3a7e70b1cb1.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/wlsaEtoC33Q"
           },
           {
             "rank": "72",
@@ -2496,10 +2535,10 @@ const data = {
             "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California.Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.",
             "productUrl": "https://www.producthunt.com/products/twilio/shoutouts",
             "websiteUrl": "http://www.twilio.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fe6f6075-78e0-4c52-8ae4-0f56a6f2146e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/20880aba-f21a-448a-9612-9f071c9349e9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/429944d7-79f5-42d0-9fc7-d4346113084a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/WaD7jiq2Y6U"
           },
           {
             "rank": "73",
@@ -2535,7 +2574,7 @@ const data = {
             "description": "Amazon Simple Email Service (SES) is a cost-effective, flexible, and scalable email service that enables developers to send mail from within any application.",
             "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-2/shoutouts",
             "websiteUrl": "https://aws.amazon.com/ses",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/abd9f9ac-cd3d-4757-8430-7d801697d81a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2587,7 +2626,7 @@ const data = {
             "description": "Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage. Manage your AWS S3 buckets. AWS S3 Tool has following features: - With Amazon Web Services (AWS) S3 profiles manage S3 buckets easily - Delete Files from S3 buckets - Download Files from S3 buckets - Upload Files to S3 Buckets https://www.youtube.com/watch?v=2fQKEpt9_S4",
             "productUrl": "https://www.producthunt.com/products/aws-s3-tool/shoutouts",
             "websiteUrl": "https://www.microsoft.com/store/p/aws-s3-tool/9p6q0xr4gmgg",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/9019cd6d-0a06-44f3-a981-c7f954a756a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2600,10 +2639,10 @@ const data = {
             "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
             "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
             "websiteUrl": "https://doppler.com/partners/product-hunt",
-            "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/eNHjSEnBa9o"
           },
           {
             "rank": "81",
@@ -2626,10 +2665,10 @@ const data = {
             "description": "Datadog is a monitoring service for cloud-scale applications, providing monitoring of servers, databases, tools, and services, through a SaaS-based data analytics platform.",
             "productUrl": "https://www.producthunt.com/products/datadog-inc/shoutouts",
             "websiteUrl": "https://www.datadoghq.com/",
-            "imageUrl1": "https://ph-files.imgix.net/7952824c-efd0-4117-8150-bebce64418f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/218c3afc-2d30-4fc3-8c14-3ecd990a16c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/7ea1a63b-b6cd-4caf-96fa-89d717c321b9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DeU4SXI90oI"
           },
           {
             "rank": "83",
@@ -2639,10 +2678,10 @@ const data = {
             "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
             "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
             "websiteUrl": "https://gadget.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pj01pMFlQ7I"
           },
           {
             "rank": "84",
@@ -2704,10 +2743,10 @@ const data = {
             "description": "QEMU: the FAST! processor emulator Full-system emulation - Run operating systems for any machine, on any supported architecture User-mode emulation - Run programs for another Linux/BSD target, on any supported architecture Virtualization - Run KVM, Xen Virtual",
             "productUrl": "https://www.producthunt.com/products/qemu/shoutouts",
             "websiteUrl": "https://www.qemu.org/",
-            "imageUrl1": "https://ph-files.imgix.net/b2a39d3c-2817-4d56-8ba8-90fef096fc4c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2c3feee9-c120-4cdf-9dac-81233a661178.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a2899e32-4426-477c-8bc0-44292c32dca8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OhUJeuviwhE"
           },
           {
             "rank": "89",
@@ -2775,20 +2814,7 @@ const data = {
             "description": "Thinnest possible Virtual DOM abstraction on top of the DOM. It builds on stable platform features, registers real event handlers and plays nicely with other libraries.",
             "productUrl": "https://www.producthunt.com/products/preact/shoutouts",
             "websiteUrl": "https://preactjs.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "2",
-            "name": "WordPress",
-            "icon": "https://ph-files.imgix.net/2b33c6b3-be3a-47c4-9dff-6bb8f878e607.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "WordPress — WordPress is open source software you can use to create a beautiful website, blog, or app.",
-            "description": "Trusted by the Best. 43% of the web uses WordPress, from hobby blogs to the biggest news sites online.",
-            "productUrl": "https://www.producthunt.com/products/wordpress/shoutouts",
-            "websiteUrl": "",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6fe0e255-fd53-4cb2-87a1-042b9c81ee0c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2801,10 +2827,10 @@ const data = {
             "description": "Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.",
             "productUrl": "https://www.producthunt.com/products/strapi/shoutouts",
             "websiteUrl": "https://strapi.io/",
-            "imageUrl1": "https://ph-files.imgix.net/b6940b6f-cb10-41a6-a406-afb76889eb1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1be1ade7-95f5-44f8-b6a1-272c0c0549fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/84ed884a-84b5-4f3c-bdb4-60ad6da02989.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/qWKdF8N8LQU"
           },
           {
             "rank": "4",
@@ -2829,8 +2855,8 @@ const data = {
             "websiteUrl": "https://sites.google.com/new",
             "imageUrl1": "",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/e96e77b4-03df-4caf-a71d-e4d64f2224d1.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/hG-vGjKMvZE"
           },
           {
             "rank": "6",
@@ -2866,10 +2892,10 @@ const data = {
             "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
             "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
             "websiteUrl": "https://notaku.so/product/docs",
-            "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RAjffRSNT0g"
           },
           {
             "rank": "9",
@@ -2882,7 +2908,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/7a8c1deb-6539-476c-bd6a-907c830b2394.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/397dff55-46ff-4866-9c1c-3180b9c1f485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/a731c07a-dc4a-4ec7-b287-d8b14fe0d75d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "10",
@@ -2927,7 +2953,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/ff8f5f99-c225-42d4-b48f-fc757ef33dd5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/5bb27997-054a-4dfd-affb-81df11401667.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/6ea71746-b8d9-4d61-b6db-c341f9cf3cb6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -2937,7 +2963,7 @@ const data = {
             "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
             "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
             "websiteUrl": "https://laravel.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2950,7 +2976,7 @@ const data = {
             "description": "Powerful IDEs for most programming languages and technologies along with products for team collaboration.",
             "productUrl": "https://www.producthunt.com/products/jetbrains/shoutouts",
             "websiteUrl": "https://www.jetbrains.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/b45f1201-a239-48fa-90db-7fb3b1cebaf7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2966,7 +2992,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/f0b776d7-f4dd-4a0c-81f4-9d3d05808d2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6f07a661-3190-4532-8973-1b2c5cab3b8e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/a2DDYMEPwbE"
           },
           {
             "rank": "6",
@@ -3002,10 +3028,10 @@ const data = {
             "description": "A more powerful version of Copilot that can suggest mid-line completions and entire diffs. Trained to autocomplete on sequences of edits, it's quick to understand the change you're making.",
             "productUrl": "https://www.producthunt.com/products/cursor-copilot/shoutouts",
             "websiteUrl": "https://cursor.sh/cpp",
-            "imageUrl1": "https://ph-files.imgix.net/39d1e83f-a1af-4fe1-af4e-419aa3f20858.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b437ccc1-fdbc-41cf-8e9b-a76095bc223b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/72937da8-7a3e-40e3-a53f-deb1226715bd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/dYD3DoYeveU"
           },
           {
             "rank": "9",
@@ -3041,7 +3067,7 @@ const data = {
             "description": "Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.",
             "productUrl": "https://www.producthunt.com/products/zed-3/shoutouts",
             "websiteUrl": "https://zed.dev/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f5101171-051d-4ff7-ac15-f7ceab5acc83.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3056,8 +3082,8 @@ const data = {
             "websiteUrl": "https://stackblitz.com/",
             "imageUrl1": "https://ph-files.imgix.net/61ccdd2a-2914-47d8-9cb8-e52697ce441a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/f40e57e2-aeb8-410b-9124-8c19e0a500ef.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/33464979-934a-4feb-9a34-6a711077b5e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "13",
@@ -3067,8 +3093,8 @@ const data = {
             "description": "Visual Studio dev tools & services make app development easy for any developer, on any platform & language. Develop with our code editor or IDE anywhere for free.",
             "productUrl": "https://www.producthunt.com/products/visual-studio/shoutouts",
             "websiteUrl": "https://visualstudio.microsoft.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/d4cdac77-eaff-4cc7-a7bb-b8751725e82f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/f52602e5-fac2-4a91-9ea7-83405beb9464.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3080,7 +3106,7 @@ const data = {
             "description": "Quasar IntelliSense: Effortlessly enhance your Quasar development in Visual Studio Code with CSS class autocompletion. Save time, minimize errors, and simplify your workflow for a more efficient and effective coding experience.",
             "productUrl": "https://www.producthunt.com/products/quasar-intellisense/shoutouts",
             "websiteUrl": "https://marketplace.visualstudio.com/items",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e7bae665-b9f6-4d9e-bca8-a164a3accd3a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3119,7 +3145,7 @@ const data = {
             "description": "This is an opionated configuration for Typescript React Native with all the packages and tools that I use for my React Native projects. Feel free to contribute.",
             "productUrl": "https://www.producthunt.com/products/typescript-react-native-starter/shoutouts",
             "websiteUrl": "https://github.com/NewBieBR/typescript-react-native-starter",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/46a7ef11-99b0-4b13-8a17-7e356ee1c867.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3132,10 +3158,10 @@ const data = {
             "description": "Warp is a fast Rust-based terminal that’s easy to use and built for teams. 1) Commands and outputs are grouped like a data notebook 2) Input is a modern code-editor preconfigured with useful completions 3) Share outputs via links 4) Save and run team commands",
             "productUrl": "https://www.producthunt.com/products/warp/shoutouts",
             "websiteUrl": "https://www.warp.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/cc32ea89-b44b-441e-88f7-eaf78d3a925a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
           },
           {
             "rank": "19",
@@ -3158,10 +3184,10 @@ const data = {
             "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.",
             "productUrl": "https://www.producthunt.com/products/t3-stack-next-and-react-file-generator/shoutouts",
             "websiteUrl": "https://marketplace.visualstudio.com/items",
-            "imageUrl1": "https://ph-files.imgix.net/2cb23239-36bf-4b8a-9a8c-d2e18a2258ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4290a651-4a1f-4d2b-9761-522453528a29.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/07db5522-d3e6-4dc7-a047-0b4009a66fa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/7kNljNbz5Bw"
           },
           {
             "rank": "21",
@@ -3171,10 +3197,10 @@ const data = {
             "description": "Wasp is the fastest way to develop full-stack web apps in React & Node.js. Describe high-level features (auth, CRUD, async jobs, …) via a simple config language, and write the rest of your logic in React, Node.js and Prisma. Wasp is currently in Beta.",
             "productUrl": "https://www.producthunt.com/products/wasp-lang-alpha/shoutouts",
             "websiteUrl": "https://wasp-lang.dev/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
           },
           {
             "rank": "22",
@@ -3197,10 +3223,10 @@ const data = {
             "description": "CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster",
             "productUrl": "https://www.producthunt.com/products/codesandbox/shoutouts",
             "websiteUrl": "https://codesandbox.io/",
-            "imageUrl1": "https://ph-files.imgix.net/1c1b8a88-81d0-49b6-a1ee-52f1767122fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e6732851-e71f-4465-bea9-0c6d8e931897.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/11bbb762-0b2b-48c5-b45f-4535607633fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5AWGpS0Npzk"
           },
           {
             "rank": "24",
@@ -3210,8 +3236,8 @@ const data = {
             "description": "BBEdit is the leading professional HTML and text editor for macOS. This award-winning product has been crafted to serve the needs of writers, Web authors and software developers, and provides an abundance of features for editing, searching, and manipulation of prose, source code, and textual data.",
             "productUrl": "https://www.producthunt.com/products/bbedit/shoutouts",
             "websiteUrl": "https://www.barebones.com/products/bbedit",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1753c943-a41c-47f2-a119-538dfb51ed2c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/d5a69e61-bbc5-424d-8fa7-975b71b339ba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3236,10 +3262,10 @@ const data = {
             "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.",
             "productUrl": "https://www.producthunt.com/products/codepen/shoutouts",
             "websiteUrl": "http://codepen.io/",
-            "imageUrl1": "https://ph-files.imgix.net/aab2ea86-3dc7-4b4a-8d43-7ada84df609c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/213e8684-3d7f-4d30-bf20-b3c4bdd0245f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b16aebda-eac8-41c0-9d8a-17cbf452730b?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gWb0njDcixo"
           },
           {
             "rank": "27",
@@ -3249,7 +3275,7 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/wallaby/shoutouts",
             "websiteUrl": "https://wallabyjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/369d1224-ab13-4b67-a420-406bc559f981.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3275,10 +3301,10 @@ const data = {
             "description": "An AI-powered software development & deployment platform for building, sharing, and shipping software fast.",
             "productUrl": "https://www.producthunt.com/products/replit/shoutouts",
             "websiteUrl": "https://replit.com/",
-            "imageUrl1": "https://ph-files.imgix.net/225f11b9-1e89-49b1-ae3f-432612728bb1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/64964b85-6408-4543-9276-2c447e484df4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d790b507-ead3-4c97-8773-0a2f29420b23.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/A5_qYYKEVEg"
           },
           {
             "rank": "30",
@@ -3340,7 +3366,7 @@ const data = {
             "description": "Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
             "productUrl": "https://www.producthunt.com/products/turbo-2/shoutouts",
             "websiteUrl": "https://turbo.build/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0c08b89a-d55f-497e-a465-d727d73f6b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3379,10 +3405,10 @@ const data = {
             "description": "Apple empowers developers and fuels innovation with new tools and resources. Enhancements to Xcode and Swift, combined with new APIs, offer developers expanded capabilities for creating high‑quality apps.",
             "productUrl": "https://www.producthunt.com/products/xcode-16/shoutouts",
             "websiteUrl": "https://apps.apple.com/us/app/xcode/id497799835",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/28bd582c-6ea8-4edd-8171-990496300b74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BAQ9EhAm2eM"
           },
           {
             "rank": "38",
@@ -3405,7 +3431,7 @@ const data = {
             "description": "Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe. The free npm Registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world. Our other tools and services take the Registry, and the work you do around it, to the next level.",
             "productUrl": "https://www.producthunt.com/products/npm/shoutouts",
             "websiteUrl": "https://www.npmjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/4dbcf30e-f11b-480e-b3fd-3ea8ce6c495a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3418,10 +3444,10 @@ const data = {
             "description": "Spacemacs is a new way to experience Emacs -- a sophisticated and polished set-up focused on ergonomics, mnemonics and consistency.",
             "productUrl": "https://www.producthunt.com/products/spacemacs/shoutouts",
             "websiteUrl": "https://www.spacemacs.org/",
-            "imageUrl1": "https://ph-files.imgix.net/e1bd5651-0287-4003-ac57-827e23c3a41c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b6600376-efb6-4109-9b0f-fde45edd66af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c7c6ce11-9011-4869-a530-5080d9d40fb3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/J40cBkNj3Bc"
           },
           {
             "rank": "41",
@@ -3431,7 +3457,7 @@ const data = {
             "description": "Your one stop destination for all developer utility tools including code generator tools, code converter tools, html code generator, css code generator, minifiers, seo tolls and many more.",
             "productUrl": "https://www.producthunt.com/products/dev-tools/shoutouts",
             "websiteUrl": "https://tools.knitocode.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/36fc3ec1-d9f9-47fc-b9e8-220c954f0f3d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3509,8 +3535,8 @@ const data = {
             "description": "PhpStorm is a perfect PHP IDE for working with Symfony, Laravel, Drupal, WordPress, Laminas, Magento, Joomla!, CakePHP, Yii, and other frameworks.",
             "productUrl": "https://www.producthunt.com/products/phpstorm/shoutouts",
             "websiteUrl": "https://www.jetbrains.com/phpstorm",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/0ccc7365-1e57-450e-bb84-63e91f93025a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/87457627-c785-4b99-9f8f-11f2d368471b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -3531,7 +3557,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/42035602-9301-4cd6-878f-325637732dac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/0c4b7e96-6e32-437d-adaf-1d8d5e5867e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/a5a68229-b897-4e88-b419-d908a1091f1c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -3567,10 +3593,10 @@ const data = {
             "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.",
             "productUrl": "https://www.producthunt.com/products/t3-stack-next-and-react-file-generator/shoutouts",
             "websiteUrl": "https://marketplace.visualstudio.com/items",
-            "imageUrl1": "https://ph-files.imgix.net/2cb23239-36bf-4b8a-9a8c-d2e18a2258ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4290a651-4a1f-4d2b-9761-522453528a29.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/07db5522-d3e6-4dc7-a047-0b4009a66fa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/7kNljNbz5Bw"
           },
           {
             "rank": "5",
@@ -3580,7 +3606,7 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/wallaby/shoutouts",
             "websiteUrl": "https://wallabyjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/369d1224-ab13-4b67-a420-406bc559f981.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3638,7 +3664,7 @@ const data = {
             "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.",
             "productUrl": "https://www.producthunt.com/products/vite-2/shoutouts",
             "websiteUrl": "https://vitejs.dev/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/2615e2d3-36d0-42cd-9cdc-a6e10a36354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3664,10 +3690,10 @@ const data = {
             "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
             "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
             "websiteUrl": "https://www.convex.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wISChclk5lM"
           },
           {
             "rank": "4",
@@ -3690,10 +3716,10 @@ const data = {
             "description": "Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.",
             "productUrl": "https://www.producthunt.com/products/astro-build-faster-websites/shoutouts",
             "websiteUrl": "https://astro.build/",
-            "imageUrl1": "https://ph-files.imgix.net/e11fc6f2-2f8b-46bc-9928-cfab172e298a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c019cc9e-ff9b-4955-9965-0622d5259a68.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5f3c36aa-af9a-4ca2-a421-718d10bd42ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5u0Ds7wzUeI"
           },
           {
             "rank": "6",
@@ -3729,10 +3755,10 @@ const data = {
             "description": "Warp is a fast Rust-based terminal that’s easy to use and built for teams. 1) Commands and outputs are grouped like a data notebook 2) Input is a modern code-editor preconfigured with useful completions 3) Share outputs via links 4) Save and run team commands",
             "productUrl": "https://www.producthunt.com/products/warp/shoutouts",
             "websiteUrl": "https://www.warp.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/cc32ea89-b44b-441e-88f7-eaf78d3a925a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e639c62b-2b8e-4e77-80c0-c5f3b90828fe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ca52ad4b-d7d0-47fa-a151-1dd6fb977a47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/s5nSOiXeJ8g"
           },
           {
             "rank": "9",
@@ -3742,10 +3768,10 @@ const data = {
             "description": "🚀 Boost your Next.js development with this extension for VSCode. Streamline file generation and optimize your project's lifecycle. Easily craft pages, components, layouts, and more. Includes commands and snippets for Next.js, Prisma, tRPC, and key frameworks.",
             "productUrl": "https://www.producthunt.com/products/t3-stack-next-and-react-file-generator/shoutouts",
             "websiteUrl": "https://marketplace.visualstudio.com/items",
-            "imageUrl1": "https://ph-files.imgix.net/2cb23239-36bf-4b8a-9a8c-d2e18a2258ad.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4290a651-4a1f-4d2b-9761-522453528a29.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/07db5522-d3e6-4dc7-a047-0b4009a66fa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/7kNljNbz5Bw"
           },
           {
             "rank": "10",
@@ -3755,10 +3781,10 @@ const data = {
             "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
             "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
             "websiteUrl": "https://vorniches.com/snap2txt",
-            "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
           },
           {
             "rank": "11",
@@ -3807,7 +3833,7 @@ const data = {
             "description": "Turbo is an incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust.",
             "productUrl": "https://www.producthunt.com/products/turbo-2/shoutouts",
             "websiteUrl": "https://turbo.build/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0c08b89a-d55f-497e-a465-d727d73f6b09.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3820,7 +3846,7 @@ const data = {
             "description": "Relied upon by more than 11 million developers worldwide, npm is committed to making JavaScript development elegant, productive, and safe. The free npm Registry has become the center of JavaScript code sharing, and with more than one million packages, the largest software registry in the world. Our other tools and services take the Registry, and the work you do around it, to the next level.",
             "productUrl": "https://www.producthunt.com/products/npm/shoutouts",
             "websiteUrl": "https://www.npmjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/4dbcf30e-f11b-480e-b3fd-3ea8ce6c495a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3846,10 +3872,10 @@ const data = {
             "description": "Nx is a next-generation-build system with first-class support for both standalone projects and monorepos.",
             "productUrl": "https://www.producthunt.com/products/nx/shoutouts",
             "websiteUrl": "https://nx.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/512f9dc8-3430-4b75-a5e5-3c4818995206.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4a0d96c9-c341-4f08-9486-f70a199339be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9fc0776f-5f34-46dd-b029-912edf003558.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wADNsVItnsM"
           },
           {
             "rank": "18",
@@ -3859,8 +3885,8 @@ const data = {
             "description": "Developer Tools to power-up Redux development workflow or any other architecture which handles the state change. It can be used as a browser extension (for Chrome and Firefox), as a standalone app or as a React component integrated in the client app.",
             "productUrl": "https://www.producthunt.com/products/redux-dev-tools/shoutouts",
             "websiteUrl": "https://github.com/reduxjs/redux-devtools",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/54cbfe23-4cca-41ef-b1e0-ba266d6aa177.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0555dc42-365c-463f-bda1-f220f22e7c88.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3872,10 +3898,10 @@ const data = {
             "description": "Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.",
             "productUrl": "https://www.producthunt.com/products/create-go-app/shoutouts",
             "websiteUrl": "https://github.com/create-go-app/cli",
-            "imageUrl1": "https://ph-files.imgix.net/9aeff73f-92fb-4f10-8cf1-ba8652c9bc80.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9cfedc03-cde9-4375-826c-1699b3105052.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/125b1624-4c5c-4f7c-9cde-40bc6ebafb1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5-DNZFU9TOQ"
           },
           {
             "rank": "20",
@@ -3917,10 +3943,10 @@ const data = {
             "description": "Build with generative AI, deploy apps fast, and analyze data in seconds with Google-grade security.",
             "productUrl": "https://www.producthunt.com/products/google-cloud-platform/shoutouts",
             "websiteUrl": "https://cloud.google.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a0fc6d22-680e-4ec2-aa63-9012d5f3d1ed.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a795af87-f9fb-418e-9869-a04a9372c1a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0f696b59-3b4b-4d33-9a5b-e18ea1314a3c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gx8VTa1c8DA"
           },
           {
             "rank": "3",
@@ -3943,8 +3969,8 @@ const data = {
             "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
             "productUrl": "https://www.producthunt.com/products/tinybird/shoutouts",
             "websiteUrl": "https://www.tinybird.co/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/aa0cbe89-d3fb-4351-a072-3addc96eef1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/4754d6b1-cc5c-4c30-9bdc-1999745fa466.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3959,7 +3985,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "6",
@@ -3982,7 +4008,7 @@ const data = {
             "description": "Amplitude is the comprehensive product analytics software for web and mobile. Over 12,000 companies use Amplitude to set product strategy, increase key metrics like user engagement, retention, and conversion, and ultimately build better products.",
             "productUrl": "https://www.producthunt.com/products/amplitude/shoutouts",
             "websiteUrl": "https://amplitude.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/2e159dca-a8e6-41f3-93b0-be06abdb2017.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4008,10 +4034,10 @@ const data = {
             "description": "Databricks’ mission is to accelerate innovation for its customers by unifying Data Science, Engineering and Business. Founded by the team who created Apache Spark, Databricks provides a Unified Analytics Platform for data science teams to collaborate with data engineering and lines of business to build data products.",
             "productUrl": "https://www.producthunt.com/products/databricks/shoutouts",
             "websiteUrl": "https://databricks.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a17b228f-bf28-4cb4-89e3-4c509dc932db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/31c7e24b-6206-4ece-9bb3-50a587e530a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a22f69f4-e23a-4bad-ba79-b634766b0aa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/XjuGU6w8td4"
           },
           {
             "rank": "10",
@@ -4021,10 +4047,10 @@ const data = {
             "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
             "productUrl": "https://www.producthunt.com/products/fullstory/shoutouts",
             "websiteUrl": "http://www.fullstory.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fa5456a0-6c1f-4454-b1a1-b54fa3229315.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ce59303e-7b35-4f15-8a12-7dea4304a5af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2b3a0d48-9222-4669-bd9f-4360d3f9e4c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YaaHrCr3a9U"
           },
           {
             "rank": "11",
@@ -4047,10 +4073,10 @@ const data = {
             "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
             "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
             "websiteUrl": "https://dokin.co/",
-            "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y3meyamctuo"
           },
           {
             "rank": "13",
@@ -4066,19 +4092,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "14",
-            "name": "Clearbit",
-            "icon": null,
-            "title": "Clearbit — Data to power your entire business",
-            "description": "Clearbit provides powerful products and data APIs to help your business grow. Contact enrichment, lead generation, financial compliance, and more...",
-            "productUrl": "https://www.producthunt.com/products/clearbit/shoutouts",
-            "websiteUrl": "https://clearbit.com/",
-            "imageUrl1": "https://ph-files.imgix.net/048a3c89-6dfc-4260-b1c7-e06794772a3f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/51d50186-3521-436b-bd74-6b86e1dbe54d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/d720636f-707a-412c-b665-2d168b3e82ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "15",
             "name": "Segment",
             "icon": "https://ph-files.imgix.net/5e530268-ed61-44e6-a586-789c449c47d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -4088,8 +4101,8 @@ const data = {
             "websiteUrl": "https://segment.com/",
             "imageUrl1": "https://ph-files.imgix.net/564264b4-09b8-4809-8030-bf8f2b5589d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/3fb9f0cc-9716-4db9-9556-bab99efafdc3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/470d2871-b225-47ca-a306-3bb2662aed31.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "16",
@@ -4099,7 +4112,7 @@ const data = {
             "description": "Proxycurl's Linkedin API takes a Linkedin Profile and returns scraped structured data of the profile",
             "productUrl": "https://www.producthunt.com/products/proxycurl/shoutouts",
             "websiteUrl": "https://nubela.co/proxycurl/linkedin",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/4a802c88-0f93-45e6-9085-d53e4a1be012.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4125,8 +4138,8 @@ const data = {
             "description": "Google Analytics is a comprehensive web analytics tool offered by Google that provides valuable insights into the performance and behavior of websites, mobile apps, and other digital platforms. It allows businesses and website owners to track and analyze a wide range of data, enabling them to make informed decisions and optimize their online presence.",
             "productUrl": "https://www.producthunt.com/products/google-analytics/shoutouts",
             "websiteUrl": "https://marketingplatform.google.com/about/analytics",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/8804100e-2051-4a4e-8129-22e2d4281d53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/685a9c88-76ee-44df-a88b-daa89f42b877.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4138,7 +4151,7 @@ const data = {
             "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
             "productUrl": "https://www.producthunt.com/products/snowflake-3/shoutouts",
             "websiteUrl": "https://www.snowflake.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3db88619-0a67-42ae-b46f-48624d7cb3ac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4190,8 +4203,8 @@ const data = {
             "description": "Langfuse is the open source LLM Engineering Platform. It provides observability, metrics, evals, prompt management and a playground and to debug and improve LLM apps. Langfuse is open. It works with any model, any framework, allows for complex nesting and has open APIs to build downstream use cases. Docs: https://langfuse.com/docs Github: https://github.com/langfuse/langfuse",
             "productUrl": "https://www.producthunt.com/products/langfuse/shoutouts",
             "websiteUrl": "https://langfuse.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/00781215-ec91-4ad4-af51-dd7fd5a55fbc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/151cece2-f032-4ace-84ef-b6dec0818f01.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4216,10 +4229,10 @@ const data = {
             "description": "Wolfram Mathematica is a modern technical computing system spanning most areas of technical computing - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields.",
             "productUrl": "https://www.producthunt.com/products/wolfram-mathematica/shoutouts",
             "websiteUrl": "https://www.wolfram.com/mathematica",
-            "imageUrl1": "https://ph-files.imgix.net/3815baf8-1fa8-4bd8-af70-07829d067604.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0629b9c3-6138-48f5-adc6-687f02073872.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/54657525-f65b-4b27-8f51-483c07e3c8a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/60P7717-XOQ"
           },
           {
             "rank": "26",
@@ -4229,10 +4242,10 @@ const data = {
             "description": "Equals fills the void between one-size-fits-all and complex data platforms. It's as if your favorite spreadsheet and BI tool had a baby – a legit prodigy.",
             "productUrl": "https://www.producthunt.com/products/equals/shoutouts",
             "websiteUrl": "https://equals.com/",
-            "imageUrl1": "https://ph-files.imgix.net/975ef0b3-f35f-4e57-9469-faa118a77574.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7adafe83-e7fc-486c-af35-5d992a7a52bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cec82dec-2085-460e-bb4c-4183ba5a83fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vJ1QdSQCqUQ"
           },
           {
             "rank": "27",
@@ -4242,7 +4255,7 @@ const data = {
             "description": "Glassfy open-source SDK provides you with subscription infrastructure, real-time subscription events and out-of-the-box monetization tools on iOS, Android, Stripe and Paddle.",
             "productUrl": "https://www.producthunt.com/products/glassfy/shoutouts",
             "websiteUrl": "https://glassfy.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/dc48b822-5512-4798-bea6-6a341cba905c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4297,7 +4310,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/7952824c-efd0-4117-8150-bebce64418f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/218c3afc-2d30-4fc3-8c14-3ecd990a16c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/DeU4SXI90oI"
           },
           {
             "rank": "32",
@@ -4307,7 +4320,7 @@ const data = {
             "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
             "productUrl": "https://www.producthunt.com/products/countly/shoutouts",
             "websiteUrl": "http://countly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/7769e73c-6df3-40b2-9731-faf85d158de5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4336,7 +4349,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/fb59d3f5-8794-4493-a79e-91ccdc640f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6e09611c-02a9-49ad-9e41-d7a8752895a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/79b97077-8a8f-40e7-82ec-25336ed88d95.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "35",
@@ -4346,8 +4359,8 @@ const data = {
             "description": "SingleStoreDB is a real-time distributed SQL database, designed for data-intensive applications. With a unified data engine for transactional and analytical workloads, SingleStoreDB powers fast applications and real-time analytics.",
             "productUrl": "https://www.producthunt.com/products/singlestoredb/shoutouts",
             "websiteUrl": "https://www.singlestore.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/db933f0e-92cb-4ded-ab4c-2788a812dbd8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/6658dc92-a7a7-42bb-b835-b0a006dd9edb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4372,10 +4385,10 @@ const data = {
             "description": "TelemetryDeck is a service that helps app and web developers improve their product by supplying immediate, accurate analytics data while users use your app. And the best part: It's all anonymized so your users' data stays private!",
             "productUrl": "https://www.producthunt.com/products/telemetrydeck/shoutouts",
             "websiteUrl": "https://telemetrydeck.com/",
-            "imageUrl1": "https://ph-files.imgix.net/74aaf714-87b1-4751-94dc-62e3ba5a7e48.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f36eecbe-2cbd-42e4-a4e4-69fd3723a82e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/8003167e-bb66-4826-8598-e9758d259c22.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5hXs4Mymfz4"
           },
           {
             "rank": "38",
@@ -4385,10 +4398,10 @@ const data = {
             "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
             "productUrl": "https://www.producthunt.com/products/lychee-3/shoutouts",
             "websiteUrl": "https://www.lych3e.com/",
-            "imageUrl1": "https://ph-files.imgix.net/756531cd-bc17-4559-b67c-f7fead96bc18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/05a0cd1e-4e9c-42a3-b4b4-98147b7203c5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/824deb2b-5d1d-4670-8a8e-fead41642269.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mwm-0sAPvWI"
           },
           {
             "rank": "39",
@@ -4398,7 +4411,7 @@ const data = {
             "description": "Zuar provides cutting-edge data tools: Mitto ETL automation, data transformation/modeling, Tableau enhancements, and seasoned engineers to help with deployments.",
             "productUrl": "https://www.producthunt.com/products/zuar/shoutouts",
             "websiteUrl": "https://www.zuar.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/70596403-7b6f-4290-adcd-2afe4a6c69cb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4424,10 +4437,10 @@ const data = {
             "description": "Vexo helps developers and managers solve all their React Native analytics needs. With a seamless integration it provides data out of the box, through a beautiful interface.",
             "productUrl": "https://www.producthunt.com/products/vexo/shoutouts",
             "websiteUrl": "https://www.vexo.co/",
-            "imageUrl1": "https://ph-files.imgix.net/124f1375-467d-40c1-a1f2-9663fae1e3fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bde7d554-9bc2-434f-8712-ca4ff58b9731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/be79f6a6-2472-4a31-8583-e51d839f7b03.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/S3ADOef9kQ0"
           },
           {
             "rank": "42",
@@ -4437,7 +4450,7 @@ const data = {
             "description": "BscScan is a block pilgrim created by a similar group behind Etherscan It is an examination stage for the Binance Savvy Chain organization and has numerous other helpful elements. BscScan contains information to follow DeFi projects on BSC.",
             "productUrl": "https://www.producthunt.com/products/bscscan/shoutouts",
             "websiteUrl": "https://bscsscan.us.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/7866af95-c4cf-41b0-9624-de1cdbeb925e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4508,8 +4521,8 @@ const data = {
             "description": "MongoDB Inc. is an American software company that develops and provides commercial support for the open source database MongoDB, a NoSQL database that stores data in JSON-like documents with flexible schemas.",
             "productUrl": "https://www.producthunt.com/products/mongodb/shoutouts",
             "websiteUrl": "https://www.mongodb.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/2f10c86f-145b-4dbd-8aae-3e72e4cadb77.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/249a0678-bf32-4e7f-aa7b-9d26e4065aa1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4521,8 +4534,8 @@ const data = {
             "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
             "productUrl": "https://www.producthunt.com/products/tinybird/shoutouts",
             "websiteUrl": "https://www.tinybird.co/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/aa0cbe89-d3fb-4351-a072-3addc96eef1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/4754d6b1-cc5c-4c30-9bdc-1999745fa466.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4537,7 +4550,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "8",
@@ -4547,10 +4560,10 @@ const data = {
             "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
             "productUrl": "https://www.producthunt.com/products/pinecone-2/shoutouts",
             "websiteUrl": "https://www.pinecone.io/",
-            "imageUrl1": "https://ph-files.imgix.net/57adc4ac-b282-4575-b248-dbf6d56fb76d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3a5ceef2-fc0b-4523-9cab-37037890a9d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c8688054-17ca-4254-af66-09b82969c7f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/iCuR6ihHQgc"
           },
           {
             "rank": "9",
@@ -4573,7 +4586,7 @@ const data = {
             "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
             "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
             "websiteUrl": "https://laravel.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4586,7 +4599,7 @@ const data = {
             "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.",
             "productUrl": "https://www.producthunt.com/products/planetscale/shoutouts",
             "websiteUrl": "https://planetscale.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/c31b6813-6c35-4204-b9f7-73509c21d791.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4599,10 +4612,10 @@ const data = {
             "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
             "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
             "websiteUrl": "https://appwrite.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AfpWWpx_6hE"
           },
           {
             "rank": "13",
@@ -4612,7 +4625,7 @@ const data = {
             "description": "An open-source column-oriented database management system that allows generating analytical data reports in real-time.",
             "productUrl": "https://www.producthunt.com/products/clickhouse/shoutouts",
             "websiteUrl": "http://clickhouse.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/31572e70-d541-4a35-9d35-c2ed576d200a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4625,10 +4638,10 @@ const data = {
             "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
             "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
             "websiteUrl": "https://www.xano.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng0GiVYOFnc"
           },
           {
             "rank": "15",
@@ -4638,10 +4651,10 @@ const data = {
             "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
             "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
             "websiteUrl": "https://hasura.io/",
-            "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F2QZzdQ9igM"
           },
           {
             "rank": "16",
@@ -4664,10 +4677,10 @@ const data = {
             "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
             "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
             "websiteUrl": "https://www.convex.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wISChclk5lM"
           },
           {
             "rank": "18",
@@ -4729,10 +4742,10 @@ const data = {
             "description": "Coolify is an open-source and self-hostable all-in-one (IaaS) solution to host your applications, databases, or other open-source services. It's an alternative software to Heroku and Netlify and other similar software out there.",
             "productUrl": "https://www.producthunt.com/products/coolify/shoutouts",
             "websiteUrl": "https://coolify.io/",
-            "imageUrl1": "https://ph-files.imgix.net/7b533ce7-84d2-46a7-a6f4-665dcff2c2be.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0be83c76-21d5-46a0-b217-a967c71b920f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/90915ab1-efd7-47f1-9473-f15cf866266f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Jg6SWqyvYys"
           },
           {
             "rank": "23",
@@ -4742,8 +4755,8 @@ const data = {
             "description": "Build, deploy and scale applications on Europe's most complete cloud ecosystem.",
             "productUrl": "https://www.producthunt.com/products/scaleway-3/shoutouts",
             "websiteUrl": "https://www.scaleway.com/en",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/427fddb0-f854-499d-acf4-5abfead07975.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2eaa8f52-044d-4605-bddc-eb21b321cdd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4794,7 +4807,7 @@ const data = {
             "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
             "productUrl": "https://www.producthunt.com/products/snowflake-3/shoutouts",
             "websiteUrl": "https://www.snowflake.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3db88619-0a67-42ae-b46f-48624d7cb3ac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4911,10 +4924,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/elasticsearch/shoutouts",
             "websiteUrl": "https://www.elastic.co/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6d397443-e37a-4893-9803-de213808feff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/yZJfsUOHJjg"
           },
           {
             "rank": "37",
@@ -4985,7 +4998,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/231a0994-400c-4e17-b897-177f54404301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/f4b8b63f-0880-49df-8a29-c43582316183.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/661c6ee8-aca9-45c4-89f5-2bb7014fd845.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -5008,10 +5021,10 @@ const data = {
             "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
             "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
             "websiteUrl": "https://dokin.co/",
-            "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y3meyamctuo"
           },
           {
             "rank": "4",
@@ -5024,7 +5037,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/b6babc5c-1c66-4c67-8966-548fa8f19315.gif?fm=mp4&crop=max#t=0.001"
           },
           {
             "rank": "5",
@@ -5047,10 +5060,10 @@ const data = {
             "description": "Wolfram Mathematica is a modern technical computing system spanning most areas of technical computing - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields.",
             "productUrl": "https://www.producthunt.com/products/wolfram-mathematica/shoutouts",
             "websiteUrl": "https://www.wolfram.com/mathematica",
-            "imageUrl1": "https://ph-files.imgix.net/3815baf8-1fa8-4bd8-af70-07829d067604.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0629b9c3-6138-48f5-adc6-687f02073872.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/54657525-f65b-4b27-8f51-483c07e3c8a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/60P7717-XOQ"
           },
           {
             "rank": "7",
@@ -5151,10 +5164,10 @@ const data = {
             "description": "AG Grid is a JavaScript Data Grid for rendering lots of data in a Grid. Sorting, Filtering, Ordering, Pagination and Exporting are built in. One dependency to add to your project. Open Source edition is free for use in commercial applications.",
             "productUrl": "https://www.producthunt.com/products/ag-grid/shoutouts",
             "websiteUrl": "https://ag-grid.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e94d5839-1247-479a-abd9-cf21fab6cac1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/469263b1-6e44-49b5-8875-89a9c856cb1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/ee2b3fd1-a13d-4fbb-a992-97d028d89987.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/6wpITiH8npM"
           },
           {
             "rank": "15",
@@ -5164,7 +5177,7 @@ const data = {
             "description": "Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components",
             "productUrl": "https://www.producthunt.com/products/tanstack/shoutouts",
             "websiteUrl": "https://tanstack.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/1c1db09f-19db-4eee-bee0-2e5b33fba96e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5177,8 +5190,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/d3-js/shoutouts",
             "websiteUrl": "http://d3js.org/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/5d414ccd-7fc9-4d8a-b742-1ee56e89d736.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/b239c933-cf67-4805-9019-c9e742d3e628.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -5190,10 +5203,10 @@ const data = {
             "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
             "productUrl": "https://www.producthunt.com/products/lychee-3/shoutouts",
             "websiteUrl": "https://www.lych3e.com/",
-            "imageUrl1": "https://ph-files.imgix.net/756531cd-bc17-4559-b67c-f7fead96bc18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/05a0cd1e-4e9c-42a3-b4b4-98147b7203c5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/824deb2b-5d1d-4670-8a8e-fead41642269.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mwm-0sAPvWI"
           }
         ]
       },
@@ -5212,7 +5225,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/42035602-9301-4cd6-878f-325637732dac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/0c4b7e96-6e32-437d-adaf-1d8d5e5867e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/a5a68229-b897-4e88-b419-d908a1091f1c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -5274,10 +5287,10 @@ const data = {
             "description": "Over 100,000 developers and designers are more productive with Tower - the most powerful Git client for Mac and Windows.",
             "productUrl": "https://www.producthunt.com/products/tower/shoutouts",
             "websiteUrl": "https://www.git-tower.com/",
-            "imageUrl1": "https://ph-files.imgix.net/7542174b-2bb4-4394-9e0e-69e67310105d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/727b88c5-0bdc-4189-98b3-57a18961f47d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fc5783d1-1ced-4fa9-a10e-23768ec922a1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/cEQu0HDwKxw"
           },
           {
             "rank": "7",
@@ -5345,10 +5358,10 @@ const data = {
             "description": "Netlify is the foundation for Enterprises looking to modernize their web architecture. With Netlify, your team can ship faster, be more productive, reduce risk and complexity, and drive higher conversions and revenue. It features continuous deployment from Git across a global application delivery network, serverless form handling, support for AWS Lambda functions, and full integration with Let's Encrypt.",
             "productUrl": "https://www.producthunt.com/products/netlify/shoutouts",
             "websiteUrl": "https://www.netlify.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d8d6109d-4f9a-4bc4-a79e-b3e49ef92385.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4bfb7c04-fb37-42f0-8b8d-d0824124df07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0b73bc88-aff5-4f71-8d3f-57180a3649ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Mh0ASgHoxv8"
           },
           {
             "rank": "2",
@@ -5358,10 +5371,10 @@ const data = {
             "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
             "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
             "websiteUrl": "https://dopt.com/",
-            "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NVPsmpFRKbI"
           },
           {
             "rank": "3",
@@ -5371,10 +5384,10 @@ const data = {
             "description": "Strapi is the next-gen headless CMS, open-source, javascript, enabling content-rich experiences to be created, managed and exposed to any digital device.",
             "productUrl": "https://www.producthunt.com/products/strapi/shoutouts",
             "websiteUrl": "https://strapi.io/",
-            "imageUrl1": "https://ph-files.imgix.net/b6940b6f-cb10-41a6-a406-afb76889eb1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1be1ade7-95f5-44f8-b6a1-272c0c0549fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/84ed884a-84b5-4f3c-bdb4-60ad6da02989.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/qWKdF8N8LQU"
           },
           {
             "rank": "4",
@@ -5423,10 +5436,10 @@ const data = {
             "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
             "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
             "websiteUrl": "https://notaku.so/product/docs",
-            "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RAjffRSNT0g"
           }
         ]
       },
@@ -5458,7 +5471,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/42035602-9301-4cd6-878f-325637732dac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/0c4b7e96-6e32-437d-adaf-1d8d5e5867e3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/a5a68229-b897-4e88-b419-d908a1091f1c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "3",
@@ -5470,8 +5483,8 @@ const data = {
             "websiteUrl": "https://www.atlassian.com/jira",
             "imageUrl1": "https://ph-files.imgix.net/768ff8d4-fef0-4bc2-ab04-6b1dc156ee9b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/91a73e16-f5c8-4b71-8305-64d646f903ea.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/JFZLY4SU6gk"
           },
           {
             "rank": "4",
@@ -5586,9 +5599,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/enlightup-io/shoutouts",
             "websiteUrl": "https://enlightup.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/a3011bd6-12b7-4d2e-b7f3-77df6f4f89de.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/416843d9-f851-4228-9554-c9a9517cc17d.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/911dd9f3-3b65-4f13-8592-6001fc4476d4.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "13",
@@ -5646,7 +5659,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/9bef7002-3475-4462-bd16-2ddcecbd5779.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/bf8b2df0-e313-4f04-9645-e93212e90cf9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/12d28cb1-ccc4-4a9c-bb6f-10a996b7c4c6.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "4",
@@ -5669,7 +5682,7 @@ const data = {
             "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
             "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
             "websiteUrl": "https://ko-fi.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3942cebc-f885-4839-81bf-9079389ce071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5688,10 +5701,10 @@ const data = {
             "description": "A no-code platform to create responsive webpages with text, links, media, and incredible animations.",
             "productUrl": "https://www.producthunt.com/products/framer/shoutouts",
             "websiteUrl": "http://www.framer.com/",
-            "imageUrl1": "https://ph-files.imgix.net/f7b99026-7f04-4d89-a28d-539ef4465d64.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d6b22ee9-7402-4a6a-9f6d-b8b237398b0d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/05fa0b10-0654-499f-9f0d-36d2d1e777dc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/alxxDqkXrys"
           },
           {
             "rank": "2",
@@ -5727,10 +5740,10 @@ const data = {
             "description": "Design, develop, and launch production-grade applications without code",
             "productUrl": "https://www.producthunt.com/products/bubble/shoutouts",
             "websiteUrl": "https://bubble.io/",
-            "imageUrl1": "https://ph-files.imgix.net/da82cf69-cac3-4bf4-8be5-aa60705ebd90.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/afeea4e1-676b-4781-85bb-a218021009b7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/d0c4dd3a-a926-4bbf-8bdf-df8a5ad8e2c3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/5dgmchu7S6o"
           },
           {
             "rank": "5",
@@ -5740,8 +5753,8 @@ const data = {
             "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.",
             "productUrl": "https://www.producthunt.com/products/zapier/shoutouts",
             "websiteUrl": "http://zapier.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/8d6121c1-fd5e-4d3b-8c7c-185c4125c832.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/28d986a4-d8cd-4e59-9768-074a8d15aed1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -5766,10 +5779,10 @@ const data = {
             "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
             "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
             "websiteUrl": "https://flutterflow.io/",
-            "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/jGbLsYDgAVc"
           },
           {
             "rank": "8",
@@ -5779,10 +5792,10 @@ const data = {
             "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
             "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
             "websiteUrl": "https://www.xano.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng0GiVYOFnc"
           },
           {
             "rank": "9",
@@ -5792,10 +5805,10 @@ const data = {
             "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
             "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
             "websiteUrl": "https://aws.github.io/aws-amplify",
-            "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BCXdLx6xHmc"
           },
           {
             "rank": "10",
@@ -5831,8 +5844,8 @@ const data = {
             "description": "Build customized ChatGPT-like agents that understand both your standards and your business context in seconds with no code — anything from a customer support chatbot, an internal AI search engine, to a full-scale CEO assistant.",
             "productUrl": "https://www.producthunt.com/products/mindpal-for-youtube/shoutouts",
             "websiteUrl": "https://mindpal.space/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -5859,8 +5872,8 @@ const data = {
             "websiteUrl": "https://www.todesktop.com/",
             "imageUrl1": "https://ph-files.imgix.net/54db3047-631a-49ba-a61e-0be18517fd5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/0baaea7c-806c-4227-b71c-09363b95b50d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/b36d404a-ed12-4a9a-a621-087b1ce3c1ce.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "15",
@@ -5870,10 +5883,10 @@ const data = {
             "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
             "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
             "websiteUrl": "https://dokin.co/",
-            "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y3meyamctuo"
           },
           {
             "rank": "16",
@@ -5883,10 +5896,10 @@ const data = {
             "description": "Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features.",
             "productUrl": "https://www.producthunt.com/products/relay-app/shoutouts",
             "websiteUrl": "https://relay.app/",
-            "imageUrl1": "https://ph-files.imgix.net/66383651-1978-4035-a91e-1673226ae304.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/554633f1-e03d-4a8a-b3db-a51f44c27acf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7d824529-255b-4542-ba21-baffb02c2454.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/WNM5PPZVMlM"
           },
           {
             "rank": "17",
@@ -5935,10 +5948,10 @@ const data = {
             "description": "Page is a stupid-simple no-code landing page builder, that allows you to launch page in seconds, use social media to grow your views, get your signups, message them and eventually sell. It's free if you build in public.",
             "productUrl": "https://www.producthunt.com/products/momentum-page/shoutouts",
             "websiteUrl": "https://momentum.page/",
-            "imageUrl1": "https://ph-files.imgix.net/e5930497-f415-4e55-9520-4c9a7b3436c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ad6ed290-f982-4bd8-88e0-1960d186f00b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/4576809b-9fe9-4e61-ae05-d4aab7aaf9c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/CmVi5GgpQiQ"
           },
           {
             "rank": "21",
@@ -5974,10 +5987,10 @@ const data = {
             "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
             "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
             "websiteUrl": "https://www.weavely.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
           },
           {
             "rank": "24",
@@ -6000,10 +6013,10 @@ const data = {
             "description": "Fillout is a powerful, no-code form builder. Create a form in minutes and style the form to match your brand. Add multiple pages, powerful conditional logic, and 40+ customizable question types.",
             "productUrl": "https://www.producthunt.com/products/fillout-com/shoutouts",
             "websiteUrl": "https://fillout.com/",
-            "imageUrl1": "https://ph-files.imgix.net/931dd2d2-e5d8-462b-ac2a-86fbda62a9a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7d4e8513-8c8f-4e53-87d5-2ea341f206a9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1f43c752-d1e5-4c17-aad1-c2147c3f78c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/d1Br0bl2pQs"
           },
           {
             "rank": "26",
@@ -6013,10 +6026,10 @@ const data = {
             "description": "Designmodo is an all-in-one solution to create website and email newsletter designs that impress and engage your audience. Create your email templates and websites 20x faster, with no design limitations and no need for coding skills. Postcards email buidler provides you with all the tools necessary to start building and customizing your email template - from scratch to the finished product in just a few minutes. Collaborate with the entire team to bring ideas to the table from everyone.",
             "productUrl": "https://www.producthunt.com/products/designmodo/shoutouts",
             "websiteUrl": "https://designmodo.com/",
-            "imageUrl1": "https://ph-files.imgix.net/b3dac406-43d2-4b6c-9976-422f39685261.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/21c9bdcd-e348-4b79-afef-7749cc5ff7d1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7019131b-9c4a-4caa-9506-fff0a1b872c7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Ecdsefa7xpI"
           },
           {
             "rank": "27",
@@ -6026,7 +6039,7 @@ const data = {
             "description": "The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.",
             "productUrl": "https://www.producthunt.com/products/gradio/shoutouts",
             "websiteUrl": "https://www.gradio.app/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0a65a3aa-9f5b-41a6-b86c-d567f7379403.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -6091,10 +6104,10 @@ const data = {
             "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
             "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
             "websiteUrl": "https://dopt.com/",
-            "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NVPsmpFRKbI"
           },
           {
             "rank": "33",
@@ -6118,9 +6131,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/typedream/shoutouts",
             "websiteUrl": "https://typedream.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/ced8dbf1-5fb0-4eb1-9aa9-b0b1dd8c0496.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/0dd2695b-fce2-4a06-880f-e1621f3d7c0e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/12bc9463-7984-45a2-8c61-1ce273e3e612.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "35",
@@ -6130,10 +6143,10 @@ const data = {
             "description": "Clean-looking, on-brand forms that are easy to use in your no-code projects, send out in emails, or put on your website. A modern form builder for your tool belt.",
             "productUrl": "https://www.producthunt.com/products/reform/shoutouts",
             "websiteUrl": "https://www.reform.app/producthunt",
-            "imageUrl1": "https://ph-files.imgix.net/a2928d57-2727-4fb1-9eed-417f19efe18b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/fa85a73b-6ff0-4f1a-8563-5880d12c2203.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/62e21233-a9b7-4fa0-b8e7-dad994a660e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/bGCm3GqEM1A"
           },
           {
             "rank": "36",
@@ -6143,7 +6156,7 @@ const data = {
             "description": "Wasp is the fastest way to develop full-stack web apps in React & Node.js. Describe high-level features (auth, CRUD, async jobs, …) via a simple config language, and write the rest of your logic in React, Node.js and Prisma. Wasp is currently in Beta.",
             "productUrl": "https://www.producthunt.com/products/wasp-lang-alpha/shoutouts",
             "websiteUrl": "https://wasp-lang.dev/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/19d61511-156f-4135-8cd4-431f0e4eed4d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -6198,7 +6211,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/f3475db5-4c07-4cbf-a36a-410f0497b745.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/19ed3a3a-4147-4559-b67d-1897709cd2c2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/km2eNAVujz0"
           },
           {
             "rank": "41",
@@ -6208,23 +6221,10 @@ const data = {
             "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
             "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
             "websiteUrl": "https://www.coze.com/",
-            "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "42",
-            "name": "Told",
-            "icon": null,
-            "title": "Told — Collect user feedback with in-product surveys",
-            "description": "A no-code survey tool that helps you collect user or customer feedback and understand your data simply.",
-            "productUrl": "https://www.producthunt.com/products/told-2/shoutouts",
-            "websiteUrl": "https://www.told.club/",
-            "imageUrl1": "https://ph-files.imgix.net/c40c5ca2-48a0-4ea4-b05c-943e75270b1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/12430d09-8030-4599-9c5c-446bdaf5393a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6a6ab32a-49cd-4eda-a6dc-9df4978a96cf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/KLpMdzHxG1A"
           },
           {
             "rank": "43",
@@ -6234,8 +6234,8 @@ const data = {
             "description": "Turn any Google sheet into an API instantly, for free. Power websites, apps, or whatever you like, all from a spreadsheet. Changes to your spreadsheet update your API in realtime.",
             "productUrl": "https://www.producthunt.com/products/sheety/shoutouts",
             "websiteUrl": "https://sheety.co/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/6218517b-3519-4e3d-b228-03c750afeb05.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/28413ba6-75d5-4430-a558-b9e48ae5c467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -6247,10 +6247,10 @@ const data = {
             "description": "A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML. Works with HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, and Pug.",
             "productUrl": "https://www.producthunt.com/products/eleventy/shoutouts",
             "websiteUrl": "https://11ty.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/e60e8048-20f5-4edc-a9cc-e56be3f44a1d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c84dd21e-c08d-4f03-82cd-cbff0191c5e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cb522799-e2ac-4b2d-b62b-8c50fb0e27f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BKdQEXqfFA0"
           },
           {
             "rank": "45",
@@ -6260,23 +6260,10 @@ const data = {
             "description": "Glide turns spreadsheets into beautiful, easy-to-use apps, without code. Pick a spreadsheet or start with a template, customize your app, then share it instantly with anyone. Start today for free!",
             "productUrl": "https://www.producthunt.com/products/glide-2/shoutouts",
             "websiteUrl": "http://glideapps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/86898684-0963-4efb-a3d0-805abfcdd0d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3e9cc42a-c1be-4a1d-ada6-fbdd3b999194.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0b93ec6c-4623-467a-b6a7-bfe5c00dbbd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "46",
-            "name": "BoilerBay",
-            "icon": null,
-            "title": "BoilerBay — Launch your dream project 10x faster",
-            "description": "The NextJS Starter Kit with everything you need to ship your product in days, not weeks. From idea to production 10x Faster.",
-            "productUrl": "https://www.producthunt.com/products/boilerbay/shoutouts",
-            "websiteUrl": "https://boilerbay.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/90abf13b-7b22-4259-9653-1f06b57072df.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/3277471a-ff3b-4b7e-8c71-8ead148a90cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/c5f7e053-5cb7-4631-aa74-111ec8aea3e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/StRizGWBqtA"
           },
           {
             "rank": "47",
@@ -6289,7 +6276,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YuV5ATYcY_I"
           },
           {
             "rank": "48",
@@ -6299,10 +6286,10 @@ const data = {
             "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
             "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
             "websiteUrl": "https://www.chameleon.io/",
-            "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/nDbUx3uJgbI"
           },
           {
             "rank": "49",
@@ -6318,19 +6305,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "50",
-            "name": "Streamlit",
-            "icon": null,
-            "title": "Streamlit — Turn python scripts into beautiful ML tools",
-            "description": "Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. Prototype quickly with hot-reloading, so your app updates live as you edit and save your file. Try it now: ⬇️ $pip install streamlit $streamlit hello",
-            "productUrl": "https://www.producthunt.com/products/streamlit/shoutouts",
-            "websiteUrl": "https://streamlit.io/",
-            "imageUrl1": "https://ph-files.imgix.net/6c0d3891-8271-4e59-9e54-a8b9e5dc8923.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/23088d95-4059-49eb-8381-d9dd82c22502.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
             "rank": "51",
             "name": "Redwood JS",
             "icon": "https://ph-files.imgix.net/18b4b5af-0507-4ace-869d-bbee1b8e0ab6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -6338,7 +6312,7 @@ const data = {
             "description": "Full-stack, multi-client JavaScript Framework built on React, GraphQL, and Prisma",
             "productUrl": "https://www.producthunt.com/products/redwood-js/shoutouts",
             "websiteUrl": "https://github.com/redwoodjs",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/879637e6-1e5d-4390-bb09-a4129556cdcf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -6351,10 +6325,10 @@ const data = {
             "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
             "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
             "websiteUrl": "https://novel.sh/",
-            "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rCM7fuYP2nU"
           },
           {
             "rank": "53",
@@ -6390,10 +6364,10 @@ const data = {
             "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
             "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
             "websiteUrl": "https://gadget.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pj01pMFlQ7I"
           },
           {
             "rank": "56",
@@ -6406,7 +6380,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/fb59d3f5-8794-4493-a79e-91ccdc640f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6e09611c-02a9-49ad-9e41-d7a8752895a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/79b97077-8a8f-40e7-82ec-25336ed88d95.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "57",
@@ -6432,7 +6406,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/85eef6d6-908c-4982-976e-6ff658cf18b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/e2f98ba2-a05e-4ac3-9de7-89805a8c0510.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/e99bb25e-3263-4c80-83ad-1acebc530c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "59",
@@ -6442,10 +6416,10 @@ const data = {
             "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
             "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
             "websiteUrl": "https://www.facebook.com/pxCode",
-            "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zJsajMMLUvY"
           },
           {
             "rank": "60",
@@ -6455,10 +6429,10 @@ const data = {
             "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
             "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
             "websiteUrl": "https://creatomate.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4miLz33EnY"
           },
           {
             "rank": "61",
@@ -6495,9 +6469,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/brizy/shoutouts",
             "websiteUrl": "https://www.brizy.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/16c2f00c-c585-4a4d-811d-97c10fcacecc.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/fe298537-7bc7-430f-a6ec-0804b4087080.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/5a53b4bc-e6bd-44c7-a8d4-8829d458519a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
       },
@@ -6553,9 +6527,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
             "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "5",
@@ -6581,7 +6555,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/1d403d77-4ccb-4ce7-98fb-5ce3ccbb4917.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/66da78c9-f9ee-4e79-8567-34210320aece.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/VnZX4HoXIhU"
           },
           {
             "rank": "7",
@@ -6591,8 +6565,8 @@ const data = {
             "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
             "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
             "websiteUrl": "https://www.workos.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -6604,10 +6578,10 @@ const data = {
             "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.",
             "productUrl": "https://www.producthunt.com/products/stytch/shoutouts",
             "websiteUrl": "https://stytch.com/",
-            "imageUrl1": "https://ph-files.imgix.net/125478d1-a98c-448d-a707-6c661d2d0dff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7ea7df98-8381-4fb9-b118-90ffd5569973.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c399c2e3-a7b2-435a-b509-2c7b7db9b731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/S9cTxaMGzzA"
           },
           {
             "rank": "9",
@@ -6656,8 +6630,8 @@ const data = {
             "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
             "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
             "websiteUrl": "https://www.kinde.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -6711,7 +6685,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/e7c58b7e-441b-4060-82f6-a330f8e2892b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/0764d8fc-9c33-4bc6-8251-effab25eed74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/9f41e10c-118a-47f3-9102-139b65baf5f6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "17",
@@ -6721,10 +6695,10 @@ const data = {
             "description": "Are you actively building APIs? Our AI enforces 100s of API Industry-Standards, including API Governance Top-10 List, resulting in Rapid Development, Consistent, and Highly Adoptable APIs. Early adopters get FREE Pro Plan worth $99/mo 👋",
             "productUrl": "https://www.producthunt.com/products/api-governance-testing/shoutouts",
             "websiteUrl": "https://apigovernance.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/e6bfaa18-0435-444f-953f-042ffd1f508f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/02e39aa2-7c9f-4147-91f0-9e8530bb4aa7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e78343f4-8b81-4c68-abf4-3d2affc698a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pMW7DxTVkhc"
           },
           {
             "rank": "18",
@@ -6747,10 +6721,10 @@ const data = {
             "description": "Doppler is the multi-cloud SecretOps Platform developers and security teams trust to provide secrets management at enterprise scale. Seamlessly manage and secure application secrets across cloud, environments, and team members.",
             "productUrl": "https://www.producthunt.com/products/doppler-2/shoutouts",
             "websiteUrl": "https://doppler.com/partners/product-hunt",
-            "imageUrl1": "https://ph-files.imgix.net/39bb9561-a247-40ae-ac90-e3cb22b3d4c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d9d49e15-c0bc-46a5-9deb-033b84fed729.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5274dc89-6bfd-42fc-827e-ebe03cced937.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/eNHjSEnBa9o"
           },
           {
             "rank": "20",
@@ -6798,10 +6772,10 @@ const data = {
             "description": "The NextJS boilerplate with all the stuff you need to get your product in front of customers. From idea to production in 5 minutes.",
             "productUrl": "https://www.producthunt.com/products/shipfast-2/shoutouts",
             "websiteUrl": "https://shipfa.st/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6b6b5c6b-fe20-43f2-860a-473fd9417785.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tT8hdQhrJVI"
           },
           {
             "rank": "2",
@@ -6811,10 +6785,10 @@ const data = {
             "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence.",
             "productUrl": "https://www.producthunt.com/products/nuxt-js/shoutouts",
             "websiteUrl": "https://nuxtjs.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/91ed0a8d-258a-48ff-a2f1-78d605018d5c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/o9e12WbKrd8"
           },
           {
             "rank": "3",
@@ -6824,7 +6798,7 @@ const data = {
             "description": "Vite is a build tool that aims to provide a faster and leaner development experience for modern web projects. A dev server that provides rich feature enhancements. A build command that bundles your code, pre-configured to output highly optimized static assets.",
             "productUrl": "https://www.producthunt.com/products/vite-2/shoutouts",
             "websiteUrl": "https://vitejs.dev/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/2615e2d3-36d0-42cd-9cdc-a6e10a36354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -6837,8 +6811,8 @@ const data = {
             "description": "Cloudflare Pages is a JAMstack platform for frontend developers to collaborate and deploy websites.",
             "productUrl": "https://www.producthunt.com/products/cloudflare-pages/shoutouts",
             "websiteUrl": "https://pages.cloudflare.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/4411882e-9da8-4a4d-b2bc-e3ac00ad4553.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/a1c66db9-4701-4b31-bcab-bde80c5b23f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -6863,10 +6837,10 @@ const data = {
             "description": "Build blazing fast websites by seamlessly deploying static assets alongside your APIs and application code.",
             "productUrl": "https://www.producthunt.com/products/cloudflare-workers/shoutouts",
             "websiteUrl": "https://workers.cloudflare.com/sites",
-            "imageUrl1": "https://ph-files.imgix.net/768f8a24-c17e-4ffb-a762-51ae805fa985.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/13050551-9e85-4c1f-9389-69c3d28d869f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/30c342ea-5415-4c78-96a6-4c311f5ea7ba.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/6YC3MgVwCGA"
           },
           {
             "rank": "7",
@@ -6876,10 +6850,10 @@ const data = {
             "description": "Build fast content-driven websites, powerful SPA web applications, dynamic server APIs and everything in-between.",
             "productUrl": "https://www.producthunt.com/products/astro-build-faster-websites/shoutouts",
             "websiteUrl": "https://astro.build/",
-            "imageUrl1": "https://ph-files.imgix.net/e11fc6f2-2f8b-46bc-9928-cfab172e298a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c019cc9e-ff9b-4955-9965-0622d5259a68.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5f3c36aa-af9a-4ca2-a421-718d10bd42ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5u0Ds7wzUeI"
           },
           {
             "rank": "8",
@@ -6889,23 +6863,10 @@ const data = {
             "description": "A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML. Works with HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, and Pug.",
             "productUrl": "https://www.producthunt.com/products/eleventy/shoutouts",
             "websiteUrl": "https://11ty.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/e60e8048-20f5-4edc-a9cc-e56be3f44a1d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c84dd21e-c08d-4f03-82cd-cbff0191c5e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cb522799-e2ac-4b2d-b62b-8c50fb0e27f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "9",
-            "name": "BoilerBay",
-            "icon": null,
-            "title": "BoilerBay — Launch your dream project 10x faster",
-            "description": "The NextJS Starter Kit with everything you need to ship your product in days, not weeks. From idea to production 10x Faster.",
-            "productUrl": "https://www.producthunt.com/products/boilerbay/shoutouts",
-            "websiteUrl": "https://boilerbay.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/90abf13b-7b22-4259-9653-1f06b57072df.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/3277471a-ff3b-4b7e-8c71-8ead148a90cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/c5f7e053-5cb7-4631-aa74-111ec8aea3e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BKdQEXqfFA0"
           },
           {
             "rank": "10",
@@ -6957,7 +6918,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/d2554b67-144a-495a-a78e-a654428afa78.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/037895a1-cd75-4868-af0a-ee6b1d69ec7b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/312ac5f8-ca81-4b5c-93aa-019b2ed2b995.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "14",
@@ -6970,7 +6931,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/7a8c1deb-6539-476c-bd6a-907c830b2394.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/397dff55-46ff-4866-9c1c-3180b9c1f485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/a731c07a-dc4a-4ec7-b287-d8b14fe0d75d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
       },
@@ -6978,19 +6939,6 @@ const data = {
         "sub_cat_name": "Testing and QA",
         "sub_cat_heading": "The best Testing and QA in 2024",
         "products": [
-          {
-            "rank": "1",
-            "name": "Tandemz",
-            "icon": null,
-            "title": "Tandemz — Recruit research participants in just a couple of clicks",
-            "description": "Find research participants from all over the world easily, for your interviews, usability tests, and surveys.",
-            "productUrl": "https://www.producthunt.com/products/tandemz/shoutouts",
-            "websiteUrl": "https://www.tandemz.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d7eb31fa-ea93-4b08-8b83-71d332ecf947.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/2eb8e348-f4ab-4b88-905f-f8463880354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/ef71eb4c-e181-4b8a-8f56-b32955d7f5c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
           {
             "rank": "2",
             "name": "Octomind",
@@ -7012,7 +6960,7 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/wallaby/shoutouts",
             "websiteUrl": "https://wallabyjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/369d1224-ab13-4b67-a420-406bc559f981.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -7025,23 +6973,10 @@ const data = {
             "description": "Are you actively building APIs? Our AI enforces 100s of API Industry-Standards, including API Governance Top-10 List, resulting in Rapid Development, Consistent, and Highly Adoptable APIs. Early adopters get FREE Pro Plan worth $99/mo 👋",
             "productUrl": "https://www.producthunt.com/products/api-governance-testing/shoutouts",
             "websiteUrl": "https://apigovernance.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/e6bfaa18-0435-444f-953f-042ffd1f508f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/02e39aa2-7c9f-4147-91f0-9e8530bb4aa7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e78343f4-8b81-4c68-abf4-3d2affc698a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "5",
-            "name": "Ellipsis",
-            "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "Ellipsis — AI code reviews & bug fixes",
-            "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
-            "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
-            "websiteUrl": "",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pMW7DxTVkhc"
           },
           {
             "rank": "6",
@@ -7051,10 +6986,10 @@ const data = {
             "description": "Create real, private email addresses on demand. Send and receive emails and attachments in application code and integration tests. Intuitive REST APIs and SDK Libraries. Free for personal use.",
             "productUrl": "https://www.producthunt.com/products/mailslurp/shoutouts",
             "websiteUrl": "https://www.mailslurp.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e1138665-11ad-4a30-8e55-a796f5a27bee.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f7be6729-0523-4a5f-970d-2a33eb278c54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0975cc2f-3d6a-44ce-96c9-ba876abccbbf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/D8D5ts14RUY"
           },
           {
             "rank": "7",
@@ -7064,10 +6999,10 @@ const data = {
             "description": "Toolkit to get the most out of your OpenAI account: Track API usage; Manage ChatGPT fine-tuning datasets; Create, monitor and cancel fine-tuning jobs; Review and visualize training logs; Test and compare fine-tuned and other models directly, and more.",
             "productUrl": "https://www.producthunt.com/products/openai-tools/shoutouts",
             "websiteUrl": "https://www.openaitools.io/",
-            "imageUrl1": "https://ph-files.imgix.net/39ee3401-161b-46b2-8baf-2d1dbb370b36.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a77a3b41-8cd7-4fe7-9e64-d779932513ca.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c4f741b9-68b0-431b-9aae-dfe89389574a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZFMahUWQin4"
           }
         ]
       },
@@ -7122,8 +7057,8 @@ const data = {
             "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
             "productUrl": "https://www.producthunt.com/products/tinybird/shoutouts",
             "websiteUrl": "https://www.tinybird.co/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/aa0cbe89-d3fb-4351-a072-3addc96eef1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/4754d6b1-cc5c-4c30-9bdc-1999745fa466.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -7138,7 +7073,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "6",
@@ -7174,10 +7109,10 @@ const data = {
             "description": "The universal API for meeting bots. Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more.",
             "productUrl": "https://www.producthunt.com/products/recall-ai/shoutouts",
             "websiteUrl": "https://recall.ai/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/d36334ce-3517-4e38-a1fd-7c481284cd41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vIEfNjDDjGc"
           },
           {
             "rank": "9",
@@ -7216,7 +7151,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/cd608ea0-fc48-41c5-942e-e4f561c7c732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/ed087d65-fd2e-45a4-851a-3c2e5b7459ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/5b2bf218-85a3-4400-9e07-085412ec472e.gif?fm=mp4&crop=max&w=555&h=320#t=0.001"
           },
           {
             "rank": "12",
@@ -7226,10 +7161,10 @@ const data = {
             "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
             "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
             "websiteUrl": "https://hasura.io/",
-            "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F2QZzdQ9igM"
           },
           {
             "rank": "13",
@@ -7239,10 +7174,10 @@ const data = {
             "description": "BaseTen is the fastest way to build apps powered by machine learning. Deploy models with a few lines of code, serve APIs without infrastructure or framework nightmares, and build stateful, interactive user interfaces to power real, functional applications.",
             "productUrl": "https://www.producthunt.com/products/baseten/shoutouts",
             "websiteUrl": "https://www.baseten.co/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/1c598821-c001-4927-9470-3de76b55ec60.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/GkC4aumr6BQ"
           },
           {
             "rank": "14",
@@ -7284,19 +7219,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "17",
-            "name": "Clearbit",
-            "icon": null,
-            "title": "Clearbit — Data to power your entire business",
-            "description": "Clearbit provides powerful products and data APIs to help your business grow. Contact enrichment, lead generation, financial compliance, and more...",
-            "productUrl": "https://www.producthunt.com/products/clearbit/shoutouts",
-            "websiteUrl": "https://clearbit.com/",
-            "imageUrl1": "https://ph-files.imgix.net/048a3c89-6dfc-4260-b1c7-e06794772a3f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/51d50186-3521-436b-bd74-6b86e1dbe54d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/d720636f-707a-412c-b665-2d168b3e82ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "18",
             "name": "Proxycurl",
             "icon": "https://ph-files.imgix.net/9a974efe-6ffa-4b9a-875e-bdc343992758.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -7304,7 +7226,7 @@ const data = {
             "description": "Proxycurl's Linkedin API takes a Linkedin Profile and returns scraped structured data of the profile",
             "productUrl": "https://www.producthunt.com/products/proxycurl/shoutouts",
             "websiteUrl": "https://nubela.co/proxycurl/linkedin",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/4a802c88-0f93-45e6-9085-d53e4a1be012.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -7317,8 +7239,8 @@ const data = {
             "description": "WorkOS provides APIs to make your app Enterprise Ready, with pre-built features and integrations required by IT admins. Start selling to enterprise customers with just a few lines of code. Add Single Sign-On (SSO), Directory Sync, Audit Logs and more to your app today.",
             "productUrl": "https://www.producthunt.com/products/workos/shoutouts",
             "websiteUrl": "https://www.workos.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/69850c82-51d5-4116-9ea0-7c26ff78f709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/b5de6902-ba66-4e46-8b08-9cf0a91faf19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -7330,10 +7252,10 @@ const data = {
             "description": "Stytch is a full stack authentication and authorization platform, whose APIs make it simple to seamlessly onboard, authenticate and engage users. Improve security and user experience by going passwordless.",
             "productUrl": "https://www.producthunt.com/products/stytch/shoutouts",
             "websiteUrl": "https://stytch.com/",
-            "imageUrl1": "https://ph-files.imgix.net/125478d1-a98c-448d-a707-6c661d2d0dff.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7ea7df98-8381-4fb9-b118-90ffd5569973.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c399c2e3-a7b2-435a-b509-2c7b7db9b731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/S9cTxaMGzzA"
           },
           {
             "rank": "21",
@@ -7356,10 +7278,10 @@ const data = {
             "description": "TERRA makes it easy to connect your app to wearables, through a single API. Connect to WHOOP, Oura, Garmin, Freestyle Libre, Peloton, Apple, Google, and all the integrations.",
             "productUrl": "https://www.producthunt.com/products/terra-2/shoutouts",
             "websiteUrl": "https://tryterra.co/",
-            "imageUrl1": "https://ph-files.imgix.net/65a94031-ac71-4ee8-97e3-a0b4282b7f97.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/30ff8f4d-9014-45b1-a137-4453c6c0f442.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c06ccd10-c5e6-4ac1-9434-6303bde5caf0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/dkG6ZM017ug"
           },
           {
             "rank": "23",
@@ -7382,10 +7304,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/polygon-io/shoutouts",
             "websiteUrl": "https://polygon.io/",
-            "imageUrl1": "https://ph-files.imgix.net/2e0c43e2-3260-4b3a-b42d-3dc2a858507c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ef7c49bf-04da-4587-9bae-b83921b78b19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1e72cd8b-bb85-43ef-a9df-a2f5e32bcc9c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BtMqNtJG8bU"
           },
           {
             "rank": "25",
@@ -7450,7 +7372,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YuV5ATYcY_I"
           },
           {
             "rank": "30",
@@ -7486,10 +7408,10 @@ const data = {
             "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
             "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
             "websiteUrl": "https://sievedata.com/",
-            "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F_OiR1dXyoI"
           },
           {
             "rank": "33",
@@ -7528,7 +7450,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/fb59d3f5-8794-4493-a79e-91ccdc640f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6e09611c-02a9-49ad-9e41-d7a8752895a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/79b97077-8a8f-40e7-82ec-25336ed88d95.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "36",
@@ -7538,10 +7460,10 @@ const data = {
             "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
             "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
             "websiteUrl": "https://gadget.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pj01pMFlQ7I"
           },
           {
             "rank": "37",
@@ -7603,10 +7525,10 @@ const data = {
             "description": "Rutter is a universal API for reading and writing commerce data across any accounting system, payment processor or ecommerce platform. Our new Accounting APIs make it easy to integrate with Quickbooks, Xero, Netsuite, Freshbooks and Sage with a single API.",
             "productUrl": "https://www.producthunt.com/products/rutter/shoutouts",
             "websiteUrl": "https://rutterapi.com/",
-            "imageUrl1": "https://ph-files.imgix.net/9de89340-8fc2-4c84-9222-31eb275812fa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/818fcbd2-f93c-4446-831c-81dc1740389e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/bbc3a44a-3c6a-4728-b8e0-d7aedc7a8731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mMjcStkRrS0"
           },
           {
             "rank": "42",
@@ -7630,9 +7552,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/tiktok-shop-app-store/shoutouts",
             "websiteUrl": "https://partner.us.tiktokshop.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/1818bf10-eba6-4b11-b32c-29c8fec8fea2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/11758ace-29d3-4b22-a177-150d4167777c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/6039e60f-f90a-4fa5-9324-e4e744c95218.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           }
         ]
       },
@@ -7715,8 +7637,8 @@ const data = {
             "websiteUrl": "http://music.youtube.com/",
             "imageUrl1": "https://ph-files.imgix.net/54f9e4b9-87fb-447b-84a7-bcc4874ec712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/0214ffe9-79a6-4750-aa62-825de28fffcf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/cb4f8eb8-c05d-4929-83a0-a44addd4c2f5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "7",
@@ -7726,10 +7648,10 @@ const data = {
             "description": "StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.",
             "productUrl": "https://www.producthunt.com/products/streamyard/shoutouts",
             "websiteUrl": "https://streamyard.com/",
-            "imageUrl1": "https://ph-files.imgix.net/68168793-fa61-4f75-81ca-3af75eebb88a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/067f268f-29e6-45b3-9637-4134052c7421.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/92cd77c5-e750-4a4b-8bf7-9fbb51001fdf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/An5ko-YEp1o"
           },
           {
             "rank": "8",
@@ -7765,10 +7687,10 @@ const data = {
             "description": "Sieve is an API that helps you store, process, and automatically search video data–instantly and efficiently. Find the 1% of data that’s interesting within petabytes of raw video, tag important metadata, and build high-quality datasets with Sieve.",
             "productUrl": "https://www.producthunt.com/products/sieve-3/shoutouts",
             "websiteUrl": "https://sievedata.com/",
-            "imageUrl1": "https://ph-files.imgix.net/5ea43980-aa72-42c1-b62b-1de70b507692.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/30b91046-84b3-49ac-b422-292a6697dc53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d73aa285-7976-4c5d-a4e9-021e02e2dc4f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F_OiR1dXyoI"
           },
           {
             "rank": "11",
@@ -7778,8 +7700,8 @@ const data = {
             "description": "It's getting harder than ever to stand out above the noise and engage your prospects and customers. Buying committees have grown larger, inboxes more flooded, and prospects spend more time conducting their own research. Vidyard is building a suite of products that allows teams to adapt and take advantage of these trends. Visit our site to learn more!",
             "productUrl": "https://www.producthunt.com/products/vidyard-studio/shoutouts",
             "websiteUrl": "https://www.vidyard.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/95e92da0-983c-418a-8518-15c7ef476c33.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0c85d01a-eb80-49f0-8bae-7774b91071b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -7791,7 +7713,7 @@ const data = {
             "description": "We create, manage and deliver engaging experiences at scale",
             "productUrl": "https://www.producthunt.com/products/cloudinary/shoutouts",
             "websiteUrl": "https://cloudinary.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/aaac3e0a-eb5f-4693-ae7a-08f7df4a55c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -7817,10 +7739,10 @@ const data = {
             "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
             "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
             "websiteUrl": "https://creatomate.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4miLz33EnY"
           },
           {
             "rank": "15",
@@ -7843,8 +7765,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/youtube-2/shoutouts",
             "websiteUrl": "https://www.youtube.com/new",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9db20c9b-a4d3-499d-85b7-a658f15f0fe4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66657bac-0622-45b6-b881-e589ad7dd88d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -7881,7 +7803,7 @@ const data = {
             "description": "Vercel is a platform for frontend developers to deploy and manage web applications efficiently. It offers serverless infrastructure and integrations with popular frameworks and tools, focusing on performance and scalability.",
             "productUrl": "https://www.producthunt.com/products/vercel/shoutouts",
             "websiteUrl": "https://vercel.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e69437f3-2b92-40e1-b164-61b01134e5ea.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -7907,10 +7829,10 @@ const data = {
             "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
             "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
             "websiteUrl": "https://digitalocean.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rR4R9tp-4bs"
           },
           {
             "rank": "4",
@@ -7933,8 +7855,8 @@ const data = {
             "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
             "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
             "websiteUrl": "https://aws.amazon.com/lightsail",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -7959,7 +7881,7 @@ const data = {
             "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
             "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
             "websiteUrl": "https://laravel.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -7972,10 +7894,10 @@ const data = {
             "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.",
             "productUrl": "https://www.producthunt.com/products/remix-5/shoutouts",
             "websiteUrl": "https://remix.run/",
-            "imageUrl1": "https://ph-files.imgix.net/1e43896b-6ea9-48f4-bbdb-ff8128907b81.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "",
+            "imageUrl3": "https://ph-files.imgix.net/dc0533fc-f70d-4084-88b9-095d239c61d0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/9FDV-VCq5XE"
           },
           {
             "rank": "9",
@@ -7985,10 +7907,10 @@ const data = {
             "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
             "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
             "websiteUrl": "https://www.convex.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wISChclk5lM"
           },
           {
             "rank": "10",
@@ -8020,7 +7942,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/231a0994-400c-4e17-b897-177f54404301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/f4b8b63f-0880-49df-8a29-c43582316183.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/661c6ee8-aca9-45c4-89f5-2bb7014fd845.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -8059,7 +7981,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/3cebafba-ea6f-41cd-bff2-b30606c8e98c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/90b49ef7-769c-4174-916e-c58a766acddd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/8e13e113-5583-4226-ac7d-8976d5ad9ca9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "5",
@@ -8069,10 +7991,10 @@ const data = {
             "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
             "productUrl": "https://www.producthunt.com/products/fullstory/shoutouts",
             "websiteUrl": "http://www.fullstory.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fa5456a0-6c1f-4454-b1a1-b54fa3229315.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ce59303e-7b35-4f15-8a12-7dea4304a5af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2b3a0d48-9222-4669-bd9f-4360d3f9e4c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YaaHrCr3a9U"
           },
           {
             "rank": "6",
@@ -8083,9 +8005,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/uptimerobot/shoutouts",
             "websiteUrl": "https://uptimerobot.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/8bb090db-89a3-4a0a-9fb8-138bea80dbf7.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/80ab08c2-5fd8-4b66-9bca-0ff69db343a9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/b6d6075e-b1b9-442c-b0cf-9d77ed59c2e6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "7",
@@ -8095,8 +8017,8 @@ const data = {
             "description": "Google Analytics is a comprehensive web analytics tool offered by Google that provides valuable insights into the performance and behavior of websites, mobile apps, and other digital platforms. It allows businesses and website owners to track and analyze a wide range of data, enabling them to make informed decisions and optimize their online presence.",
             "productUrl": "https://www.producthunt.com/products/google-analytics/shoutouts",
             "websiteUrl": "https://marketingplatform.google.com/about/analytics",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/8804100e-2051-4a4e-8129-22e2d4281d53.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/685a9c88-76ee-44df-a88b-daa89f42b877.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -8121,10 +8043,10 @@ const data = {
             "description": "All in one site: web analytics, blog content, Twitter, Facebook, Instagram, publication planner, real-time and more. The ultimate tool for analysing, managing and measuring the success of all your digital content and campaigns. Free of charge. Complete. Intuitive.",
             "productUrl": "https://www.producthunt.com/products/metricool/shoutouts",
             "websiteUrl": "http://metricool.com/",
-            "imageUrl1": "https://ph-files.imgix.net/22d14087-509b-477d-b99f-4ffcd20e5983.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/abc748b1-255f-4d99-926d-1a71182b6a00.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fc4324b0-a273-4ff2-9f4e-278d5d50ba15.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ikl6JU0rgH8"
           },
           {
             "rank": "10",
@@ -8149,8 +8071,8 @@ const data = {
             "websiteUrl": "http://www.hotjar.com/",
             "imageUrl1": "https://ph-files.imgix.net/f01a6719-969e-4992-8435-a984d277d006.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/9312d8bc-bacd-42d3-b400-8b90345ef16b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/GhTvP_Ead68"
           },
           {
             "rank": "12",
@@ -8186,10 +8108,10 @@ const data = {
             "description": "TelemetryDeck is a service that helps app and web developers improve their product by supplying immediate, accurate analytics data while users use your app. And the best part: It's all anonymized so your users' data stays private!",
             "productUrl": "https://www.producthunt.com/products/telemetrydeck/shoutouts",
             "websiteUrl": "https://telemetrydeck.com/",
-            "imageUrl1": "https://ph-files.imgix.net/74aaf714-87b1-4751-94dc-62e3ba5a7e48.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f36eecbe-2cbd-42e4-a4e4-69fd3723a82e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/8003167e-bb66-4826-8598-e9758d259c22.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5hXs4Mymfz4"
           },
           {
             "rank": "15",
@@ -8199,8 +8121,8 @@ const data = {
             "description": "Fathom is a simple, light-weight, privacy-focused alternative to Google Analytics. So, stop scrolling through pages of reports and collecting gobs of personal data about your visitors, both of which you probably don’t need. Our website stats show up on a single, blazingly fast dashboard so you can make business decisions quickly.",
             "productUrl": "https://www.producthunt.com/products/fathom-analytics/shoutouts",
             "websiteUrl": "https://usefathom.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/a7e5c47b-588c-42a8-8839-75fbbd5e99ee.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/aeded0c8-4ed3-472a-a72a-d30860c94ca3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
