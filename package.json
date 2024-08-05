@@ -117,7 +117,8 @@
     "savingapp":"node finance/savingapp.js",
     "startup": "node finance/startup.js",
     "stocktrading": "node finance/stocktrading.js",
-    "tax": "node finance/tax.js"
+    "tax": "node finance/tax.js",
+    "testAlgo": "node testAlgo.js"
     
   },
   "keywords": [],

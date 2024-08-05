@@ -59,7 +59,7 @@ const data = {
             "description": "Create native apps for Android, iOS, and more using React.",
             "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
             "websiteUrl": "http://facebook.github.io/react-native",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -84,11 +84,11 @@ const data = {
             "title": "ToDesktop — Convert your web app to a desktop app in 2 minutes",
             "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality.",
             "productUrl": "https://www.producthunt.com/products/todesktop/shoutouts",
-            "websiteUrl": "",
+            "websiteUrl": "https://ph-files.imgix.net/54db3047-631a-49ba-a61e-0be18517fd5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl1": "",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/b36d404a-ed12-4a9a-a621-087b1ce3c1ce.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/0baaea7c-806c-4227-b71c-09363b95b50d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "4",
@@ -111,10 +111,10 @@ const data = {
             "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
             "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
             "websiteUrl": "https://apparencekit.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/JbUWROBEiNM"
           },
           {
             "rank": "6",
@@ -264,7 +264,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/a9e7425a-7510-46a8-a663-d3b858590075.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6a8f48a7-77f9-406e-9b73-79108150f9e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/c676fe01-ca21-42f4-9873-fb5b561e94a9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -300,10 +300,10 @@ const data = {
             "description": "Lark combines a multitude of essential collaboration tools in a single interconnected platform, including Chat, Calendar, Creation and Cloud storage. These functions are always in sync, and are easy access from one to the next.",
             "productUrl": "https://www.producthunt.com/products/lark-3/shoutouts",
             "websiteUrl": "https://www.larksuite.com/",
-            "imageUrl1": "https://ph-files.imgix.net/095cbbdf-9656-4380-b248-ed47b2382d69.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bea7ef1b-5570-41fd-a6cb-2ed016e2c9ae.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6c56f740-cd82-4f6b-a15f-0b6d7698b0a4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/weF0O7OiFeM"
           },
           {
             "rank": "5",
@@ -313,10 +313,10 @@ const data = {
             "description": "The joyful productivity app. Schedule time for todos, events, and contacts.",
             "productUrl": "https://www.producthunt.com/products/amie-2/shoutouts",
             "websiteUrl": "https://amie.so/",
-            "imageUrl1": "https://ph-files.imgix.net/eb996ece-8019-43de-9b30-93163d765005.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7c54e5af-0da2-43ab-ae6c-36193c1d2780.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9d355ab9-42b1-4d2c-b526-fe22c26af9c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/y3_kGXJfDWY"
           },
           {
             "rank": "6",
@@ -342,7 +342,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/40345375-b937-4dbe-b968-a08caab8c946.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/a7c848ba-99de-477c-b0c5-2464a4fe80cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/0aae07a3-e2a2-46db-9fcb-30bde1a8201c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "8",
@@ -352,10 +352,10 @@ const data = {
             "description": "Simplify life for both you and your team. The world’s #1 task manager and to-do list app.",
             "productUrl": "https://www.producthunt.com/products/todoist/shoutouts",
             "websiteUrl": "https://todoist.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cfc10262-a5f9-4a33-abf7-7d6860193c8d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6f7f470c-7e0d-4b96-ad00-ff34e8006354.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6165aaab-6e55-4a80-923d-41f086b305f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Gho8mQuRJqs"
           },
           {
             "rank": "9",
@@ -365,10 +365,10 @@ const data = {
             "description": "Dashy is an all-in-one app to organize your life and projects. It brings together common tools and data so everything is accessible from a single location, eliminating the need to navigate multiple platforms to find what you are looking for.",
             "productUrl": "https://www.producthunt.com/products/dashy-3/shoutouts",
             "websiteUrl": "https://dashy.io/",
-            "imageUrl1": "https://ph-files.imgix.net/a61a6830-aa13-4239-8789-04f7e9da938a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/474d8aa9-1586-4a5c-915e-da97b638c322.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f66e07ea-48dd-4c5f-b9f0-ea64a2e11c4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YNCzZjni1s8"
           },
           {
             "rank": "10",
@@ -381,7 +381,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/00bd90e5-bf66-47cd-b318-b03e5780a389.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/c6291dc1-e955-4883-a0d1-9ab2311b601f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/9d3b261b-52b7-42ef-9bdd-db5868dd7b71.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "11",
@@ -404,10 +404,10 @@ const data = {
             "description": "Clear 2 is redesigned and remade from the ground up, featuring features and gestures, a vibrantly colorful design for its collectible themes, and a deep dive into personalization, including customizable gestures.",
             "productUrl": "https://www.producthunt.com/products/clear-2-2/shoutouts",
             "websiteUrl": "https://useclear.com/",
-            "imageUrl1": "https://ph-files.imgix.net/15463e19-5395-412c-b833-b9c068b9aefb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d31fd598-bb2b-4064-a2fe-5bd230f0e1c8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/83ba93c9-9a11-4058-8de0-e32f167b9ddd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/_Xw2dVlXzfE"
           }
         ]
         
@@ -450,10 +450,10 @@ const data = {
             "description": "Zendesk is a service-first CRM company that builds software designed to improve customer relationships. As employees, we encourage each other to grow and innovate. As a company, we roll up our sleeves to plant roots in the communities we call home.",
             "productUrl": "https://www.producthunt.com/products/zendesk/shoutouts",
             "websiteUrl": "http://www.zendesk.com/",
-            "imageUrl1": "https://ph-files.imgix.net/f7e02db9-904d-4b7d-9e25-d25da44d635c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f45c2408-f4db-43ff-813d-86184fa1287a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3c976ef-6bc4-4316-b1fe-ee9d44a03bcb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/6sSZNSsQQZg"
           },
           {
             "rank": "4",
@@ -489,7 +489,7 @@ const data = {
             "description": "A free, fast & beautiful way to collect and organize user feedback in a central place. Prioritize feedback, create a roadmap with just a few clicks and keep everyone up-to-date with the roadmap.",
             "productUrl": "https://www.producthunt.com/products/nolt/shoutouts",
             "websiteUrl": "http://nolt.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/73a9948c-ecfe-4ea1-a0e2-450d0a761923.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -502,7 +502,7 @@ const data = {
             "description": "Build customized ChatGPT-like agents that understand both your standards and your business context in seconds with no code — anything from a customer support chatbot, an internal AI search engine, to a full-scale CEO assistant.",
             "productUrl": "https://www.producthunt.com/products/mindpal-for-youtube/shoutouts",
             "websiteUrl": "https://mindpal.space/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -541,7 +541,7 @@ const data = {
             "description": "Deliver personalized engagement at scale with the Twilio Customer Engagement Platform. Build or buy your ideal customer engagement experience on a trusted, global platform that combines the best in digital communication channels, first-party customer data, and flexible, easy-to-build solutions.",
             "productUrl": "https://www.producthunt.com/products/twilio-2/shoutouts",
             "websiteUrl": "https://www.twilio.com/customer-engagement-platform",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/ec436093-898e-47d2-af67-3f271bda57b8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -556,8 +556,8 @@ const data = {
             "websiteUrl": "https://segment.com/",
             "imageUrl1": "https://ph-files.imgix.net/564264b4-09b8-4809-8030-bf8f2b5589d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/470d2871-b225-47ca-a306-3bb2662aed31.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/3fb9f0cc-9716-4db9-9556-bab99efafdc3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "12",
@@ -567,8 +567,8 @@ const data = {
             "description": "Featurebase helps you understand what ideas or problems your customers have about your product and, therefore, helps you steer your startup in the right direction. You can capture all their feedback, bug reports and feature requests on a public board.",
             "productUrl": "https://www.producthunt.com/products/featurebase/shoutouts",
             "websiteUrl": "https://featurebase.app/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/d5a756a1-6179-4d41-b057-3b00417aba43.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66dabc4f-be6e-40b4-86f1-30368ebba169.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -658,8 +658,8 @@ const data = {
             "description": "Leaders in Conversational Voice AI. We're building generative AI voices for the conversational future. Join https://discord.gg/yBbq7UfUsF",
             "productUrl": "https://www.producthunt.com/products/play-ht/shoutouts",
             "websiteUrl": "https://play.ai/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/ca4f8595-90ab-4689-8389-fb9d7e1fc93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/4a642ef0-fef7-4e4d-b885-61a4cd1a0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -755,19 +755,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "27",
-            "name": "Chaty",
-            "icon": null,
-            "title": "Chaty — Connect with your customers on 20+ popular messaging apps",
-            "description": "Provide your website visitors' a frictionless customer communication by allowing customers easy access to all the platforms you’re available on improving your customers’ experience and increasing your chances of conversion or sales.",
-            "productUrl": "https://www.producthunt.com/products/chaty/shoutouts",
-            "websiteUrl": "https://chaty.app/",
-            "imageUrl1": "https://ph-files.imgix.net/aceda95a-2b40-4d4e-b02a-e6b18288dec4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/135a7097-e584-4fb6-900a-10be806b1d2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/b00d130f-9459-4d86-9b2a-373b68465512.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "28",
             "name": "Survser",
             "icon": "https://ph-files.imgix.net/f3bdd5bb-7b27-4536-821f-88ed8473890c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -775,10 +762,10 @@ const data = {
             "description": "Survser is an easy and affordable solution for in-app user surveys. Ask your users the right questions at the right time and uncover growth paths for your product.",
             "productUrl": "https://www.producthunt.com/products/survser/shoutouts",
             "websiteUrl": "https://survser.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3c54ec42-5b51-47df-b5bf-bce1749fa72b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0f0036ce-0cc3-4d59-bdf2-af46324952fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/424f902a-a20d-4734-a531-ce5894300585.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/y-2k8wldPRw"
           },
           {
             "rank": "29",
@@ -801,10 +788,10 @@ const data = {
             "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
             "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
             "websiteUrl": "https://www.chameleon.io/",
-            "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/nDbUx3uJgbI"
           },
           {
             "rank": "31",
@@ -815,9 +802,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/enlightup-io/shoutouts",
             "websiteUrl": "https://enlightup.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/a3011bd6-12b7-4d2e-b7f3-77df6f4f89de.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/416843d9-f851-4228-9554-c9a9517cc17d.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/911dd9f3-3b65-4f13-8592-6001fc4476d4.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "32",
@@ -840,7 +827,7 @@ const data = {
             "description": "The modern business landscape is constantly growing and changing according to modern technological trends and customer demands. It is a market of tough competition and only on-point services to a…",
             "productUrl": "https://www.producthunt.com/products/medium-4/shoutouts",
             "websiteUrl": "https://medium.com/successivetech/what-is-salesforce-billing-cpq-645cd5d89e1c",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/bd8818bf-5923-45b9-9645-dfccb6c37f54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -977,10 +964,10 @@ const data = {
             "description": "Email, group chat and tasks for productive teams. One app for all your internal and external communication. Work management at its best. Try it free!",
             "productUrl": "https://www.producthunt.com/products/missive/shoutouts",
             "websiteUrl": "https://missiveapp.com/",
-            "imageUrl1": "https://ph-files.imgix.net/2077087c-3a5d-4d59-889d-289fc1af99c9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/73a661a5-02c6-41e4-88f5-8b7e1412d151.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f6dfa58d-88ef-4cea-b1a5-a78145648783.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/q2_CzVlsqEo"
           },
           {
             "rank": "4",
@@ -1005,8 +992,8 @@ const data = {
             "websiteUrl": "http://www.gmail.com/",
             "imageUrl1": "",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/48e5fafd-e45b-49b7-82e9-5899f35ea73d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/c24b933c-44e3-4cde-863a-e799787035a8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "6",
@@ -1019,7 +1006,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/00bd90e5-bf66-47cd-b318-b03e5780a389.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/c6291dc1-e955-4883-a0d1-9ab2311b601f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/9d3b261b-52b7-42ef-9bdd-db5868dd7b71.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "7",
@@ -1029,10 +1016,10 @@ const data = {
             "description": "Create real, private email addresses on demand. Send and receive emails and attachments in application code and integration tests. Intuitive REST APIs and SDK Libraries. Free for personal use.",
             "productUrl": "https://www.producthunt.com/products/mailslurp/shoutouts",
             "websiteUrl": "https://www.mailslurp.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e1138665-11ad-4a30-8e55-a796f5a27bee.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f7be6729-0523-4a5f-970d-2a33eb278c54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0975cc2f-3d6a-44ce-96c9-ba876abccbbf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/D8D5ts14RUY"
           },
           {
             "rank": "8",
@@ -1062,10 +1049,10 @@ const data = {
             "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
             "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
             "websiteUrl": "https://digitalocean.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rR4R9tp-4bs"
           },
           {
             "rank": "2",
@@ -1075,8 +1062,8 @@ const data = {
             "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
             "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
             "websiteUrl": "https://aws.amazon.com/lightsail",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1114,10 +1101,10 @@ const data = {
             "description": "Auto-personalized deal rooms for revenue teams & clients that unite everything & everyone in the process in a single link. 🪄 Deliver an outstanding buying experience that increases conversion 📈 shortens deal cycles, and eases onboardings and renewals. 🚀",
             "productUrl": "https://www.producthunt.com/products/flowla/shoutouts",
             "websiteUrl": "https://flowla.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cb886a74-0f12-4b8d-a604-dbf2cbb4a8da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9ef1d574-2b59-4663-b627-adc6dacbdf07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/dfe86030-ec7d-4634-a18d-63d6e79e6ab3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zobkSbYp0Do"
           },
           {
             "rank": "6",
@@ -1127,10 +1114,10 @@ const data = {
             "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
             "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
             "websiteUrl": "https://signup.kleversuite.com/auth/register",
-            "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/6FVuVvwextU"
           },
           {
             "rank": "7",
@@ -1140,10 +1127,10 @@ const data = {
             "description": "The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.",
             "productUrl": "https://www.producthunt.com/products/ipfs/shoutouts",
             "websiteUrl": "https://ipfs.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/a0e112e3-1de7-45b9-ab9a-beec02eea9e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/8CMxDNuuAiQ"
           },
           {
             "rank": "8",
@@ -1154,9 +1141,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/compressx/shoutouts",
             "websiteUrl": "https://hieudinh.com/compressx",
             "imageUrl1": "https://ph-files.imgix.net/f1f9af90-d469-47d0-9891-41a6bb625ed7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/63b16272-7243-4d33-ad19-b782a88d1af7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl2": "",
             "imageUrl3": "https://ph-files.imgix.net/34033f43-f14e-4097-93fd-835a31f00c5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/XRbSk47mtu8"
           },
           {
             "rank": "9",
@@ -1205,7 +1192,7 @@ const data = {
             "description": "Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage. Manage your AWS S3 buckets. AWS S3 Tool has following features: - With Amazon Web Services (AWS) S3 profiles manage S3 buckets easily - Delete Files from S3 buckets - Download Files from S3 buckets - Upload Files to S3 Buckets https://www.youtube.com/watch?v=2fQKEpt9_S4",
             "productUrl": "https://www.producthunt.com/products/aws-s3-tool/shoutouts",
             "websiteUrl": "https://www.microsoft.com/store/p/aws-s3-tool/9p6q0xr4gmgg",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/9019cd6d-0a06-44f3-a981-c7f954a756a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1264,7 +1251,7 @@ const data = {
             "description": "64% of job seekers get hired through a referral. Use LinkedIn Jobs to boost your chances of getting hired through people you know.",
             "productUrl": "https://www.producthunt.com/products/linkedin-2/shoutouts",
             "websiteUrl": "https://www.linkedin.com/jobs",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6e3ef5d8-0e4a-4966-9e18-8ec7943bed70.x-icon?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1277,10 +1264,10 @@ const data = {
             "description": "Search 18,000+ open roles at 6,000+ remote companies. Filter by location, tech stack, salary, company size, full-time/part-time and more!",
             "productUrl": "https://www.producthunt.com/products/remote-rocketship/shoutouts",
             "websiteUrl": "http://www.remoterocketship.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e59bc327-205c-40a0-bc64-75c9e81bde14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0888ac2d-0da1-41d7-a508-3f5b358d072b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cfcf3876-7136-4abb-bbbc-4dd465ba4d38.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/xvSu5_cxboI"
           },
           {
             "rank": "3",
@@ -1290,10 +1277,10 @@ const data = {
             "description": "Findem’s Impossible Search lets you find candidates who have the EXACT attributes you’re looking for in a new hire. We’ve exposed 100+ Impossible Searches for free across different roles, so everyone can experience the magic for themselves!",
             "productUrl": "https://www.producthunt.com/products/findem/shoutouts",
             "websiteUrl": "https://www.findem.ai/#scroll",
-            "imageUrl1": "https://ph-files.imgix.net/7b9d8210-a21b-4428-8341-db8890fabed4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9e97ea43-2134-4877-9e79-732201271a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6aadb21f-c161-489a-8ed3-60190715c30a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/pTXlV3npRHM"
           }
         ]
        
@@ -1352,7 +1339,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/095c2bff-42b9-4dd2-aeca-d2fbe15fc272.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/937c8ffc-614e-4120-a4bf-64cb22c29a11.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/9da04a44-b924-438d-9f13-98d3dd3a7415.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "5",
@@ -1375,10 +1362,10 @@ const data = {
             "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
             "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
             "websiteUrl": "https://signup.kleversuite.com/auth/register",
-            "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/6FVuVvwextU"
           },
           {
             "rank": "7",
@@ -1391,19 +1378,6 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/766046a2-205d-41bf-ac12-455c727bd526.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/d22a29c2-519d-4180-80da-1b3eea24e0de.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f5d20f77-bd24-41bc-ab5a-38c3abb2813f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "8",
-            "name": "AFFiNE",
-            "icon": null,
-            "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-            "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-            "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-            "websiteUrl": "https://affine.pro/",
-            "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -1428,9 +1402,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/coda/shoutouts",
             "websiteUrl": "https://coda.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/4159b8b9-1559-4d2a-9762-9f1315a3d4ae.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/5912e6cd-7062-4645-9f69-28e682bc687d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/5a3463e6-e7ef-49bb-b2cd-67daacc1c60f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "11",
@@ -1440,10 +1414,10 @@ const data = {
             "description": "Realm App is a literacy and productivity tool as a browser extension. Users can customize their workspaces using a range of widgets such as bookmarks and curated reading lists, to suit their role and usage.",
             "productUrl": "https://www.producthunt.com/products/realm-app/shoutouts",
             "websiteUrl": "https://realmapp.io/",
-            "imageUrl1": "https://ph-files.imgix.net/bfe74dd2-f462-41ff-863c-c33ab83c0c03.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5434b6cb-f957-4d2f-9a06-0f563090ed6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/38301c4e-f9c0-4495-ba6a-45b9f9c228fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/b3P5URPw9zY"
           },
           {
             "rank": "12",
@@ -1466,7 +1440,7 @@ const data = {
             "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
             "productUrl": "https://www.producthunt.com/products/capacities/shoutouts",
             "websiteUrl": "https://capacities.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/842ec9da-9044-4651-9122-711b771694be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1479,10 +1453,10 @@ const data = {
             "description": "Nuclino serves as your team's collective brain – stay connected to it while you’re on the go! Nuclino allows you to create real-time collaborative documents and connect them instantly like a wiki. The tree, board, and graph views let you explore and organize your knowledge visually. It's perfect for anything, from quick notes to detailed documentation.",
             "productUrl": "https://www.producthunt.com/products/nuclino/shoutouts",
             "websiteUrl": "https://www.nuclino.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c5d04e73-6aab-4a80-9399-c7dc506bbb38.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ce005e23-283c-490e-b108-1b18540b10dc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d21029af-f497-4b60-8fea-38191ea6a25f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AS0GJh1DE64"
           },
           {
             "rank": "15",
@@ -1518,10 +1492,10 @@ const data = {
             "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
             "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
             "websiteUrl": "https://notaku.so/product/docs",
-            "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RAjffRSNT0g"
           },
           {
             "rank": "18",
@@ -1544,10 +1518,10 @@ const data = {
             "description": "Tettra is an AI powered knowledge management system that lets you: 1. Curate important company information into a knowledge base 2. Instantly answer team questions in Slack via an AI powered bot 3. Keep your knowledge up-to-date and organized with automation",
             "productUrl": "https://www.producthunt.com/products/tettra/shoutouts",
             "websiteUrl": "https://tettra.com/",
-            "imageUrl1": "https://ph-files.imgix.net/44a6ac1e-7f4e-4bfa-bea4-26c6ac9ef907.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7d3b4148-b0b5-47ef-a237-0147b3a185be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/68b804d0-83af-401c-a226-e57a524887a2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/h1QiQvTS1YQ"
           },
           {
             "rank": "20",
@@ -1560,7 +1534,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/85eef6d6-908c-4982-976e-6ff658cf18b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/e2f98ba2-a05e-4ac3-9de7-89805a8c0510.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/e99bb25e-3263-4c80-83ad-1acebc530c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "21",
@@ -1603,8 +1577,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/termly/shoutouts",
             "websiteUrl": "https://termly.io/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/9bc57a4b-8316-41ae-b6c8-981c79f99cd4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/350f25c5-caf3-483e-90f8-8d6fc54c371a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1616,8 +1590,8 @@ const data = {
             "description": "Clerky is the only online legal service obsessed with helping startup founders get legal paperwork done safely. Get your legal paperwork done with confidence, so you can get back to building your startup.",
             "productUrl": "https://www.producthunt.com/products/clerky/shoutouts",
             "websiteUrl": "https://www.clerky.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/6d562aae-c037-44c6-8f70-fe762228891b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2636e6df-262a-464a-8b9b-6db6fca451bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -1638,8 +1612,8 @@ const data = {
             "websiteUrl": "https://www.tldv.io/",
             "imageUrl1": "https://ph-files.imgix.net/70a5a18d-a26a-4a5d-aa7c-3172164f0f0e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/e6cdd439-14bd-4867-a60e-fc0a8e1a1e6d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/igSn0bX4izw"
           },
           {
             "rank": "2",
@@ -1649,10 +1623,10 @@ const data = {
             "description": "The universal API for meeting bots. Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more.",
             "productUrl": "https://www.producthunt.com/products/recall-ai/shoutouts",
             "websiteUrl": "https://recall.ai/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/d36334ce-3517-4e38-a1fd-7c481284cd41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vIEfNjDDjGc"
           },
           {
             "rank": "3",
@@ -1675,23 +1649,10 @@ const data = {
             "description": "Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.",
             "productUrl": "https://www.producthunt.com/products/calendly/shoutouts",
             "websiteUrl": "http://calendly.com/",
-            "imageUrl1": "https://ph-files.imgix.net/f401e2a1-a6a8-4da7-a360-c8003d60bbd8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a6414f94-38f9-49a8-bd4c-98265a3adfd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e2bf550b-ebb9-42ab-8875-82d7be504018.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "5",
-            "name": "Krisp",
-            "icon": null,
-            "title": "Krisp — Magically mutes background noise during calls",
-            "description": "Krisp is a superior noise cancelling app that mutes background noise in real time calls. With one click it removes all extraneous noises for incoming and outgoing calls. Available on Windows, Mac, and iOS.",
-            "productUrl": "https://www.producthunt.com/products/krisp/shoutouts",
-            "websiteUrl": "https://krisp.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/7d9908cf-aed2-48d3-9bb1-d5df74245862.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/1811dacf-b137-49c3-98c6-aaf15b0dcdc2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/10b52e64-006d-41f3-9fce-26ff9707c2c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/GjJDlDwSf9E"
           },
           {
             "rank": "6",
@@ -1701,10 +1662,10 @@ const data = {
             "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
             "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
             "websiteUrl": "https://www.usebacktrack.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/oD-phHlm388"
           },
           {
             "rank": "7",
@@ -1740,10 +1701,10 @@ const data = {
             "description": "Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.",
             "productUrl": "https://www.producthunt.com/products/gamma-3/shoutouts",
             "websiteUrl": "https://gamma.app/",
-            "imageUrl1": "https://ph-files.imgix.net/4c2da502-48fc-4631-ab27-605dcba43789.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/37842e29-252a-4906-91c2-dc343fa9bcdf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c0624464-a0bd-4103-940c-5d8270af21e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/r9VOYJM6nZc"
           }
         ]
        
@@ -1799,8 +1760,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/google-docs/shoutouts",
             "websiteUrl": "https://drive.google.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/4fed8ad1-db3b-43ff-b142-4fd85d0c53d2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/3cb575e1-8d32-48ea-9172-569b7d757e83.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1825,10 +1786,10 @@ const data = {
             "description": "Atlassian develops products for software development, project management, and content management.",
             "productUrl": "https://www.producthunt.com/products/atlassian/shoutouts",
             "websiteUrl": "http://www.atlassian.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3a5eb72a-78f8-4a97-a823-d60aace1174e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1e9d7311-1a68-4ef6-9d1b-1165f69f9f88.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c8c9c57e-9345-4407-a81b-312f3d2ed93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/MTLCc2WqnaE"
           },
           {
             "rank": "7",
@@ -1851,23 +1812,10 @@ const data = {
             "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
             "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
             "websiteUrl": "https://signup.kleversuite.com/auth/register",
-            "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "9",
-            "name": "AFFiNE",
-            "icon": null,
-            "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-            "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-            "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-            "websiteUrl": "https://affine.pro/",
-            "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/6FVuVvwextU"
           },
           {
             "rank": "10",
@@ -1903,10 +1851,10 @@ const data = {
             "description": "Reflect is a note-taking tool designed to mirror the way your brain works. We're simple, speedy, secure, and, dare we say it, quite pleasing on the eye.",
             "productUrl": "https://www.producthunt.com/products/reflect-notes/shoutouts",
             "websiteUrl": "https://reflect.app/",
-            "imageUrl1": "https://ph-files.imgix.net/93579e72-f369-45f5-9bf0-3a42d0ba775d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4c7fedf5-2dae-4532-a445-786ef91c5cda.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/dbfe0ec3-c216-4aba-a510-54aca2c61b5b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RsXzhchCs0w"
           },
           {
             "rank": "13",
@@ -1930,9 +1878,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/coda/shoutouts",
             "websiteUrl": "https://coda.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/4159b8b9-1559-4d2a-9762-9f1315a3d4ae.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/5912e6cd-7062-4645-9f69-28e682bc687d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/5a3463e6-e7ef-49bb-b2cd-67daacc1c60f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "15",
@@ -1942,10 +1890,10 @@ const data = {
             "description": "A developer-focused alternative to Google Docs for instant team collaboration. Development teams can experience fast, effortless collaboration and instant alignment with markdown support and no account required.",
             "productUrl": "https://www.producthunt.com/products/stashpad-docs/shoutouts",
             "websiteUrl": "https://stash.new/",
-            "imageUrl1": "https://ph-files.imgix.net/8992c48c-7a2b-462b-b202-c78118412b88.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/8ee8075f-567b-4c76-aa38-f03260a31078.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1d43ec87-b9dc-4a00-84f0-23531cbcdf91.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/9miuaDK0uF8"
           },
           {
             "rank": "16",
@@ -1955,8 +1903,8 @@ const data = {
             "description": "Never forget a section for your readme again! Select sections to add to your readme, edit the contents, and drag to rearrange. See a live-updating rendered preview of your markdown, then download your README.md file!",
             "productUrl": "https://www.producthunt.com/products/readme-so/shoutouts",
             "websiteUrl": "https://readme.so/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/50b68ccc-bd2b-415a-9852-d18a00b9e864.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/980a11a6-61ed-416a-822e-618e8d146928.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -1968,7 +1916,7 @@ const data = {
             "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
             "productUrl": "https://www.producthunt.com/products/capacities/shoutouts",
             "websiteUrl": "https://capacities.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/842ec9da-9044-4651-9122-711b771694be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1981,10 +1929,10 @@ const data = {
             "description": "Mintlify lets fast growing teams enable continuous documentation into a standard practice. Mintlify sets up rules and automations to ensure that software teams can easily create, track and manage documentation.",
             "productUrl": "https://www.producthunt.com/products/mintlify/shoutouts",
             "websiteUrl": "https://www.mintlify.com/",
-            "imageUrl1": "https://ph-files.imgix.net/00e09e89-5821-4ff9-b221-449b94131b99.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/004b3e77-46ca-4ab0-a912-bcb16576750f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/efae918b-186b-46e4-badc-cf4126e3d461.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/SvMPmfLtoGA"
           },
           {
             "rank": "19",
@@ -2007,10 +1955,10 @@ const data = {
             "description": "Nuclino serves as your team's collective brain – stay connected to it while you’re on the go! Nuclino allows you to create real-time collaborative documents and connect them instantly like a wiki. The tree, board, and graph views let you explore and organize your knowledge visually. It's perfect for anything, from quick notes to detailed documentation.",
             "productUrl": "https://www.producthunt.com/products/nuclino/shoutouts",
             "websiteUrl": "https://www.nuclino.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c5d04e73-6aab-4a80-9399-c7dc506bbb38.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ce005e23-283c-490e-b108-1b18540b10dc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d21029af-f497-4b60-8fea-38191ea6a25f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AS0GJh1DE64"
           },
           {
             "rank": "21",
@@ -2046,8 +1994,8 @@ const data = {
             "description": "BBEdit is the leading professional HTML and text editor for macOS. This award-winning product has been crafted to serve the needs of writers, Web authors and software developers, and provides an abundance of features for editing, searching, and manipulation of prose, source code, and textual data.",
             "productUrl": "https://www.producthunt.com/products/bbedit/shoutouts",
             "websiteUrl": "https://www.barebones.com/products/bbedit",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1753c943-a41c-47f2-a119-538dfb51ed2c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/d5a69e61-bbc5-424d-8fa7-975b71b339ba.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2059,10 +2007,10 @@ const data = {
             "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
             "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
             "websiteUrl": "https://www.usebacktrack.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/oD-phHlm388"
           },
           {
             "rank": "25",
@@ -2085,10 +2033,10 @@ const data = {
             "description": "Dashy is an all-in-one app to organize your life and projects. It brings together common tools and data so everything is accessible from a single location, eliminating the need to navigate multiple platforms to find what you are looking for.",
             "productUrl": "https://www.producthunt.com/products/dashy-3/shoutouts",
             "websiteUrl": "https://dashy.io/",
-            "imageUrl1": "https://ph-files.imgix.net/a61a6830-aa13-4239-8789-04f7e9da938a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/474d8aa9-1586-4a5c-915e-da97b638c322.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f66e07ea-48dd-4c5f-b9f0-ea64a2e11c4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YNCzZjni1s8"
           },
           {
             "rank": "27",
@@ -2137,10 +2085,10 @@ const data = {
             "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
             "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
             "websiteUrl": "https://novel.sh/",
-            "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/rCM7fuYP2nU"
           },
           {
             "rank": "31",
@@ -2150,8 +2098,8 @@ const data = {
             "description": "Google Colab has become a reference point for many web developers and AI enthusiasts. Each notebook has a unique link from which it can be accessed. Consequently, why not create a website where you can browse, add and collect all the Jupyter notebooks?",
             "productUrl": "https://www.producthunt.com/products/colab-notebooks/shoutouts",
             "websiteUrl": "http://colabnotebooks.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/463584b2-9bb4-4adc-a21e-b413c6a2e819.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/41500161-0ee0-4623-8e80-e73d10f0f214.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2163,10 +2111,10 @@ const data = {
             "description": "Craft is a tool for creating beautiful documents and notes and sharing your thoughts. Everything you create in Craft can be shared with one tap. Craft supports inline markdown, backlinks, code snippets, images, videos, attaching PDF files, and rich link previews.",
             "productUrl": "https://www.producthunt.com/products/craft-do/shoutouts",
             "websiteUrl": "https://craft.do/",
-            "imageUrl1": "https://ph-files.imgix.net/f9385e64-0c30-4372-9179-f19e0633f6f8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7734af5c-ad68-4617-87e2-1075366af8d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/18268631-09ff-48c9-87c3-c1b12f3afa9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/qD665WBmGhs"
           },
           {
             "rank": "33",
@@ -2189,10 +2137,10 @@ const data = {
             "description": "Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.",
             "productUrl": "https://www.producthunt.com/products/gamma-3/shoutouts",
             "websiteUrl": "https://gamma.app/",
-            "imageUrl1": "https://ph-files.imgix.net/4c2da502-48fc-4631-ab27-605dcba43789.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/37842e29-252a-4906-91c2-dc343fa9bcdf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c0624464-a0bd-4103-940c-5d8270af21e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/r9VOYJM6nZc"
           },
           {
             "rank": "35",
@@ -2474,7 +2422,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/a9e7425a-7510-46a8-a663-d3b858590075.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/6a8f48a7-77f9-406e-9b73-79108150f9e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/c676fe01-ca21-42f4-9873-fb5b561e94a9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -2510,10 +2458,10 @@ const data = {
             "description": "Create and track feedback for Atlassian products.",
             "productUrl": "https://www.producthunt.com/products/jira/shoutouts",
             "websiteUrl": "https://www.atlassian.com/jira",
-            "imageUrl1": "https://ph-files.imgix.net/768ff8d4-fef0-4bc2-ab04-6b1dc156ee9b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/660aeea5-aad0-437e-b0bb-fa5b7aaf8f1b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/91a73e16-f5c8-4b71-8305-64d646f903ea.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/JFZLY4SU6gk"
           },
           {
             "rank": "5",
@@ -2523,10 +2471,10 @@ const data = {
             "description": "Tasks, docs, goals, chat, and everything imaginable to make you more productive.",
             "productUrl": "https://www.producthunt.com/products/clickup/shoutouts",
             "websiteUrl": "http://clickup.com/",
-            "imageUrl1": "https://ph-files.imgix.net/26dc44d1-6a1d-474a-a234-8ed9780af94d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4d5b2bb8-4af0-438f-b34f-580522acd2ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/72220da4-bd5f-410e-969a-9531fa4fe8f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/4On1dQxoYBY"
           },
           {
             "rank": "6",
@@ -2616,8 +2564,8 @@ const data = {
             "websiteUrl": "https://monday.com/lp/project-management",
             "imageUrl1": "https://ph-files.imgix.net/0884e8e9-ae76-4242-91fb-646b84b5bed9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/d94afde8-ee75-4486-8058-74a25ea18203.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/dcbc0b29-a50a-466b-946a-1cc0aaedea8b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "13",
@@ -2627,7 +2575,7 @@ const data = {
             "description": "A free, fast & beautiful way to collect and organize user feedback in a central place. Prioritize feedback, create a roadmap with just a few clicks and keep everyone up-to-date with the roadmap.",
             "productUrl": "https://www.producthunt.com/products/nolt/shoutouts",
             "websiteUrl": "http://nolt.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/73a9948c-ecfe-4ea1-a0e2-450d0a761923.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2653,10 +2601,10 @@ const data = {
             "description": "Atlassian develops products for software development, project management, and content management.",
             "productUrl": "https://www.producthunt.com/products/atlassian/shoutouts",
             "websiteUrl": "http://www.atlassian.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3a5eb72a-78f8-4a97-a823-d60aace1174e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1e9d7311-1a68-4ef6-9d1b-1165f69f9f88.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c8c9c57e-9345-4407-a81b-312f3d2ed93e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/MTLCc2WqnaE"
           },
           {
             "rank": "16",
@@ -2679,10 +2627,10 @@ const data = {
             "description": "Auto-personalized deal rooms for revenue teams & clients that unite everything & everyone in the process in a single link. 🪄 Deliver an outstanding buying experience that increases conversion 📈 shortens deal cycles, and eases onboardings and renewals. 🚀",
             "productUrl": "https://www.producthunt.com/products/flowla/shoutouts",
             "websiteUrl": "https://flowla.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cb886a74-0f12-4b8d-a604-dbf2cbb4a8da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9ef1d574-2b59-4663-b627-adc6dacbdf07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/dfe86030-ec7d-4634-a18d-63d6e79e6ab3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zobkSbYp0Do"
           },
           {
             "rank": "18",
@@ -2705,8 +2653,8 @@ const data = {
             "description": "Featurebase helps you understand what ideas or problems your customers have about your product and, therefore, helps you steer your startup in the right direction. You can capture all their feedback, bug reports and feature requests on a public board.",
             "productUrl": "https://www.producthunt.com/products/featurebase/shoutouts",
             "websiteUrl": "https://featurebase.app/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/d5a756a1-6179-4d41-b057-3b00417aba43.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/66dabc4f-be6e-40b4-86f1-30368ebba169.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2718,23 +2666,10 @@ const data = {
             "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
             "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
             "websiteUrl": "https://signup.kleversuite.com/auth/register",
-            "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "21",
-            "name": "AFFiNE",
-            "icon": null,
-            "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-            "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-            "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-            "websiteUrl": "https://affine.pro/",
-            "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/6FVuVvwextU"
           },
           {
             "rank": "22",
@@ -2760,7 +2695,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/b6babc5c-1c66-4c67-8966-548fa8f19315.gif?fm=mp4&crop=max#t=0.001"
           },
           {
             "rank": "24",
@@ -2783,10 +2718,10 @@ const data = {
             "description": "Weights & Biases is the leading AI developer platform to train and fine-tune models, manage models from experimentation to production, and track and evaluate GenAI applications powered by LLMs.",
             "productUrl": "https://www.producthunt.com/products/weights-biases/shoutouts",
             "websiteUrl": "https://www.wandb.ai/site",
-            "imageUrl1": "https://ph-files.imgix.net/804d6ac3-b356-4c90-8df3-9ba0217c0f77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/feec606a-c672-4392-9ba3-20e33b0139be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/f7293ea0-106a-487e-ba02-47dae71eb619.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/0BU58W85KqU"
           },
           {
             "rank": "26",
@@ -2836,9 +2771,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/coda/shoutouts",
             "websiteUrl": "https://coda.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/4159b8b9-1559-4d2a-9762-9f1315a3d4ae.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/5912e6cd-7062-4645-9f69-28e682bc687d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/5a3463e6-e7ef-49bb-b2cd-67daacc1c60f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "30",
@@ -2848,10 +2783,10 @@ const data = {
             "description": "Simplify life for both you and your team. The world’s #1 task manager and to-do list app.",
             "productUrl": "https://www.producthunt.com/products/todoist/shoutouts",
             "websiteUrl": "https://todoist.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cfc10262-a5f9-4a33-abf7-7d6860193c8d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6f7f470c-7e0d-4b96-ad00-ff34e8006354.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6165aaab-6e55-4a80-923d-41f086b305f2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Gho8mQuRJqs"
           },
           {
             "rank": "31",
@@ -2902,8 +2837,8 @@ const data = {
             "websiteUrl": "https://www.sourceforge.net/",
             "imageUrl1": "",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/b5a27528-c3ee-4056-89f6-d438b96af989.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/vUWEYrMQzTo"
           },
           {
             "rank": "35",
@@ -2913,8 +2848,8 @@ const data = {
             "description": "Never forget a section for your readme again! Select sections to add to your readme, edit the contents, and drag to rearrange. See a live-updating rendered preview of your markdown, then download your README.md file!",
             "productUrl": "https://www.producthunt.com/products/readme-so/shoutouts",
             "websiteUrl": "https://readme.so/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/50b68ccc-bd2b-415a-9852-d18a00b9e864.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/980a11a6-61ed-416a-822e-618e8d146928.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2939,10 +2874,10 @@ const data = {
             "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
             "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
             "websiteUrl": "https://vorniches.com/snap2txt",
-            "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
           },
           {
             "rank": "38",
@@ -2978,10 +2913,10 @@ const data = {
             "description": "CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster",
             "productUrl": "https://www.producthunt.com/products/codesandbox/shoutouts",
             "websiteUrl": "https://codesandbox.io/",
-            "imageUrl1": "https://ph-files.imgix.net/1c1b8a88-81d0-49b6-a1ee-52f1767122fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e6732851-e71f-4465-bea9-0c6d8e931897.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/11bbb762-0b2b-48c5-b45f-4535607633fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5AWGpS0Npzk"
           },
           {
             "rank": "41",
@@ -3019,8 +2954,8 @@ const data = {
             "websiteUrl": "http://glitch.com/",
             "imageUrl1": "https://ph-files.imgix.net/86e271b5-9171-470a-b8f6-9c1f650b8a45.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/90668221-466a-425b-b770-55af377c9fbc.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/1b1d0b55-cae7-41f9-9750-2b636120428c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "44",
@@ -3043,10 +2978,10 @@ const data = {
             "description": "Dashy is an all-in-one app to organize your life and projects. It brings together common tools and data so everything is accessible from a single location, eliminating the need to navigate multiple platforms to find what you are looking for.",
             "productUrl": "https://www.producthunt.com/products/dashy-3/shoutouts",
             "websiteUrl": "https://dashy.io/",
-            "imageUrl1": "https://ph-files.imgix.net/a61a6830-aa13-4239-8789-04f7e9da938a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/474d8aa9-1586-4a5c-915e-da97b638c322.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/f66e07ea-48dd-4c5f-b9f0-ea64a2e11c4b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YNCzZjni1s8"
           },
           {
             "rank": "46",
@@ -3069,7 +3004,7 @@ const data = {
             "description": "The ultimate AI-driven platform tailored for innovators. Our unique approach includes problem analysis, market segmentation, and unicorn recommendations. With tailored GPT masterclasses and the ability to impersonate user personas for instant feedback, we increase your project's success probability. fn7 Helix's advanced AI dives deep to provide insights across innovations, helping you create something truly unique and remarkable. fn7 Helix, where great ideas meet great execution.",
             "productUrl": "https://www.producthunt.com/products/fn7/shoutouts",
             "websiteUrl": "https://www.fn7.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/ece0a19b-e0c9-4410-b754-8d4b12299d95.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3137,7 +3072,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/93c9d9da-4dd3-498d-865f-94d8254e8b46.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/fff67ac6-7de5-4594-ae3e-9342fe9c896c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/d344d0f5-d0d1-499c-b217-5a2f7d66bf28.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "53",
@@ -3173,10 +3108,10 @@ const data = {
             "description": "Nx is a next-generation-build system with first-class support for both standalone projects and monorepos.",
             "productUrl": "https://www.producthunt.com/products/nx/shoutouts",
             "websiteUrl": "https://nx.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/512f9dc8-3430-4b75-a5e5-3c4818995206.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4a0d96c9-c341-4f08-9486-f70a199339be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9fc0776f-5f34-46dd-b029-912edf003558.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wADNsVItnsM"
           },
           {
             "rank": "56",
@@ -3202,7 +3137,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/7fc477d3-6148-4af6-bb21-a8cef2abe03c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/4e5428e4-f3b4-4764-b7e6-6caa6b0af709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/37ece677-1733-4f47-8fae-58f38089784e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "58",
@@ -3225,10 +3160,10 @@ const data = {
             "description": "Godspeed is a todo manager built for speed and keyboard orientation. Every action in Godspeed is doable from the keyboard and will respond instantly.",
             "productUrl": "https://www.producthunt.com/products/godspeed/shoutouts",
             "websiteUrl": "https://godspeedapp.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bf1b8d23-fd72-408a-ae68-7a46a6c88a5b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9e7975ae-0e2a-4d1d-a8e8-9ec346fb423c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3dc7005d-b587-4d0a-87be-3a0f9283c089.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/06RTk4y3GvM"
           },
           {
             "rank": "60",
