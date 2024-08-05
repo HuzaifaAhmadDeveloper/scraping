@@ -39,19 +39,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "4",
-    "name": "AFFiNE",
-    "icon": null,
-    "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-    "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-    "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-    "websiteUrl": "https://affine.pro/",
-    "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "5",
     "name": "Albus Beta",
     "icon": "https://ph-files.imgix.net/1eef7c06-cbe2-4a14-866a-ffd3af1be970.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -59,10 +46,10 @@
     "description": "Albus is a live board that will help you explore any topic you like in new ways, from different perspectives. Think of it as Google meets Pinterest. Enjoy the early beta. Welcome and have fun.",
     "productUrl": "https://www.producthunt.com/products/albus-beta/shoutouts",
     "websiteUrl": "https://albus.org/",
-    "imageUrl1": "https://ph-files.imgix.net/9962adcb-7a2c-4f9d-938e-11c6273a27ea.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/5af6f622-45a0-4ee2-98e2-e839d44462a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d1565dd4-50be-47eb-84bb-78d1da64288f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/RoII0FLLg6I"
   },
   {
     "rank": "6",
@@ -85,10 +72,10 @@
     "description": "Gumroad is an online platform that enables creators to sell digital products directly to consumers. With easy setup and no upfront costs, Gumroad provides a simple way to monetize content, courses, and more.",
     "productUrl": "https://www.producthunt.com/products/gumroad/shoutouts",
     "websiteUrl": "https://gumroad.com/",
-    "imageUrl1": "https://ph-files.imgix.net/4d646d45-9f2f-4dd7-9c0a-0174d100c2b9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a24fa098-5fd2-4a1c-93db-099270f19e5c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0df34971-b191-48c5-9a86-b6eeaa38d133.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/cldgz7D7iyg"
   },
   {
     "rank": "8",
