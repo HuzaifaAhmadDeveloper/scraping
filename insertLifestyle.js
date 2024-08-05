@@ -57,7 +57,7 @@ const insertData = async () => {
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      `INSERT INTO Category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
       [data.category.category_name, data.category.category_heading]
     );
 
@@ -66,7 +66,7 @@ const insertData = async () => {
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        `INSERT INTO Sub_Category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
         [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
 
@@ -75,27 +75,27 @@ const insertData = async () => {
       for (const product of sub_category.products) {
         // Check if the product already exists
         const productResult = await client.query(
-          `SELECT product_id FROM products WHERE product_name = $1`,
-          [product.product_name]
+          `SELECT product_id FROM Products WHERE name = $1`,
+          [product.name]
         );
 
         let product_id;
         if (productResult.rows.length === 0) {
           // Insert new product if it doesn't exist
           const newProductResult = await client.query(
-            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
+            `INSERT INTO Products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
             [
-              product.product_rank,
-              product.product_name,
-              product.product_icon,
-              product.product_title,
-              product.product_description,
-              product.product_Url,
-              product.website_Url,
-              product.image_Url1,
-              product.image_Url2,
-              product.image_Url3,
-              product.video_Url,
+              product.rank,
+              product.name,
+              product.icon,
+              product.title,
+              product.description,
+              product.productUrl,
+              product.websiteUrl,
+              product.imageUrl1,
+              product.imageUrl2,
+              product.imageUrl3,
+              product.videoUrl,
               category_id,
               sub_category_id,
             ]

@@ -39,10 +39,10 @@ const data = {
             "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
             "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
             "websiteUrl": "https://jitter.video/",
-            "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DlS41IjSR4g"
           },
           {
             "rank": "3",
@@ -52,7 +52,7 @@ const data = {
             "description": "Build real-time 3D projects for various industries across games, animation, automotive, architecture, and more. Start creating with Unity today!",
             "productUrl": "https://www.producthunt.com/products/unity/shoutouts",
             "websiteUrl": "https://unity.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/45c238cc-ec96-4dc9-a071-d27cc59d88f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -65,10 +65,10 @@ const data = {
             "description": "We are a motion video editing agency who create videos that work for you. Through our subscription model, we provide ongoing motion videos that support to help elevate your marketing. We create product demos, launch promos, explainers and more.",
             "productUrl": "https://www.producthunt.com/products/pexmotion/shoutouts",
             "websiteUrl": "https://pexmotion.io/",
-            "imageUrl1": "https://ph-files.imgix.net/82e8b6a4-2f15-4e2d-8b65-66911ff12c96.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ecd223e7-dffc-4bff-a1d0-5b858a42cbbe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7e6db52c-1c70-42e5-bcd1-558c1869fc41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng04BUELUWY"
           },
           {
             "rank": "5",
@@ -104,10 +104,10 @@ const data = {
             "description": "Unreal Engine is the world’s most open and advanced real-time 3D creation platform. Continuously evolving to serve not only its original purpose as a state-of-the-art games engine, today it gives creators across industries the freedom and control to deliver cutting-edge content, interactive experiences, and immersive virtual worlds.",
             "productUrl": "https://www.producthunt.com/products/unreal-engine/shoutouts",
             "websiteUrl": "https://www.unrealengine.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e669f1ad-6e1c-46a1-a8c8-e6f3969d417b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/313cf637-4ff5-4bfb-873f-e133217727e0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
+            "imageUrl2": "https://youtu.be/bJPxq6QogKE",
             "imageUrl3": "https://ph-files.imgix.net/01e6cf0e-ad50-47b3-a5bc-e8c2027cfa8a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/VxzmukMHeCE"
           },
           {
             "rank": "8",
@@ -132,8 +132,8 @@ const data = {
             "websiteUrl": "https://lottiefiles.com/",
             "imageUrl1": "https://ph-files.imgix.net/3c6e3804-e65b-432e-8106-9556ce4c75e1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/4d8b0708-54ba-407e-abbe-82e71e58f234.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DMKZfMcbs10"
           },
           {
             "rank": "10",
@@ -143,10 +143,10 @@ const data = {
             "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
             "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
             "websiteUrl": "http://rotato.xyz/",
-            "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gU5QqGOvzg0"
           },
           {
             "rank": "11",
@@ -156,8 +156,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/pressure-js/shoutouts",
             "websiteUrl": "http://pressurejs.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/6f50e561-ac1f-45ae-9440-af29e08d5d39.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/6a8134dc-cd67-4a9c-b1d5-2ff22ce72879.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -195,10 +195,10 @@ const data = {
             "description": "GODOT is a 2D and 3D cross-platform compatible game engine released as open source software under the MIT license.",
             "productUrl": "https://www.producthunt.com/products/godot/shoutouts",
             "websiteUrl": "https://godotengine.org/",
-            "imageUrl1": "https://ph-files.imgix.net/d7cb0791-b40a-460f-b876-eca0512fb172.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1d6745b4-3a50-4c9a-a002-40562922c095.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/254755fa-8530-4352-b77d-b7b733fc35cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/P6nQ3E-Cyfk"
           },
           {
             "rank": "15",
@@ -228,10 +228,10 @@ const data = {
             "description": "Create studio-quality images in seconds. In one tap, remove the background and compose an image that will showcase a product or a model. PhotoRoom gives design super powers to everyone because you edit objects and not pixels PhotoRoom is an image editing app that lets you capture, edit, and mix images by editing objects.",
             "productUrl": "https://www.producthunt.com/products/bg-app/shoutouts",
             "websiteUrl": "https://photoroom.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a1949ffe-e2a8-4c5b-be97-115026bdcf1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/468fc322-d53d-4fac-82b6-717c3086e4a5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9d33d5b9-22f3-49e3-a722-575ade84f4df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/51wbm-h8Trk"
           }
         ]
         
@@ -326,10 +326,10 @@ const data = {
             "description": "IMG.LY provides industry-leading creative SDKs designed for app developers and businesses. Our solutions make it easy to integrate and customize powerful photo, video, and design editing capabilities. Whether you need a photo editor, video editor, a camera UI, or other creative tools, our SDKs have you covered. Enhance your apps with stunning features and effects, and join thousands of satisfied customers who trust IMG.LY to elevate their user experiences and drive business growth.",
             "productUrl": "https://www.producthunt.com/products/img-ly/shoutouts",
             "websiteUrl": "http://img.ly/",
-            "imageUrl1": "https://ph-files.imgix.net/efbe5b40-543e-4dfb-ae1d-72ac958e8013.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b9f8a266-61c1-40b4-b3eb-b0fe5b25d5c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36529f24-2699-43a4-a3a0-2b41053534a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZezTwDAfGwc"
           },
           {
             "rank": "8",
@@ -387,7 +387,7 @@ const data = {
             "websiteUrl": "http://about.pinterest.com/",
             "imageUrl1": "https://ph-files.imgix.net/de8da9f5-a737-49f5-bd92-7b15208e72a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/2540cd29-e59f-4de5-8b0a-e21d2041669b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/671fae72-dd85-4b9c-ae56-2151537f402a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -398,10 +398,10 @@ const data = {
             "description": "This is the place to find out about new apps, and get inspired to build your own in SwiftUI! These apps are the best examples of what SwiftUI is capable, check them out by visiting the site today!",
             "productUrl": "https://www.producthunt.com/products/swiftui-apps/shoutouts",
             "websiteUrl": "https://swiftuiapps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/441cad18-9b8c-44a1-9101-965e1f89627a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7284c511-9ccf-4b9d-9da1-b17909d4545d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36ae86a5-dda3-4b0d-9223-ef3ad25278bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YdkKvf9e4yg"
           },
           {
             "rank": "5",
@@ -411,10 +411,10 @@ const data = {
             "description": "CodePen is a social development environment for front-end designers and developers. Build and deploy a website, show off your work, build test cases to learn and debug, and find inspiration. CodePen is a playground for the front end side of the web. It's all about inspiration, education, and sharing.",
             "productUrl": "https://www.producthunt.com/products/codepen/shoutouts",
             "websiteUrl": "http://codepen.io/",
-            "imageUrl1": "https://ph-files.imgix.net/aab2ea86-3dc7-4b4a-8d43-7ada84df609c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/213e8684-3d7f-4d30-bf20-b3c4bdd0245f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b16aebda-eac8-41c0-9d8a-17cbf452730b?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gWb0njDcixo"
           },
           {
             "rank": "6",
@@ -424,10 +424,10 @@ const data = {
             "description": "A library of hand-drawn illustrations that you can use in product, marketing, comics, product states, user flows, personas, storyboarding, and more.",
             "productUrl": "https://www.producthunt.com/products/open-peeps/shoutouts",
             "websiteUrl": "http://openpeeps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3ea885ad-de31-45d4-97a8-08200947d633.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22ad98a2-1622-4358-856b-e1dce469627f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/c13ebcb8-101f-41ad-b2a2-3c5647fa80e9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/-Umdp0ai5Ok"
           },
           {
             "rank": "7",
@@ -440,7 +440,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/20cdcd57-b30a-4ab1-bcce-79211309300a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/4fe5fdfc-d7fc-4690-b212-94a38d886129.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/3528031a-a6de-4e93-b346-7e69e4469c39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "8",
@@ -496,8 +496,8 @@ const data = {
             "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
             "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
             "websiteUrl": "https://tailwindui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -522,10 +522,10 @@ const data = {
             "description": "Decktopus, the new generation online presentation tool, lets you create the perfect presentation in the shortest time without any design skills.",
             "productUrl": "https://www.producthunt.com/products/decktopus/shoutouts",
             "websiteUrl": "https://decktopus.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cbbe95ff-5844-42cb-b671-303423a1f239.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0f263a36-59ae-490a-b331-31903ff0925a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/864ddbba-3f24-4459-9095-824be07ecb31.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NdS3Ic-Uyok"
           },
           {
             "rank": "5",
@@ -535,7 +535,7 @@ const data = {
             "description": "High-quality UX/UI and Wireframe Kits, Illustrations, Templates, and Mockups to make your design workflow faster and easier. Craftwork is a small team of designers and developers. We create our own design stuff and follow new cool products around the internet.",
             "productUrl": "https://www.producthunt.com/products/craftwork-design/shoutouts",
             "websiteUrl": "https://craftwork.design/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/13d901ce-667b-4b98-b115-21275fbd7e74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -548,7 +548,7 @@ const data = {
             "description": "Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. And with an extensive collection of tools for editing and retouching photos, creating graphic designs, painting, drawing vector graphics, and adding stunning effects, it’s the only image editor you’ll need.",
             "productUrl": "https://www.producthunt.com/products/pixelmator/shoutouts",
             "websiteUrl": "http://www.pixelmator.com/pro",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f463a9c6-6117-4255-8751-47fde808b71f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -561,10 +561,10 @@ const data = {
             "description": "Adobe XD is made for designers like you, by designers like us. Easily create beautiful animations that move, scale and blur across artboards.",
             "productUrl": "https://www.producthunt.com/products/adobe-xd-cc-13-0/shoutouts",
             "websiteUrl": "https://www.adobe.com/xd",
-            "imageUrl1": "https://ph-files.imgix.net/c309fb68-fe73-4e76-b038-2e56afc3b532.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3805597e-6418-4ab4-9347-ec17b41a4298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/dabd8734-9fde-4c56-88d4-8c671f83d6c8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/OicuzCSD84I"
           },
           {
             "rank": "8",
@@ -587,10 +587,10 @@ const data = {
             "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
             "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
             "websiteUrl": "http://rotato.xyz/",
-            "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gU5QqGOvzg0"
           },
           {
             "rank": "10",
@@ -600,10 +600,10 @@ const data = {
             "description": "Previewed is a mockup generator, which is used by devs & designers to create beautiful promotional graphics for your app. Browse a variety of templates, pick one, customize it in a few clicks & download your pixel perfect design.",
             "productUrl": "https://www.producthunt.com/products/previewed/shoutouts",
             "websiteUrl": "https://previewed.app/",
-            "imageUrl1": "https://ph-files.imgix.net/f1ffe1e7-afd9-4bbf-896a-8f69d9947f23.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1f8cb3b6-9dde-48d5-af61-85d5973a70d8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2183d43e-dee0-4772-aa18-da9e71db6851.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/nlUzHkAsdrQ"
           },
           {
             "rank": "11",
@@ -613,7 +613,7 @@ const data = {
             "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
             "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
             "websiteUrl": "http://www.freepik.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -698,10 +698,10 @@ const data = {
             "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
             "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
             "websiteUrl": "https://canva.com/",
-            "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/bVCRcNlY1yw"
           },
           {
             "rank": "4",
@@ -724,8 +724,8 @@ const data = {
             "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
             "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
             "websiteUrl": "https://tailwindui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -737,10 +737,10 @@ const data = {
             "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
             "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
             "websiteUrl": "https://daisyui.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ky18YtME8UQ"
           },
           {
             "rank": "7",
@@ -750,8 +750,8 @@ const data = {
             "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
             "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
             "websiteUrl": "https://chakra-ui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -763,8 +763,8 @@ const data = {
             "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
             "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
             "websiteUrl": "https://mantine.dev/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -776,10 +776,10 @@ const data = {
             "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
             "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
             "websiteUrl": "https://jitter.video/",
-            "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DlS41IjSR4g"
           },
           {
             "rank": "10",
@@ -790,9 +790,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
             "websiteUrl": "https://nextui.org/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "11",
@@ -815,10 +815,10 @@ const data = {
             "description": "A collection of 13,000+ AI-crafted, highly curated images from creators across the globe.",
             "productUrl": "https://www.producthunt.com/products/lummi/shoutouts",
             "websiteUrl": "https://lummi.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/7349d076-6034-4792-8f83-7da04ec5b12c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/61f8c5f4-e0c3-4f94-ad34-b687669abe28.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3f2fbc5-9b8f-4e27-ad8d-8432786aa5ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/h4LIIPFWKXg"
           },
           {
             "rank": "13",
@@ -867,10 +867,10 @@ const data = {
             "description": "Fillout is a powerful, no-code form builder. Create a form in minutes and style the form to match your brand. Add multiple pages, powerful conditional logic, and 40+ customizable question types.",
             "productUrl": "https://www.producthunt.com/products/fillout-com/shoutouts",
             "websiteUrl": "https://fillout.com/",
-            "imageUrl1": "https://ph-files.imgix.net/931dd2d2-e5d8-462b-ac2a-86fbda62a9a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7d4e8513-8c8f-4e53-87d5-2ea341f206a9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/1f43c752-d1e5-4c17-aad1-c2147c3f78c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/d1Br0bl2pQs"
           },
           {
             "rank": "17",
@@ -893,10 +893,10 @@ const data = {
             "description": "Create a logo using premade icons and editing tools or let AI take the lead.",
             "productUrl": "https://www.producthunt.com/products/logofast/shoutouts",
             "websiteUrl": "https://logofa.st/",
-            "imageUrl1": "https://ph-files.imgix.net/1f01fe64-647f-415b-955a-11573f58259d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ca29a5be-8ad3-4ffa-9ea6-d05134707941.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3977152-bfef-4450-88bc-26bbb86e622b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tax7iwjPC44"
           },
           {
             "rank": "19",
@@ -919,7 +919,7 @@ const data = {
             "description": "High-quality UX/UI and Wireframe Kits, Illustrations, Templates, and Mockups to make your design workflow faster and easier. Craftwork is a small team of designers and developers. We create our own design stuff and follow new cool products around the internet.",
             "productUrl": "https://www.producthunt.com/products/craftwork-design/shoutouts",
             "websiteUrl": "https://craftwork.design/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/13d901ce-667b-4b98-b115-21275fbd7e74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -958,10 +958,10 @@ const data = {
             "description": "We are a motion video editing agency who create videos that work for you. Through our subscription model, we provide ongoing motion videos that support to help elevate your marketing. We create product demos, launch promos, explainers and more.",
             "productUrl": "https://www.producthunt.com/products/pexmotion/shoutouts",
             "websiteUrl": "https://pexmotion.io/",
-            "imageUrl1": "https://ph-files.imgix.net/82e8b6a4-2f15-4e2d-8b65-66911ff12c96.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ecd223e7-dffc-4bff-a1d0-5b858a42cbbe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7e6db52c-1c70-42e5-bcd1-558c1869fc41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng04BUELUWY"
           },
           {
             "rank": "24",
@@ -984,10 +984,10 @@ const data = {
             "description": "This is the place to find out about new apps, and get inspired to build your own in SwiftUI! These apps are the best examples of what SwiftUI is capable, check them out by visiting the site today!",
             "productUrl": "https://www.producthunt.com/products/swiftui-apps/shoutouts",
             "websiteUrl": "https://swiftuiapps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/441cad18-9b8c-44a1-9101-965e1f89627a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7284c511-9ccf-4b9d-9da1-b17909d4545d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36ae86a5-dda3-4b0d-9223-ef3ad25278bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YdkKvf9e4yg"
           },
           {
             "rank": "26",
@@ -997,10 +997,10 @@ const data = {
             "description": "Connected space for product teams. Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.",
             "productUrl": "https://www.producthunt.com/products/zeplin/shoutouts",
             "websiteUrl": "https://zeplin.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d70ba836-0a3d-4ae6-980c-4754a98444f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1c939c00-506b-42f9-b83d-aa7efa4ffea8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/27fc46c9-0672-40c9-abd3-3df7985a3df4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tZDMEM4W6go"
           },
           {
             "rank": "27",
@@ -1010,10 +1010,10 @@ const data = {
             "description": "Create beautiful images for Twitter, Instagram, Dribbble, LinkedIn, and boost your social media views & engagement in seconds. BrandBird allows you to brand your accounts uniquely by creating templates, adding your brand colors, and your personal watermark!",
             "productUrl": "https://www.producthunt.com/products/brandbird/shoutouts",
             "websiteUrl": "https://www.brandbird.app/",
-            "imageUrl1": "https://ph-files.imgix.net/bf6e71da-f920-4926-b225-7e96d132d4af.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c7494e2e-9c70-4779-b1c2-53d83b1f41d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/56820092-f44d-4a28-8cfc-f51be23ac261.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YFB_xIKfXjc"
           },
           {
             "rank": "28",
@@ -1023,10 +1023,10 @@ const data = {
             "description": "A library of hand-drawn illustrations that you can use in product, marketing, comics, product states, user flows, personas, storyboarding, and more.",
             "productUrl": "https://www.producthunt.com/products/open-peeps/shoutouts",
             "websiteUrl": "http://openpeeps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3ea885ad-de31-45d4-97a8-08200947d633.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22ad98a2-1622-4358-856b-e1dce469627f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/c13ebcb8-101f-41ad-b2a2-3c5647fa80e9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/-Umdp0ai5Ok"
           },
           {
             "rank": "29",
@@ -1039,7 +1039,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/20cdcd57-b30a-4ab1-bcce-79211309300a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/4fe5fdfc-d7fc-4690-b212-94a38d886129.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/3528031a-a6de-4e93-b346-7e69e4469c39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "30",
@@ -1049,10 +1049,10 @@ const data = {
             "description": "Adobe XD is made for designers like you, by designers like us. Easily create beautiful animations that move, scale and blur across artboards.",
             "productUrl": "https://www.producthunt.com/products/adobe-xd-cc-13-0/shoutouts",
             "websiteUrl": "https://www.adobe.com/xd",
-            "imageUrl1": "https://ph-files.imgix.net/c309fb68-fe73-4e76-b038-2e56afc3b532.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3805597e-6418-4ab4-9347-ec17b41a4298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/dabd8734-9fde-4c56-88d4-8c671f83d6c8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/OicuzCSD84I"
           },
           {
             "rank": "31",
@@ -1062,22 +1062,9 @@ const data = {
             "description": "800+ commits in 10 months, 33 contributors working on it, we are very exited to introduce Ant Design 5.0.0 🆕5️⃣💥, bring out brand new design token system and dynamic theme ability, no more less.js and global styles!",
             "productUrl": "https://www.producthunt.com/products/ant-design-5-0/shoutouts",
             "websiteUrl": "https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1deb203f-603d-4e54-9c87-72c796128ea5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/04f48b3f-2df9-43ae-8801-09913129c551.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "32",
-            "name": "Material Tailwind",
-            "icon": null,
-            "title": "Material Tailwind — Components library for Tailwind CSS & Material Design",
-            "description": "Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. It features multiple React components, all written with Tailwind CSS classes and Material Design guidelines. Coming soon components for VueJS, Angular and many more.",
-            "productUrl": "https://www.producthunt.com/products/material-tailwind/shoutouts",
-            "websiteUrl": "https://material-tailwind.com/",
-            "imageUrl1": "https://ph-files.imgix.net/573bdaa8-4e7a-4690-933d-4058ade35b3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/60c03dec-c43d-441e-a067-52d01a844748.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/804799f7-2cbe-4171-846e-bd63d3807824.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -1088,10 +1075,10 @@ const data = {
             "description": "Generative AI is coming to user interface design! Galileo AI generates stunning UI designs with text or image prompts, empowering you to design at lightning speed.",
             "productUrl": "https://www.producthunt.com/products/galileo-ai/shoutouts",
             "websiteUrl": "https://www.usegalileo.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/d6c3adeb-6f3a-4660-9acd-d1db433442b4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6b11ef93-eb6a-4064-943e-11a897caba23.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/59c89ad6-89ff-4fad-af0b-b44f422fd61d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/a91-NhhtJKA"
           },
           {
             "rank": "34",
@@ -1166,10 +1153,10 @@ const data = {
             "description": "Previewed is a mockup generator, which is used by devs & designers to create beautiful promotional graphics for your app. Browse a variety of templates, pick one, customize it in a few clicks & download your pixel perfect design.",
             "productUrl": "https://www.producthunt.com/products/previewed/shoutouts",
             "websiteUrl": "https://previewed.app/",
-            "imageUrl1": "https://ph-files.imgix.net/f1ffe1e7-afd9-4bbf-896a-8f69d9947f23.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1f8cb3b6-9dde-48d5-af61-85d5973a70d8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2183d43e-dee0-4772-aa18-da9e71db6851.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/nlUzHkAsdrQ"
           },
           {
             "rank": "40",
@@ -1192,7 +1179,7 @@ const data = {
             "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
             "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
             "websiteUrl": "http://www.freepik.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1231,10 +1218,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/eagle/shoutouts",
             "websiteUrl": "https://eagle.cool/",
-            "imageUrl1": "https://ph-files.imgix.net/4b05bc42-d0b8-4548-88ac-9310d12c4e17.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/cd8728d0-00d7-47b1-9104-5c76205dbfd6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/12fbc4bf-e194-4f28-bd5b-6031854e151e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/hdemphnBz14"
           },
           {
             "rank": "45",
@@ -1296,10 +1283,10 @@ const data = {
             "description": "Ikonik – 10k icons, 20 packages, outlined and filled format, Webflow-friendly, copyright-protected.",
             "productUrl": "https://www.producthunt.com/products/ikonik-webflow-app/shoutouts",
             "websiteUrl": "https://webflow.com/apps/detail/ikonik",
-            "imageUrl1": "https://ph-files.imgix.net/b9ea8944-9092-4f31-87b0-578923280540.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3ca3ef70-8447-4be9-b229-17550f38d196.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6764f447-a3d1-4a91-a581-ab2d01a79670.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/7_eppxr2nPE"
           },
           {
             "rank": "50",
@@ -1426,19 +1413,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "4",
-            "name": "AFFiNE",
-            "icon": null,
-            "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-            "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-            "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-            "websiteUrl": "https://affine.pro/",
-            "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "5",
             "name": "Albus Beta",
             "icon": "https://ph-files.imgix.net/1eef7c06-cbe2-4a14-866a-ffd3af1be970.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -1446,10 +1420,10 @@ const data = {
             "description": "Albus is a live board that will help you explore any topic you like in new ways, from different perspectives. Think of it as Google meets Pinterest. Enjoy the early beta. Welcome and have fun.",
             "productUrl": "https://www.producthunt.com/products/albus-beta/shoutouts",
             "websiteUrl": "https://albus.org/",
-            "imageUrl1": "https://ph-files.imgix.net/9962adcb-7a2c-4f9d-938e-11c6273a27ea.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5af6f622-45a0-4ee2-98e2-e839d44462a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d1565dd4-50be-47eb-84bb-78d1da64288f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RoII0FLLg6I"
           },
           {
             "rank": "6",
@@ -1472,10 +1446,10 @@ const data = {
             "description": "Gumroad is an online platform that enables creators to sell digital products directly to consumers. With easy setup and no upfront costs, Gumroad provides a simple way to monetize content, courses, and more.",
             "productUrl": "https://www.producthunt.com/products/gumroad/shoutouts",
             "websiteUrl": "https://gumroad.com/",
-            "imageUrl1": "https://ph-files.imgix.net/4d646d45-9f2f-4dd7-9c0a-0174d100c2b9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a24fa098-5fd2-4a1c-93db-099270f19e5c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0df34971-b191-48c5-9a86-b6eeaa38d133.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/cldgz7D7iyg"
           },
           {
             "rank": "8",
@@ -1505,10 +1479,10 @@ const data = {
             "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
             "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
             "websiteUrl": "https://canva.com/",
-            "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/bVCRcNlY1yw"
           },
           {
             "rank": "2",
@@ -1531,10 +1505,10 @@ const data = {
             "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
             "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
             "websiteUrl": "https://jitter.video/",
-            "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DlS41IjSR4g"
           },
           {
             "rank": "4",
@@ -1557,7 +1531,7 @@ const data = {
             "description": "Build real-time 3D projects for various industries across games, animation, automotive, architecture, and more. Start creating with Unity today!",
             "productUrl": "https://www.producthunt.com/products/unity/shoutouts",
             "websiteUrl": "https://unity.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/45c238cc-ec96-4dc9-a071-d27cc59d88f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1583,10 +1557,10 @@ const data = {
             "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
             "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
             "websiteUrl": "https://www.weavely.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
           },
           {
             "rank": "8",
@@ -1622,10 +1596,10 @@ const data = {
             "description": "Create a logo using premade icons and editing tools or let AI take the lead.",
             "productUrl": "https://www.producthunt.com/products/logofast/shoutouts",
             "websiteUrl": "https://logofa.st/",
-            "imageUrl1": "https://ph-files.imgix.net/1f01fe64-647f-415b-955a-11573f58259d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ca29a5be-8ad3-4ffa-9ea6-d05134707941.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3977152-bfef-4450-88bc-26bbb86e622b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tax7iwjPC44"
           },
           {
             "rank": "11",
@@ -1687,7 +1661,7 @@ const data = {
             "description": "Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. And with an extensive collection of tools for editing and retouching photos, creating graphic designs, painting, drawing vector graphics, and adding stunning effects, it’s the only image editor you’ll need.",
             "productUrl": "https://www.producthunt.com/products/pixelmator/shoutouts",
             "websiteUrl": "http://www.pixelmator.com/pro",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f463a9c6-6117-4255-8751-47fde808b71f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1700,10 +1674,10 @@ const data = {
             "description": "Powerful vector design tool. Icons, photos, illustrations, and AI tools inside to help you focus on the design tasks. Real-time collaboration for teams. Native apps for Windows, macOS&Linux to work fast online and offline on fancy laptops or potato computers.",
             "productUrl": "https://www.producthunt.com/products/lunacy/shoutouts",
             "websiteUrl": "https://icons8.com/lunacy",
-            "imageUrl1": "https://ph-files.imgix.net/9d7e6de6-b49d-460e-aa48-752994f43602.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/509277b1-f445-48de-8585-141837246f82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/4e8a4b45-ad22-492d-babe-abff0c475e1f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/Khmizj48bGE"
           },
           {
             "rank": "17",
@@ -1713,7 +1687,7 @@ const data = {
             "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.",
             "productUrl": "https://www.producthunt.com/products/p5-js/shoutouts",
             "websiteUrl": "http://p5js.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/a7735952-a18f-48de-86ba-9749bb170926.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1729,7 +1703,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/20cdcd57-b30a-4ab1-bcce-79211309300a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/4fe5fdfc-d7fc-4690-b212-94a38d886129.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/3528031a-a6de-4e93-b346-7e69e4469c39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "19",
@@ -1739,10 +1713,10 @@ const data = {
             "description": "Create, edit, test, collaborate and ship a Lottie in the easiest way possible.",
             "productUrl": "https://www.producthunt.com/products/lottiefiles/shoutouts",
             "websiteUrl": "https://lottiefiles.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3c6e3804-e65b-432e-8106-9556ce4c75e1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/06532ce0-573e-40eb-975e-e34a3c9a55e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/4d8b0708-54ba-407e-abbe-82e71e58f234.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/DMKZfMcbs10"
           },
           {
             "rank": "20",
@@ -1752,10 +1726,10 @@ const data = {
             "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
             "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
             "websiteUrl": "http://rotato.xyz/",
-            "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gU5QqGOvzg0"
           },
           {
             "rank": "21",
@@ -1804,7 +1778,7 @@ const data = {
             "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
             "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
             "websiteUrl": "http://www.freepik.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -1856,10 +1830,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/procreate/shoutouts",
             "websiteUrl": "https://procreate.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fcd5972a-51de-4ec2-a8b1-f598c740a05e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2498ca2b-5558-4e92-845e-b3938241e2db.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2fac8cd9-c6fc-40bd-ac8d-2511b80df8b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wbem5qrH5ow"
           },
           {
             "rank": "29",
@@ -1954,10 +1928,10 @@ const data = {
             "description": "Ikonik – 10k icons, 20 packages, outlined and filled format, Webflow-friendly, copyright-protected.",
             "productUrl": "https://www.producthunt.com/products/ikonik-webflow-app/shoutouts",
             "websiteUrl": "https://webflow.com/apps/detail/ikonik",
-            "imageUrl1": "https://ph-files.imgix.net/b9ea8944-9092-4f31-87b0-578923280540.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3ca3ef70-8447-4be9-b229-17550f38d196.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/6764f447-a3d1-4a91-a581-ab2d01a79670.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/7_eppxr2nPE"
           },
           {
             "rank": "5",
@@ -1990,7 +1964,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/da03af27-d94d-4fe8-b020-82471c32b380.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/43c127d4-4f51-4194-8c35-6b063b0ae8a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/409794c9-a323-4c5f-8bbb-e77fc56e516a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "2",
@@ -2039,10 +2013,10 @@ const data = {
             "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
             "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
             "websiteUrl": "https://canva.com/",
-            "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/bVCRcNlY1yw"
           },
           {
             "rank": "6",
@@ -2065,10 +2039,10 @@ const data = {
             "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
             "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
             "websiteUrl": "https://daisyui.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ky18YtME8UQ"
           },
           {
             "rank": "8",
@@ -2078,8 +2052,8 @@ const data = {
             "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
             "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
             "websiteUrl": "https://chakra-ui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2091,10 +2065,10 @@ const data = {
             "description": "BaseTen is the fastest way to build apps powered by machine learning. Deploy models with a few lines of code, serve APIs without infrastructure or framework nightmares, and build stateful, interactive user interfaces to power real, functional applications.",
             "productUrl": "https://www.producthunt.com/products/baseten/shoutouts",
             "websiteUrl": "https://www.baseten.co/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/1c598821-c001-4927-9470-3de76b55ec60.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/GkC4aumr6BQ"
           },
           {
             "rank": "10",
@@ -2104,8 +2078,8 @@ const data = {
             "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
             "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
             "websiteUrl": "https://mantine.dev/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2118,9 +2092,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
             "websiteUrl": "https://nextui.org/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "12",
@@ -2208,10 +2182,10 @@ const data = {
             "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
             "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
             "websiteUrl": "https://www.weavely.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
           },
           {
             "rank": "19",
@@ -2221,10 +2195,10 @@ const data = {
             "description": "Create a logo using premade icons and editing tools or let AI take the lead.",
             "productUrl": "https://www.producthunt.com/products/logofast/shoutouts",
             "websiteUrl": "https://logofa.st/",
-            "imageUrl1": "https://ph-files.imgix.net/1f01fe64-647f-415b-955a-11573f58259d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ca29a5be-8ad3-4ffa-9ea6-d05134707941.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3977152-bfef-4450-88bc-26bbb86e622b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tax7iwjPC44"
           },
           {
             "rank": "20",
@@ -2260,10 +2234,10 @@ const data = {
             "description": "This is the place to find out about new apps, and get inspired to build your own in SwiftUI! These apps are the best examples of what SwiftUI is capable, check them out by visiting the site today!",
             "productUrl": "https://www.producthunt.com/products/swiftui-apps/shoutouts",
             "websiteUrl": "https://swiftuiapps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/441cad18-9b8c-44a1-9101-965e1f89627a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7284c511-9ccf-4b9d-9da1-b17909d4545d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36ae86a5-dda3-4b0d-9223-ef3ad25278bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YdkKvf9e4yg"
           },
           {
             "rank": "23",
@@ -2273,10 +2247,10 @@ const data = {
             "description": "Connected space for product teams. Handoff designs and styleguides with accurate specs, assets, code snippets—automatically.",
             "productUrl": "https://www.producthunt.com/products/zeplin/shoutouts",
             "websiteUrl": "https://zeplin.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d70ba836-0a3d-4ae6-980c-4754a98444f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1c939c00-506b-42f9-b83d-aa7efa4ffea8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/27fc46c9-0672-40c9-abd3-3df7985a3df4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tZDMEM4W6go"
           },
           {
             "rank": "24",
@@ -2299,7 +2273,7 @@ const data = {
             "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.",
             "productUrl": "https://www.producthunt.com/products/p5-js/shoutouts",
             "websiteUrl": "http://p5js.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/a7735952-a18f-48de-86ba-9749bb170926.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2312,10 +2286,10 @@ const data = {
             "description": "Adobe XD is made for designers like you, by designers like us. Easily create beautiful animations that move, scale and blur across artboards.",
             "productUrl": "https://www.producthunt.com/products/adobe-xd-cc-13-0/shoutouts",
             "websiteUrl": "https://www.adobe.com/xd",
-            "imageUrl1": "https://ph-files.imgix.net/c309fb68-fe73-4e76-b038-2e56afc3b532.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3805597e-6418-4ab4-9347-ec17b41a4298.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/dabd8734-9fde-4c56-88d4-8c671f83d6c8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/OicuzCSD84I"
           },
           {
             "rank": "27",
@@ -2325,8 +2299,8 @@ const data = {
             "description": "800+ commits in 10 months, 33 contributors working on it, we are very exited to introduce Ant Design 5.0.0 🆕5️⃣💥, bring out brand new design token system and dynamic theme ability, no more less.js and global styles!",
             "productUrl": "https://www.producthunt.com/products/ant-design-5-0/shoutouts",
             "websiteUrl": "https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1deb203f-603d-4e54-9c87-72c796128ea5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/04f48b3f-2df9-43ae-8801-09913129c551.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -2341,19 +2315,6 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "29",
-            "name": "Material Tailwind",
-            "icon": null,
-            "title": "Material Tailwind — Components library for Tailwind CSS & Material Design",
-            "description": "Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. It features multiple React components, all written with Tailwind CSS classes and Material Design guidelines. Coming soon components for VueJS, Angular and many more.",
-            "productUrl": "https://www.producthunt.com/products/material-tailwind/shoutouts",
-            "websiteUrl": "https://material-tailwind.com/",
-            "imageUrl1": "https://ph-files.imgix.net/573bdaa8-4e7a-4690-933d-4058ade35b3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/60c03dec-c43d-441e-a067-52d01a844748.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/804799f7-2cbe-4171-846e-bd63d3807824.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -2377,10 +2338,10 @@ const data = {
             "description": "Generative AI is coming to user interface design! Galileo AI generates stunning UI designs with text or image prompts, empowering you to design at lightning speed.",
             "productUrl": "https://www.producthunt.com/products/galileo-ai/shoutouts",
             "websiteUrl": "https://www.usegalileo.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/d6c3adeb-6f3a-4660-9acd-d1db433442b4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/6b11ef93-eb6a-4064-943e-11a897caba23.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/59c89ad6-89ff-4fad-af0b-b44f422fd61d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/a91-NhhtJKA"
           },
           {
             "rank": "32",
@@ -2442,10 +2403,10 @@ const data = {
             "description": "Hey! 👋 Tamagui is your new favorite style library. It makes cross-platform React styles much faster - both to develop, at runtime. Featuring a novel optimizing compiler that turns styled components into clean CSS and minimal VDOM, using tree-flattening.",
             "productUrl": "https://www.producthunt.com/products/tamagui/shoutouts",
             "websiteUrl": "https://tamagui.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/8307cbcf-af82-4140-8113-38d8bb00bb42.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/283288e3-8f61-4816-bd35-d1c57ad249ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a20191f7-d6c2-487f-90e2-abee6f0fbd28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Guwa1oPBvmU"
           },
           {
             "rank": "37",
@@ -2455,10 +2416,10 @@ const data = {
             "description": "teleportHQ is a platform and a suite of open-source tools built for user interface professionals. It simplifies the process of creating, maintaining and publishing user interfaces for desktop and mobile devices. teleportHQ uses AI to analyze the user's intentions and augments the final result with real-time optimizations.",
             "productUrl": "https://www.producthunt.com/products/teleporthq/shoutouts",
             "websiteUrl": "http://teleporthq.io/",
-            "imageUrl1": "https://ph-files.imgix.net/09e42714-9998-4f7e-ac4c-3ae586a973db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/668065b6-d494-458d-9336-184dc0da5101.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b51c2411-7187-423f-a43c-769d19fc4d26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/kxW62eMsw0k"
           },
           {
             "rank": "38",
@@ -2481,10 +2442,10 @@ const data = {
             "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
             "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
             "websiteUrl": "https://www.facebook.com/pxCode",
-            "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zJsajMMLUvY"
           },
           {
             "rank": "40",
@@ -2536,7 +2497,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/d2e47514-2b83-4ab5-b69a-e2d981b0bb93.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/b29001af-bba8-40ed-8d31-f1f94989beab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/df26786b-b197-473e-857b-2f5ce9754300.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "44",
@@ -2566,10 +2527,10 @@ const data = {
             "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
             "productUrl": "https://www.producthunt.com/products/flutter/shoutouts",
             "websiteUrl": "https://flutter.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/cda52a23-3dd1-4510-a5f1-972d677eabb6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0812df7e-b7be-4f7c-b329-624b47c9efd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/4c365210-bfbe-4919-a6c0-7011ed0a7fa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/l6hw4o6_Wcs"
           },
           {
             "rank": "2",
@@ -2592,7 +2553,7 @@ const data = {
             "description": "Create native apps for Android, iOS, and more using React.",
             "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
             "websiteUrl": "http://facebook.github.io/react-native",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2618,10 +2579,10 @@ const data = {
             "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
             "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
             "websiteUrl": "https://flutterflow.io/",
-            "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/jGbLsYDgAVc"
           },
           {
             "rank": "6",
@@ -2670,10 +2631,10 @@ const data = {
             "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
             "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
             "websiteUrl": "https://apparencekit.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/JbUWROBEiNM"
           },
           {
             "rank": "10",
@@ -2696,10 +2657,10 @@ const data = {
             "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
             "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
             "websiteUrl": "https://localizebot.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mzR8TDmcMxk"
           },
           {
             "rank": "12",
@@ -2709,7 +2670,7 @@ const data = {
             "description": "This is an opionated configuration for Typescript React Native with all the packages and tools that I use for my React Native projects. Feel free to contribute.",
             "productUrl": "https://www.producthunt.com/products/typescript-react-native-starter/shoutouts",
             "websiteUrl": "https://github.com/NewBieBR/typescript-react-native-starter",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/46a7ef11-99b0-4b13-8a17-7e356ee1c867.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2735,10 +2696,10 @@ const data = {
             "description": "Avoid mindless scrolling and eliminate distractions. With minimalist phone, you can filter notifications, block or hide other apps and much more. minimalist phone has reminders that help you not to get lost in apps with endless scroll feeds.",
             "productUrl": "https://www.producthunt.com/products/minimalist-phone-reduce-your-screentime/shoutouts",
             "websiteUrl": "https://www.minimalistphone.com/",
-            "imageUrl1": "https://ph-files.imgix.net/11df9dd8-71fb-4130-988e-17865aff0d1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b0f8c93b-f656-45c0-8df6-122f3a971b7f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/49ddba02-9877-4f92-803c-08ca43455dd9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/lJKrmJve5Jo"
           },
           {
             "rank": "15",
@@ -2748,10 +2709,10 @@ const data = {
             "description": "Dark Noise is a simple yet powerful way to play ambient noise to help you sleep, focus, or relax. Each of the 30+ high-quality sounds features a delightfully animated icon that brings the sound to life. Deep integrations with iOS make it easier than ever to start an ambient noise with a tap or even your voice!",
             "productUrl": "https://www.producthunt.com/products/dark-noise/shoutouts",
             "websiteUrl": "https://darknoise.app/",
-            "imageUrl1": "https://ph-files.imgix.net/6e634cdc-9146-4c4e-bfeb-7cc9e0dbce7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9e2bd099-073d-402c-b136-e76ca040ba24.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/70194a5b-4a5d-43e5-bce2-2e31cceebded.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Q7BDtu9CkAI"
           },
           {
             "rank": "16",
@@ -2789,8 +2750,8 @@ const data = {
             "websiteUrl": "http://music.youtube.com/",
             "imageUrl1": "https://ph-files.imgix.net/54f9e4b9-87fb-447b-84a7-bcc4874ec712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/0214ffe9-79a6-4750-aa62-825de28fffcf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/cb4f8eb8-c05d-4929-83a0-a44addd4c2f5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "19",
@@ -2800,10 +2761,10 @@ const data = {
             "description": "MobileGPT is your ChatGPT on WhatsApp. You can do all the things that you do with ChatGPT, but on your mobile device. In addition - you can generate AI images and AI powered documents in word format - sent directly to your WhatsApp.",
             "productUrl": "https://www.producthunt.com/products/mobilegpt/shoutouts",
             "websiteUrl": "https://mobile-gpt.io/",
-            "imageUrl1": "https://ph-files.imgix.net/56e4341c-5aff-4b65-bd22-ffc4ab871cea.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d68eaebc-e1a7-45f5-ab44-664449a304f4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/47fe8336-13fa-4e03-8d55-af2032ae8c76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/5uilebtMeXo"
           },
           {
             "rank": "20",
@@ -2842,19 +2803,6 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "23",
-            "name": "SwiftShip",
-            "icon": null,
-            "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
-            "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
-            "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
-            "websiteUrl": "https://swiftship.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -2917,10 +2865,10 @@ const data = {
             "description": "“A big step forward for mobile music” - CDM (Create Digital Music) \"Groundbreaking iOS synth app\" - Cult of Mac \"Must-download for every iPad owner\" - MacBreak",
             "productUrl": "https://www.producthunt.com/products/audiokit-pro/shoutouts",
             "websiteUrl": "http://audiokitpro.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c736c364-6beb-4204-a75e-63f103d3e94e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/99a7751d-998c-4392-b72b-febb061da593.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3809bbce-08bc-4166-a289-58de942fa79b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/hwDNgCYowYs"
           },
           {
             "rank": "29",
@@ -2969,10 +2917,10 @@ const data = {
             "description": "Apple empowers developers and fuels innovation with new tools and resources. Enhancements to Xcode and Swift, combined with new APIs, offer developers expanded capabilities for creating high‑quality apps.",
             "productUrl": "https://www.producthunt.com/products/xcode-16/shoutouts",
             "websiteUrl": "https://apps.apple.com/us/app/xcode/id497799835",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/28bd582c-6ea8-4edd-8171-990496300b74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BAQ9EhAm2eM"
           },
           {
             "rank": "33",
@@ -3021,10 +2969,10 @@ const data = {
             "description": "An indie iOS app for not just tracking — but also planning and analyzing — your budget. If you value money and want to be wise with your spending, or if you want to learn how to do budgeting, the updated Budget Hound is here to help you.",
             "productUrl": "https://www.producthunt.com/products/budget-hound-3/shoutouts",
             "websiteUrl": "https://budgethound.app/",
-            "imageUrl1": "https://ph-files.imgix.net/8acd37f9-9c13-46d5-a157-f350be11aee8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5e0dcbc7-c17f-43ba-88b0-ab18f7383d3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/52707553-f5ba-495d-bea3-b5f2e4d645ce.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Y1XEXFZwa-s"
           },
           {
             "rank": "37",
@@ -3054,10 +3002,10 @@ const data = {
             "description": "Kapwing is a modern editor for videos, GIFs, and images. Try our free, online tools including Studio, meme maker, resizer, subtitle maker, filters, and more!",
             "productUrl": "https://www.producthunt.com/products/kapwing/shoutouts",
             "websiteUrl": "https://www.kapwing.com/",
-            "imageUrl1": "https://ph-files.imgix.net/ea84f577-f614-4e02-bb61-214d5ee77248.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9dd37f0c-484e-47dc-a87e-a207d2c506f3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2dbb18c0-9803-4fce-aa19-aca27bf43b84.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F4Qpt2IrnOU"
           },
           {
             "rank": "2",
@@ -3067,10 +3015,10 @@ const data = {
             "description": "AI Mirror is an AI-powered photo & video generation app that transforms your artwork into anime-styles with just a few taps. Our technology can create a brand-new image in the style of your favorite animations. With AI Mirror, you can cartoonize yourself, create a magical avatar, or just have fun with digital art. Give it a try and transform your photos into stunning anime characters!",
             "productUrl": "https://www.producthunt.com/products/ai-mirror/shoutouts",
             "websiteUrl": "https://app.adjust.com/17kemps9",
-            "imageUrl1": "https://ph-files.imgix.net/bc73ac01-a325-48e8-ac65-4ebd956d7877.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/fb292b51-312b-4f7b-85b0-727c53a3661f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b1ddfd54-5bc3-41c7-aaac-0dcb5b3576b4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/hvNC3zCdofE"
           },
           {
             "rank": "3",
@@ -3080,10 +3028,10 @@ const data = {
             "description": "Create studio-quality images in seconds. In one tap, remove the background and compose an image that will showcase a product or a model. PhotoRoom gives design super powers to everyone because you edit objects and not pixels PhotoRoom is an image editing app that lets you capture, edit, and mix images by editing objects.",
             "productUrl": "https://www.producthunt.com/products/bg-app/shoutouts",
             "websiteUrl": "https://photoroom.com/",
-            "imageUrl1": "https://ph-files.imgix.net/a1949ffe-e2a8-4c5b-be97-115026bdcf1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/468fc322-d53d-4fac-82b6-717c3086e4a5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9d33d5b9-22f3-49e3-a722-575ade84f4df.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/51wbm-h8Trk"
           },
           {
             "rank": "4",
@@ -3132,7 +3080,7 @@ const data = {
             "description": "Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. And with an extensive collection of tools for editing and retouching photos, creating graphic designs, painting, drawing vector graphics, and adding stunning effects, it’s the only image editor you’ll need.",
             "productUrl": "https://www.producthunt.com/products/pixelmator/shoutouts",
             "websiteUrl": "http://www.pixelmator.com/pro",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f463a9c6-6117-4255-8751-47fde808b71f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3145,10 +3093,10 @@ const data = {
             "description": "IMG.LY provides industry-leading creative SDKs designed for app developers and businesses. Our solutions make it easy to integrate and customize powerful photo, video, and design editing capabilities. Whether you need a photo editor, video editor, a camera UI, or other creative tools, our SDKs have you covered. Enhance your apps with stunning features and effects, and join thousands of satisfied customers who trust IMG.LY to elevate their user experiences and drive business growth.",
             "productUrl": "https://www.producthunt.com/products/img-ly/shoutouts",
             "websiteUrl": "http://img.ly/",
-            "imageUrl1": "https://ph-files.imgix.net/efbe5b40-543e-4dfb-ae1d-72ac958e8013.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b9f8a266-61c1-40b4-b3eb-b0fe5b25d5c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36529f24-2699-43a4-a3a0-2b41053534a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZezTwDAfGwc"
           },
           {
             "rank": "9",
@@ -3171,7 +3119,7 @@ const data = {
             "description": "We create, manage and deliver engaging experiences at scale",
             "productUrl": "https://www.producthunt.com/products/cloudinary/shoutouts",
             "websiteUrl": "https://cloudinary.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/aaac3e0a-eb5f-4693-ae7a-08f7df4a55c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3210,10 +3158,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/eagle/shoutouts",
             "websiteUrl": "https://eagle.cool/",
-            "imageUrl1": "https://ph-files.imgix.net/4b05bc42-d0b8-4548-88ac-9310d12c4e17.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/cd8728d0-00d7-47b1-9104-5c76205dbfd6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/12fbc4bf-e194-4f28-bd5b-6031854e151e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/hdemphnBz14"
           },
           {
             "rank": "14",
@@ -3249,10 +3197,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/procreate/shoutouts",
             "websiteUrl": "https://procreate.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fcd5972a-51de-4ec2-a8b1-f598c740a05e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2498ca2b-5558-4e92-845e-b3938241e2db.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2fac8cd9-c6fc-40bd-ac8d-2511b80df8b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wbem5qrH5ow"
           },
           {
             "rank": "17",
@@ -3275,7 +3223,7 @@ const data = {
             "description": "Turn your pictures or screenshots into videos for free.",
             "productUrl": "https://www.producthunt.com/products/from-image-to-video/shoutouts",
             "websiteUrl": "https://fromimagetovideo.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f0989145-f9f5-43c4-929e-d8fcc7f2523f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3323,21 +3271,8 @@ const data = {
             "websiteUrl": "https://www.spotify.com/",
             "imageUrl1": "https://ph-files.imgix.net/6e781bf6-ac35-4fd3-b7e4-899f6d4a000b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "3",
-            "name": "Wondercraft",
-            "icon": "https://ph-files.imgix.net/290edd0f-e78e-4fce-ba2d-aec0c8e4e67a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "Wondercraft — An AI powered audio studio",
-            "description": "The easy and enjoyable way to create professional, studio-quality audio for podcasts, audiobooks, ads, company communications, and more.",
-            "productUrl": "https://www.producthunt.com/products/wondercraft-ai/shoutouts",
-            "websiteUrl": "https://wondercraft.ai/",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/26ebeccd-360f-4b8b-aa99-1a72719a7631.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/5283db05-17b6-4864-86d8-e9c2ce0a4b39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "4",
@@ -3347,10 +3282,10 @@ const data = {
             "description": "Descript is a new kind of video and audio editor that’s as easy as a doc. Descript’s AI-powered features and intuitive interface fuel YouTube and TikTok channels, top podcasts, and businesses using video for marketing, sales, and internal training and collaboration. Descript aims to make video a staple of every communicator’s toolkit, alongside docs and slides.",
             "productUrl": "https://www.producthunt.com/products/descript/shoutouts",
             "websiteUrl": "https://www.descript.com/",
-            "imageUrl1": "https://ph-files.imgix.net/aaf03998-8f3f-4be4-88ca-fb3652a9748b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/05f138ec-94cc-49aa-8656-9937c758871e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/64e70d78-62cf-4fbb-8a3d-70666287e363.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/haUG5ii0His"
           },
           {
             "rank": "5",
@@ -3360,7 +3295,7 @@ const data = {
             "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
             "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
             "websiteUrl": "https://ko-fi.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/3942cebc-f885-4839-81bf-9079389ce071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3380,8 +3315,8 @@ const data = {
             "description": "Since spotify decided to get rid of their headle game, here is a new version. I really enjoyed playing heardle and hated that spotify got rid of it. So I have been playing this version now and made it into a website.",
             "productUrl": "https://www.producthunt.com/products/heardle-2/shoutouts",
             "websiteUrl": "https://www.heardleunlimited.xyz/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/58ab1eb9-6c0b-4528-bf3a-682fb94ea651.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/ecf89072-9240-4847-a11f-17ac67fb74ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -3420,10 +3355,10 @@ const data = {
             "description": "A collection of 13,000+ AI-crafted, highly curated images from creators across the globe.",
             "productUrl": "https://www.producthunt.com/products/lummi/shoutouts",
             "websiteUrl": "https://lummi.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/7349d076-6034-4792-8f83-7da04ec5b12c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/61f8c5f4-e0c3-4f94-ad34-b687669abe28.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a3f2fbc5-9b8f-4e27-ad8d-8432786aa5ab.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/h4LIIPFWKXg"
           },
           {
             "rank": "2",
@@ -3472,7 +3407,7 @@ const data = {
             "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
             "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
             "websiteUrl": "http://www.freepik.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3505,10 +3440,10 @@ const data = {
             "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
             "productUrl": "https://www.producthunt.com/products/flutter/shoutouts",
             "websiteUrl": "https://flutter.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/cda52a23-3dd1-4510-a5f1-972d677eabb6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0812df7e-b7be-4f7c-b329-624b47c9efd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/4c365210-bfbe-4919-a6c0-7011ed0a7fa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/l6hw4o6_Wcs"
           },
           {
             "rank": "3",
@@ -3544,7 +3479,7 @@ const data = {
             "description": "Create native apps for Android, iOS, and more using React.",
             "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
             "websiteUrl": "http://facebook.github.io/react-native",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3557,10 +3492,10 @@ const data = {
             "description": "A compiler that takes your declarative components and converts them into efficient JavaScript that surgically updates the DOM.",
             "productUrl": "https://www.producthunt.com/products/svelte/shoutouts",
             "websiteUrl": "https://svelte.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/931b42c5-6711-45d2-b84f-76711ad50898.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5e35a9fc-1c1d-4377-bc13-e3d4967d9c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/710f38ab-3a04-4e94-9654-d4b4fb7a305e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/AdNJ3fydeao"
           },
           {
             "rank": "7",
@@ -3583,10 +3518,10 @@ const data = {
             "description": "An open source framework to create performant and production-grade full-stack web apps and websites with confidence.",
             "productUrl": "https://www.producthunt.com/products/nuxt-js/shoutouts",
             "websiteUrl": "https://nuxtjs.org/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/91ed0a8d-258a-48ff-a2f1-78d605018d5c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/o9e12WbKrd8"
           },
           {
             "rank": "9",
@@ -3596,8 +3531,8 @@ const data = {
             "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
             "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
             "websiteUrl": "https://tailwindui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3609,10 +3544,10 @@ const data = {
             "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
             "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
             "websiteUrl": "https://daisyui.com/",
-            "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ky18YtME8UQ"
           },
           {
             "rank": "11",
@@ -3622,10 +3557,10 @@ const data = {
             "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
             "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
             "websiteUrl": "https://flutterflow.io/",
-            "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/jGbLsYDgAVc"
           },
           {
             "rank": "12",
@@ -3635,7 +3570,7 @@ const data = {
             "description": "Thinnest possible Virtual DOM abstraction on top of the DOM. It builds on stable platform features, registers real event handlers and plays nicely with other libraries.",
             "productUrl": "https://www.producthunt.com/products/preact/shoutouts",
             "websiteUrl": "https://preactjs.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/6fe0e255-fd53-4cb2-87a1-042b9c81ee0c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3648,10 +3583,10 @@ const data = {
             "description": "A full stack web framework that lets you focus on the user interface and work back through web standards to deliver a fast, slick, and resilient user experience.",
             "productUrl": "https://www.producthunt.com/products/remix-5/shoutouts",
             "websiteUrl": "https://remix.run/",
-            "imageUrl1": "https://ph-files.imgix.net/1e43896b-6ea9-48f4-bbdb-ff8128907b81.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c4c17182-92f6-44f1-8f99-dd318820b955.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/dc0533fc-f70d-4084-88b9-095d239c61d0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/9FDV-VCq5XE"
           },
           {
             "rank": "14",
@@ -3661,8 +3596,8 @@ const data = {
             "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
             "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
             "websiteUrl": "https://chakra-ui.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3674,8 +3609,8 @@ const data = {
             "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
             "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
             "websiteUrl": "https://mantine.dev/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3688,9 +3623,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
             "websiteUrl": "https://nextui.org/",
             "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "17",
@@ -3713,10 +3648,10 @@ const data = {
             "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
             "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
             "websiteUrl": "https://aws.github.io/aws-amplify",
-            "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/BCXdLx6xHmc"
           },
           {
             "rank": "19",
@@ -3752,10 +3687,10 @@ const data = {
             "description": "A framework for building tiny, blazingly fast binaries for all major desktop platforms. Developers can integrate any front-end framework that compiles to HTML, JS and CSS for building their user interface.",
             "productUrl": "https://www.producthunt.com/products/tauri-2/shoutouts",
             "websiteUrl": "https://tauri.app/",
-            "imageUrl1": "https://ph-files.imgix.net/96efd69f-3865-4db2-9ae1-6f71c59ee99d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e5b9fe47-c6f6-46e8-a0f1-ec0245991ba5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/255ca07e-fb16-441f-884f-4c5ff8ddc995.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/-X8evddpu7M"
           },
           {
             "rank": "22",
@@ -3791,7 +3726,7 @@ const data = {
             "description": "The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.",
             "productUrl": "https://www.producthunt.com/products/gradio/shoutouts",
             "websiteUrl": "https://www.gradio.app/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0a65a3aa-9f5b-41a6-b86c-d567f7379403.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3856,10 +3791,10 @@ const data = {
             "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
             "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
             "websiteUrl": "https://dopt.com/",
-            "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NVPsmpFRKbI"
           },
           {
             "rank": "30",
@@ -3927,19 +3862,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "35",
-            "name": "SwiftShip",
-            "icon": null,
-            "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
-            "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
-            "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
-            "websiteUrl": "https://swiftship.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "36",
             "name": "Ant Design 5.0",
             "icon": "https://ph-files.imgix.net/8e778120-accc-46ee-a747-8d7fe7e93d4d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -3947,8 +3869,8 @@ const data = {
             "description": "800+ commits in 10 months, 33 contributors working on it, we are very exited to introduce Ant Design 5.0.0 🆕5️⃣💥, bring out brand new design token system and dynamic theme ability, no more less.js and global styles!",
             "productUrl": "https://www.producthunt.com/products/ant-design-5-0/shoutouts",
             "websiteUrl": "https://medium.com/ant-design/ant-design-5-0-is-released-27b2552f14a3",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/1deb203f-603d-4e54-9c87-72c796128ea5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/04f48b3f-2df9-43ae-8801-09913129c551.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3986,22 +3908,9 @@ const data = {
             "description": "Full-stack, multi-client JavaScript Framework built on React, GraphQL, and Prisma",
             "productUrl": "https://www.producthunt.com/products/redwood-js/shoutouts",
             "websiteUrl": "https://github.com/redwoodjs",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/879637e6-1e5d-4390-bb09-a4129556cdcf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "40",
-            "name": "Material Tailwind",
-            "icon": null,
-            "title": "Material Tailwind — Components library for Tailwind CSS & Material Design",
-            "description": "Material Tailwind is an easy to use components library for Tailwind CSS and Material Design. It features multiple React components, all written with Tailwind CSS classes and Material Design guidelines. Coming soon components for VueJS, Angular and many more.",
-            "productUrl": "https://www.producthunt.com/products/material-tailwind/shoutouts",
-            "websiteUrl": "https://material-tailwind.com/",
-            "imageUrl1": "https://ph-files.imgix.net/573bdaa8-4e7a-4690-933d-4058ade35b3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/60c03dec-c43d-441e-a067-52d01a844748.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/804799f7-2cbe-4171-846e-bd63d3807824.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -4051,10 +3960,10 @@ const data = {
             "description": "Hey! 👋 Tamagui is your new favorite style library. It makes cross-platform React styles much faster - both to develop, at runtime. Featuring a novel optimizing compiler that turns styled components into clean CSS and minimal VDOM, using tree-flattening.",
             "productUrl": "https://www.producthunt.com/products/tamagui/shoutouts",
             "websiteUrl": "https://tamagui.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/8307cbcf-af82-4140-8113-38d8bb00bb42.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/283288e3-8f61-4816-bd35-d1c57ad249ef.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a20191f7-d6c2-487f-90e2-abee6f0fbd28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/Guwa1oPBvmU"
           },
           {
             "rank": "45",
@@ -4090,10 +3999,10 @@ const data = {
             "description": "teleportHQ is a platform and a suite of open-source tools built for user interface professionals. It simplifies the process of creating, maintaining and publishing user interfaces for desktop and mobile devices. teleportHQ uses AI to analyze the user's intentions and augments the final result with real-time optimizations.",
             "productUrl": "https://www.producthunt.com/products/teleporthq/shoutouts",
             "websiteUrl": "http://teleporthq.io/",
-            "imageUrl1": "https://ph-files.imgix.net/09e42714-9998-4f7e-ac4c-3ae586a973db.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/668065b6-d494-458d-9336-184dc0da5101.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b51c2411-7187-423f-a43c-769d19fc4d26.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/kxW62eMsw0k"
           },
           {
             "rank": "48",
@@ -4103,10 +4012,10 @@ const data = {
             "description": "AG Grid is a JavaScript Data Grid for rendering lots of data in a Grid. Sorting, Filtering, Ordering, Pagination and Exporting are built in. One dependency to add to your project. Open Source edition is free for use in commercial applications.",
             "productUrl": "https://www.producthunt.com/products/ag-grid/shoutouts",
             "websiteUrl": "https://ag-grid.com/",
-            "imageUrl1": "https://ph-files.imgix.net/e94d5839-1247-479a-abd9-cf21fab6cac1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/469263b1-6e44-49b5-8875-89a9c856cb1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/ee2b3fd1-a13d-4fbb-a992-97d028d89987.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/6wpITiH8npM"
           },
           {
             "rank": "49",
@@ -4129,8 +4038,8 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/pressure-js/shoutouts",
             "websiteUrl": "http://pressurejs.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/6f50e561-ac1f-45ae-9440-af29e08d5d39.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/6a8134dc-cd67-4a9c-b1d5-2ff22ce72879.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4142,7 +4051,7 @@ const data = {
             "description": "Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components",
             "productUrl": "https://www.producthunt.com/products/tanstack/shoutouts",
             "websiteUrl": "https://tanstack.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/1c1db09f-19db-4eee-bee0-2e5b33fba96e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4168,10 +4077,10 @@ const data = {
             "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
             "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
             "websiteUrl": "https://www.facebook.com/pxCode",
-            "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zJsajMMLUvY"
           },
           {
             "rank": "54",
@@ -4194,10 +4103,10 @@ const data = {
             "description": "Vexo helps developers and managers solve all their React Native analytics needs. With a seamless integration it provides data out of the box, through a beautiful interface.",
             "productUrl": "https://www.producthunt.com/products/vexo/shoutouts",
             "websiteUrl": "https://www.vexo.co/",
-            "imageUrl1": "https://ph-files.imgix.net/124f1375-467d-40c1-a1f2-9663fae1e3fd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/bde7d554-9bc2-434f-8712-ca4ff58b9731.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/be79f6a6-2472-4a31-8583-e51d839f7b03.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/S3ADOef9kQ0"
           },
           {
             "rank": "56",
@@ -4279,10 +4188,10 @@ const data = {
             "description": "FullStory is your digital experience analytics platform for on-the-fly funnels, pixel-perfect replay, custom events, heat maps, advanced search, Dev Tools, and more.",
             "productUrl": "https://www.producthunt.com/products/fullstory/shoutouts",
             "websiteUrl": "http://www.fullstory.com/",
-            "imageUrl1": "https://ph-files.imgix.net/fa5456a0-6c1f-4454-b1a1-b54fa3229315.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ce59303e-7b35-4f15-8a12-7dea4304a5af.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2b3a0d48-9222-4669-bd9f-4360d3f9e4c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YaaHrCr3a9U"
           },
           {
             "rank": "2",
@@ -4321,7 +4230,7 @@ const data = {
             "imageUrl1": "https://ph-files.imgix.net/2deb3ee4-30ec-449e-985e-efdca628311b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/9b3bbbee-5ba1-4afd-926d-7b08b34adbc9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://ph-files.imgix.net/d5d38ca0-4683-412a-89ca-2209e3264507.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
           },
           {
             "rank": "5",
@@ -4357,8 +4266,8 @@ const data = {
             "description": "Everything you need for authentication wrapped in one beautiful platform. Free your users from passwords with secure and frictionless one click sign up and sign in. Out of the box support for Enterprise SSO like Azure AD. Let users sign in the way they want with built-in support for a range of social logins. Protect your users from reused or breached passwords with MFA. Stay on brand by customizing your sign up and sign in pages to match your look and feel. Built from the ground up using the best in class security protocols available today.",
             "productUrl": "https://www.producthunt.com/products/kinde/shoutouts",
             "websiteUrl": "https://www.kinde.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/2e0c3330-67ab-4138-aeaf-2099eb40456d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/94a76224-6655-460d-becf-3dfd1779c625.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4389,32 +4298,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "10",
-            "name": "Tandemz",
-            "icon": null,
-            "title": "Tandemz — Recruit research participants in just a couple of clicks",
-            "description": "Find research participants from all over the world easily, for your interviews, usability tests, and surveys.",
-            "productUrl": "https://www.producthunt.com/products/tandemz/shoutouts",
-            "websiteUrl": "https://www.tandemz.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d7eb31fa-ea93-4b08-8b83-71d332ecf947.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/2eb8e348-f4ab-4b88-905f-f8463880354e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/ef71eb4c-e181-4b8a-8f56-b32955d7f5c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
-            "rank": "11",
-            "name": "Told",
-            "icon": null,
-            "title": "Told — Collect user feedback with in-product surveys",
-            "description": "A no-code survey tool that helps you collect user or customer feedback and understand your data simply.",
-            "productUrl": "https://www.producthunt.com/products/told-2/shoutouts",
-            "websiteUrl": "https://www.told.club/",
-            "imageUrl1": "https://ph-files.imgix.net/c40c5ca2-48a0-4ea4-b05c-943e75270b1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/12430d09-8030-4599-9c5c-446bdaf5393a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/6a6ab32a-49cd-4eda-a6dc-9df4978a96cf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "12",
             "name": "Survser",
             "icon": "https://ph-files.imgix.net/f3bdd5bb-7b27-4536-821f-88ed8473890c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -4422,10 +4305,10 @@ const data = {
             "description": "Survser is an easy and affordable solution for in-app user surveys. Ask your users the right questions at the right time and uncover growth paths for your product.",
             "productUrl": "https://www.producthunt.com/products/survser/shoutouts",
             "websiteUrl": "https://survser.com/",
-            "imageUrl1": "https://ph-files.imgix.net/3c54ec42-5b51-47df-b5bf-bce1749fa72b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0f0036ce-0cc3-4d59-bdf2-af46324952fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/424f902a-a20d-4734-a531-ce5894300585.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/y-2k8wldPRw"
           },
           {
             "rank": "13",
@@ -4435,10 +4318,10 @@ const data = {
             "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
             "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
             "websiteUrl": "https://www.chameleon.io/",
-            "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/nDbUx3uJgbI"
           },
           {
             "rank": "14",
@@ -4461,10 +4344,10 @@ const data = {
             "description": "Hotjar’s visual insights, user feedback, and live interviews show you what site visitors do, and why they do it. Access all the insights you need in one place and join 1.1 million websites in 180+ countries who already use Hotjar to turn their clicks into conversions. Install a single script and get started for free.",
             "productUrl": "https://www.producthunt.com/products/hotjar/shoutouts",
             "websiteUrl": "http://www.hotjar.com/",
-            "imageUrl1": "https://ph-files.imgix.net/f01a6719-969e-4992-8435-a984d277d006.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/8e27cb70-ac21-433a-b530-4c32b9a5eed3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/9312d8bc-bacd-42d3-b400-8b90345ef16b.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/GhTvP_Ead68"
           },
           {
             "rank": "16",
@@ -4487,7 +4370,7 @@ const data = {
             "description": "Ensuring privacy compliance by design, the Countly platform brings together user-friendliness, privacy, customization, and all-in-one functionality. We help individuals, teams, and organizations reach their product dreams by tracking their product's performance, user journeys, and behavior. Make the best of our advanced User Profiles, Dashboards, Crashes, Events, Funnels, A/B Testing, Surveys, Cohorts, and more. PS. Whether you have a mobile, web, desktop, or IoT app, we have you covered. <3",
             "productUrl": "https://www.producthunt.com/products/countly/shoutouts",
             "websiteUrl": "http://countly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/7769e73c-6df3-40b2-9731-faf85d158de5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4533,10 +4416,10 @@ const data = {
             "description": "Screen Studio makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and adds beautiful background around your recording. In a minute your recording becomes a high-quality promotional video.",
             "productUrl": "https://www.producthunt.com/products/screen-studio/shoutouts",
             "websiteUrl": "https://screen.studio/",
-            "imageUrl1": "https://ph-files.imgix.net/8a192cfa-06f6-4b31-9c1b-724f5fb965f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5a949020-0d54-42f1-ab07-a7721a0ba7d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/75c9e3d5-7289-4d4c-b689-f391e9235efc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/HiLfRitm_dc"
           },
           {
             "rank": "2",
@@ -4559,10 +4442,10 @@ const data = {
             "description": "Kapwing is a modern editor for videos, GIFs, and images. Try our free, online tools including Studio, meme maker, resizer, subtitle maker, filters, and more!",
             "productUrl": "https://www.producthunt.com/products/kapwing/shoutouts",
             "websiteUrl": "https://www.kapwing.com/",
-            "imageUrl1": "https://ph-files.imgix.net/ea84f577-f614-4e02-bb61-214d5ee77248.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9dd37f0c-484e-47dc-a87e-a207d2c506f3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2dbb18c0-9803-4fce-aa19-aca27bf43b84.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/F4Qpt2IrnOU"
           },
           {
             "rank": "4",
@@ -4572,10 +4455,10 @@ const data = {
             "description": "Typeframes lets you create eye-catching product videos to elevate your brand and convert more customers.",
             "productUrl": "https://www.producthunt.com/products/typeframes/shoutouts",
             "websiteUrl": "https://www.typeframes.com/",
-            "imageUrl1": "https://ph-files.imgix.net/ec374c3e-8b85-46b5-a41d-c552755689d0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/65805f78-9034-40e8-ba51-b6322591d7a2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/2c321552-afd1-4019-b3c4-8a78e4163295.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/keOCTtNazr4"
           },
           {
             "rank": "5",
@@ -4598,7 +4481,7 @@ const data = {
             "description": "The screen recorder that edits videos for you.",
             "productUrl": "https://www.producthunt.com/products/tella-1-0/shoutouts",
             "websiteUrl": "https://tella.tv/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e8388ee8-58d4-48df-9c61-6ba7bd46d712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4611,10 +4494,10 @@ const data = {
             "description": "AI Mirror is an AI-powered photo & video generation app that transforms your artwork into anime-styles with just a few taps. Our technology can create a brand-new image in the style of your favorite animations. With AI Mirror, you can cartoonize yourself, create a magical avatar, or just have fun with digital art. Give it a try and transform your photos into stunning anime characters!",
             "productUrl": "https://www.producthunt.com/products/ai-mirror/shoutouts",
             "websiteUrl": "https://app.adjust.com/17kemps9",
-            "imageUrl1": "https://ph-files.imgix.net/bc73ac01-a325-48e8-ac65-4ebd956d7877.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/fb292b51-312b-4f7b-85b0-727c53a3661f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/b1ddfd54-5bc3-41c7-aaac-0dcb5b3576b4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/hvNC3zCdofE"
           },
           {
             "rank": "8",
@@ -4624,8 +4507,8 @@ const data = {
             "description": "Video editing made simple. Create great videos with a single click. Add subtitles, transcribe audio, browse AI tools, use templates, and much, much more. Try it now!",
             "productUrl": "https://www.producthunt.com/products/veed/shoutouts",
             "websiteUrl": "https://www.veed.io/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/b3018a24-c097-4277-ae6e-4c72e7db90f1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/e43e27ad-fa27-4b4a-bc2f-3f008167cf9d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4689,10 +4572,10 @@ const data = {
             "description": "We are a motion video editing agency who create videos that work for you. Through our subscription model, we provide ongoing motion videos that support to help elevate your marketing. We create product demos, launch promos, explainers and more.",
             "productUrl": "https://www.producthunt.com/products/pexmotion/shoutouts",
             "websiteUrl": "https://pexmotion.io/",
-            "imageUrl1": "https://ph-files.imgix.net/82e8b6a4-2f15-4e2d-8b65-66911ff12c96.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/ecd223e7-dffc-4bff-a1d0-5b858a42cbbe.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/7e6db52c-1c70-42e5-bcd1-558c1869fc41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ng04BUELUWY"
           },
           {
             "rank": "14",
@@ -4715,10 +4598,10 @@ const data = {
             "description": "A screen recorder comes with automated editing - Automatically track cursor movement, apply dynamic zoom and click effects, add a pleasant background, and generate a professional-looking video/gif that is ready to use.",
             "productUrl": "https://www.producthunt.com/products/focusee/shoutouts",
             "websiteUrl": "https://gemoo.com/focusee",
-            "imageUrl1": "https://ph-files.imgix.net/222ee4d7-bffe-409f-88f5-0989aed0bd0b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5aee537c-26a4-4ee4-8c39-a0e374e65d70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9c850902-d9e5-4543-9ae4-032e212c5037.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/P8sP2CRF7Mw"
           },
           {
             "rank": "16",
@@ -4741,10 +4624,10 @@ const data = {
             "description": "Descript is a new kind of video and audio editor that’s as easy as a doc. Descript’s AI-powered features and intuitive interface fuel YouTube and TikTok channels, top podcasts, and businesses using video for marketing, sales, and internal training and collaboration. Descript aims to make video a staple of every communicator’s toolkit, alongside docs and slides.",
             "productUrl": "https://www.producthunt.com/products/descript/shoutouts",
             "websiteUrl": "https://www.descript.com/",
-            "imageUrl1": "https://ph-files.imgix.net/aaf03998-8f3f-4be4-88ca-fb3652a9748b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/05f138ec-94cc-49aa-8656-9937c758871e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/64e70d78-62cf-4fbb-8a3d-70666287e363.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/haUG5ii0His"
           },
           {
             "rank": "18",
@@ -4782,8 +4665,8 @@ const data = {
             "websiteUrl": "http://synthesia.io/",
             "imageUrl1": "",
             "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/40525c34-dd48-43a4-886f-8cb3bbc9ea2c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/gZaBwdru_bk"
           },
           {
             "rank": "21",
@@ -4819,10 +4702,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/artlist/shoutouts",
             "websiteUrl": "https://artlist.io/",
-            "imageUrl1": "https://ph-files.imgix.net/d5f3e26e-92e9-433d-bda1-94d7d0cf9cc5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/423c3ac5-1f56-4368-b614-32114aecaacf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/28672c08-55ce-47f0-b724-22cade3cf30f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/y8lzv_AD6aw"
           },
           {
             "rank": "24",
@@ -4832,10 +4715,10 @@ const data = {
             "description": "IMG.LY provides industry-leading creative SDKs designed for app developers and businesses. Our solutions make it easy to integrate and customize powerful photo, video, and design editing capabilities. Whether you need a photo editor, video editor, a camera UI, or other creative tools, our SDKs have you covered. Enhance your apps with stunning features and effects, and join thousands of satisfied customers who trust IMG.LY to elevate their user experiences and drive business growth.",
             "productUrl": "https://www.producthunt.com/products/img-ly/shoutouts",
             "websiteUrl": "http://img.ly/",
-            "imageUrl1": "https://ph-files.imgix.net/efbe5b40-543e-4dfb-ae1d-72ac958e8013.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/b9f8a266-61c1-40b4-b3eb-b0fe5b25d5c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/36529f24-2699-43a4-a3a0-2b41053534a8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZezTwDAfGwc"
           },
           {
             "rank": "25",
@@ -4962,7 +4845,7 @@ const data = {
             "description": "Robolly is an all-in-one service for automated image, video & PDF generation. The potential is limitless; you can use it to generate branded social media content, open graph images, PDF certificates, personalized videos, slideshows, and so much more.",
             "productUrl": "https://www.producthunt.com/products/robolly/shoutouts",
             "websiteUrl": "https://robolly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/20a32838-9f7e-4277-8f46-f35d3428e93f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -4975,7 +4858,7 @@ const data = {
             "description": "Turn your pictures or screenshots into videos for free.",
             "productUrl": "https://www.producthunt.com/products/from-image-to-video/shoutouts",
             "websiteUrl": "https://fromimagetovideo.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f0989145-f9f5-43c4-929e-d8fcc7f2523f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5041,7 +4924,7 @@ const data = {
             "description": "High-quality UX/UI and Wireframe Kits, Illustrations, Templates, and Mockups to make your design workflow faster and easier. Craftwork is a small team of designers and developers. We create our own design stuff and follow new cool products around the internet.",
             "productUrl": "https://www.producthunt.com/products/craftwork-design/shoutouts",
             "websiteUrl": "https://craftwork.design/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/13d901ce-667b-4b98-b115-21275fbd7e74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5085,7 +4968,7 @@ const insertData = async () => {
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      `INSERT INTO Category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
       [data.category.category_name, data.category.category_heading]
     );
 
@@ -5094,7 +4977,7 @@ const insertData = async () => {
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        `INSERT INTO Sub_Category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
         [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
 
@@ -5103,27 +4986,27 @@ const insertData = async () => {
       for (const product of sub_category.products) {
         // Check if the product already exists
         const productResult = await client.query(
-          `SELECT product_id FROM products WHERE product_name = $1`,
-          [product.product_name]
+          `SELECT product_id FROM Products WHERE name = $1`,
+          [product.name]
         );
 
         let product_id;
         if (productResult.rows.length === 0) {
           // Insert new product if it doesn't exist
           const newProductResult = await client.query(
-            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
+            `INSERT INTO Products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
             [
-              product.product_rank,
-              product.product_name,
-              product.product_icon,
-              product.product_title,
-              product.product_description,
-              product.product_Url,
-              product.website_Url,
-              product.image_Url1,
-              product.image_Url2,
-              product.image_Url3,
-              product.video_Url,
+              product.rank,
+              product.name,
+              product.icon,
+              product.title,
+              product.description,
+              product.productUrl,
+              product.websiteUrl,
+              product.imageUrl1,
+              product.imageUrl2,
+              product.imageUrl3,
+              product.videoUrl,
               category_id,
               sub_category_id,
             ]
