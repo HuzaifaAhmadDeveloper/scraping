@@ -13,19 +13,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "2",
-    "name": "WordPress",
-    "icon": "https://ph-files.imgix.net/2b33c6b3-be3a-47c4-9dff-6bb8f878e607.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-    "title": "WordPress — WordPress is open source software you can use to create a beautiful website, blog, or app.",
-    "description": "Trusted by the Best. 43% of the web uses WordPress, from hobby blogs to the biggest news sites online.",
-    "productUrl": "https://www.producthunt.com/products/wordpress/shoutouts",
-    "websiteUrl": "",
-    "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
     "rank": "3",
     "name": "Ghost",
     "icon": "https://ph-files.imgix.net/c5e674f4-3077-4976-bfe3-55064e647e74.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -72,7 +59,7 @@
     "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
     "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
     "websiteUrl": "https://ko-fi.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/3942cebc-f885-4839-81bf-9079389ce071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

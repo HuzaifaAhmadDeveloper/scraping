@@ -21,9 +21,9 @@
     "productUrl": "https://www.producthunt.com/products/brex/shoutouts",
     "websiteUrl": "https://brex.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/2ce67e45-6b84-40fe-b8d1-79bfca26c87a.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/88574f17-7336-4bb6-abf0-6eed42e7ce87.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/80456355-ec9a-47c5-b80a-bd402d01279c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "3",
@@ -61,7 +61,7 @@
     "websiteUrl": "http://robinhood.com/",
     "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/15ade4c9-ed2f-43a2-b87b-468d748161c6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/43f613dc-eda6-4b6c-b5b1-1ba5d1ac0239.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   }
 ]

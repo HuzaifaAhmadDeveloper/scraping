@@ -20,8 +20,8 @@
     "description": "A voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.",
     "productUrl": "https://www.producthunt.com/products/discord/shoutouts",
     "websiteUrl": "https://discord.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/929f256e-f033-420c-a683-8f46b5a60d7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0bc69517-d2dc-4005-82c0-416586a19e6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -78,19 +78,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "7",
-    "name": "Krisp",
-    "icon": null,
-    "title": "Krisp — Magically mutes background noise during calls",
-    "description": "Krisp is a superior noise cancelling app that mutes background noise in real time calls. With one click it removes all extraneous noises for incoming and outgoing calls. Available on Windows, Mac, and iOS.",
-    "productUrl": "https://www.producthunt.com/products/krisp/shoutouts",
-    "websiteUrl": "https://krisp.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/7d9908cf-aed2-48d3-9bb1-d5df74245862.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/1811dacf-b137-49c3-98c6-aaf15b0dcdc2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/10b52e64-006d-41f3-9fce-26ff9707c2c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "8",
     "name": "LiveKit",
     "icon": "https://ph-files.imgix.net/45e5b993-3081-4c6a-8578-4933431cbb0b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
@@ -124,10 +111,10 @@
     "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
     "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
     "websiteUrl": "https://www.usebacktrack.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/oD-phHlm388"
   },
   {
     "rank": "11",
@@ -150,8 +137,8 @@
     "description": "It's getting harder than ever to stand out above the noise and engage your prospects and customers. Buying committees have grown larger, inboxes more flooded, and prospects spend more time conducting their own research. Vidyard is building a suite of products that allows teams to adapt and take advantage of these trends. Visit our site to learn more!",
     "productUrl": "https://www.producthunt.com/products/vidyard-studio/shoutouts",
     "websiteUrl": "https://www.vidyard.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/95e92da0-983c-418a-8518-15c7ef476c33.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0c85d01a-eb80-49f0-8bae-7774b91071b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -163,8 +150,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/youtube-2/shoutouts",
     "websiteUrl": "https://www.youtube.com/new",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/9db20c9b-a4d3-499d-85b7-a658f15f0fe4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/66657bac-0622-45b6-b881-e589ad7dd88d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   }

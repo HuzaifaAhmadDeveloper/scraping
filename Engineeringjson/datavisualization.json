@@ -10,7 +10,7 @@
     "imageUrl1": "https://ph-files.imgix.net/231a0994-400c-4e17-b897-177f54404301.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/f4b8b63f-0880-49df-8a29-c43582316183.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/661c6ee8-aca9-45c4-89f5-2bb7014fd845.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "2",
@@ -33,10 +33,10 @@
     "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
     "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
     "websiteUrl": "https://dokin.co/",
-    "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Y3meyamctuo"
   },
   {
     "rank": "4",
@@ -49,7 +49,7 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/b6babc5c-1c66-4c67-8966-548fa8f19315.gif?fm=mp4&crop=max#t=0.001"
   },
   {
     "rank": "5",
@@ -72,10 +72,10 @@
     "description": "Wolfram Mathematica is a modern technical computing system spanning most areas of technical computing - including neural networks, machine learning, image processing, geometry, data science, visualizations, and others. The system is used in many technical, scientific, engineering, mathematical, and computing fields.",
     "productUrl": "https://www.producthunt.com/products/wolfram-mathematica/shoutouts",
     "websiteUrl": "https://www.wolfram.com/mathematica",
-    "imageUrl1": "https://ph-files.imgix.net/3815baf8-1fa8-4bd8-af70-07829d067604.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0629b9c3-6138-48f5-adc6-687f02073872.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/54657525-f65b-4b27-8f51-483c07e3c8a1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/60P7717-XOQ"
   },
   {
     "rank": "7",
@@ -176,10 +176,10 @@
     "description": "AG Grid is a JavaScript Data Grid for rendering lots of data in a Grid. Sorting, Filtering, Ordering, Pagination and Exporting are built in. One dependency to add to your project. Open Source edition is free for use in commercial applications.",
     "productUrl": "https://www.producthunt.com/products/ag-grid/shoutouts",
     "websiteUrl": "https://ag-grid.com/",
-    "imageUrl1": "https://ph-files.imgix.net/e94d5839-1247-479a-abd9-cf21fab6cac1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/469263b1-6e44-49b5-8875-89a9c856cb1b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/ee2b3fd1-a13d-4fbb-a992-97d028d89987.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/6wpITiH8npM"
   },
   {
     "rank": "15",
@@ -189,7 +189,7 @@
     "description": "Headless, type-safe, powerful utilities for complex workflows like Data Management, Data Visualization, Charts, Tables, and UI Components",
     "productUrl": "https://www.producthunt.com/products/tanstack/shoutouts",
     "websiteUrl": "https://tanstack.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/1c1db09f-19db-4eee-bee0-2e5b33fba96e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -202,8 +202,8 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/d3-js/shoutouts",
     "websiteUrl": "http://d3js.org/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/5d414ccd-7fc9-4d8a-b742-1ee56e89d736.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/b239c933-cf67-4805-9019-c9e742d3e628.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -215,9 +215,9 @@
     "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
     "productUrl": "https://www.producthunt.com/products/lychee-3/shoutouts",
     "websiteUrl": "https://www.lych3e.com/",
-    "imageUrl1": "https://ph-files.imgix.net/756531cd-bc17-4559-b67c-f7fead96bc18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/05a0cd1e-4e9c-42a3-b4b4-98147b7203c5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/824deb2b-5d1d-4670-8a8e-fead41642269.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/mwm-0sAPvWI"
   }
 ]

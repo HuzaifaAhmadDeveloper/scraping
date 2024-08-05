@@ -59,8 +59,8 @@
     "description": "MongoDB Inc. is an American software company that develops and provides commercial support for the open source database MongoDB, a NoSQL database that stores data in JSON-like documents with flexible schemas.",
     "productUrl": "https://www.producthunt.com/products/mongodb/shoutouts",
     "websiteUrl": "https://www.mongodb.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/2f10c86f-145b-4dbd-8aae-3e72e4cadb77.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/249a0678-bf32-4e7f-aa7b-9d26e4065aa1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -72,8 +72,8 @@
     "description": "Build analytical API endpoints in minutes with no backend involved. Ingest huge amounts of data, transform it with SQL, and create dynamic endpoints on it.",
     "productUrl": "https://www.producthunt.com/products/tinybird/shoutouts",
     "websiteUrl": "https://www.tinybird.co/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/aa0cbe89-d3fb-4351-a072-3addc96eef1b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/4754d6b1-cc5c-4c30-9bdc-1999745fa466.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -88,7 +88,7 @@
     "imageUrl1": "https://ph-files.imgix.net/8a398f0f-06ee-48e5-9e1f-2d99e806a1d6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/5e686fd9-b4be-4fea-a4b4-8d4b16512cd2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/cbb9933a-2fbb-41af-8207-5b302d108417.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "8",
@@ -98,10 +98,10 @@
     "description": "A vector database that makes it easy to build high-performance vector search applications. Developer-friendly, fully managed, and easily scalable without infrastructure hassles.",
     "productUrl": "https://www.producthunt.com/products/pinecone-2/shoutouts",
     "websiteUrl": "https://www.pinecone.io/",
-    "imageUrl1": "https://ph-files.imgix.net/57adc4ac-b282-4575-b248-dbf6d56fb76d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3a5ceef2-fc0b-4523-9cab-37037890a9d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c8688054-17ca-4254-af66-09b82969c7f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/iCuR6ihHQgc"
   },
   {
     "rank": "9",
@@ -124,7 +124,7 @@
     "description": "Laravel is a web application framework with expressive, elegant syntax. We’ve already laid the foundation — freeing you to create without sweating the small things.",
     "productUrl": "https://www.producthunt.com/products/laravel-framework/shoutouts",
     "websiteUrl": "https://laravel.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/970106f4-781c-42ee-b9ab-b758eade52da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -137,7 +137,7 @@
     "description": "A MySQL-compatible database that brings you scale, performance, and reliability without sacrificing developer experience.",
     "productUrl": "https://www.producthunt.com/products/planetscale/shoutouts",
     "websiteUrl": "https://planetscale.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/c31b6813-6c35-4204-b9f7-73509c21d791.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -150,10 +150,10 @@
     "description": "A secure open-source backend server provides the core APIs required to build web and mobile applications. Appwrite provides authentication, database, storage, functions, messaging, and advanced realtime capabilities.",
     "productUrl": "https://www.producthunt.com/products/appwrite/shoutouts",
     "websiteUrl": "https://appwrite.io/",
-    "imageUrl1": "https://ph-files.imgix.net/d7ba06be-4f10-49c1-8d86-791130813952.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/53ccade7-8766-42c9-9e63-8a12093d8716.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/94aea52f-3550-4c12-a2c8-65ec8cf872ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AfpWWpx_6hE"
   },
   {
     "rank": "13",
@@ -163,7 +163,7 @@
     "description": "An open-source column-oriented database management system that allows generating analytical data reports in real-time.",
     "productUrl": "https://www.producthunt.com/products/clickhouse/shoutouts",
     "websiteUrl": "http://clickhouse.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/31572e70-d541-4a35-9d35-c2ed576d200a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -176,10 +176,10 @@
     "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
     "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
     "websiteUrl": "https://www.xano.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ng0GiVYOFnc"
   },
   {
     "rank": "15",
@@ -189,10 +189,10 @@
     "description": "Hasura helps developers and organisations build and ship modern applications & APIs faster by making data instantly accessible over a realtime GraphQL & REST APIs.",
     "productUrl": "https://www.producthunt.com/products/hasura/shoutouts",
     "websiteUrl": "https://hasura.io/",
-    "imageUrl1": "https://ph-files.imgix.net/c76c5ce6-3425-4b71-89cd-76819ab2da18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/bbbd04e0-432b-4998-89d5-7cddef06ae70.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/81cc14f7-335c-46e2-92b5-ead012996a3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/F2QZzdQ9igM"
   },
   {
     "rank": "16",
@@ -215,10 +215,10 @@
     "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
     "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
     "websiteUrl": "https://www.convex.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/wISChclk5lM"
   },
   {
     "rank": "18",
@@ -280,10 +280,10 @@
     "description": "Coolify is an open-source and self-hostable all-in-one (IaaS) solution to host your applications, databases, or other open-source services. It's an alternative software to Heroku and Netlify and other similar software out there.",
     "productUrl": "https://www.producthunt.com/products/coolify/shoutouts",
     "websiteUrl": "https://coolify.io/",
-    "imageUrl1": "https://ph-files.imgix.net/7b533ce7-84d2-46a7-a6f4-665dcff2c2be.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0be83c76-21d5-46a0-b217-a967c71b920f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/90915ab1-efd7-47f1-9473-f15cf866266f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Jg6SWqyvYys"
   },
   {
     "rank": "23",
@@ -293,8 +293,8 @@
     "description": "Build, deploy and scale applications on Europe's most complete cloud ecosystem.",
     "productUrl": "https://www.producthunt.com/products/scaleway-3/shoutouts",
     "websiteUrl": "https://www.scaleway.com/en",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/427fddb0-f854-499d-acf4-5abfead07975.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/2eaa8f52-044d-4605-bddc-eb21b321cdd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -345,7 +345,7 @@
     "description": "Join the Data Cloud to unify multiple data workloads, easily discover & securely share live governed data, democratize data analytics & more.",
     "productUrl": "https://www.producthunt.com/products/snowflake-3/shoutouts",
     "websiteUrl": "https://www.snowflake.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/3db88619-0a67-42ae-b46f-48624d7cb3ac.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -462,10 +462,10 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/elasticsearch/shoutouts",
     "websiteUrl": "https://www.elastic.co/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/6d397443-e37a-4893-9803-de213808feff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/yZJfsUOHJjg"
   },
   {
     "rank": "37",

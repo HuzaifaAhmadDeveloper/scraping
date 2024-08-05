@@ -46,10 +46,10 @@
     "description": "Crunchbase information includes investments and funding information, founding members and individuals in leadership positions, mergers and acquisitions, news, and industry trends.",
     "productUrl": "https://www.producthunt.com/products/crunchbase/shoutouts",
     "websiteUrl": "http://www.crunchbase.com/",
-    "imageUrl1": "https://ph-files.imgix.net/71add3eb-b0b0-4011-87c6-a8b84dbc8408.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3839b9e0-fcc7-4e48-9066-a2ad1b5bf07c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2b382333-e01f-442f-91ee-b2863e0fd4e4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/LpbqF6_nPzs"
   },
   {
     "rank": "5",
@@ -72,10 +72,10 @@
     "description": "Give your community skin in the game. Fairmint empowers you to grant equity to anyone that adds value to your company and passively receive investment from your biggest fans. Launch in a few clicks and get back to building your business.",
     "productUrl": "https://www.producthunt.com/products/fairmint-equity-of-the-future/shoutouts",
     "websiteUrl": "https://www.fairmint.com/",
-    "imageUrl1": "https://ph-files.imgix.net/16a1500a-3285-42f1-8290-31263c90c798.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/978f084e-97a6-46f5-980a-9776de89aff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/f8778032-3c21-400d-9e5b-03e1d74f8547.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Xi_D6FeXK4A"
   },
   {
     "rank": "7",
@@ -101,7 +101,7 @@
     "imageUrl1": "https://ph-files.imgix.net/b5db4e52-af5f-4ea5-b344-05b80d297aa6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/2b9854e8-b7d8-4c86-a4db-6c82fca4a715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/fcb1b80e-97fa-4039-b28b-ec71f5934684.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "9",
@@ -111,9 +111,9 @@
     "description": "Work on your idea, MVP, or existing product for 12 weeks. If you launch, get users, and demonstrate product velocity, you'll have a chance at receiving a $25k investment. Accepting 200+ builder founders for our upcoming cohort and look to invest in 30 teams.",
     "productUrl": "https://www.producthunt.com/products/founder-university/shoutouts",
     "websiteUrl": "https://www.founder.university/ph",
-    "imageUrl1": "https://ph-files.imgix.net/13af426a-0da0-4b1d-81fe-c1594f5210e9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/6ed2f9d9-d514-4e9b-b76d-15bb04dc26d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ef392e7c-62bd-44b3-8e4b-a9570e6b6805.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/yDOzXfIouSQ"
   }
 ]

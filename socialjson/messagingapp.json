@@ -20,8 +20,8 @@
     "description": "A voice, video and text communication service used by over a hundred million people to hang out and talk with their friends and communities.",
     "productUrl": "https://www.producthunt.com/products/discord/shoutouts",
     "websiteUrl": "https://discord.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/929f256e-f033-420c-a683-8f46b5a60d7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0bc69517-d2dc-4005-82c0-416586a19e6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -47,9 +47,9 @@
     "productUrl": "https://www.producthunt.com/products/telegram-4-7/shoutouts",
     "websiteUrl": "https://itunes.apple.com/app/telegram-messenger/id686449807",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/467627a5-0322-4df1-ace3-edcc14923c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/2f0fff99-0906-42f3-94ea-180c2ba87247.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/8df53338-6bfa-4b99-a4cf-0ea3b34c4b59.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "5",
@@ -61,8 +61,8 @@
     "websiteUrl": "http://www.discourse.org/",
     "imageUrl1": "https://ph-files.imgix.net/dbde5970-2b76-4347-a934-da6ff67fb788.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/d9ed6f9b-d1d0-43a0-8615-f3326f7c43bd.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/8a268b26-1b7c-4299-94d7-a45bad7f86fa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "6",
@@ -85,7 +85,7 @@
     "description": "Socket.IO enables real-time bidirectional event-based communication. It works on every platform, browser or device, focusing equally on reliability and speed. - Real-time analytics - Instant messaging and chat - Binary streaming - Document collaboration",
     "productUrl": "https://www.producthunt.com/products/socket-io-2-0/shoutouts",
     "websiteUrl": "https://github.com/socketio/socket.io",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/8a324565-b7f2-4512-a932-da0d77607caa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -111,10 +111,10 @@
     "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
     "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
     "websiteUrl": "https://www.coze.com/",
-    "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/KLpMdzHxG1A"
   },
   {
     "rank": "10",
@@ -143,19 +143,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "12",
-    "name": "Chaty",
-    "icon": null,
-    "title": "Chaty — Connect with your customers on 20+ popular messaging apps",
-    "description": "Provide your website visitors' a frictionless customer communication by allowing customers easy access to all the platforms you’re available on improving your customers’ experience and increasing your chances of conversion or sales.",
-    "productUrl": "https://www.producthunt.com/products/chaty/shoutouts",
-    "websiteUrl": "https://chaty.app/",
-    "imageUrl1": "https://ph-files.imgix.net/aceda95a-2b40-4d4e-b02a-e6b18288dec4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/135a7097-e584-4fb6-900a-10be806b1d2a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/b00d130f-9459-4d86-9b2a-373b68465512.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
     "rank": "13",
     "name": "OneSignal",
     "icon": "https://ph-files.imgix.net/493d793b-3f12-4ed1-856f-bdfb5eac6406.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -163,10 +150,10 @@
     "description": "OneSignal is the market-leading customer messaging and engagement solution, offering mobile and web push notifications, in-app messaging, SMS, and email. Our powerful omnichannel platform enables 1M+ businesses to deliver over 10B+ messages daily. Powered by superior architecture, OneSignal is designed to scale with your business and deliver messages more quickly and reliably than the competition.",
     "productUrl": "https://www.producthunt.com/products/onesignal/shoutouts",
     "websiteUrl": "https://onesignal.com/",
-    "imageUrl1": "https://ph-files.imgix.net/b631ebc8-91d6-45d7-99d0-6973b7b58174.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/66da23cb-4a8a-4fb7-86ff-ac8cf0f9d2bb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/98c9a62a-3e5f-4d84-b685-90279fb0cbc6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://www.loom.com/share/944ad26804334e4da623a0c725950711?sid=97b7d526-6006-4cd3-972c-3eef5901c42c"
   },
   {
     "rank": "14",
@@ -189,10 +176,10 @@
     "description": "Twilio is a cloud communications platform as a service company based in San Francisco, California.Twilio powers the future of business communications. Enabling phones, VoIP, and messaging to be embedded into web, desktop, and mobile software.",
     "productUrl": "https://www.producthunt.com/products/twilio/shoutouts",
     "websiteUrl": "http://www.twilio.com/",
-    "imageUrl1": "https://ph-files.imgix.net/fe6f6075-78e0-4c52-8ae4-0f56a6f2146e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/20880aba-f21a-448a-9612-9f071c9349e9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/429944d7-79f5-42d0-9fc7-d4346113084a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/WaD7jiq2Y6U"
   },
   {
     "rank": "16",
@@ -228,9 +215,9 @@
     "description": "Re-engage users, even when they are offsite on mobile and desktop",
     "productUrl": "https://www.producthunt.com/products/web-push-notification-tool/shoutouts",
     "websiteUrl": "https://www.notifyvisitors.com/product/web-push-notification",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/8b8de178-e642-452d-8303-efd9c353993f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/h57vmVx0Tp4"
   }
 ]

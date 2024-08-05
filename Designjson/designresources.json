@@ -33,10 +33,10 @@
     "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
     "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
     "websiteUrl": "https://canva.com/",
-    "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/bVCRcNlY1yw"
   },
   {
     "rank": "4",
@@ -59,8 +59,8 @@
     "description": "Beautifully designed, expertly crafted components and templates, built by the makers of Tailwind CSS.",
     "productUrl": "https://www.producthunt.com/products/tailwind-ui/shoutouts",
     "websiteUrl": "https://tailwindui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/809b2427-1237-4e9c-9fa0-c00ca2a24bd6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/0d10366a-48b5-4155-b668-2cd86ef5082c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -72,10 +72,10 @@
     "description": "DaisyUI is a plugin for Tailwind CSS - Beautiful CSS component - Clean HTML with component classes - Customizable and themeable - Only 2KB. No JS, No dependencies - Free!",
     "productUrl": "https://www.producthunt.com/products/daisyui/shoutouts",
     "websiteUrl": "https://daisyui.com/",
-    "imageUrl1": "https://ph-files.imgix.net/d433da5b-947c-4995-b11e-56bdb5e244d8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/217b3cb5-bb3f-4314-ac61-77de857c123e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e9b4b941-234d-4aef-a169-5b05a7c55349.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ky18YtME8UQ"
   },
   {
     "rank": "7",
@@ -85,8 +85,8 @@
     "description": "A simple, modular and accessible component library that gives you the building blocks you need to build your React applications",
     "productUrl": "https://www.producthunt.com/products/chakra-ui/shoutouts",
     "websiteUrl": "https://chakra-ui.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/06a2234c-6059-482c-b1b8-e7e2da453eaf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/2d631cf9-cfbe-4d7c-b2ab-a6dda3023b62.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -98,8 +98,8 @@
     "description": "Mantine is an open source React components and hooks library with native dark theme support and focus on usability, accessibility and developer experience",
     "productUrl": "https://www.producthunt.com/products/mantine/shoutouts",
     "websiteUrl": "https://mantine.dev/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/f8b2324f-2e01-4055-b146-f8399f9af8cd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/8c086111-ed20-44c7-9d9e-d1f1807a7252.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -111,10 +111,10 @@
     "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
     "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
     "websiteUrl": "https://jitter.video/",
-    "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DlS41IjSR4g"
   },
   {
     "rank": "10",
@@ -125,9 +125,9 @@
     "productUrl": "https://www.producthunt.com/products/nextui/shoutouts",
     "websiteUrl": "https://nextui.org/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/31b1b8ed-6d25-40ac-a39d-e60e710ff4bf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/b4021369-55ef-4773-adca-91e3ebb65ac9.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/21360d93-cd71-46ea-9616-0bd76abf2ece.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "11",

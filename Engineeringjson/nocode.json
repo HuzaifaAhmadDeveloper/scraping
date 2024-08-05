@@ -7,10 +7,10 @@
     "description": "A no-code platform to create responsive webpages with text, links, media, and incredible animations.",
     "productUrl": "https://www.producthunt.com/products/framer/shoutouts",
     "websiteUrl": "http://www.framer.com/",
-    "imageUrl1": "https://ph-files.imgix.net/f7b99026-7f04-4d89-a28d-539ef4465d64.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d6b22ee9-7402-4a6a-9f6d-b8b237398b0d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/05fa0b10-0654-499f-9f0d-36d2d1e777dc.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/alxxDqkXrys"
   },
   {
     "rank": "2",
@@ -46,10 +46,10 @@
     "description": "Design, develop, and launch production-grade applications without code",
     "productUrl": "https://www.producthunt.com/products/bubble/shoutouts",
     "websiteUrl": "https://bubble.io/",
-    "imageUrl1": "https://ph-files.imgix.net/da82cf69-cac3-4bf4-8be5-aa60705ebd90.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/afeea4e1-676b-4781-85bb-a218021009b7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/d0c4dd3a-a926-4bbf-8bdf-df8a5ad8e2c3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/5dgmchu7S6o"
   },
   {
     "rank": "5",
@@ -59,8 +59,8 @@
     "description": "Easy automation for busy people. Zapier empowers you to automate your work across 5,000+ apps—so you can move forward, faster.",
     "productUrl": "https://www.producthunt.com/products/zapier/shoutouts",
     "websiteUrl": "http://zapier.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/8d6121c1-fd5e-4d3b-8c7c-185c4125c832.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/28d986a4-d8cd-4e59-9768-074a8d15aed1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -85,10 +85,10 @@
     "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
     "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
     "websiteUrl": "https://flutterflow.io/",
-    "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/jGbLsYDgAVc"
   },
   {
     "rank": "8",
@@ -98,10 +98,10 @@
     "description": "Build a scalable backend for your app using no code. Transform, filter, and integrate with data from anywhere.",
     "productUrl": "https://www.producthunt.com/products/xano/shoutouts",
     "websiteUrl": "https://www.xano.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bd667612-64fe-4eeb-9bec-11e550723d10.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/86b28937-6250-4cb0-b5c6-f35efe328030.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5004a87a-2bed-4061-9229-2d59923502c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/ng0GiVYOFnc"
   },
   {
     "rank": "9",
@@ -111,10 +111,10 @@
     "description": "AWS Amplify provides a declarative and easy-to-use API for cloud operations. You can build cloud-powered web and mobile experiences with AWS Amplify and goes well with any JavaScript based frontend library.",
     "productUrl": "https://www.producthunt.com/products/aws-amplify/shoutouts",
     "websiteUrl": "https://aws.github.io/aws-amplify",
-    "imageUrl1": "https://ph-files.imgix.net/5b4829aa-b545-45f5-a76e-8a2353a635c4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7c6215bf-d869-49d9-9548-f52820ad1e76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e878743e-d501-4f0f-8db0-da6cd7b468f1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BCXdLx6xHmc"
   },
   {
     "rank": "10",
@@ -150,8 +150,8 @@
     "description": "Build customized ChatGPT-like agents that understand both your standards and your business context in seconds with no code — anything from a customer support chatbot, an internal AI search engine, to a full-scale CEO assistant.",
     "productUrl": "https://www.producthunt.com/products/mindpal-for-youtube/shoutouts",
     "websiteUrl": "https://mindpal.space/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/9340a957-ec37-4cdf-af30-c32a99845d33.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -178,8 +178,8 @@
     "websiteUrl": "https://www.todesktop.com/",
     "imageUrl1": "https://ph-files.imgix.net/54db3047-631a-49ba-a61e-0be18517fd5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/0baaea7c-806c-4227-b71c-09363b95b50d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/b36d404a-ed12-4a9a-a621-087b1ce3c1ce.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "15",
@@ -189,10 +189,10 @@
     "description": "Connect marketing channels, CRMs, and databases to Google Sheets and Looker with no-code.",
     "productUrl": "https://www.producthunt.com/products/dokin/shoutouts",
     "websiteUrl": "https://dokin.co/",
-    "imageUrl1": "https://ph-files.imgix.net/4586b52c-4a82-4833-86ac-a27201854289.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/915582fe-443f-42c5-80b9-4eeb5e61fb65.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e39eb59e-c91b-402a-8213-87629cbbe1bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Y3meyamctuo"
   },
   {
     "rank": "16",
@@ -202,10 +202,10 @@
     "description": "Relay.app is the easiest-to-use Zapier alternative that lets you automate workflows with powerful AI and Human-in-the-Loop features.",
     "productUrl": "https://www.producthunt.com/products/relay-app/shoutouts",
     "websiteUrl": "https://relay.app/",
-    "imageUrl1": "https://ph-files.imgix.net/66383651-1978-4035-a91e-1673226ae304.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/554633f1-e03d-4a8a-b3db-a51f44c27acf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/7d824529-255b-4542-ba21-baffb02c2454.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/WNM5PPZVMlM"
   },
   {
     "rank": "17",
@@ -254,10 +254,10 @@
     "description": "Page is a stupid-simple no-code landing page builder, that allows you to launch page in seconds, use social media to grow your views, get your signups, message them and eventually sell. It's free if you build in public.",
     "productUrl": "https://www.producthunt.com/products/momentum-page/shoutouts",
     "websiteUrl": "https://momentum.page/",
-    "imageUrl1": "https://ph-files.imgix.net/e5930497-f415-4e55-9520-4c9a7b3436c7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ad6ed290-f982-4bd8-88e0-1960d186f00b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/4576809b-9fe9-4e61-ae05-d4aab7aaf9c0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/CmVi5GgpQiQ"
   },
   {
     "rank": "21",
@@ -293,10 +293,10 @@
     "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
     "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
     "websiteUrl": "https://www.weavely.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
   },
   {
     "rank": "24",
@@ -319,10 +319,10 @@
     "description": "Fillout is a powerful, no-code form builder. Create a form in minutes and style the form to match your brand. Add multiple pages, powerful conditional logic, and 40+ customizable question types.",
     "productUrl": "https://www.producthunt.com/products/fillout-com/shoutouts",
     "websiteUrl": "https://fillout.com/",
-    "imageUrl1": "https://ph-files.imgix.net/931dd2d2-e5d8-462b-ac2a-86fbda62a9a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7d4e8513-8c8f-4e53-87d5-2ea341f206a9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/1f43c752-d1e5-4c17-aad1-c2147c3f78c1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/d1Br0bl2pQs"
   },
   {
     "rank": "26",
@@ -332,10 +332,10 @@
     "description": "Designmodo is an all-in-one solution to create website and email newsletter designs that impress and engage your audience. Create your email templates and websites 20x faster, with no design limitations and no need for coding skills. Postcards email buidler provides you with all the tools necessary to start building and customizing your email template - from scratch to the finished product in just a few minutes. Collaborate with the entire team to bring ideas to the table from everyone.",
     "productUrl": "https://www.producthunt.com/products/designmodo/shoutouts",
     "websiteUrl": "https://designmodo.com/",
-    "imageUrl1": "https://ph-files.imgix.net/b3dac406-43d2-4b6c-9976-422f39685261.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/21c9bdcd-e348-4b79-afef-7749cc5ff7d1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/7019131b-9c4a-4caa-9506-fff0a1b872c7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Ecdsefa7xpI"
   },
   {
     "rank": "27",
@@ -345,7 +345,7 @@
     "description": "The fastest way to demo your machine learning model with a friendly web interface so that anyone can use it, anywhere.",
     "productUrl": "https://www.producthunt.com/products/gradio/shoutouts",
     "websiteUrl": "https://www.gradio.app/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/0a65a3aa-9f5b-41a6-b86c-d567f7379403.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -410,10 +410,10 @@
     "description": "Use our pre-built React components, flexible SDKs, and powerful platform to effortlessly build better product onboarding, assistance, and announcements. Free for companies with under 1,000 monthly users.",
     "productUrl": "https://www.producthunt.com/products/dopt/shoutouts",
     "websiteUrl": "https://dopt.com/",
-    "imageUrl1": "https://ph-files.imgix.net/44d28766-18e9-4fd0-892d-1384ff61f7fb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/73a9eae2-d786-4763-a15c-45bbc357c96f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d91607dc-22b9-41f7-b741-9b157861f8ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/NVPsmpFRKbI"
   },
   {
     "rank": "33",
@@ -437,9 +437,9 @@
     "productUrl": "https://www.producthunt.com/products/typedream/shoutouts",
     "websiteUrl": "https://typedream.com/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/ced8dbf1-5fb0-4eb1-9aa9-b0b1dd8c0496.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/0dd2695b-fce2-4a06-880f-e1621f3d7c0e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/12bc9463-7984-45a2-8c61-1ce273e3e612.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "35",
@@ -449,10 +449,10 @@
     "description": "Clean-looking, on-brand forms that are easy to use in your no-code projects, send out in emails, or put on your website. A modern form builder for your tool belt.",
     "productUrl": "https://www.producthunt.com/products/reform/shoutouts",
     "websiteUrl": "https://www.reform.app/producthunt",
-    "imageUrl1": "https://ph-files.imgix.net/a2928d57-2727-4fb1-9eed-417f19efe18b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/fa85a73b-6ff0-4f1a-8563-5880d12c2203.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/62e21233-a9b7-4fa0-b8e7-dad994a660e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/bGCm3GqEM1A"
   },
   {
     "rank": "36",
@@ -462,7 +462,7 @@
     "description": "Wasp is the fastest way to develop full-stack web apps in React & Node.js. Describe high-level features (auth, CRUD, async jobs, …) via a simple config language, and write the rest of your logic in React, Node.js and Prisma. Wasp is currently in Beta.",
     "productUrl": "https://www.producthunt.com/products/wasp-lang-alpha/shoutouts",
     "websiteUrl": "https://wasp-lang.dev/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/19d61511-156f-4135-8cd4-431f0e4eed4d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -517,7 +517,7 @@
     "imageUrl1": "https://ph-files.imgix.net/f3475db5-4c07-4cbf-a36a-410f0497b745.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/19ed3a3a-4147-4559-b67d-1897709cd2c2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/km2eNAVujz0"
   },
   {
     "rank": "41",
@@ -527,23 +527,10 @@
     "description": "Coze is a no-code AI bot builder. Whether you have coding experience or not, you can quickly turn your bot ideas into reality. Build powerful bots powered by Large Language Models, and publish them to various messaging apps like Discord, Telegram or Slack.",
     "productUrl": "https://www.producthunt.com/products/coze/shoutouts",
     "websiteUrl": "https://www.coze.com/",
-    "imageUrl1": "https://ph-files.imgix.net/0d75cc7d-8cef-4825-962b-957f77f563e2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d3265aaf-3e12-49d4-bd05-98ecf0b799fd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ceca9f39-c613-40dd-8c6c-8d6b8adbcf28.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "42",
-    "name": "Told",
-    "icon": null,
-    "title": "Told — Collect user feedback with in-product surveys",
-    "description": "A no-code survey tool that helps you collect user or customer feedback and understand your data simply.",
-    "productUrl": "https://www.producthunt.com/products/told-2/shoutouts",
-    "websiteUrl": "https://www.told.club/",
-    "imageUrl1": "https://ph-files.imgix.net/c40c5ca2-48a0-4ea4-b05c-943e75270b1e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/12430d09-8030-4599-9c5c-446bdaf5393a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/6a6ab32a-49cd-4eda-a6dc-9df4978a96cf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/KLpMdzHxG1A"
   },
   {
     "rank": "43",
@@ -553,8 +540,8 @@
     "description": "Turn any Google sheet into an API instantly, for free. Power websites, apps, or whatever you like, all from a spreadsheet. Changes to your spreadsheet update your API in realtime.",
     "productUrl": "https://www.producthunt.com/products/sheety/shoutouts",
     "websiteUrl": "https://sheety.co/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/6218517b-3519-4e3d-b228-03c750afeb05.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/28413ba6-75d5-4430-a558-b9e48ae5c467.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -566,10 +553,10 @@
     "description": "A simpler static site generator. An alternative to Jekyll. Written in JavaScript. Transforms a directory of templates (of varying types) into HTML. Works with HTML, Markdown, JavaScript, Liquid, Nunjucks, Handlebars, Mustache, EJS, Haml, and Pug.",
     "productUrl": "https://www.producthunt.com/products/eleventy/shoutouts",
     "websiteUrl": "https://11ty.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/e60e8048-20f5-4edc-a9cc-e56be3f44a1d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/c84dd21e-c08d-4f03-82cd-cbff0191c5e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/cb522799-e2ac-4b2d-b62b-8c50fb0e27f0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BKdQEXqfFA0"
   },
   {
     "rank": "45",
@@ -579,23 +566,10 @@
     "description": "Glide turns spreadsheets into beautiful, easy-to-use apps, without code. Pick a spreadsheet or start with a template, customize your app, then share it instantly with anyone. Start today for free!",
     "productUrl": "https://www.producthunt.com/products/glide-2/shoutouts",
     "websiteUrl": "http://glideapps.com/",
-    "imageUrl1": "https://ph-files.imgix.net/86898684-0963-4efb-a3d0-805abfcdd0d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/3e9cc42a-c1be-4a1d-ada6-fbdd3b999194.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0b93ec6c-4623-467a-b6a7-bfe5c00dbbd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "46",
-    "name": "BoilerBay",
-    "icon": null,
-    "title": "BoilerBay — Launch your dream project 10x faster",
-    "description": "The NextJS Starter Kit with everything you need to ship your product in days, not weeks. From idea to production 10x Faster.",
-    "productUrl": "https://www.producthunt.com/products/boilerbay/shoutouts",
-    "websiteUrl": "https://boilerbay.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/90abf13b-7b22-4259-9653-1f06b57072df.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/3277471a-ff3b-4b7e-8c71-8ead148a90cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/c5f7e053-5cb7-4631-aa74-111ec8aea3e5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/StRizGWBqtA"
   },
   {
     "rank": "47",
@@ -608,7 +582,7 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/YuV5ATYcY_I"
   },
   {
     "rank": "48",
@@ -618,10 +592,10 @@
     "description": "Create and publish user onboarding, product tours and tooltips without engineering. Chameleon allows you to create beautiful product guidance that helps, guides, and delights your users throughout their journey.",
     "productUrl": "https://www.producthunt.com/products/chameleon/shoutouts",
     "websiteUrl": "https://www.chameleon.io/",
-    "imageUrl1": "https://ph-files.imgix.net/808cbfe9-bb5e-473a-acf2-85e6ad087d7c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/11a7490d-6ba4-4978-a4ee-a2ff8885aa47.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/daa256ce-1768-4ce8-8a28-b55403f72087.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/nDbUx3uJgbI"
   },
   {
     "rank": "49",
@@ -637,19 +611,6 @@
     "videoUrl": ""
   },
   {
-    "rank": "50",
-    "name": "Streamlit",
-    "icon": null,
-    "title": "Streamlit — Turn python scripts into beautiful ML tools",
-    "description": "Streamlit lets you create apps for your machine learning projects with deceptively simple Python scripts. Prototype quickly with hot-reloading, so your app updates live as you edit and save your file. Try it now: ⬇️ $pip install streamlit $streamlit hello",
-    "productUrl": "https://www.producthunt.com/products/streamlit/shoutouts",
-    "websiteUrl": "https://streamlit.io/",
-    "imageUrl1": "https://ph-files.imgix.net/6c0d3891-8271-4e59-9e54-a8b9e5dc8923.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/23088d95-4059-49eb-8381-d9dd82c22502.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
     "rank": "51",
     "name": "Redwood JS",
     "icon": "https://ph-files.imgix.net/18b4b5af-0507-4ace-869d-bbee1b8e0ab6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -657,7 +618,7 @@
     "description": "Full-stack, multi-client JavaScript Framework built on React, GraphQL, and Prisma",
     "productUrl": "https://www.producthunt.com/products/redwood-js/shoutouts",
     "websiteUrl": "https://github.com/redwoodjs",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/879637e6-1e5d-4390-bb09-a4129556cdcf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -670,10 +631,10 @@
     "description": "Novel is an open-source Notion-style WYSYWIG editor with AI-powered autocompletions ✨ Built with Next.js Tiptap, OpenAI, and the Vercel AI SDK: https://sdk.vercel.ai/docs",
     "productUrl": "https://www.producthunt.com/products/novel-3/shoutouts",
     "websiteUrl": "https://novel.sh/",
-    "imageUrl1": "https://ph-files.imgix.net/9fcef56a-754c-41bc-bbc7-bfdd20cf5c2d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/1b975b09-93b6-4402-bb46-7a2a41903abd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/90ba9047-6398-46d2-a524-4ca35595d84e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rCM7fuYP2nU"
   },
   {
     "rank": "53",
@@ -709,10 +670,10 @@
     "description": "Gadget is a full-stack, serverless JavaScript platform for web app developers who want to build faster and maintain less. Skip the boilerplate features, repetitive code, and busywork, and get your ideas out the door in hours.",
     "productUrl": "https://www.producthunt.com/products/gadget-2/shoutouts",
     "websiteUrl": "https://gadget.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/3b4afa3a-d574-4f75-b517-96adaafac36f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d0690523-0632-46fc-9b3e-99eb665e8485.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/68bbcab7-4dfb-4f0f-9591-d16d43acffc3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/pj01pMFlQ7I"
   },
   {
     "rank": "56",
@@ -725,7 +686,7 @@
     "imageUrl1": "https://ph-files.imgix.net/fb59d3f5-8794-4493-a79e-91ccdc640f95.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/6e09611c-02a9-49ad-9e41-d7a8752895a3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/79b97077-8a8f-40e7-82ec-25336ed88d95.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "57",
@@ -751,7 +712,7 @@
     "imageUrl1": "https://ph-files.imgix.net/85eef6d6-908c-4982-976e-6ff658cf18b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/e2f98ba2-a05e-4ac3-9de7-89805a8c0510.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/e99bb25e-3263-4c80-83ad-1acebc530c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "59",
@@ -761,10 +722,10 @@
     "description": "Could you imagine turning your Deisgn into Responsive Webpage within 10 minutes? But with no Handoff, pxCode can help you acheive it!",
     "productUrl": "https://www.producthunt.com/products/pxcode/shoutouts",
     "websiteUrl": "https://www.facebook.com/pxCode",
-    "imageUrl1": "https://ph-files.imgix.net/5fe8a63c-b95d-4e33-83c8-cc462b596d49.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4bef1e69-9070-4d42-b1d0-bf58946f0a7e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/01ae6b18-755b-4546-a1d4-c90113f85b82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/zJsajMMLUvY"
   },
   {
     "rank": "60",
@@ -774,10 +735,10 @@
     "description": "Creatomate is a video generation API for developers and Zapier users. Create reusable templates to automate and scale your video production with code or no-code tools. Auto-generate videos for social media, personalization, e-commerce, advertising, and more.",
     "productUrl": "https://www.producthunt.com/products/creatomate/shoutouts",
     "websiteUrl": "https://creatomate.com/",
-    "imageUrl1": "https://ph-files.imgix.net/a87e0aee-b609-4a9e-a85d-25e3fddd12b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d829067c-5564-4484-a068-07f252b3a5f6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d6889ea8-cafc-44b4-b0d8-c579dde00bc1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4miLz33EnY"
   },
   {
     "rank": "61",
@@ -814,8 +775,8 @@
     "productUrl": "https://www.producthunt.com/products/brizy/shoutouts",
     "websiteUrl": "https://www.brizy.io/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/16c2f00c-c585-4a4d-811d-97c10fcacecc.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/fe298537-7bc7-430f-a6ec-0804b4087080.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/5a53b4bc-e6bd-44c7-a8d4-8829d458519a.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   }
 ]

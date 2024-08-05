@@ -46,10 +46,10 @@
     "description": "Give your community skin in the game. Fairmint empowers you to grant equity to anyone that adds value to your company and passively receive investment from your biggest fans. Launch in a few clicks and get back to building your business.",
     "productUrl": "https://www.producthunt.com/products/fairmint-equity-of-the-future/shoutouts",
     "websiteUrl": "https://www.fairmint.com/",
-    "imageUrl1": "https://ph-files.imgix.net/16a1500a-3285-42f1-8290-31263c90c798.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/978f084e-97a6-46f5-980a-9776de89aff1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/f8778032-3c21-400d-9e5b-03e1d74f8547.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Xi_D6FeXK4A"
   },
   {
     "rank": "5",
@@ -59,8 +59,8 @@
     "description": "Invest smarter with insights from millions of conversations happening across social.",
     "productUrl": "https://www.producthunt.com/products/lunarcrush/shoutouts",
     "websiteUrl": "https://lunarcrush.com/",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/62399e62-0685-475b-98fc-63cb10322df0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/e18f6f36-44f0-48bc-8b33-b74bb46739b0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -72,7 +72,7 @@
     "description": "Matrixport is the most reliable place to buy, invest and trade your digital assets and earn interest. Matrixport offers innovative and easy-to-use crypto investment products and DeFi products tailored for all crypto investors.",
     "productUrl": "https://www.producthunt.com/products/matrixport/shoutouts",
     "websiteUrl": "https://www.matrixport.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/f04c082e-47f1-4a72-bca9-1fde86a228bd.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -85,10 +85,10 @@
     "description": "Work on your idea, MVP, or existing product for 12 weeks. If you launch, get users, and demonstrate product velocity, you'll have a chance at receiving a $25k investment. Accepting 200+ builder founders for our upcoming cohort and look to invest in 30 teams.",
     "productUrl": "https://www.producthunt.com/products/founder-university/shoutouts",
     "websiteUrl": "https://www.founder.university/ph",
-    "imageUrl1": "https://ph-files.imgix.net/13af426a-0da0-4b1d-81fe-c1594f5210e9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/6ed2f9d9-d514-4e9b-b76d-15bb04dc26d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ef392e7c-62bd-44b3-8e4b-a9570e6b6805.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/yDOzXfIouSQ"
   },
   {
     "rank": "8",
@@ -100,7 +100,7 @@
     "websiteUrl": "http://robinhood.com/",
     "imageUrl1": "https://ph-files.imgix.net/a9ca2384-a809-4179-832c-92eeb73171c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/15ade4c9-ed2f-43a2-b87b-468d748161c6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/43f613dc-eda6-4b6c-b5b1-1ba5d1ac0239.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   }
 ]
