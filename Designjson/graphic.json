@@ -7,10 +7,10 @@
     "description": "A user-friendly online graphic design platform with templates, stock photos, graphics, and fonts.",
     "productUrl": "https://www.producthunt.com/products/canva/shoutouts",
     "websiteUrl": "https://canva.com/",
-    "imageUrl1": "https://ph-files.imgix.net/18698576-32df-495d-8973-42110cd968e4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/4857f797-9e1c-4c1a-aa5a-13ceee75cc8f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/5c96f8ad-b528-4bd6-9d85-ac794c8fb69a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/bVCRcNlY1yw"
   },
   {
     "rank": "2",
@@ -33,10 +33,10 @@
     "description": "Jitter is like Figma for motion design: it makes it easy to create animations for your videos, websites or apps, all in the browser.",
     "productUrl": "https://www.producthunt.com/products/jitter/shoutouts",
     "websiteUrl": "https://jitter.video/",
-    "imageUrl1": "https://ph-files.imgix.net/6c24c3fb-6f86-4418-8834-4e9f6fc24682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/e43a3473-c956-4061-a958-1b315a2c7dc2.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/f41fdfda-5cab-47f7-9847-74c41211c3a0.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DlS41IjSR4g"
   },
   {
     "rank": "4",
@@ -59,7 +59,7 @@
     "description": "Build real-time 3D projects for various industries across games, animation, automotive, architecture, and more. Start creating with Unity today!",
     "productUrl": "https://www.producthunt.com/products/unity/shoutouts",
     "websiteUrl": "https://unity.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/45c238cc-ec96-4dc9-a071-d27cc59d88f7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -85,10 +85,10 @@
     "description": "Build web forms that stand out with custom UX and UI, without coding. The Weavely form builder enables you to design and publish forms directly in Figma. Get creative with form design, apply conditional logic and reuse brand assets to collect more responses.",
     "productUrl": "https://www.producthunt.com/products/weavely/shoutouts",
     "websiteUrl": "https://www.weavely.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/a0c7073b-9c13-40cc-a7bf-5df91b0f1b9a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/343fbd4c-c7c4-48a6-8286-e700dd1fd4f9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/47395cec-4952-4bc9-8e6d-14a762c86b17.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/V4ikzkGgsBQ"
   },
   {
     "rank": "8",
@@ -124,10 +124,10 @@
     "description": "Create a logo using premade icons and editing tools or let AI take the lead.",
     "productUrl": "https://www.producthunt.com/products/logofast/shoutouts",
     "websiteUrl": "https://logofa.st/",
-    "imageUrl1": "https://ph-files.imgix.net/1f01fe64-647f-415b-955a-11573f58259d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ca29a5be-8ad3-4ffa-9ea6-d05134707941.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/a3977152-bfef-4450-88bc-26bbb86e622b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/tax7iwjPC44"
   },
   {
     "rank": "11",
@@ -189,7 +189,7 @@
     "description": "Pixelmator Pro is an image editor designed to make the most powerful professional image editing tools accessible to everyone. And with an extensive collection of tools for editing and retouching photos, creating graphic designs, painting, drawing vector graphics, and adding stunning effects, it’s the only image editor you’ll need.",
     "productUrl": "https://www.producthunt.com/products/pixelmator/shoutouts",
     "websiteUrl": "http://www.pixelmator.com/pro",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/f463a9c6-6117-4255-8751-47fde808b71f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -202,10 +202,10 @@
     "description": "Powerful vector design tool. Icons, photos, illustrations, and AI tools inside to help you focus on the design tasks. Real-time collaboration for teams. Native apps for Windows, macOS&Linux to work fast online and offline on fancy laptops or potato computers.",
     "productUrl": "https://www.producthunt.com/products/lunacy/shoutouts",
     "websiteUrl": "https://icons8.com/lunacy",
-    "imageUrl1": "https://ph-files.imgix.net/9d7e6de6-b49d-460e-aa48-752994f43602.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/509277b1-f445-48de-8585-141837246f82.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/4e8a4b45-ad22-492d-babe-abff0c475e1f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/Khmizj48bGE"
   },
   {
     "rank": "17",
@@ -215,7 +215,7 @@
     "description": "p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else! p5.js is free and open-source because we believe software, and the tools to learn it, should be accessible to everyone.",
     "productUrl": "https://www.producthunt.com/products/p5-js/shoutouts",
     "websiteUrl": "http://p5js.org/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/a7735952-a18f-48de-86ba-9749bb170926.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -231,7 +231,7 @@
     "imageUrl1": "https://ph-files.imgix.net/20cdcd57-b30a-4ab1-bcce-79211309300a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/4fe5fdfc-d7fc-4690-b212-94a38d886129.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/3528031a-a6de-4e93-b346-7e69e4469c39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "19",
@@ -241,10 +241,10 @@
     "description": "Create, edit, test, collaborate and ship a Lottie in the easiest way possible.",
     "productUrl": "https://www.producthunt.com/products/lottiefiles/shoutouts",
     "websiteUrl": "https://lottiefiles.com/",
-    "imageUrl1": "https://ph-files.imgix.net/3c6e3804-e65b-432e-8106-9556ce4c75e1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/06532ce0-573e-40eb-975e-e34a3c9a55e5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/4d8b0708-54ba-407e-abbe-82e71e58f234.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/DMKZfMcbs10"
   },
   {
     "rank": "20",
@@ -254,10 +254,10 @@
     "description": "Mockup generator app for stunning renders of iPhone 11 Pro, iPhone 8, iPhone X, iPad, Android, laptop. Use images and videos.",
     "productUrl": "https://www.producthunt.com/products/rotato/shoutouts",
     "websiteUrl": "http://rotato.xyz/",
-    "imageUrl1": "https://ph-files.imgix.net/49ea7c20-71cb-4296-813e-2a28b877f9ec.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/df8c8bfa-7cad-4f5e-af59-21b1f555b885.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/9db468aa-3d1e-486e-8b9b-f0b9d236a064.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/gU5QqGOvzg0"
   },
   {
     "rank": "21",
@@ -306,7 +306,7 @@
     "description": "Tools and high-quality assets for vectors, photos, videos, icons, templates, mockups, AI images, and image generators that help you turn ideas into outstanding designs.",
     "productUrl": "https://www.producthunt.com/products/freepik/shoutouts",
     "websiteUrl": "http://www.freepik.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/8f8ba9b6-dd8a-4666-9a1c-9f475460573d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -358,10 +358,10 @@
     "description": "",
     "productUrl": "https://www.producthunt.com/products/procreate/shoutouts",
     "websiteUrl": "https://procreate.com/",
-    "imageUrl1": "https://ph-files.imgix.net/fcd5972a-51de-4ec2-a8b1-f598c740a05e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2498ca2b-5558-4e92-845e-b3938241e2db.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/2fac8cd9-c6fc-40bd-ac8d-2511b80df8b0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/wbem5qrH5ow"
   },
   {
     "rank": "29",
