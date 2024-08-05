@@ -9,8 +9,8 @@
     "websiteUrl": "https://www.tldv.io/",
     "imageUrl1": "https://ph-files.imgix.net/70a5a18d-a26a-4a5d-aa7c-3172164f0f0e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/e6cdd439-14bd-4867-a60e-fc0a8e1a1e6d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/igSn0bX4izw"
   },
   {
     "rank": "2",
@@ -20,10 +20,10 @@
     "description": "The universal API for meeting bots. Recall.ai provides a single API for meeting bots on every platform like Zoom, Google Meet, Microsoft Teams and more.",
     "productUrl": "https://www.producthunt.com/products/recall-ai/shoutouts",
     "websiteUrl": "https://recall.ai/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/d36334ce-3517-4e38-a1fd-7c481284cd41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/vIEfNjDDjGc"
   },
   {
     "rank": "3",
@@ -46,23 +46,10 @@
     "description": "Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.",
     "productUrl": "https://www.producthunt.com/products/calendly/shoutouts",
     "websiteUrl": "http://calendly.com/",
-    "imageUrl1": "https://ph-files.imgix.net/f401e2a1-a6a8-4da7-a360-c8003d60bbd8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/a6414f94-38f9-49a8-bd4c-98265a3adfd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/e2bf550b-ebb9-42ab-8875-82d7be504018.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "5",
-    "name": "Krisp",
-    "icon": null,
-    "title": "Krisp — Magically mutes background noise during calls",
-    "description": "Krisp is a superior noise cancelling app that mutes background noise in real time calls. With one click it removes all extraneous noises for incoming and outgoing calls. Available on Windows, Mac, and iOS.",
-    "productUrl": "https://www.producthunt.com/products/krisp/shoutouts",
-    "websiteUrl": "https://krisp.ai/",
-    "imageUrl1": "https://ph-files.imgix.net/7d9908cf-aed2-48d3-9bb1-d5df74245862.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/1811dacf-b137-49c3-98c6-aaf15b0dcdc2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/10b52e64-006d-41f3-9fce-26ff9707c2c6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/GjJDlDwSf9E"
   },
   {
     "rank": "6",
@@ -72,10 +59,10 @@
     "description": "Backtrack is a meeting recording app that overwrites a 5 hour window of audio/video over and over throughout the day, locally on your Mac. It allows you to privately save anything you've seen, said, or heard in the past and turn it into AI notes/summaries.",
     "productUrl": "https://www.producthunt.com/products/backtrack-2-0/shoutouts",
     "websiteUrl": "https://www.usebacktrack.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bb78620e-ba42-4e2f-8780-68fa88972f14.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f73bad4c-9097-4065-956e-c157b3bd50f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/755e6ad8-d5af-4d61-aefd-8e3ebf01d5c3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/oD-phHlm388"
   },
   {
     "rank": "7",
@@ -111,9 +98,9 @@
     "description": "Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.",
     "productUrl": "https://www.producthunt.com/products/gamma-3/shoutouts",
     "websiteUrl": "https://gamma.app/",
-    "imageUrl1": "https://ph-files.imgix.net/4c2da502-48fc-4631-ab27-605dcba43789.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/37842e29-252a-4906-91c2-dc343fa9bcdf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c0624464-a0bd-4103-940c-5d8270af21e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/r9VOYJM6nZc"
   }
 ]

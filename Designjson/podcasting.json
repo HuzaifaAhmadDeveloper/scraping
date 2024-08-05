@@ -22,21 +22,8 @@
     "websiteUrl": "https://www.spotify.com/",
     "imageUrl1": "https://ph-files.imgix.net/6e781bf6-ac35-4fd3-b7e4-899f6d4a000b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
-    "rank": "3",
-    "name": "Wondercraft",
-    "icon": "https://ph-files.imgix.net/290edd0f-e78e-4fce-ba2d-aec0c8e4e67a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-    "title": "Wondercraft — An AI powered audio studio",
-    "description": "The easy and enjoyable way to create professional, studio-quality audio for podcasts, audiobooks, ads, company communications, and more.",
-    "productUrl": "https://www.producthunt.com/products/wondercraft-ai/shoutouts",
-    "websiteUrl": "https://wondercraft.ai/",
-    "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/26ebeccd-360f-4b8b-aa99-1a72719a7631.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/5283db05-17b6-4864-86d8-e9c2ce0a4b39.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "4",
@@ -46,10 +33,10 @@
     "description": "Descript is a new kind of video and audio editor that’s as easy as a doc. Descript’s AI-powered features and intuitive interface fuel YouTube and TikTok channels, top podcasts, and businesses using video for marketing, sales, and internal training and collaboration. Descript aims to make video a staple of every communicator’s toolkit, alongside docs and slides.",
     "productUrl": "https://www.producthunt.com/products/descript/shoutouts",
     "websiteUrl": "https://www.descript.com/",
-    "imageUrl1": "https://ph-files.imgix.net/aaf03998-8f3f-4be4-88ca-fb3652a9748b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/05f138ec-94cc-49aa-8656-9937c758871e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/64e70d78-62cf-4fbb-8a3d-70666287e363.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/haUG5ii0His"
   },
   {
     "rank": "5",
@@ -59,7 +46,7 @@
     "description": "Ko-fi is an online platform which helps creators such as illustrators, podcasters and bloggers receive financial support from fans of their work.",
     "productUrl": "https://www.producthunt.com/products/ko-fi-com/shoutouts",
     "websiteUrl": "https://ko-fi.com/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/3942cebc-f885-4839-81bf-9079389ce071.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""

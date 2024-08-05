@@ -7,7 +7,7 @@
     "description": "Create native apps for Android, iOS, and more using React.",
     "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
     "websiteUrl": "http://facebook.github.io/react-native",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -32,11 +32,11 @@
     "title": "ToDesktop — Convert your web app to a desktop app in 2 minutes",
     "description": "Take your web app codebase and transform it into a cross platform desktop app with native functionality.",
     "productUrl": "https://www.producthunt.com/products/todesktop/shoutouts",
-    "websiteUrl": "",
+    "websiteUrl": "https://ph-files.imgix.net/54db3047-631a-49ba-a61e-0be18517fd5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl1": "",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/b36d404a-ed12-4a9a-a621-087b1ce3c1ce.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/0baaea7c-806c-4227-b71c-09363b95b50d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "4",
@@ -59,10 +59,10 @@
     "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
     "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
     "websiteUrl": "https://apparencekit.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/JbUWROBEiNM"
   },
   {
     "rank": "6",

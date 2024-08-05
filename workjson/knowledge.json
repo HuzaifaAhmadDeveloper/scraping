@@ -49,7 +49,7 @@
     "imageUrl1": "https://ph-files.imgix.net/095c2bff-42b9-4dd2-aeca-d2fbe15fc272.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/937c8ffc-614e-4120-a4bf-64cb22c29a11.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/9da04a44-b924-438d-9f13-98d3dd3a7415.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "5",
@@ -72,10 +72,10 @@
     "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
     "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
     "websiteUrl": "https://signup.kleversuite.com/auth/register",
-    "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/6FVuVvwextU"
   },
   {
     "rank": "7",
@@ -88,19 +88,6 @@
     "imageUrl1": "https://ph-files.imgix.net/766046a2-205d-41bf-ac12-455c727bd526.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/d22a29c2-519d-4180-80da-1b3eea24e0de.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/f5d20f77-bd24-41bc-ab5a-38c3abb2813f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
-  },
-  {
-    "rank": "8",
-    "name": "AFFiNE",
-    "icon": null,
-    "title": "AFFiNE — Workspace with fully merged docs, whiteboards and databases",
-    "description": "An all-in-one workspace where you can write, draw, and plan just about anything. Enable dynamic note-taking, tasks, visualized mindmaps, and presentations.",
-    "productUrl": "https://www.producthunt.com/products/affine-2/shoutouts",
-    "websiteUrl": "https://affine.pro/",
-    "imageUrl1": "https://ph-files.imgix.net/9b35ee90-ab8f-47fd-94cb-2a08449cb05a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/62ca8f3b-58f4-4fc8-adfb-451453334684.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/6aafa6a4-82a5-4441-9db9-3e235134359a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "videoUrl": ""
   },
   {
@@ -125,9 +112,9 @@
     "productUrl": "https://www.producthunt.com/products/coda/shoutouts",
     "websiteUrl": "https://coda.io/",
     "imageUrl1": "",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl2": "https://ph-files.imgix.net/4159b8b9-1559-4d2a-9762-9f1315a3d4ae.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/5912e6cd-7062-4645-9f69-28e682bc687d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/5a3463e6-e7ef-49bb-b2cd-67daacc1c60f.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "11",
@@ -137,10 +124,10 @@
     "description": "Realm App is a literacy and productivity tool as a browser extension. Users can customize their workspaces using a range of widgets such as bookmarks and curated reading lists, to suit their role and usage.",
     "productUrl": "https://www.producthunt.com/products/realm-app/shoutouts",
     "websiteUrl": "https://realmapp.io/",
-    "imageUrl1": "https://ph-files.imgix.net/bfe74dd2-f462-41ff-863c-c33ab83c0c03.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/5434b6cb-f957-4d2f-9a06-0f563090ed6d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/38301c4e-f9c0-4495-ba6a-45b9f9c228fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/b3P5URPw9zY"
   },
   {
     "rank": "12",
@@ -163,7 +150,7 @@
     "description": "Like an artist's studio, Capacities is a place for all your information. It stores your knowledge and can resurface it, right when you need it.",
     "productUrl": "https://www.producthunt.com/products/capacities/shoutouts",
     "websiteUrl": "https://capacities.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/842ec9da-9044-4651-9122-711b771694be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -176,10 +163,10 @@
     "description": "Nuclino serves as your team's collective brain – stay connected to it while you’re on the go! Nuclino allows you to create real-time collaborative documents and connect them instantly like a wiki. The tree, board, and graph views let you explore and organize your knowledge visually. It's perfect for anything, from quick notes to detailed documentation.",
     "productUrl": "https://www.producthunt.com/products/nuclino/shoutouts",
     "websiteUrl": "https://www.nuclino.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c5d04e73-6aab-4a80-9399-c7dc506bbb38.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/ce005e23-283c-490e-b108-1b18540b10dc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/d21029af-f497-4b60-8fea-38191ea6a25f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/AS0GJh1DE64"
   },
   {
     "rank": "15",
@@ -215,10 +202,10 @@
     "description": "Notaku creates awesome docs websites from your Notion pages It's like GitBook but using Notion for your CMS Notaku is not limited to docs websites, you can also build docs, blog, help desk, changelog and roadmap websites.",
     "productUrl": "https://www.producthunt.com/products/notaku-docs/shoutouts",
     "websiteUrl": "https://notaku.so/product/docs",
-    "imageUrl1": "https://ph-files.imgix.net/0ccf994e-8f9e-4999-a05b-b88f93061521.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/78b67ed0-6af4-4b4d-9e87-534512b9d6a7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/713b7695-71d1-45e4-888d-9754c1005561.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/RAjffRSNT0g"
   },
   {
     "rank": "18",
@@ -241,10 +228,10 @@
     "description": "Tettra is an AI powered knowledge management system that lets you: 1. Curate important company information into a knowledge base 2. Instantly answer team questions in Slack via an AI powered bot 3. Keep your knowledge up-to-date and organized with automation",
     "productUrl": "https://www.producthunt.com/products/tettra/shoutouts",
     "websiteUrl": "https://tettra.com/",
-    "imageUrl1": "https://ph-files.imgix.net/44a6ac1e-7f4e-4bfa-bea4-26c6ac9ef907.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/7d3b4148-b0b5-47ef-a237-0147b3a185be.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/68b804d0-83af-401c-a226-e57a524887a2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/h1QiQvTS1YQ"
   },
   {
     "rank": "20",
@@ -257,7 +244,7 @@
     "imageUrl1": "https://ph-files.imgix.net/85eef6d6-908c-4982-976e-6ff658cf18b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/e2f98ba2-a05e-4ac3-9de7-89805a8c0510.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/e99bb25e-3263-4c80-83ad-1acebc530c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "21",

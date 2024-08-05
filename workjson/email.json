@@ -33,10 +33,10 @@
     "description": "Email, group chat and tasks for productive teams. One app for all your internal and external communication. Work management at its best. Try it free!",
     "productUrl": "https://www.producthunt.com/products/missive/shoutouts",
     "websiteUrl": "https://missiveapp.com/",
-    "imageUrl1": "https://ph-files.imgix.net/2077087c-3a5d-4d59-889d-289fc1af99c9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/73a661a5-02c6-41e4-88f5-8b7e1412d151.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/f6dfa58d-88ef-4cea-b1a5-a78145648783.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/q2_CzVlsqEo"
   },
   {
     "rank": "4",
@@ -61,8 +61,8 @@
     "websiteUrl": "http://www.gmail.com/",
     "imageUrl1": "",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/48e5fafd-e45b-49b7-82e9-5899f35ea73d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/c24b933c-44e3-4cde-863a-e799787035a8.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "6",
@@ -75,7 +75,7 @@
     "imageUrl1": "https://ph-files.imgix.net/00bd90e5-bf66-47cd-b318-b03e5780a389.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "https://ph-files.imgix.net/c6291dc1-e955-4883-a0d1-9ab2311b601f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://ph-files.imgix.net/9d3b261b-52b7-42ef-9bdd-db5868dd7b71.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "7",
@@ -85,10 +85,10 @@
     "description": "Create real, private email addresses on demand. Send and receive emails and attachments in application code and integration tests. Intuitive REST APIs and SDK Libraries. Free for personal use.",
     "productUrl": "https://www.producthunt.com/products/mailslurp/shoutouts",
     "websiteUrl": "https://www.mailslurp.com/",
-    "imageUrl1": "https://ph-files.imgix.net/e1138665-11ad-4a30-8e55-a796f5a27bee.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/f7be6729-0523-4a5f-970d-2a33eb278c54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/0975cc2f-3d6a-44ce-96c9-ba876abccbbf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/D8D5ts14RUY"
   },
   {
     "rank": "8",

@@ -7,10 +7,10 @@
     "description": "Google's UI toolkit for crafting beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.",
     "productUrl": "https://www.producthunt.com/products/flutter/shoutouts",
     "websiteUrl": "https://flutter.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/cda52a23-3dd1-4510-a5f1-972d677eabb6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/0812df7e-b7be-4f7c-b329-624b47c9efd4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/4c365210-bfbe-4919-a6c0-7011ed0a7fa5.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/l6hw4o6_Wcs"
   },
   {
     "rank": "2",
@@ -33,7 +33,7 @@
     "description": "Create native apps for Android, iOS, and more using React.",
     "productUrl": "https://www.producthunt.com/products/react-native/shoutouts",
     "websiteUrl": "http://facebook.github.io/react-native",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/06721ad5-ff7b-46f9-a0c4-b95d808be01b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -59,10 +59,10 @@
     "description": "Create beautiful UI, generate clean code, and deploy to the app stores or web in one click. Fully extensible with custom code.",
     "productUrl": "https://www.producthunt.com/products/flutterflow/shoutouts",
     "websiteUrl": "https://flutterflow.io/",
-    "imageUrl1": "https://ph-files.imgix.net/e39d194c-9e6b-490b-8a96-a2c6680e0689.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl1": "",
+    "imageUrl2": "https://ph-files.imgix.net/4dc426df-493f-4252-8e4d-6c6435103392.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "imageUrl3": "https://ph-files.imgix.net/3bfdabf0-73f6-4037-9e6a-a9d21b7a66aa.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://youtu.be/jGbLsYDgAVc"
   },
   {
     "rank": "6",
@@ -111,10 +111,10 @@
     "description": "ApparenceKit is a complete flutter boilerplate to help you ship a successful app on Android and iOS. Subscription, Notififications, Auth, Ads, translations, Architecture, Deployment....",
     "productUrl": "https://www.producthunt.com/products/apparencekit/shoutouts",
     "websiteUrl": "https://apparencekit.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/07cc8cb0-ac62-4254-b7ff-0828fcad9148.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/da3e8060-a8a4-4c4a-879b-720cd6a2294c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/bca12a6c-c9e3-48c6-b757-d5b1f9f401eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/JbUWROBEiNM"
   },
   {
     "rank": "10",
@@ -137,10 +137,10 @@
     "description": "Simplifies app localization and helps you reach more users. Use a machine translation service to translate your App and App Store metadata. - Supported xliff and xcloc files. - Translate App Store metadata.",
     "productUrl": "https://www.producthunt.com/products/localizebot/shoutouts",
     "websiteUrl": "https://localizebot.com/",
-    "imageUrl1": "https://ph-files.imgix.net/bc617502-e156-4eb2-9e68-f1df41820e6f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/2388fd5e-9b0a-4fe4-be99-645dde2fbd27.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/ba809447-2182-4ff1-a8c2-386e179ec6b3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/mzR8TDmcMxk"
   },
   {
     "rank": "12",
@@ -150,7 +150,7 @@
     "description": "This is an opionated configuration for Typescript React Native with all the packages and tools that I use for my React Native projects. Feel free to contribute.",
     "productUrl": "https://www.producthunt.com/products/typescript-react-native-starter/shoutouts",
     "websiteUrl": "https://github.com/NewBieBR/typescript-react-native-starter",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/46a7ef11-99b0-4b13-8a17-7e356ee1c867.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
@@ -176,10 +176,10 @@
     "description": "Avoid mindless scrolling and eliminate distractions. With minimalist phone, you can filter notifications, block or hide other apps and much more. minimalist phone has reminders that help you not to get lost in apps with endless scroll feeds.",
     "productUrl": "https://www.producthunt.com/products/minimalist-phone-reduce-your-screentime/shoutouts",
     "websiteUrl": "https://www.minimalistphone.com/",
-    "imageUrl1": "https://ph-files.imgix.net/11df9dd8-71fb-4130-988e-17865aff0d1c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b0f8c93b-f656-45c0-8df6-122f3a971b7f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/49ddba02-9877-4f92-803c-08ca43455dd9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/lJKrmJve5Jo"
   },
   {
     "rank": "15",
@@ -189,10 +189,10 @@
     "description": "Dark Noise is a simple yet powerful way to play ambient noise to help you sleep, focus, or relax. Each of the 30+ high-quality sounds features a delightfully animated icon that brings the sound to life. Deep integrations with iOS make it easier than ever to start an ambient noise with a tap or even your voice!",
     "productUrl": "https://www.producthunt.com/products/dark-noise/shoutouts",
     "websiteUrl": "https://darknoise.app/",
-    "imageUrl1": "https://ph-files.imgix.net/6e634cdc-9146-4c4e-bfeb-7cc9e0dbce7e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/9e2bd099-073d-402c-b136-e76ca040ba24.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/70194a5b-4a5d-43e5-bce2-2e31cceebded.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Q7BDtu9CkAI"
   },
   {
     "rank": "16",
@@ -230,8 +230,8 @@
     "websiteUrl": "http://music.youtube.com/",
     "imageUrl1": "https://ph-files.imgix.net/54f9e4b9-87fb-447b-84a7-bcc4874ec712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl2": "",
-    "imageUrl3": "",
-    "videoUrl": ""
+    "imageUrl3": "https://ph-files.imgix.net/0214ffe9-79a6-4750-aa62-825de28fffcf.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+    "videoUrl": "https://ph-files.imgix.net/cb4f8eb8-c05d-4929-83a0-a44addd4c2f5.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001"
   },
   {
     "rank": "19",
@@ -241,10 +241,10 @@
     "description": "MobileGPT is your ChatGPT on WhatsApp. You can do all the things that you do with ChatGPT, but on your mobile device. In addition - you can generate AI images and AI powered documents in word format - sent directly to your WhatsApp.",
     "productUrl": "https://www.producthunt.com/products/mobilegpt/shoutouts",
     "websiteUrl": "https://mobile-gpt.io/",
-    "imageUrl1": "https://ph-files.imgix.net/56e4341c-5aff-4b65-bd22-ffc4ab871cea.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/d68eaebc-e1a7-45f5-ab44-664449a304f4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/47fe8336-13fa-4e03-8d55-af2032ae8c76.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/5uilebtMeXo"
   },
   {
     "rank": "20",
@@ -283,19 +283,6 @@
     "imageUrl1": "",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
-  },
-  {
-    "rank": "23",
-    "name": "SwiftShip",
-    "icon": null,
-    "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
-    "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
-    "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
-    "websiteUrl": "https://swiftship.dev/",
-    "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "videoUrl": ""
   },
   {
@@ -358,10 +345,10 @@
     "description": "“A big step forward for mobile music” - CDM (Create Digital Music) \"Groundbreaking iOS synth app\" - Cult of Mac \"Must-download for every iPad owner\" - MacBreak",
     "productUrl": "https://www.producthunt.com/products/audiokit-pro/shoutouts",
     "websiteUrl": "http://audiokitpro.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c736c364-6beb-4204-a75e-63f103d3e94e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/99a7751d-998c-4392-b72b-febb061da593.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/3809bbce-08bc-4166-a289-58de942fa79b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/hwDNgCYowYs"
   },
   {
     "rank": "29",
@@ -410,10 +397,10 @@
     "description": "Apple empowers developers and fuels innovation with new tools and resources. Enhancements to Xcode and Swift, combined with new APIs, offer developers expanded capabilities for creating high‑quality apps.",
     "productUrl": "https://www.producthunt.com/products/xcode-16/shoutouts",
     "websiteUrl": "https://apps.apple.com/us/app/xcode/id497799835",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/28bd582c-6ea8-4edd-8171-990496300b74.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/BAQ9EhAm2eM"
   },
   {
     "rank": "33",
@@ -462,10 +449,10 @@
     "description": "An indie iOS app for not just tracking — but also planning and analyzing — your budget. If you value money and want to be wise with your spending, or if you want to learn how to do budgeting, the updated Budget Hound is here to help you.",
     "productUrl": "https://www.producthunt.com/products/budget-hound-3/shoutouts",
     "websiteUrl": "https://budgethound.app/",
-    "imageUrl1": "https://ph-files.imgix.net/8acd37f9-9c13-46d5-a157-f350be11aee8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/5e0dcbc7-c17f-43ba-88b0-ab18f7383d3c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/52707553-f5ba-495d-bea3-b5f2e4d645ce.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/Y1XEXFZwa-s"
   },
   {
     "rank": "37",

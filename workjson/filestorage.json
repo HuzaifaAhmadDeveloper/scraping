@@ -7,10 +7,10 @@
     "description": "Helping millions of developers easily build, test, manage, and scale applications of any size faster than ever before.",
     "productUrl": "https://www.producthunt.com/products/digitalocean/shoutouts",
     "websiteUrl": "https://digitalocean.com/",
-    "imageUrl1": "https://ph-files.imgix.net/c7bc122a-454c-4477-bd0a-a2daef1ec3a3.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/64b7d8f1-14ed-43c0-9693-79b2c9b970b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/292697b5-9a68-447c-a94b-cc290ec6683d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/rR4R9tp-4bs"
   },
   {
     "rank": "2",
@@ -20,8 +20,8 @@
     "description": "Amazon Lightsail is an easy-to-use virtual private server (VPS) that offers simple management of cloud resources such as containers, at low, predictable prices.",
     "productUrl": "https://www.producthunt.com/products/amazon-web-services-inc-9/shoutouts",
     "websiteUrl": "https://aws.amazon.com/lightsail",
-    "imageUrl1": "",
-    "imageUrl2": "",
+    "imageUrl1": "https://ph-files.imgix.net/fc6aff4b-47e4-4c5a-bbcd-5687578904e1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+    "imageUrl2": "https://ph-files.imgix.net/87447f17-c308-4203-a746-7fdb33b6d715.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl3": "",
     "videoUrl": ""
   },
@@ -59,10 +59,10 @@
     "description": "Auto-personalized deal rooms for revenue teams & clients that unite everything & everyone in the process in a single link. 🪄 Deliver an outstanding buying experience that increases conversion 📈 shortens deal cycles, and eases onboardings and renewals. 🚀",
     "productUrl": "https://www.producthunt.com/products/flowla/shoutouts",
     "websiteUrl": "https://flowla.com/",
-    "imageUrl1": "https://ph-files.imgix.net/cb886a74-0f12-4b8d-a604-dbf2cbb4a8da.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/9ef1d574-2b59-4663-b627-adc6dacbdf07.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/dfe86030-ec7d-4634-a18d-63d6e79e6ab3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/zobkSbYp0Do"
   },
   {
     "rank": "6",
@@ -72,10 +72,10 @@
     "description": "Meet the all-in-one workspace your productive teams deserve to have! Klever Suite brings all your work - projects, tasks, and Wiki docs in one place - so you can focus on being more productive! Here’s what you can do with Klever Suite 👀 🏃‍♂️ Run projects of any size with our flexible Kanban board 📑 Create all kinds of Wiki docs+ diagrams, from product requirement docs to flowcharts 📌 Organize all tasks you’re working on",
     "productUrl": "https://www.producthunt.com/products/klever-suite/shoutouts",
     "websiteUrl": "https://signup.kleversuite.com/auth/register",
-    "imageUrl1": "https://ph-files.imgix.net/80263883-9d47-4f6b-a71a-69eac1e4b98b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl1": "",
     "imageUrl2": "https://ph-files.imgix.net/b3c97141-9173-4737-b65e-2eb810242c85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
     "imageUrl3": "https://ph-files.imgix.net/c6a153f3-dd8e-411f-b94c-fca670022f9b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/6FVuVvwextU"
   },
   {
     "rank": "7",
@@ -85,10 +85,10 @@
     "description": "The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system.",
     "productUrl": "https://www.producthunt.com/products/ipfs/shoutouts",
     "websiteUrl": "https://ipfs.io/",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/a0e112e3-1de7-45b9-ab9a-beec02eea9e0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/8CMxDNuuAiQ"
   },
   {
     "rank": "8",
@@ -99,9 +99,9 @@
     "productUrl": "https://www.producthunt.com/products/compressx/shoutouts",
     "websiteUrl": "https://hieudinh.com/compressx",
     "imageUrl1": "https://ph-files.imgix.net/f1f9af90-d469-47d0-9891-41a6bb625ed7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "imageUrl2": "https://ph-files.imgix.net/63b16272-7243-4d33-ad19-b782a88d1af7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+    "imageUrl2": "",
     "imageUrl3": "https://ph-files.imgix.net/34033f43-f14e-4097-93fd-835a31f00c5f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-    "videoUrl": ""
+    "videoUrl": "https://youtu.be/XRbSk47mtu8"
   },
   {
     "rank": "9",
@@ -150,7 +150,7 @@
     "description": "Amazon S3 or Amazon Simple Storage Service is a service offered by Amazon Web Services that provides object storage. Manage your AWS S3 buckets. AWS S3 Tool has following features: - With Amazon Web Services (AWS) S3 profiles manage S3 buckets easily - Delete Files from S3 buckets - Download Files from S3 buckets - Upload Files to S3 Buckets https://www.youtube.com/watch?v=2fQKEpt9_S4",
     "productUrl": "https://www.producthunt.com/products/aws-s3-tool/shoutouts",
     "websiteUrl": "https://www.microsoft.com/store/p/aws-s3-tool/9p6q0xr4gmgg",
-    "imageUrl1": "",
+    "imageUrl1": "https://ph-files.imgix.net/9019cd6d-0a06-44f3-a981-c7f954a756a6.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
     "imageUrl2": "",
     "imageUrl3": "",
     "videoUrl": ""
