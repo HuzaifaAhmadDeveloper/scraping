@@ -298,19 +298,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "16",
-            "name": "Ellipsis",
-            "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "Ellipsis — AI code reviews & bug fixes",
-            "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
-            "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
-            "websiteUrl": "",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
             "rank": "17",
             "name": "Novel",
             "icon": "https://ph-files.imgix.net/33ea6c5c-575b-4ac1-adf4-11a978ea444d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -1349,32 +1336,6 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "52",
-            "name": "Ellipsis",
-            "icon": "https://ph-files.imgix.net/62a86d12-e385-4ff1-9bdd-017d2de22474.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "Ellipsis — AI code reviews & bug fixes",
-            "description": "Ellipsis is a GitHub app that automatically reviews code and fixes bugs on pull requests. It catches logical bugs, enforces your team's style guide, and can even generate working, tested code to address comments like \"@ellipsis-dev fix this unit test\"",
-            "productUrl": "https://www.producthunt.com/products/ellipsis-2/shoutouts",
-            "websiteUrl": "",
-            "imageUrl1": "",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "53",
-            "name": "SwiftShip",
-            "icon": null,
-            "title": "SwiftShip — Build and Ship your iOS app in a few days or hours",
-            "description": "A Swift UI Boilerplate that takes care of features commonly needed in mobile apps, and lets you save time and focus on your value proposition and main features. Save hours of development and ship your iOS app in a few days or hours.",
-            "productUrl": "https://www.producthunt.com/products/swiftship/shoutouts",
-            "websiteUrl": "https://swiftship.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/6b3cc089-bde6-4235-a0c2-fc78790ac47e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/c0d4f5d7-c7b1-4017-995d-699d902522cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/4fdcdc16-84f1-46d4-af28-f78171793c6b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {

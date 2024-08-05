@@ -82,11 +82,11 @@
     "videoediting": "node Design/videoediting.js",
     "wallpaper": "node Design/wallpaper.js",
     "wireframing": "node Design/wireframing.js",
-<<<<<<< HEAD
+
     "insertEngineering": "node insertEngineering.js",
     "insertWork": "node insertWork.js",
-    "insertDesign": "node insertDesign.js"
-=======
+    "insertDesign": "node insertDesign.js",
+
     "blogging":"node social/blogging.js",
     "communitymanagement":"node social/communitymanagement.js",
     "datingapp":"node social/datingapp.js",
@@ -118,6 +118,7 @@
     "startup": "node finance/startup.js",
     "stocktrading": "node finance/stocktrading.js",
     "tax": "node finance/tax.js"
+    
   },
   "keywords": [],
   "author": "",
