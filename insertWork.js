@@ -11,12 +11,12 @@ const client = new Client({
 
 const data = {
   "category": {
-    "cat_name": "Work and Productivity",
-    "cat_heading": "The best Work and Productivity in 2024",
+    "category_name": "Work and Productivity",
+    "category_heading": "The best Work and Productivity in 2024",
     "sub_categories": [
       {
-        "sub_cat_name": "Ad blockers",
-        "sub_cat_heading": "The best Ad blockers in 2024",
+        "sub_category_name": "Ad blockers",
+        "sub_category_heading": "The best Ad blockers in 2024",
         "products": [
           {
             "rank": "1",
@@ -48,8 +48,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "App switcher",
-        "sub_cat_heading": "The best App switcher in 2024",
+        "sub_category_name": "App switcher",
+        "sub_category_heading": "The best App switcher in 2024",
         "products": [
           {
             "rank": "1",
@@ -250,8 +250,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Calender Apps",
-        "sub_cat_heading": "The best Calender Apps in 2024",
+        "sub_category_name": "Calender Apps",
+        "sub_category_heading": "The best Calender Apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -413,8 +413,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Customer Support",
-        "sub_cat_heading": "The best Customer Support in 2024",
+        "sub_category_name": "Customer Support",
+        "sub_category_heading": "The best Customer Support in 2024",
         "products": [
           {
             "rank": "1",
@@ -940,8 +940,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Email clients",
-        "sub_cat_heading": "The best Email clients in 2024",
+        "sub_category_name": "Email clients",
+        "sub_category_heading": "The best Email clients in 2024",
         "products": [
           {
             "rank": "1",
@@ -1051,8 +1051,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "File storage and sharing",
-        "sub_cat_heading": "The best File storage and sharing in 2024",
+        "sub_category_name": "File storage and sharing",
+        "sub_category_heading": "The best File storage and sharing in 2024",
         "products": [
           {
             "rank": "1",
@@ -1253,8 +1253,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Hiring Software",
-        "sub_cat_heading": "The best Hiring Software in 2024",
+        "sub_category_name": "Hiring Software",
+        "sub_category_heading": "The best Hiring Software in 2024",
         "products": [
           {
             "rank": "1",
@@ -1299,8 +1299,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Knowledge base software",
-        "sub_cat_heading": "The best Knowledge base software in 2024",
+        "sub_category_name": "Knowledge base software",
+        "sub_category_heading": "The best Knowledge base software in 2024",
         "products": [
           {
             "rank": "1",
@@ -1592,8 +1592,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Legal services",
-        "sub_cat_heading": "The best Legal services in 2024",
+        "sub_category_name": "Legal services",
+        "sub_category_heading": "The best Legal services in 2024",
         "products": [
           {
             "rank": "1",
@@ -1625,8 +1625,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Meeting software",
-        "sub_cat_heading": "The best Meeting software in 2024",
+        "sub_category_name": "Meeting software",
+        "sub_category_heading": "The best Meeting software in 2024",
         "products": [
           {
             "rank": "1",
@@ -1749,8 +1749,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Note and writing apps",
-        "sub_cat_heading": "The best Note and writing apps in 2024",
+        "sub_category_name": "Note and writing apps",
+        "sub_category_heading": "The best Note and writing apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -2211,8 +2211,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Password managers",
-        "sub_cat_heading": "The best Password managers in 2024",
+        "sub_category_name": "Password managers",
+        "sub_category_heading": "The best Password managers in 2024",
         "products": [
           {
             "rank": "1",
@@ -2235,8 +2235,8 @@ const data = {
             "description": "Cloaked is a people-first privacy app that generates virtual identities to protect your personal data. No one should have to choose between staying connected and personal privacy — with Cloaked, you can try new products, travel, shop, and even meet new people while staying in control of your data. Unique and unlimited phone numbers, passwords, and payments set us apart from other privacy tools and password managers. Go ahead and give them your (Cloaked) info — and say goodbye to spam forever.",
             "productUrl": "https://www.producthunt.com/products/keepitcloaked/shoutouts",
             "websiteUrl": "https://www.cloaked.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/b61d4238-8001-4a92-939b-c0b9b78c5d2e.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/44a5e744-ac83-4c89-a60a-0b9c8934240c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           }
@@ -2244,8 +2244,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "PDF Editor",
-        "sub_cat_heading": "The Headless PDF Editor in 2024",
+        "sub_category_name": "PDF Editor",
+        "sub_category_heading": "The Headless PDF Editor in 2024",
         "products": [
           {
             "rank": "1",
@@ -2281,7 +2281,7 @@ const data = {
             "description": "Robolly is an all-in-one service for automated image, video & PDF generation. The potential is limitless; you can use it to generate branded social media content, open graph images, PDF certificates, personalized videos, slideshows, and so much more.",
             "productUrl": "https://www.producthunt.com/products/robolly/shoutouts",
             "websiteUrl": "https://robolly.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/20a32838-9f7e-4277-8f46-f35d3428e93f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2290,8 +2290,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Presentation Software",
-        "sub_cat_heading": "The best Presentation Software in 2024",
+        "sub_category_name": "Presentation Software",
+        "sub_category_heading": "The best Presentation Software in 2024",
         "products": [
           {
             "rank": "1",
@@ -2301,10 +2301,10 @@ const data = {
             "description": "Create, collaborate on, and share impressive presentations faster than ever. Pitch has built the complete platform for presentations, so your team can bring your best ideas to life.",
             "productUrl": "https://www.producthunt.com/products/pitch/shoutouts",
             "websiteUrl": "https://pitch.com/",
-            "imageUrl1": "https://ph-files.imgix.net/c2686c0c-facd-41f3-a182-49479caefd54.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/abe9f2b9-d807-45dd-85b5-1b56d6835fde.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e06a2465-3617-489e-bf08-31dafd1bcce9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/tqfeE5G36tM"
           },
           {
             "rank": "2",
@@ -2314,10 +2314,10 @@ const data = {
             "description": "Decktopus, the new generation online presentation tool, lets you create the perfect presentation in the shortest time without any design skills.",
             "productUrl": "https://www.producthunt.com/products/decktopus/shoutouts",
             "websiteUrl": "https://decktopus.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cbbe95ff-5844-42cb-b671-303423a1f239.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/0f263a36-59ae-490a-b331-31903ff0925a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/864ddbba-3f24-4459-9095-824be07ecb31.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NdS3Ic-Uyok"
           },
           {
             "rank": "3",
@@ -2327,10 +2327,10 @@ const data = {
             "description": "Your all-in-one mind mapping toolkit powered by AI. Generate and expand ideas instantly, collaborate in real-time, and effortlessly transform your mind maps into stunning presentations. Experience a smarter way to organize and present your ideas with AI.",
             "productUrl": "https://www.producthunt.com/products/xmind-ai/shoutouts",
             "websiteUrl": "https://xmind.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/65a26f85-28a4-4714-bd55-a981c3e0b5b7.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e86ca5e6-84ff-480e-a6ef-77b773692e5a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/df9ef26b-29f5-4877-bf56-14ef6db1ee58.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/kKkp5bjOIdM"
           },
           {
             "rank": "4",
@@ -2340,7 +2340,7 @@ const data = {
             "description": "The screen recorder that edits videos for you.",
             "productUrl": "https://www.producthunt.com/products/tella-1-0/shoutouts",
             "websiteUrl": "https://tella.tv/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e8388ee8-58d4-48df-9c61-6ba7bd46d712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -2380,9 +2380,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/synthesia/shoutouts",
             "websiteUrl": "http://synthesia.io/",
             "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl2": "https://ph-files.imgix.net/40525c34-dd48-43a4-886f-8cb3bbc9ea2c.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/gZaBwdru_bk"
           },
           {
             "rank": "8",
@@ -2418,17 +2418,17 @@ const data = {
             "description": "Gamma is an alternative to slide decks - a fast, simple way to share and present your work. Create engaging presentations, memos, briefs, and docs that are easy to discuss live or share async. All in your browser, nothing to download or install.",
             "productUrl": "https://www.producthunt.com/products/gamma-3/shoutouts",
             "websiteUrl": "https://gamma.app/",
-            "imageUrl1": "https://ph-files.imgix.net/4c2da502-48fc-4631-ab27-605dcba43789.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/37842e29-252a-4906-91c2-dc343fa9bcdf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/c0624464-a0bd-4103-940c-5d8270af21e6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/r9VOYJM6nZc"
           }
         ]
         
       },
       {
-        "sub_cat_name": "Product demo",
-        "sub_cat_heading": "The best Product demo in 2024",
+        "sub_category_name": "Product demo",
+        "sub_category_heading": "The best Product demo in 2024",
         "products": [
           {
             "rank": "1",
@@ -2460,8 +2460,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Project management software",
-        "sub_cat_heading": "The best Project management software in 2024",
+        "sub_category_name": "Project management software",
+        "sub_category_heading": "The best Project management software in 2024",
         "products": [
           {
             "rank": "1",
@@ -3260,8 +3260,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Resume tools",
-        "sub_cat_heading": "The best Resume tools in 2024",
+        "sub_category_name": "Resume tools",
+        "sub_category_heading": "The best Resume tools in 2024",
         "products": [
           {
             "rank": "1",
@@ -3272,9 +3272,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/linkedin/shoutouts",
             "websiteUrl": "https://linkedin.com/",
             "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl2": "https://ph-files.imgix.net/0fe8a06e-9b35-44dd-8f53-077a235f11eb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/fFAqBXp9ibo"
           },
           {
             "rank": "2",
@@ -3284,17 +3284,17 @@ const data = {
             "description": "An AI-powered resume builder to help you get hired.",
             "productUrl": "https://www.producthunt.com/products/resoume/shoutouts",
             "websiteUrl": "https://resoume.com/",
-            "imageUrl1": "https://ph-files.imgix.net/63ea3eda-873b-40a8-b7cc-e07995f7f9b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/49d58453-c4cb-4ebe-a796-00cf31f9f567.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/69cd1d1d-bf53-4a0f-9a96-e41d32e77cf3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/oDyt9K6qUNk"
           }
         ]
         
       },
       {
-        "sub_cat_name": "Scheduling software",
-        "sub_cat_heading": "The best Scheduling software in 2024",
+        "sub_category_name": "Scheduling software",
+        "sub_category_heading": "The best Scheduling software in 2024",
         "products": [
           {
             "rank": "1",
@@ -3319,7 +3319,7 @@ const data = {
             "websiteUrl": "https://trigger.dev/",
             "imageUrl1": "https://ph-files.imgix.net/cd608ea0-fc48-41c5-942e-e4f561c7c732.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/ed087d65-fd2e-45a4-851a-3c2e5b7459ad.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/5b2bf218-85a3-4400-9e07-085412ec472e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -3343,10 +3343,10 @@ const data = {
             "description": "Convex is a full-stack TypeScript development platform that keeps you focused on your product. Use our realtime database to build apps that are reactive by default. Integrate OpenAI into your workflows with builtin functions, scheduling, and vector search.",
             "productUrl": "https://www.producthunt.com/products/convex/shoutouts",
             "websiteUrl": "https://www.convex.dev/",
-            "imageUrl1": "https://ph-files.imgix.net/71747b72-7853-472b-9545-2c494c772fc9.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/87eea6a3-ffea-4791-bf49-9ae6ff6fc8aa.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/961b456f-936a-4e5d-ac19-75f616f16243.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/wISChclk5lM"
           },
           {
             "rank": "5",
@@ -3356,10 +3356,10 @@ const data = {
             "description": "The joyful productivity app. Schedule time for todos, events, and contacts.",
             "productUrl": "https://www.producthunt.com/products/amie-2/shoutouts",
             "websiteUrl": "https://amie.so/",
-            "imageUrl1": "https://ph-files.imgix.net/eb996ece-8019-43de-9b30-93163d765005.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7c54e5af-0da2-43ab-ae6c-36193c1d2780.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9d355ab9-42b1-4d2c-b526-fe22c26af9c8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/y3_kGXJfDWY"
           },
           {
             "rank": "6",
@@ -3371,7 +3371,7 @@ const data = {
             "websiteUrl": "https://calendar.google.com/",
             "imageUrl1": "https://ph-files.imgix.net/98d85c97-2d9f-426f-93ef-166d774c7b85.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/bc9e8de1-832c-4344-ac1b-64a2666e83ce.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/4adc04c9-5009-486a-b676-639716216658.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -3397,7 +3397,7 @@ const data = {
             "websiteUrl": "https://cron.com/",
             "imageUrl1": "https://ph-files.imgix.net/40345375-b937-4dbe-b968-a08caab8c946.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/a7c848ba-99de-477c-b0c5-2464a4fe80cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/0aae07a3-e2a2-46db-9fcb-30bde1a8201c.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -3421,10 +3421,10 @@ const data = {
             "description": "Calendly is your hub for scheduling meetings professionally and efficiently, eliminating the hassle of back-and-forth emails so you can get back to work.",
             "productUrl": "https://www.producthunt.com/products/calendly/shoutouts",
             "websiteUrl": "http://calendly.com/",
-            "imageUrl1": "https://ph-files.imgix.net/f401e2a1-a6a8-4da7-a360-c8003d60bbd8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a6414f94-38f9-49a8-bd4c-98265a3adfd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e2bf550b-ebb9-42ab-8875-82d7be504018.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/GjJDlDwSf9E"
           },
           {
             "rank": "11",
@@ -3436,7 +3436,7 @@ const data = {
             "websiteUrl": "https://apps.apple.com/us/app/microsoft-outlook/id985367838",
             "imageUrl1": "https://ph-files.imgix.net/00bd90e5-bf66-47cd-b318-b03e5780a389.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/c6291dc1-e955-4883-a0d1-9ab2311b601f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/9d3b261b-52b7-42ef-9bdd-db5868dd7b71.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -3486,10 +3486,10 @@ const data = {
             "description": "Clear 2 is redesigned and remade from the ground up, featuring features and gestures, a vibrantly colorful design for its collectible themes, and a deep dive into personalization, including customizable gestures.",
             "productUrl": "https://www.producthunt.com/products/clear-2-2/shoutouts",
             "websiteUrl": "https://useclear.com/",
-            "imageUrl1": "https://ph-files.imgix.net/15463e19-5395-412c-b833-b9c068b9aefb.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/d31fd598-bb2b-4064-a2fe-5bd230f0e1c8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/83ba93c9-9a11-4058-8de0-e32f167b9ddd.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/_Xw2dVlXzfE"
           },
           {
             "rank": "16",
@@ -3499,10 +3499,10 @@ const data = {
             "description": "Godspeed is a todo manager built for speed and keyboard orientation. Every action in Godspeed is doable from the keyboard and will respond instantly.",
             "productUrl": "https://www.producthunt.com/products/godspeed/shoutouts",
             "websiteUrl": "https://godspeedapp.com/",
-            "imageUrl1": "https://ph-files.imgix.net/bf1b8d23-fd72-408a-ae68-7a46a6c88a5b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/9e7975ae-0e2a-4d1d-a8e8-9ec346fb423c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3dc7005d-b587-4d0a-87be-3a0f9283c089.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/06RTk4y3GvM"
           },
           {
             "rank": "17",
@@ -3521,8 +3521,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Screenshots and screen recording apps",
-        "sub_cat_heading": "The best Screenshots and screen recording apps in 2024",
+        "sub_category_name": "Screenshots and screen recording apps",
+        "sub_category_heading": "The best Screenshots and screen recording apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -3545,10 +3545,10 @@ const data = {
             "description": "Screen Studio makes your mouse movement smooth, automatically zooms in on clicks, applies cinematic motion blur to all the animations, and adds beautiful background around your recording. In a minute your recording becomes a high-quality promotional video.",
             "productUrl": "https://www.producthunt.com/products/screen-studio/shoutouts",
             "websiteUrl": "https://screen.studio/",
-            "imageUrl1": "https://ph-files.imgix.net/8a192cfa-06f6-4b31-9c1b-724f5fb965f2.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5a949020-0d54-42f1-ab07-a7721a0ba7d6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/75c9e3d5-7289-4d4c-b689-f391e9235efc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/HiLfRitm_dc"
           },
           {
             "rank": "3",
@@ -3558,10 +3558,10 @@ const data = {
             "description": "Discover a superior way to capture your Mac's screen with built-in annotation and amazing Quick Access Overlay.",
             "productUrl": "https://www.producthunt.com/products/cleanshot/shoutouts",
             "websiteUrl": "https://getcleanshot.com/",
-            "imageUrl1": "https://ph-files.imgix.net/37d263eb-cfed-4170-ab44-e6b33b4cb0f0.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/2ad66f8c-f698-4b87-9251-cf7386586122.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
+            "imageUrl2": "https://youtu.be/GOjV01brFQg",
             "imageUrl3": "https://ph-files.imgix.net/6772fca4-04ec-46c7-9a9e-e8bcda338d1c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/ZxCw_aZL61U"
           },
           {
             "rank": "4",
@@ -3571,7 +3571,7 @@ const data = {
             "description": "The screen recorder that edits videos for you.",
             "productUrl": "https://www.producthunt.com/products/tella-1-0/shoutouts",
             "websiteUrl": "https://tella.tv/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/e8388ee8-58d4-48df-9c61-6ba7bd46d712.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3584,22 +3584,9 @@ const data = {
             "description": "Video editing made simple. Create great videos with a single click. Add subtitles, transcribe audio, browse AI tools, use templates, and much, much more. Try it now!",
             "productUrl": "https://www.producthunt.com/products/veed/shoutouts",
             "websiteUrl": "https://www.veed.io/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/b3018a24-c097-4277-ae6e-4c72e7db90f1.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/e43e27ad-fa27-4b4a-bc2f-3f008167cf9d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
-          },
-          {
-            "rank": "6",
-            "name": "ScreenSpace",
-            "icon": "https://ph-files.imgix.net/320b5132-502b-422b-bd75-accf0805a20c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=14&h=14&fit=crop",
-            "title": "ScreenSpace — Be The Hero 💜 Help Customers Fall In Love With Your Product",
-            "description": "In a world of distractions, oversaturated markets, & millennials… Marketing & sales teams rely on ScreenSpace to break through the noise → emotionally engage high-quality buyers → and guide them on an irresistible journey to YES!",
-            "productUrl": "https://www.producthunt.com/products/screenspace/shoutouts",
-            "websiteUrl": "https://www.screenspace.io/",
-            "imageUrl1": "https://ph-files.imgix.net/7ebc4f0e-5f38-4b43-aced-ccf8c361725d.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/2805af6a-6d7a-4b50-8254-279128e204cc.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/2e54a61b-d6a3-4c9f-aa03-a4cc92cd99a6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
           },
           {
@@ -3649,10 +3636,10 @@ const data = {
             "description": "A screen recorder comes with automated editing - Automatically track cursor movement, apply dynamic zoom and click effects, add a pleasant background, and generate a professional-looking video/gif that is ready to use.",
             "productUrl": "https://www.producthunt.com/products/focusee/shoutouts",
             "websiteUrl": "https://gemoo.com/focusee",
-            "imageUrl1": "https://ph-files.imgix.net/222ee4d7-bffe-409f-88f5-0989aed0bd0b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5aee537c-26a4-4ee4-8c39-a0e374e65d70.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/9c850902-d9e5-4543-9ae4-032e212c5037.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/P8sP2CRF7Mw"
           },
           {
             "rank": "11",
@@ -3688,10 +3675,10 @@ const data = {
             "description": "Want to share prettier screenshots, neatly centered on a nice background, with rounded corners, or a watermark? Xnapper got you! The app allows you to create shareable screenshots instantly. Snap → preview → share! It's so easy!",
             "productUrl": "https://www.producthunt.com/products/xnapper/shoutouts",
             "websiteUrl": "https://xnapper.com/",
-            "imageUrl1": "https://ph-files.imgix.net/cacfde77-4c36-4e49-a5af-9161808e6510.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/31af7e4c-62a8-421f-82a0-2e17d8f22e19.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/3d44abdc-a884-452e-8cb7-0b9a56bd8ed7.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/iAElAtNy67c"
           },
           {
             "rank": "14",
@@ -3701,10 +3688,10 @@ const data = {
             "description": "Create beautiful images for Twitter, Instagram, Dribbble, LinkedIn, and boost your social media views & engagement in seconds. BrandBird allows you to brand your accounts uniquely by creating templates, adding your brand colors, and your personal watermark!",
             "productUrl": "https://www.producthunt.com/products/brandbird/shoutouts",
             "websiteUrl": "https://www.brandbird.app/",
-            "imageUrl1": "https://ph-files.imgix.net/bf6e71da-f920-4926-b225-7e96d132d4af.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/c7494e2e-9c70-4779-b1c2-53d83b1f41d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/56820092-f44d-4a28-8cfc-f51be23ac261.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/YFB_xIKfXjc"
           },
           {
             "rank": "15",
@@ -3753,8 +3740,8 @@ const data = {
             "description": "It's getting harder than ever to stand out above the noise and engage your prospects and customers. Buying committees have grown larger, inboxes more flooded, and prospects spend more time conducting their own research. Vidyard is building a suite of products that allows teams to adapt and take advantage of these trends. Visit our site to learn more!",
             "productUrl": "https://www.producthunt.com/products/vidyard-studio/shoutouts",
             "websiteUrl": "https://www.vidyard.com/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/95e92da0-983c-418a-8518-15c7ef476c33.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/0c85d01a-eb80-49f0-8bae-7774b91071b8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -3805,10 +3792,10 @@ const data = {
             "description": "",
             "productUrl": "https://www.producthunt.com/products/eagle/shoutouts",
             "websiteUrl": "https://eagle.cool/",
-            "imageUrl1": "https://ph-files.imgix.net/4b05bc42-d0b8-4548-88ac-9310d12c4e17.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/cd8728d0-00d7-47b1-9104-5c76205dbfd6.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl2": "https://ph-files.imgix.net/12fbc4bf-e194-4f28-bd5b-6031854e151e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/hdemphnBz14"
           },
           {
             "rank": "23",
@@ -3820,7 +3807,7 @@ const data = {
             "websiteUrl": "https://supademo.com/",
             "imageUrl1": "https://ph-files.imgix.net/85eef6d6-908c-4982-976e-6ff658cf18b6.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/e2f98ba2-a05e-4ac3-9de7-89805a8c0510.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/e99bb25e-3263-4c80-83ad-1acebc530c83.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -3844,7 +3831,7 @@ const data = {
             "description": "Turn your pictures or screenshots into videos for free.",
             "productUrl": "https://www.producthunt.com/products/from-image-to-video/shoutouts",
             "websiteUrl": "https://fromimagetovideo.com/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/f0989145-f9f5-43c4-929e-d8fcc7f2523f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -3853,8 +3840,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Search",
-        "sub_cat_heading": "The best Search in 2024",
+        "sub_category_name": "Search",
+        "sub_category_heading": "The best Search in 2024",
         "products": [
           {
             "rank": "1",
@@ -3896,19 +3883,6 @@ const data = {
             "videoUrl": ""
           },
           {
-            "rank": "4",
-            "name": "Google",
-            "icon": "https://ph-files.imgix.net/f27f20c5-816f-4210-bbfa-8bdf797ffa3b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
-            "title": "Google — Organizing the world's information",
-            "description": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
-            "productUrl": "https://www.producthunt.com/products/google/shoutouts",
-            "websiteUrl": "https://www.google.com/",
-            "imageUrl1": "https://ph-files.imgix.net/1516fd4b-6f70-4653-ae6b-4533f6a77e05.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "https://ph-files.imgix.net/3bab85b0-8ba9-410c-ab3c-ffead42868a1.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "https://ph-files.imgix.net/79f9c7a0-2006-4d80-9941-8b60e8e5ff15.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
-          },
-          {
             "rank": "5",
             "name": "OSO AI",
             "icon": "https://ph-files.imgix.net/18f91095-8433-4232-b9cc-ec4a474d43c4.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=42&h=42&fit=crop",
@@ -3916,7 +3890,7 @@ const data = {
             "description": "An unbiased, censorship-free AI Search Engine and Chat platform. Do an hour of research in minutes. Chat about any topic without restriction.",
             "productUrl": "https://www.producthunt.com/products/oso-ai/shoutouts",
             "websiteUrl": "https://web.oso.ai/",
-            "imageUrl1": "https://ph-files.imgix.net/ab5dd20e-34e5-44c8-8aec-abba13d7c731.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e28f414b-7d40-4bc3-888b-3eb9aee019cf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/81ef5207-3cea-4a53-a766-c0cd13e09840.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
@@ -3930,9 +3904,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/elasticsearch/shoutouts",
             "websiteUrl": "https://www.elastic.co/",
             "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl2": "https://ph-files.imgix.net/6d397443-e37a-4893-9803-de213808feff.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/yZJfsUOHJjg"
           },
           {
             "rank": "7",
@@ -4007,8 +3981,8 @@ const data = {
             "description": "Search worldwide news articles and headlines from all over the web in real-time with our free News API.",
             "productUrl": "https://www.producthunt.com/products/news-api/shoutouts",
             "websiteUrl": "https://newsapi.org/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/5247d426-806a-4dde-a1f1-6526fb0023ec.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/accd8c9f-4319-428e-84ac-e69fd1fb1108.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -4055,8 +4029,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Spreadsheets",
-        "sub_cat_heading": "The best Spreadsheets in 2024",
+        "sub_category_name": "Spreadsheets",
+        "sub_category_heading": "The best Spreadsheets in 2024",
         "products": [
           {
             "rank": "1",
@@ -4066,7 +4040,7 @@ const data = {
             "description": "Google Sheets is a spreadsheet program included as part of a free, web-based software office suite offered by Google within its Google Drive service. The service also includes Google Docs and Google Slides, a word processor and presentation program respectively.",
             "productUrl": "https://www.producthunt.com/products/google-sheets/shoutouts",
             "websiteUrl": "https://www.google.com/sheets/about",
-            "imageUrl1": "https://ph-files.imgix.net/59c302bb-7285-42d8-a13a-d48244655aca.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/82c64539-bdf6-48f2-8401-d93a8114f9fb.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fc9d40e4-aa72-4ac4-87af-56fd64e9fe59.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "videoUrl": ""
@@ -4105,10 +4079,10 @@ const data = {
             "description": "Equals fills the void between one-size-fits-all and complex data platforms. It's as if your favorite spreadsheet and BI tool had a baby – a legit prodigy.",
             "productUrl": "https://www.producthunt.com/products/equals/shoutouts",
             "websiteUrl": "https://equals.com/",
-            "imageUrl1": "https://ph-files.imgix.net/975ef0b3-f35f-4e57-9469-faa118a77574.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7adafe83-e7fc-486c-af35-5d992a7a52bf.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/cec82dec-2085-460e-bb4c-4183ba5a83fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vJ1QdSQCqUQ"
           },
           {
             "rank": "5",
@@ -4118,10 +4092,10 @@ const data = {
             "description": "Glide turns spreadsheets into beautiful, easy-to-use apps, without code. Pick a spreadsheet or start with a template, customize your app, then share it instantly with anyone. Start today for free!",
             "productUrl": "https://www.producthunt.com/products/glide-2/shoutouts",
             "websiteUrl": "http://glideapps.com/",
-            "imageUrl1": "https://ph-files.imgix.net/86898684-0963-4efb-a3d0-805abfcdd0d5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/3e9cc42a-c1be-4a1d-ada6-fbdd3b999194.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/0b93ec6c-4623-467a-b6a7-bfe5c00dbbd3.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/StRizGWBqtA"
           },
           {
             "rank": "6",
@@ -4131,10 +4105,10 @@ const data = {
             "description": "Tired of all these complex tools in the market when you’re just looking to turn your spreadsheets into graphs? We got you. No complex BS features you have to pay for, no coding skills, no high-tech language.",
             "productUrl": "https://www.producthunt.com/products/lychee-3/shoutouts",
             "websiteUrl": "https://www.lych3e.com/",
-            "imageUrl1": "https://ph-files.imgix.net/756531cd-bc17-4559-b67c-f7fead96bc18.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/05a0cd1e-4e9c-42a3-b4b4-98147b7203c5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/824deb2b-5d1d-4670-8a8e-fead41642269.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/mwm-0sAPvWI"
           },
           {
             "rank": "7",
@@ -4153,8 +4127,8 @@ const data = {
         
       },
       {
-        "sub_cat_name": "Team collaboration software",
-        "sub_cat_heading": "The best Team collaboration software in 2024",
+        "sub_category_name": "Team collaboration software",
+        "sub_category_heading": "The best Team collaboration software in 2024",
         "products": [
           {
             "rank": "1",
@@ -5408,8 +5382,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Time tracking apps",
-        "sub_cat_heading": "The best Time tracking apps in 2024",
+        "sub_category_name": "Time tracking apps",
+        "sub_category_heading": "The best Time tracking apps in 2024",
         "products": [
           {
             "rank": "1",
@@ -5419,10 +5393,10 @@ const data = {
             "description": "Focused Work is a flexible Focus Timer that helps you stay productive and avoid burnout. It’s purpose-built for people who struggle with focusing and structuring their time effectively.",
             "productUrl": "https://www.producthunt.com/products/focused-work-focus-timer/shoutouts",
             "websiteUrl": "https://focusedwork.app/",
-            "imageUrl1": "https://ph-files.imgix.net/33d69978-0f53-4f41-b2d5-bb2203c2ce2b.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a7ea21b0-850d-473a-aff4-ed0105457682.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/28212fa0-127f-450c-8292-306e6c9c9818.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/HCVPfA5vgZw"
           },
           {
             "rank": "2",
@@ -5432,10 +5406,10 @@ const data = {
             "description": "Rize is a time tracker that makes you more productive. It helps you be more in control of your workday and builds better habits by encouraging you to be more focused and more efficient. Currently available on macOS. Windows and Linux coming soon.",
             "productUrl": "https://www.producthunt.com/products/rizeio/shoutouts",
             "websiteUrl": "https://rize.io/",
-            "imageUrl1": "https://ph-files.imgix.net/39876024-0692-46bd-bdd7-e6d56abe27f5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7b2a9113-2982-419a-8975-9333e10f53e2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/07abe49c-2d09-4d64-8a18-1d80f2f60a3b.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/zQReO4NAT-k"
           },
           {
             "rank": "3",
@@ -5471,7 +5445,7 @@ const data = {
             "description": "Focus Bear is a productivity and habit app built by a team with ADHD and ASD for people who need better focus. Helps you build better habits through real time habit guidance. Gets you into deep work by blocking distractions across all your devices (desktop and mobile).",
             "productUrl": "https://www.producthunt.com/products/focus-bear/shoutouts",
             "websiteUrl": "https://www.focusbear.io/",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/ee71446a-32af-45a5-be18-6f9fa064bec5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5486,15 +5460,15 @@ const data = {
             "websiteUrl": "http://pulse.red/",
             "imageUrl1": "https://ph-files.imgix.net/7fc477d3-6148-4af6-bb21-a8cef2abe03c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/4e5428e4-f3b4-4764-b7e6-6caa6b0af709.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/37ece677-1733-4f47-8fae-58f38089784e.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           }
         ]
        
       },
       {
-        "sub_cat_name": "Video conferencing",
-        "sub_cat_heading": "The best Video conferencing in 2024",
+        "sub_category_name": "Video conferencing",
+        "sub_category_heading": "The best Video conferencing in 2024",
         "products": [
           {
             "rank": "1",
@@ -5504,10 +5478,10 @@ const data = {
             "description": "Have fewer, more focused live meetings. Highlight and share relevant meeting moments on the fly. Keep your team always in the loop.",
             "productUrl": "https://www.producthunt.com/products/tl-dv/shoutouts",
             "websiteUrl": "https://www.tldv.io/",
-            "imageUrl1": "https://ph-files.imgix.net/70a5a18d-a26a-4a5d-aa7c-3172164f0f0e.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl2": "",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl1": "",
+            "imageUrl2": "https://ph-files.imgix.net/e6cdd439-14bd-4867-a60e-fc0a8e1a1e6d.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "imageUrl3": "https://ph-files.imgix.net/3b6ce304-2d75-4ff1-b8cb-418938034aa3.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/igSn0bX4izw"
           },
           {
             "rank": "2",
@@ -5518,9 +5492,9 @@ const data = {
             "productUrl": "https://www.producthunt.com/products/recall-ai/shoutouts",
             "websiteUrl": "https://recall.ai/",
             "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl2": "https://ph-files.imgix.net/d36334ce-3517-4e38-a1fd-7c481284cd41.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/vIEfNjDDjGc"
           },
           {
             "rank": "3",
@@ -5530,10 +5504,10 @@ const data = {
             "description": "Meetings don't have to crush your soul. Discover radically unique video calls designed to help hybrid-remote teams create, collaborate and celebrate together.",
             "productUrl": "https://www.producthunt.com/products/around-co/shoutouts",
             "websiteUrl": "https://around.co/",
-            "imageUrl1": "https://ph-files.imgix.net/ff440a8d-2430-493a-9f8d-d21b6ae04e97.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/1353d4e2-3b7f-4be9-9360-ed2449a40596.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/3bae1473-c295-45e0-8223-fef5595e96ad.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/gHESEqng5u0"
           },
           {
             "rank": "4",
@@ -5608,10 +5582,10 @@ const data = {
             "description": "StreamYard is a live streaming studio in your browser. Interview guests, brand your broadcast, and much more. Stream directly to Facebook, YouTube, LinkedIn, and other platforms.",
             "productUrl": "https://www.producthunt.com/products/streamyard/shoutouts",
             "websiteUrl": "https://streamyard.com/",
-            "imageUrl1": "https://ph-files.imgix.net/68168793-fa61-4f75-81ca-3af75eebb88a.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/067f268f-29e6-45b3-9637-4134052c7421.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/92cd77c5-e750-4a4b-8bf7-9fbb51001fdf.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/An5ko-YEp1o"
           },
           {
             "rank": "10",
@@ -5644,8 +5618,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Virtual office platforms",
-        "sub_cat_heading": "The best Website Analytics in 2024",
+        "sub_category_name": "Virtual office platforms",
+        "sub_category_heading": "The best Website Analytics in 2024",
         "products": [
           {
             "rank": "1",
@@ -5681,10 +5655,10 @@ const data = {
             "description": "Albus is a live board that will help you explore any topic you like in new ways, from different perspectives. Think of it as Google meets Pinterest. Enjoy the early beta. Welcome and have fun.",
             "productUrl": "https://www.producthunt.com/products/albus-beta/shoutouts",
             "websiteUrl": "https://albus.org/",
-            "imageUrl1": "https://ph-files.imgix.net/9962adcb-7a2c-4f9d-938e-11c6273a27ea.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/5af6f622-45a0-4ee2-98e2-e839d44462a4.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/d1565dd4-50be-47eb-84bb-78d1da64288f.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/RoII0FLLg6I"
           },
           {
             "rank": "4",
@@ -5697,7 +5671,7 @@ const data = {
             "imageUrl1": "",
             "imageUrl2": "",
             "imageUrl3": "",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/U_tUIZM9yWc"
           },
           {
             "rank": "5",
@@ -5707,10 +5681,10 @@ const data = {
             "description": "QEMU: the FAST! processor emulator Full-system emulation - Run operating systems for any machine, on any supported architecture User-mode emulation - Run programs for another Linux/BSD target, on any supported architecture Virtualization - Run KVM, Xen Virtual",
             "productUrl": "https://www.producthunt.com/products/qemu/shoutouts",
             "websiteUrl": "https://www.qemu.org/",
-            "imageUrl1": "https://ph-files.imgix.net/b2a39d3c-2817-4d56-8ba8-90fef096fc4c.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/2c3feee9-c120-4cdf-9dac-81233a661178.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/a2899e32-4426-477c-8bc0-44292c32dca8.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OhUJeuviwhE"
           },
           {
             "rank": "6",
@@ -5755,8 +5729,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Web browsers",
-        "sub_cat_heading": "The best Web browsers in 2024",
+        "sub_category_name": "Web browsers",
+        "sub_category_heading": "The best Web browsers in 2024",
         "products": [
           {
             "rank": "1",
@@ -5766,10 +5740,10 @@ const data = {
             "description": "A browser that promotes organization and concentration. It is flexible and able to adapt to the most specific individual needs.",
             "productUrl": "https://www.producthunt.com/products/arc-4/shoutouts",
             "websiteUrl": "https://arc.net/",
-            "imageUrl1": "https://ph-files.imgix.net/527a7060-2039-4d44-bc23-86d8b439870d.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/a9326a32-1d77-4cfe-a98e-200aec48e5ed.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
-            "videoUrl": ""
+            "imageUrl3": "https://ph-files.imgix.net/95e9ee87-087f-4089-b90a-a7aecb0bb1ff.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
+            "videoUrl": "https://youtu.be/1eiRhBRVt_s"
           },
           {
             "rank": "2",
@@ -5781,7 +5755,7 @@ const data = {
             "websiteUrl": "http://google.com/chrome",
             "imageUrl1": "https://ph-files.imgix.net/2938f669-1180-4d9e-b742-7e4f600b02fa.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/e56bc265-a6e2-4508-b420-31ad4b3f152c.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/a61ba088-7770-412f-acc8-be37cd5b7ed6.webp?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -5818,7 +5792,7 @@ const data = {
             "description": "Get Firefox, a free web browser backed by Mozilla, a non-profit dedicated to internet health and privacy. Available now on Windows, Mac, Linux, Android and iOS.",
             "productUrl": "https://www.producthunt.com/products/mozilla-2/shoutouts",
             "websiteUrl": "https://www.mozilla.org/en-US/firefox/new",
-            "imageUrl1": "",
+            "imageUrl1": "https://ph-files.imgix.net/0ff52c47-7385-42b2-89d9-b1385cfb12b9.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&fit=crop&dpr=1",
             "imageUrl2": "",
             "imageUrl3": "",
             "videoUrl": ""
@@ -5827,8 +5801,8 @@ const data = {
        
       },
       {
-        "sub_cat_name": "Writing assistants",
-        "sub_cat_heading": "The best Writing assistants in 2024",
+        "sub_category_name": "Writing assistants",
+        "sub_category_heading": "The best Writing assistants in 2024",
         "products": [
           {
             "rank": "1",
@@ -5864,8 +5838,8 @@ const data = {
             "description": "Example code and prompts for accomplishing common tasks with the OpenAI API. To try the examples yourself, you’ll need an OpenAI account. Most code examples are written in Python, though the concepts can be applied in any language.",
             "productUrl": "https://www.producthunt.com/products/openai-cookbook/shoutouts",
             "websiteUrl": "https://github.com/openai/openai-cookbook",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/8a6baeef-c3f7-4c54-8222-8594f0e712b5.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/11e1ca1a-5265-448a-83b7-4ae1f95c3df0.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -5916,8 +5890,8 @@ const data = {
             "description": "Never forget a section for your readme again! Select sections to add to your readme, edit the contents, and drag to rearrange. See a live-updating rendered preview of your markdown, then download your README.md file!",
             "productUrl": "https://www.producthunt.com/products/readme-so/shoutouts",
             "websiteUrl": "https://readme.so/",
-            "imageUrl1": "",
-            "imageUrl2": "",
+            "imageUrl1": "https://ph-files.imgix.net/50b68ccc-bd2b-415a-9852-d18a00b9e864.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
+            "imageUrl2": "https://ph-files.imgix.net/980a11a6-61ed-416a-822e-618e8d146928.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop&dpr=1",
             "imageUrl3": "",
             "videoUrl": ""
           },
@@ -5929,10 +5903,10 @@ const data = {
             "description": "snap2txt is a Python utility that captures the structure and contents of a project directory and saves them into a text file. This text file is a ready-to-use base for a prompt to develop new features with ChatGPT.",
             "productUrl": "https://www.producthunt.com/products/snap2txt/shoutouts",
             "websiteUrl": "https://vorniches.com/snap2txt",
-            "imageUrl1": "https://ph-files.imgix.net/7b7afc54-f2c1-4941-a6f8-5cce1e6d7b77.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/22462d90-8e7a-433c-9d02-1d6674cf1b02.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/fecae3c5-447f-415c-aef5-c19911c3c586.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/OzhYfEQ7dPw"
           },
           {
             "rank": "9",
@@ -5968,10 +5942,10 @@ const data = {
             "description": "Craft is a tool for creating beautiful documents and notes and sharing your thoughts. Everything you create in Craft can be shared with one tap. Craft supports inline markdown, backlinks, code snippets, images, videos, attaching PDF files, and rich link previews.",
             "productUrl": "https://www.producthunt.com/products/craft-do/shoutouts",
             "websiteUrl": "https://craft.do/",
-            "imageUrl1": "https://ph-files.imgix.net/f9385e64-0c30-4372-9179-f19e0633f6f8.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/7734af5c-ad68-4617-87e2-1075366af8d2.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/18268631-09ff-48c9-87c3-c1b12f3afa9f.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/qD665WBmGhs"
           },
           {
             "rank": "12",
@@ -5983,7 +5957,7 @@ const data = {
             "websiteUrl": "https://quillbot.com/",
             "imageUrl1": "https://ph-files.imgix.net/24dfa41a-9883-4bdf-a8b8-6504c5c9f44a.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl2": "https://ph-files.imgix.net/57884b7e-8b03-4e16-b75c-5c9fba272d39.png?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "imageUrl3": "",
+            "imageUrl3": "https://ph-files.imgix.net/cd2585f5-aa01-443c-92b9-f70f945a2a69.gif?fm=mp4&crop=max&w=256&h=160&dpr=2#t=0.001",
             "videoUrl": ""
           },
           {
@@ -5994,10 +5968,10 @@ const data = {
             "description": "Tells the time with a brand new poem every minute, every single day, composed by ChatGPT. It’s sometimes profound, and sometimes weird, and very occasionally it fibs about what the actual time is to make a rhyme work.",
             "productUrl": "https://www.producthunt.com/products/poem-1/shoutouts",
             "websiteUrl": "https://www.kickstarter.com/projects/genmon/poem-1-the-ai-poetry-clock",
-            "imageUrl1": "https://ph-files.imgix.net/78c28050-2851-4466-9ec6-ae61c7171c55.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
+            "imageUrl1": "",
             "imageUrl2": "https://ph-files.imgix.net/e2155447-a1e6-4497-9b15-1390817c1741.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
             "imageUrl3": "https://ph-files.imgix.net/e2b505ed-24b9-4894-afd9-43a10c375e58.jpeg?auto=compress&codec=mozjpeg&cs=strip&auto=format&w=256&h=160&fit=crop",
-            "videoUrl": ""
+            "videoUrl": "https://youtu.be/NqCsUdmhBxA"
           }
         ]
        
@@ -6012,59 +5986,59 @@ const insertData = async () => {
 
     // Insert category
     const categoryResult = await client.query(
-      `INSERT INTO category (cat_name, cat_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING cat_id`,
-      [data.category.cat_name, data.category.cat_heading]
+      `INSERT INTO category (category_name, category_heading) VALUES ($1, $2) ON CONFLICT DO NOTHING RETURNING category_id`,
+      [data.category.category_name, data.category.category_heading]
     );
 
-    const cat_id = categoryResult.rows[0].cat_id;
+    const category_id = categoryResult.rows[0].category_id;
 
     // Insert sub-categories and products
     for (const sub_category of data.category.sub_categories) {
       const subCategoryResult = await client.query(
-        `INSERT INTO sub_category (sub_cat_name, sub_cat_heading, cat_id) VALUES ($1, $2, $3) RETURNING sub_cat_id`,
-        [sub_category.sub_cat_name, sub_category.sub_cat_heading, cat_id]
+        `INSERT INTO sub_category (sub_category_name, sub_category_heading, category_id) VALUES ($1, $2, $3) RETURNING sub_category_id`,
+        [sub_category.sub_category_name, sub_category.sub_category_heading, category_id]
       );
 
-      const sub_cat_id = subCategoryResult.rows[0].sub_cat_id;
+      const sub_category_id = subCategoryResult.rows[0].sub_category_id;
 
       for (const product of sub_category.products) {
         // Check if the product already exists
         const productResult = await client.query(
-          `SELECT prod_id FROM products WHERE name = $1`,
-          [product.name]
+          `SELECT product_id FROM products WHERE product_name = $1`,
+          [product.product_name]
         );
 
-        let prod_id;
+        let product_id;
         if (productResult.rows.length === 0) {
           // Insert new product if it doesn't exist
           const newProductResult = await client.query(
-            `INSERT INTO products (rank, name, icon, title, description, productUrl, websiteUrl, imageUrl1, imageUrl2, imageUrl3, videoUrl, cat_id, sub_cat_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING prod_id`,
+            `INSERT INTO products (product_rank, product_name, product_icon, product_title, product_description, product_Url, website_Url, image_Url1, image_Url2, image_Url3, video_Url, category_id, sub_category_id) VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12, $13) RETURNING product_id`,
             [
-              product.rank,
-              product.name,
-              product.icon,
-              product.title,
-              product.description,
-              product.productUrl,
-              product.websiteUrl,
-              product.imageUrl1,
-              product.imageUrl2,
-              product.imageUrl3,
-              product.videoUrl,
-              cat_id,
-              sub_cat_id,
+              product.product_rank,
+              product.product_name,
+              product.product_icon,
+              product.product_title,
+              product.product_description,
+              product.product_Url,
+              product.website_Url,
+              product.image_Url1,
+              product.image_Url2,
+              product.image_Url3,
+              product.video_Url,
+              category_id,
+              sub_category_id,
             ]
           );
-          prod_id = newProductResult.rows[0].prod_id;
+          product_id = newProductResult.rows[0].product_id;
         } else {
-          // Get existing prod_id if product exists
-          prod_id = productResult.rows[0].prod_id;
+          // Get existing product_id if product exists
+          product_id = productResult.rows[0].product_id;
         }
 
         // Insert data into productSubcategory table
         await client.query(
-          `INSERT INTO productSubcategory (prod_id, cat_id, sub_cat_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
-          [prod_id, cat_id, sub_cat_id]
+          `INSERT INTO productSubcategory (product_id, category_id, sub_category_id) VALUES ($1, $2, $3) ON CONFLICT DO NOTHING`,
+          [product_id, category_id, sub_category_id]
         );
       }
     }
